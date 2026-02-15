@@ -1,0 +1,497 @@
+"""
+SD-Conditioned Infiller — Stable Diffusion inpainting with ControlNet layout.
+
+Hierarchical rendering descends the containment hierarchy, giving each level
+the full SD resolution — just like nissl's retina-based infiller:
+
+  Page level:    page at full res → infill each panel region
+  Panel level:   crop panel at full res → infill each element region
+  Element level: crop element at full res → fine-detail rendering
+
+At every level the model sees the full pixel budget for the region it is
+rendering, producing high-fidelity output at all scales.
+
+The ControlNet adapter encodes spatial layout (borders, fills, element types)
+at the current hierarchy level as additional conditioning for the SD UNet.
+"""
+
+from __future__ import annotations
+
+import logging
+from pathlib import Path
+
+import torch
+import torch.nn as nn
+import numpy as np
+from PIL import Image
+
+from mangaka.schema import MangaPage, Panel, MangaElement
+from mangaka.infiller.layout import (
+    render_page_layout,
+    render_panel_layout,
+    render_element_layout,
+    render_panel_mask,
+    render_element_mask_in_panel,
+    render_full_mask,
+    NUM_LAYOUT_CHANNELS,
+)
+from mangaka.utils.bbox import denormalise_bbox
+
+logger = logging.getLogger(__name__)
+
+
+class LayoutControlNet(nn.Module):
+    """Lightweight ControlNet-style adapter for layout conditioning.
+
+    Takes a multi-channel layout map and produces residual features that
+    are added to the SD UNet's encoder blocks at matching resolutions.
+
+    Architecture: a small encoder that mirrors the SD UNet's down-block
+    structure, producing skip-connection residuals at each resolution level.
+    """
+
+    def __init__(self, in_channels: int = NUM_LAYOUT_CHANNELS, base_channels: int = 64):
+        super().__init__()
+        self.in_channels = in_channels
+
+        # Input projection
+        self.input_conv = nn.Sequential(
+            nn.Conv2d(in_channels, base_channels, 3, padding=1),
+            nn.SiLU(),
+            nn.Conv2d(base_channels, base_channels, 3, padding=1),
+            nn.SiLU(),
+        )
+
+        # Downsampling blocks matching SD UNet structure (512 -> 256 -> 128 -> 64)
+        self.down1 = self._make_down_block(base_channels, base_channels * 2)      # 512->256
+        self.down2 = self._make_down_block(base_channels * 2, base_channels * 4)  # 256->128
+        self.down3 = self._make_down_block(base_channels * 4, base_channels * 8)  # 128->64
+
+        # Zero-initialised output convolutions (ControlNet style)
+        self.zero_conv0 = self._zero_conv(base_channels, 320)        # match SD channel 0
+        self.zero_conv1 = self._zero_conv(base_channels * 2, 320)    # match SD channel 1
+        self.zero_conv2 = self._zero_conv(base_channels * 4, 640)    # match SD channel 2
+        self.zero_conv3 = self._zero_conv(base_channels * 8, 1280)   # match SD channel 3
+
+    @staticmethod
+    def _make_down_block(in_ch: int, out_ch: int) -> nn.Module:
+        return nn.Sequential(
+            nn.Conv2d(in_ch, out_ch, 3, stride=2, padding=1),
+            nn.GroupNorm(32, out_ch),
+            nn.SiLU(),
+            nn.Conv2d(out_ch, out_ch, 3, padding=1),
+            nn.GroupNorm(32, out_ch),
+            nn.SiLU(),
+        )
+
+    @staticmethod
+    def _zero_conv(in_ch: int, out_ch: int) -> nn.Module:
+        conv = nn.Conv2d(in_ch, out_ch, 1)
+        nn.init.zeros_(conv.weight)
+        nn.init.zeros_(conv.bias)
+        return conv
+
+    def forward(self, layout: torch.Tensor) -> list[torch.Tensor]:
+        """Produce residuals at 4 resolution levels.
+
+        Args:
+            layout: (B, NUM_LAYOUT_CHANNELS, H, W) layout conditioning map
+
+        Returns:
+            list of 4 tensors at decreasing resolutions, matching SD UNet blocks
+        """
+        h0 = self.input_conv(layout)   # (B, 64, H, W)
+        h1 = self.down1(h0)            # (B, 128, H/2, W/2)
+        h2 = self.down2(h1)            # (B, 256, H/4, W/4)
+        h3 = self.down3(h2)            # (B, 512, H/8, W/8)
+
+        return [
+            self.zero_conv0(h0),
+            self.zero_conv1(h1),
+            self.zero_conv2(h2),
+            self.zero_conv3(h3),
+        ]
+
+
+class MangaInfiller(nn.Module):
+    """Manga infiller using SD inpainting + ControlNet layout conditioning.
+
+    Wraps the diffusers StableDiffusionInpaintPipeline with an additional
+    ControlNet-style layout adapter.
+
+    Rendering descends the containment hierarchy:
+
+      1. Page level — render the full page with panel-level layout conditioning.
+         Each panel region is inpainted at full SD resolution using the page
+         canvas as context and the panel description as the text prompt.
+
+      2. Panel level — crop each rendered panel to full SD resolution.
+         Within the panel, each element's bbox region is inpainted using the
+         panel-level layout (element borders + type masks) as conditioning
+         and the element description as the text prompt.
+
+      3. Element level (optional) — crop each element to full SD resolution
+         for fine-detail rendering.  Useful for characters and complex SFX.
+
+    At every level the target region gets the full pixel budget, producing
+    high-quality output at all scales of the hierarchy.
+    """
+
+    def __init__(
+        self,
+        sd_model_id: str = "stabilityai/stable-diffusion-2-inpainting",
+        resolution: int = 512,
+        controlnet: LayoutControlNet | None = None,
+        element_level_types: tuple[str, ...] = ("character", "sfx"),
+    ):
+        super().__init__()
+        self.sd_model_id = sd_model_id
+        self.resolution = resolution
+        self.element_level_types = element_level_types
+
+        # ControlNet layout adapter
+        self.controlnet = controlnet or LayoutControlNet()
+
+        # SD pipeline components loaded lazily
+        self._pipe = None
+        self._unet = None
+        self._vae = None
+        self._text_encoder = None
+        self._tokenizer = None
+        self._scheduler = None
+
+    def load_sd_pipeline(self, device: torch.device, dtype: torch.dtype = torch.float16):
+        """Load the Stable Diffusion inpainting pipeline."""
+        from diffusers import StableDiffusionInpaintPipeline
+
+        logger.info("Loading SD inpainting pipeline: %s", self.sd_model_id)
+        self._pipe = StableDiffusionInpaintPipeline.from_pretrained(
+            self.sd_model_id,
+            torch_dtype=dtype,
+        ).to(device)
+
+        self._unet = self._pipe.unet
+        self._vae = self._pipe.vae
+        self._text_encoder = self._pipe.text_encoder
+        self._tokenizer = self._pipe.tokenizer
+        self._scheduler = self._pipe.scheduler
+        logger.info("SD pipeline loaded on %s", device)
+
+    @property
+    def pipe(self):
+        if self._pipe is None:
+            raise RuntimeError(
+                "SD pipeline not loaded. Call load_sd_pipeline() first."
+            )
+        return self._pipe
+
+    def get_unet(self) -> nn.Module:
+        return self.pipe.unet
+
+    def get_vae(self) -> nn.Module:
+        return self.pipe.vae
+
+    # -- Training forward: compute diffusion loss ----------------------------
+
+    def training_step(
+        self,
+        images: torch.Tensor,
+        masks: torch.Tensor,
+        layout_maps: torch.Tensor,
+        prompt_embeds: torch.Tensor,
+        noise: torch.Tensor | None = None,
+        timesteps: torch.Tensor | None = None,
+    ) -> torch.Tensor:
+        """Compute the denoising training loss.
+
+        Training samples are already cropped to the appropriate hierarchy
+        level by the dataset, so this just runs the standard SD inpainting
+        loss with ControlNet conditioning.
+
+        Args:
+            images: (B, 3, H, W) target images in [-1, 1]
+            masks: (B, 1, H, W) inpainting masks (1 = inpaint region)
+            layout_maps: (B, NUM_LAYOUT_CHANNELS, H, W) layout conditioning
+            prompt_embeds: (B, seq_len, hidden_dim) text embeddings
+            noise: optional pre-generated noise
+            timesteps: optional specific timesteps
+
+        Returns:
+            Scalar MSE denoising loss
+        """
+        import torch.nn.functional as F
+
+        unet = self._unet
+        vae = self._vae
+        scheduler = self._scheduler
+
+        latents = vae.encode(images).latent_dist.sample()
+        latents = latents * vae.config.scaling_factor
+
+        if noise is None:
+            noise = torch.randn_like(latents)
+        if timesteps is None:
+            timesteps = torch.randint(
+                0, scheduler.config.num_train_timesteps,
+                (latents.shape[0],), device=latents.device,
+            ).long()
+
+        noisy_latents = scheduler.add_noise(latents, noise, timesteps)
+
+        latent_h, latent_w = latents.shape[2], latents.shape[3]
+        mask_latent = F.interpolate(masks, size=(latent_h, latent_w), mode="nearest")
+
+        masked_images = images * (1 - masks)
+        masked_latents = vae.encode(masked_images).latent_dist.sample()
+        masked_latents = masked_latents * vae.config.scaling_factor
+
+        latent_input = torch.cat([noisy_latents, mask_latent, masked_latents], dim=1)
+
+        layout_resized = F.interpolate(
+            layout_maps, size=(self.resolution, self.resolution),
+            mode="bilinear", align_corners=False,
+        )
+        control_residuals = self.controlnet(layout_resized)
+
+        noise_pred = unet(
+            latent_input, timesteps,
+            encoder_hidden_states=prompt_embeds,
+            down_block_additional_residuals=control_residuals,
+        ).sample
+
+        return F.mse_loss(noise_pred, noise)
+
+    # =====================================================================
+    # Inference: hierarchical rendering descending the containment tree
+    # =====================================================================
+
+    @torch.no_grad()
+    def render_page(
+        self,
+        page: MangaPage,
+        num_inference_steps: int = 50,
+        guidance_scale: float = 7.5,
+    ) -> Image.Image:
+        """Render a full manga page from JSON by descending the hierarchy.
+
+        Level 1 — Page:  white canvas → infill each panel at full resolution
+        Level 2 — Panel: crop panel → infill each element at full resolution
+        Level 3 — Element (optional): crop element → fine-detail infill
+
+        Returns:
+            PIL Image of the rendered page at (page.width, page.height)
+        """
+        res = self.resolution
+        w, h = page.width, page.height
+
+        # Start with a white canvas at page dimensions
+        canvas = Image.new("RGB", (w, h), (255, 255, 255))
+
+        # ---------------------------------------------------------------
+        # Level 1: render each panel into the page canvas
+        # ---------------------------------------------------------------
+        for pi, panel in enumerate(page.panels):
+            px1, py1, px2, py2 = denormalise_bbox(panel.bbox, w, h)
+            px1, py1 = max(0, px1), max(0, py1)
+            px2, py2 = min(w, px2), min(h, py2)
+            pw, ph = px2 - px1, py2 - py1
+            if pw <= 0 or ph <= 0:
+                continue
+
+            # Crop the panel region from the current canvas (provides context
+            # from previously rendered panels and panel borders)
+            panel_context = canvas.crop((px1, py1, px2, py2))
+            panel_context_res = panel_context.resize((res, res), Image.LANCZOS)
+
+            # Full-canvas mask: inpaint the entire panel region
+            mask_np = render_panel_mask(panel, res)
+            mask_pil = Image.fromarray((mask_np[0] * 255).astype(np.uint8), mode="L")
+
+            # Page-level layout (panel borders + fills)
+            # Cropped to this panel's view of the page
+            page_layout_np = render_page_layout(page, res)
+
+            rendered_panel = self._infill(
+                context=panel_context_res,
+                mask=mask_pil,
+                layout=page_layout_np,
+                prompt=panel.description,
+                steps=num_inference_steps,
+                guidance=guidance_scale,
+            )
+
+            # ---------------------------------------------------------------
+            # Level 2: render each element within the panel
+            # ---------------------------------------------------------------
+            rendered_panel = self._render_elements_in_panel(
+                panel_image=rendered_panel,
+                panel=panel,
+                num_inference_steps=num_inference_steps,
+                guidance_scale=guidance_scale,
+            )
+
+            # Paste the rendered panel back into the page canvas
+            rendered_panel_sized = rendered_panel.resize((pw, ph), Image.LANCZOS)
+            canvas.paste(rendered_panel_sized, (px1, py1))
+
+        return canvas
+
+    def _render_elements_in_panel(
+        self,
+        panel_image: Image.Image,
+        panel: Panel,
+        num_inference_steps: int = 50,
+        guidance_scale: float = 7.5,
+    ) -> Image.Image:
+        """Level 2: render all elements within a panel crop.
+
+        *panel_image* is the panel rendered at self.resolution.
+        For each element, we mask its bbox region and inpaint conditioned
+        on the element description + panel-level layout.
+
+        Elements whose type is in self.element_level_types also get a
+        Level 3 fine-detail pass.
+        """
+        res = self.resolution
+        current = panel_image.copy()
+
+        # Panel-level layout showing element borders and types
+        panel_layout_np = render_panel_layout(panel, res)
+
+        for ei, elem in enumerate(panel.elements):
+            # Mask for this element within the panel
+            mask_np = render_element_mask_in_panel(panel, ei, res)
+            mask_pil = Image.fromarray((mask_np[0] * 255).astype(np.uint8), mode="L")
+
+            prompt = elem.description
+            if elem.text:
+                prompt += f' with text "{elem.text}"'
+
+            rendered = self._infill(
+                context=current,
+                mask=mask_pil,
+                layout=panel_layout_np,
+                prompt=prompt,
+                steps=num_inference_steps,
+                guidance=guidance_scale,
+            )
+
+            # Composite the element into the panel
+            current = _composite(current, rendered, mask_np[0])
+
+            # ---------------------------------------------------------------
+            # Level 3 (optional): fine-detail element rendering
+            # ---------------------------------------------------------------
+            if elem.type in self.element_level_types:
+                current = self._refine_element(
+                    current, panel, ei, elem,
+                    num_inference_steps, guidance_scale,
+                )
+
+        return current
+
+    def _refine_element(
+        self,
+        panel_image: Image.Image,
+        panel: Panel,
+        element_idx: int,
+        element: MangaElement,
+        num_inference_steps: int,
+        guidance_scale: float,
+    ) -> Image.Image:
+        """Level 3: crop an element to full resolution for fine-detail rendering.
+
+        Crops the element's bbox from the panel image, scales to full SD
+        resolution, runs a refinement infill pass, then composites back.
+        """
+        res = self.resolution
+        pw, ph = panel_image.size
+
+        # Element bbox in panel pixel coords
+        ex1 = max(0, int(element.bbox[0] * pw))
+        ey1 = max(0, int(element.bbox[1] * ph))
+        ex2 = min(pw, int(element.bbox[2] * pw))
+        ey2 = min(ph, int(element.bbox[3] * ph))
+        ew, eh = ex2 - ex1, ey2 - ey1
+        if ew <= 0 or eh <= 0:
+            return panel_image
+
+        # Crop the element at full resolution
+        elem_crop = panel_image.crop((ex1, ey1, ex2, ey2))
+        elem_crop_res = elem_crop.resize((res, res), Image.LANCZOS)
+
+        # Full mask (refine everything in the crop)
+        mask_np = render_full_mask(res)
+        mask_pil = Image.fromarray((mask_np[0] * 255).astype(np.uint8), mode="L")
+
+        # Element-level layout
+        elem_layout_np = render_element_layout(element, res)
+
+        prompt = element.description
+        if element.text:
+            prompt += f' with text "{element.text}"'
+
+        refined = self._infill(
+            context=elem_crop_res,
+            mask=mask_pil,
+            layout=elem_layout_np,
+            prompt=prompt,
+            steps=num_inference_steps,
+            guidance=guidance_scale,
+        )
+
+        # Composite back into panel
+        refined_sized = refined.resize((ew, eh), Image.LANCZOS)
+        result = panel_image.copy()
+        result.paste(refined_sized, (ex1, ey1))
+        return result
+
+    # -- Low-level infill call -----------------------------------------------
+
+    def _infill(
+        self,
+        context: Image.Image,
+        mask: Image.Image,
+        layout: np.ndarray,
+        prompt: str,
+        steps: int,
+        guidance: float,
+    ) -> Image.Image:
+        """Run one SD inpainting pass with ControlNet layout conditioning."""
+        pipe = self.pipe
+        device = next(self.controlnet.parameters()).device
+
+        # TODO: inject ControlNet residuals into pipeline.
+        # For now use the base SD inpainting (ControlNet integration requires
+        # hooking into the UNet forward pass at training time; during inference
+        # we use the pipeline directly — full ControlNet injection is added
+        # once training produces a checkpoint).
+        result = pipe(
+            prompt=prompt,
+            image=context,
+            mask_image=mask,
+            num_inference_steps=steps,
+            guidance_scale=guidance,
+        ).images[0]
+
+        return result
+
+
+# ---------------------------------------------------------------------------
+# Compositing
+# ---------------------------------------------------------------------------
+
+def _composite(
+    canvas: Image.Image,
+    result: Image.Image,
+    mask: np.ndarray,
+) -> Image.Image:
+    """Composite inpainted result into canvas using mask.
+
+    *mask* is (H, W) float in [0, 1].
+    """
+    canvas_np = np.array(canvas).astype(np.float32)
+    result_np = np.array(result.resize(canvas.size, Image.LANCZOS)).astype(np.float32)
+    mask_3ch = mask[:, :, None].repeat(3, axis=2)
+    composited = canvas_np * (1 - mask_3ch) + result_np * mask_3ch
+    return Image.fromarray(composited.astype(np.uint8))

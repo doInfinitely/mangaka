@@ -1,0 +1,26 @@
+# Central path configuration
+# ---------------------------
+# All other configs and scripts reference these paths.
+
+# Source manga images (external drive)
+# 5,574 manga page JPGs with existing YOLO text-language labels
+manga_dir: /Volumes/bookofloam/manga_translate/yolo/images
+
+# Annotation output (cloud LLM annotations)
+annotation_dir: data/annotations
+
+# JSON manga dataset (indexed for RAG)
+dataset_dir: data/manga_dataset
+
+# RAG vector index
+index_dir: data/manga_index
+
+# Model checkpoints
+detector_path: checkpoints/detector.safetensors
+infiller_dir: checkpoints/infiller
+
+# Finetuning exports
+finetune_dir: data/finetune
+
+# Generated output
+output_dir: output/generated

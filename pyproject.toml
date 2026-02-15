@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "mangaka"
+version = "0.1.0"
+description = "Hierarchical manga analysis and generation pipeline"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.1",
+    "torchvision>=0.16",
+    "transformers>=4.36",
+    "diffusers>=0.25",
+    "accelerate>=0.25",
+    "anthropic>=0.40",
+    "openai>=1.10",
+    "google-genai>=1.0",
+    "pydantic>=2.5",
+    "Pillow>=10.0",
+    "safetensors>=0.4",
+    "pyyaml>=6.0",
+    "tqdm>=4.66",
+    "rich>=13.0",
+    "numpy>=1.24",
+    "sentence-transformers>=2.2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff", "mypy"]
+
+[project.scripts]
+mangaka-annotate = "scripts.annotate:main"
+mangaka-train-detector = "scripts.train_detector:main"
+mangaka-train-infiller = "scripts.train_infiller:main"
+mangaka-distill = "scripts.distill:main"
+mangaka-encode = "scripts.encode:main"
+mangaka-decode = "scripts.decode:main"
+mangaka-build-dataset = "scripts.build_dataset:main"
+
+[tool.setuptools.packages.find]
+include = ["mangaka*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

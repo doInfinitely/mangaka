@@ -1,0 +1,24 @@
+# Distillation loop configuration
+# ---------------------------------
+
+# Distillation rounds
+max_rounds: 5
+pages_per_round: 500         # Manga pages to self-label each round
+verification_sample: 0.2     # Fraction of self-labels to verify with cloud
+
+# Cloud verification
+provider: claude
+max_concurrency: 10
+
+# Quality thresholds
+min_bbox_iou: 0.5            # Minimum IoU for bbox match during verification
+min_description_similarity: 0.7  # Cosine similarity threshold for descriptions
+
+# Retraining
+retrain_epochs: 20
+retrain_lr: 1.0e-4
+merge_strategy: append       # append | replace (how to merge verified data)
+
+# Checkpoints
+detector_path: checkpoints/detector.safetensors
+output_path: checkpoints/detector_distilled.safetensors

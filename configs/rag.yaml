@@ -1,0 +1,23 @@
+# RAG pipeline configuration
+# ---------------------------
+
+# Embedding
+embed_model: all-MiniLM-L6-v2    # sentence-transformers model
+embed_batch_size: 64
+
+# Retrieval
+top_k: 5                          # Number of examples to retrieve per query
+desc_weight: 0.8                  # Weight for description similarity
+struct_weight: 0.2                # Weight for structural similarity
+
+# Generation
+provider: claude                   # claude | openai | gemini
+default_width: 1654
+default_height: 2339
+
+# Index
+index_path: data/manga_index      # Where to save/load the index
+
+# Finetuning export
+finetune_format: chat              # chat | completion | instruction | sequence
+pages_per_sequence: 4              # For sequence format

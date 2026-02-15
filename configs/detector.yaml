@@ -1,0 +1,38 @@
+# Detector training configuration
+# ---------------------------------
+
+# Model
+backbone: resnet50          # resnet18 | resnet34 | resnet50
+gpt2_model: gpt2            # HuggingFace GPT-2 variant (gpt2, gpt2-medium)
+gpt2_prefix_length: 8       # Number of visual prefix tokens for GPT-2
+max_description_length: 64  # Max tokens per description
+freeze_gpt2_epochs: 5       # Freeze GPT-2 weights for first N epochs
+
+# Training
+epochs: 50
+pretrain_epochs: 10          # Panel-only pretraining
+batch_size: 16               # Per-GPU
+lr: 2.0e-4
+backbone_lr_scale: 0.1       # Backbone LR = lr * this
+weight_decay: 0.01
+warmup_epochs: 5
+patience: 15
+
+# Loss weights
+bbox_weight: 1.0
+type_weight: 1.0
+description_weight: 0.5
+
+# Data
+retina_size: 1024
+val_split: 0.15
+
+# Training options
+amp: true
+clip_grad: 1.0
+label_smoothing: 0.1
+num_workers: 4
+seed: 42
+
+# Checkpoints
+save_path: checkpoints/detector.safetensors

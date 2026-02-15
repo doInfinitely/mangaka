@@ -1,0 +1,21 @@
+# Cloud LLM Annotator configuration
+# -----------------------------------
+# Set API keys via environment variables:
+#   ANTHROPIC_API_KEY, OPENAI_API_KEY, GOOGLE_API_KEY
+
+# Manga source (5,574 manga page JPGs)
+manga_dir: /Volumes/bookofloam/manga_translate/yolo/images
+
+provider: claude  # claude | openai | gemini
+
+# Rate limiting
+max_concurrency: 5
+retry_attempts: 3
+retry_delay: 2.0
+
+# Two-pass annotation
+two_pass: true          # First detect layout, then describe each element
+crop_padding: 0.05      # Extra padding around crops for description pass
+
+# Output
+save_crops: false       # Save cropped element images alongside JSON
