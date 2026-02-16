@@ -27,6 +27,9 @@ output/
 *.safetensors
 *.ckpt
 
+# Secrets
+.env
+
 # OS
 .DS_Store
 Thumbs.db

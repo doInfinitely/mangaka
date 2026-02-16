@@ -2,7 +2,7 @@
 # ---------------------------------
 
 # Model
-sd_model: stabilityai/stable-diffusion-2-inpainting
+sd_model: runwayml/stable-diffusion-inpainting
 controlnet_model: null       # Path to pretrained ControlNet or null to train from scratch
 resolution: 512              # SD resolution
 
@@ -20,6 +20,15 @@ warmup_steps: 500
 # SD fine-tuning strategy
 freeze_sd_epochs: 20         # Freeze SD UNet, only train ControlNet initially
 unfreeze_sd_lr: 1.0e-6       # LR for SD UNet after unfreezing
+
+# LoRA style adapter (replaces full UNet fine-tuning in Phase 2)
+lora:
+  enabled: true
+  rank: 16
+  alpha: 16
+  dropout: 0.05
+  target_modules: [to_k, to_q, to_v, to_out.0]
+  lr: 1.0e-4
 
 # Data
 val_split: 0.1

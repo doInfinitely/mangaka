@@ -4,7 +4,7 @@
 #   ANTHROPIC_API_KEY, OPENAI_API_KEY, GOOGLE_API_KEY
 
 # Manga source (5,574 manga page JPGs)
-manga_dir: /Volumes/bookofloam/manga_translate/yolo/images
+manga_dir: /home/ubuntu/Code/manga_translate/manga_translate/yolo/images
 
 provider: claude  # claude | openai | gemini
 

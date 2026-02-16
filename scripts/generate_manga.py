@@ -28,6 +28,9 @@ import json
 import logging
 from pathlib import Path
 
+from dotenv import load_dotenv
+load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+
 from rich.console import Console
 from rich.panel import Panel as RichPanel
 
@@ -117,6 +120,11 @@ async def run(args):
             controlnet=controlnet,
         )
         infiller.load_sd_pipeline(device)
+
+        # Auto-detect LoRA weights
+        lora_path = Path(args.infiller_dir) / "unet_lora"
+        if lora_path.exists() and (lora_path / "adapter_config.json").exists():
+            infiller.load_lora_weights(lora_path)
 
         for i, page in enumerate(pages):
             img = decode_page(page, infiller)

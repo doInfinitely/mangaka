@@ -26,6 +26,31 @@ from mangaka.infiller.dataset import MangaInfillerDataset
 logger = logging.getLogger(__name__)
 
 
+def _apply_lora_to_unet(unet: nn.Module, cfg: dict) -> nn.Module:
+    """Wrap UNet with LoRA adapters on attention layers.
+
+    Returns the PeftModel (unet is modified in-place).
+    """
+    from peft import LoraConfig, get_peft_model
+
+    lora_cfg = cfg["lora"]
+    config = LoraConfig(
+        r=lora_cfg.get("rank", 16),
+        lora_alpha=lora_cfg.get("alpha", 16),
+        lora_dropout=lora_cfg.get("dropout", 0.05),
+        target_modules=lora_cfg.get("target_modules", ["to_k", "to_q", "to_v", "to_out.0"]),
+    )
+    peft_model = get_peft_model(unet, config)
+
+    trainable = sum(p.numel() for p in peft_model.parameters() if p.requires_grad)
+    total = sum(p.numel() for p in peft_model.parameters())
+    logger.info(
+        "LoRA applied: %d trainable params (%.2fM) / %d total (%.2fM)",
+        trainable, trainable / 1e6, total, total / 1e6,
+    )
+    return peft_model
+
+
 def train_infiller(
     image_dir: str,
     annotation_dir: str,
@@ -128,26 +153,55 @@ def train_infiller(
 
         accelerator.print("Phase 1 complete.")
 
-    # Phase 2: Joint fine-tuning
+    # Phase 2: Style adaptation (LoRA or full fine-tuning)
     remaining_epochs = total_epochs - freeze_sd_epochs
+    lora_cfg = cfg.get("lora", {})
+    use_lora = lora_cfg.get("enabled", False)
+
     if remaining_epochs > 0:
-        accelerator.print(f"=== Phase 2: Joint fine-tuning ({remaining_epochs} epochs) ===")
-        unet.requires_grad_(True)
+        if use_lora:
+            accelerator.print(
+                f"=== Phase 2: LoRA style adaptation ({remaining_epochs} epochs) ==="
+            )
+            unet.requires_grad_(False)
+            unet = _apply_lora_to_unet(unet, cfg)
 
-        optimizer = torch.optim.AdamW([
-            {"params": controlnet.parameters(), "lr": cfg.get("controlnet_lr", 1e-4)},
-            {"params": unet.parameters(), "lr": cfg.get("unfreeze_sd_lr", 1e-6)},
-        ], weight_decay=cfg.get("weight_decay", 0.01))
+            lora_params = [p for p in unet.parameters() if p.requires_grad]
+            optimizer = torch.optim.AdamW([
+                {"params": controlnet.parameters(), "lr": cfg.get("controlnet_lr", 1e-4)},
+                {"params": lora_params, "lr": lora_cfg.get("lr", 1e-4)},
+            ], weight_decay=cfg.get("weight_decay", 0.01))
 
-        unet, controlnet, optimizer, train_dl_acc = accelerator.prepare(
-            unet, controlnet, optimizer, train_dl,
-        )
+            unet, controlnet, optimizer, train_dl_acc = accelerator.prepare(
+                unet, controlnet, optimizer, train_dl,
+            )
 
-        _run_epochs(
-            accelerator, unet, vae, text_encoder, scheduler,
-            controlnet, optimizer, train_dl_acc, val_dl,
-            remaining_epochs, save_dir / "phase2", device,
-        )
+            _run_epochs(
+                accelerator, unet, vae, text_encoder, scheduler,
+                controlnet, optimizer, train_dl_acc, val_dl,
+                remaining_epochs, save_dir / "phase2", device,
+                save_lora=True,
+            )
+        else:
+            accelerator.print(
+                f"=== Phase 2: Joint fine-tuning ({remaining_epochs} epochs) ==="
+            )
+            unet.requires_grad_(True)
+
+            optimizer = torch.optim.AdamW([
+                {"params": controlnet.parameters(), "lr": cfg.get("controlnet_lr", 1e-4)},
+                {"params": unet.parameters(), "lr": cfg.get("unfreeze_sd_lr", 1e-6)},
+            ], weight_decay=cfg.get("weight_decay", 0.01))
+
+            unet, controlnet, optimizer, train_dl_acc = accelerator.prepare(
+                unet, controlnet, optimizer, train_dl,
+            )
+
+            _run_epochs(
+                accelerator, unet, vae, text_encoder, scheduler,
+                controlnet, optimizer, train_dl_acc, val_dl,
+                remaining_epochs, save_dir / "phase2", device,
+            )
 
     accelerator.print("Training complete.")
 
@@ -157,6 +211,8 @@ def _run_epochs(
     unet, vae, text_encoder, scheduler,
     controlnet, optimizer, train_dl, val_dl,
     epochs, save_dir, device,
+    save_lora: bool = False,
+    lora_save_name: str = "unet_lora",
 ):
     """Inner training loop for one phase."""
     save_dir = Path(save_dir)
@@ -166,8 +222,7 @@ def _run_epochs(
     for epoch in range(epochs):
         # Train
         controlnet.train()
-        if unet.training:
-            unet.train()
+        unet.train()
 
         train_loss = 0.0
         train_n = 0
@@ -189,6 +244,7 @@ def _run_epochs(
 
         # Validate
         controlnet.eval()
+        unet.eval()
         val_loss = 0.0
         val_n = 0
         with torch.no_grad():
@@ -211,9 +267,20 @@ def _run_epochs(
         if val_loss < best_val:
             best_val = val_loss
             if accelerator.is_main_process:
-                unwrapped = accelerator.unwrap_model(controlnet)
-                torch.save(unwrapped.state_dict(), save_dir / "controlnet_best.pt")
-                accelerator.print(f"  -> saved best model (val_loss={best_val:.4f})")
+                unwrapped_cn = accelerator.unwrap_model(controlnet)
+                torch.save(unwrapped_cn.state_dict(), save_dir / "controlnet_best.pt")
+
+                if save_lora:
+                    unwrapped_unet = accelerator.unwrap_model(unet)
+                    lora_dir = save_dir / lora_save_name
+                    unwrapped_unet.save_pretrained(str(lora_dir))
+                    accelerator.print(
+                        f"  -> saved best model + LoRA (val_loss={best_val:.4f})"
+                    )
+                else:
+                    accelerator.print(
+                        f"  -> saved best model (val_loss={best_val:.4f})"
+                    )
 
 
 def _compute_loss(batch, unet, vae, text_encoder, scheduler, controlnet, device):
@@ -254,15 +321,20 @@ def _compute_loss(batch, unet, vae, text_encoder, scheduler, controlnet, device)
     # SD inpainting input
     latent_input = torch.cat([noisy_latents, mask_latent, masked_latents], dim=1)
 
-    # ControlNet residuals
-    control_residuals = controlnet(layouts)
+    # ControlNet residuals (layout must be in latent resolution)
+    layout_latent = F.interpolate(
+        layouts, size=(latent_h, latent_w),
+        mode="bilinear", align_corners=False,
+    )
+    down_residuals, mid_residual = controlnet(layout_latent)
 
     # Predict noise
     noise_pred = unet(
         latent_input,
         timesteps,
         encoder_hidden_states=prompt_embeds,
-        down_block_additional_residuals=control_residuals,
+        down_block_additional_residuals=down_residuals,
+        mid_block_additional_residual=mid_residual,
     ).sample
 
     return F.mse_loss(noise_pred, noise)

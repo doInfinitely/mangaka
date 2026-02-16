@@ -79,6 +79,11 @@ def decode_directory(
     )
     infiller.load_sd_pipeline(device)
 
+    # Auto-detect LoRA weights
+    lora_path = model_dir / "unet_lora"
+    if lora_path.exists() and (lora_path / "adapter_config.json").exists():
+        infiller.load_lora_weights(lora_path)
+
     # Find JSON files
     json_paths = sorted(json_dir.rglob("*.json"))
     logger.info("Found %d JSON files in %s", len(json_paths), json_dir)

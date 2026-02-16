@@ -4,7 +4,7 @@
 
 # Source manga images (external drive)
 # 5,574 manga page JPGs with existing YOLO text-language labels
-manga_dir: /Volumes/bookofloam/manga_translate/yolo/images
+manga_dir: /home/ubuntu/Code/manga_translate/manga_translate/yolo/images
 
 # Annotation output (cloud LLM annotations)
 annotation_dir: data/annotations

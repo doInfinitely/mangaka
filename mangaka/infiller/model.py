@@ -43,18 +43,31 @@ logger = logging.getLogger(__name__)
 class LayoutControlNet(nn.Module):
     """Lightweight ControlNet-style adapter for layout conditioning.
 
-    Takes a multi-channel layout map and produces residual features that
-    are added to the SD UNet's encoder blocks at matching resolutions.
+    Takes a multi-channel layout map in **latent space** and produces 12
+    residual tensors matching the SD v1 UNet's down_block_res_samples:
 
-    Architecture: a small encoder that mirrors the SD UNet's down-block
-    structure, producing skip-connection residuals at each resolution level.
+        [ 0] 320 @ 64x64  (conv_in)
+        [ 1] 320 @ 64x64  (down_block_0 resnet 0)
+        [ 2] 320 @ 64x64  (down_block_0 resnet 1)
+        [ 3] 320 @ 32x32  (down_block_0 downsample)
+        [ 4] 640 @ 32x32  (down_block_1 resnet 0)
+        [ 5] 640 @ 32x32  (down_block_1 resnet 1)
+        [ 6] 640 @ 16x16  (down_block_1 downsample)
+        [ 7] 1280 @ 16x16 (down_block_2 resnet 0)
+        [ 8] 1280 @ 16x16 (down_block_2 resnet 1)
+        [ 9] 1280 @ 8x8   (down_block_2 downsample)
+        [10] 1280 @ 8x8   (down_block_3 resnet 0)
+        [11] 1280 @ 8x8   (down_block_3 resnet 1)
+
+    The caller must resize the layout to latent resolution before passing it
+    (i.e. resolution // 8, typically 64x64 for 512px images).
     """
 
     def __init__(self, in_channels: int = NUM_LAYOUT_CHANNELS, base_channels: int = 64):
         super().__init__()
         self.in_channels = in_channels
 
-        # Input projection
+        # Encoder at latent resolution (64x64 for 512px images)
         self.input_conv = nn.Sequential(
             nn.Conv2d(in_channels, base_channels, 3, padding=1),
             nn.SiLU(),
@@ -62,16 +75,28 @@ class LayoutControlNet(nn.Module):
             nn.SiLU(),
         )
 
-        # Downsampling blocks matching SD UNet structure (512 -> 256 -> 128 -> 64)
-        self.down1 = self._make_down_block(base_channels, base_channels * 2)      # 512->256
-        self.down2 = self._make_down_block(base_channels * 2, base_channels * 4)  # 256->128
-        self.down3 = self._make_down_block(base_channels * 4, base_channels * 8)  # 128->64
+        # Downsampling: 64→32→16→8
+        self.down1 = self._make_down_block(base_channels, base_channels * 2)
+        self.down2 = self._make_down_block(base_channels * 2, base_channels * 4)
+        self.down3 = self._make_down_block(base_channels * 4, base_channels * 8)
 
-        # Zero-initialised output convolutions (ControlNet style)
-        self.zero_conv0 = self._zero_conv(base_channels, 320)        # match SD channel 0
-        self.zero_conv1 = self._zero_conv(base_channels * 2, 320)    # match SD channel 1
-        self.zero_conv2 = self._zero_conv(base_channels * 4, 640)    # match SD channel 2
-        self.zero_conv3 = self._zero_conv(base_channels * 8, 1280)   # match SD channel 3
+        # Zero-init 1x1 convolutions — one per UNet residual position (12 down + 1 mid)
+        self.zc = nn.ModuleList([
+            self._zero_conv(base_channels, 320),       # [0]  320@64
+            self._zero_conv(base_channels, 320),       # [1]  320@64
+            self._zero_conv(base_channels, 320),       # [2]  320@64
+            self._zero_conv(base_channels * 2, 320),   # [3]  320@32
+            self._zero_conv(base_channels * 2, 640),   # [4]  640@32
+            self._zero_conv(base_channels * 2, 640),   # [5]  640@32
+            self._zero_conv(base_channels * 4, 640),   # [6]  640@16
+            self._zero_conv(base_channels * 4, 1280),  # [7]  1280@16
+            self._zero_conv(base_channels * 4, 1280),  # [8]  1280@16
+            self._zero_conv(base_channels * 8, 1280),  # [9]  1280@8
+            self._zero_conv(base_channels * 8, 1280),  # [10] 1280@8
+            self._zero_conv(base_channels * 8, 1280),  # [11] 1280@8
+        ])
+        # Mid block residual (1280 @ 8x8)
+        self.mid_zc = self._zero_conv(base_channels * 8, 1280)
 
     @staticmethod
     def _make_down_block(in_ch: int, out_ch: int) -> nn.Module:
@@ -91,26 +116,24 @@ class LayoutControlNet(nn.Module):
         nn.init.zeros_(conv.bias)
         return conv
 
-    def forward(self, layout: torch.Tensor) -> list[torch.Tensor]:
-        """Produce residuals at 4 resolution levels.
+    def forward(self, layout: torch.Tensor) -> tuple[list[torch.Tensor], torch.Tensor]:
+        """Produce 12 down-block + 1 mid-block residuals for the SD v1 UNet.
 
         Args:
-            layout: (B, NUM_LAYOUT_CHANNELS, H, W) layout conditioning map
+            layout: (B, C, H, W) layout in latent resolution (e.g. 64x64)
 
         Returns:
-            list of 4 tensors at decreasing resolutions, matching SD UNet blocks
+            (down_residuals, mid_residual): 12 down-block tensors + 1 mid-block tensor
         """
-        h0 = self.input_conv(layout)   # (B, 64, H, W)
-        h1 = self.down1(h0)            # (B, 128, H/2, W/2)
-        h2 = self.down2(h1)            # (B, 256, H/4, W/4)
-        h3 = self.down3(h2)            # (B, 512, H/8, W/8)
+        h64 = self.input_conv(layout)  # (B, 64, H, W)
+        h32 = self.down1(h64)          # (B, 128, H/2, W/2)
+        h16 = self.down2(h32)          # (B, 256, H/4, W/4)
+        h8 = self.down3(h16)           # (B, 512, H/8, W/8)
 
-        return [
-            self.zero_conv0(h0),
-            self.zero_conv1(h1),
-            self.zero_conv2(h2),
-            self.zero_conv3(h3),
-        ]
+        feats = [h64, h64, h64, h32, h32, h32, h16, h16, h16, h8, h8, h8]
+        down = [self.zc[i](f) for i, f in enumerate(feats)]
+        mid = self.mid_zc(h8)
+        return down, mid
 
 
 class MangaInfiller(nn.Module):
@@ -176,6 +199,23 @@ class MangaInfiller(nn.Module):
         self._tokenizer = self._pipe.tokenizer
         self._scheduler = self._pipe.scheduler
         logger.info("SD pipeline loaded on %s", device)
+
+    def load_lora_weights(self, lora_path: str | Path):
+        """Load LoRA adapter weights onto the UNet.
+
+        Must be called after load_sd_pipeline().
+        """
+        from peft import PeftModel
+
+        lora_path = Path(lora_path)
+        if self._pipe is None:
+            raise RuntimeError(
+                "SD pipeline not loaded. Call load_sd_pipeline() before load_lora_weights()."
+            )
+        logger.info("Loading LoRA weights from %s", lora_path)
+        self._unet = PeftModel.from_pretrained(self._unet, str(lora_path))
+        self._pipe.unet = self._unet
+        logger.info("LoRA weights loaded")
 
     @property
     def pipe(self):
@@ -247,16 +287,17 @@ class MangaInfiller(nn.Module):
 
         latent_input = torch.cat([noisy_latents, mask_latent, masked_latents], dim=1)
 
-        layout_resized = F.interpolate(
-            layout_maps, size=(self.resolution, self.resolution),
+        layout_latent = F.interpolate(
+            layout_maps, size=(latent_h, latent_w),
             mode="bilinear", align_corners=False,
         )
-        control_residuals = self.controlnet(layout_resized)
+        down_residuals, mid_residual = self.controlnet(layout_latent)
 
         noise_pred = unet(
             latent_input, timesteps,
             encoder_hidden_states=prompt_embeds,
-            down_block_additional_residuals=control_residuals,
+            down_block_additional_residuals=down_residuals,
+            mid_block_additional_residual=mid_residual,
         ).sample
 
         return F.mse_loss(noise_pred, noise)
@@ -457,22 +498,57 @@ class MangaInfiller(nn.Module):
         steps: int,
         guidance: float,
     ) -> Image.Image:
-        """Run one SD inpainting pass with ControlNet layout conditioning."""
+        """Run one SD inpainting pass with ControlNet layout conditioning.
+
+        Precomputes ControlNet residuals from the layout map, then
+        temporarily patches the UNet forward to inject them at every
+        denoising step (including both CFG branches).
+        """
+        import torch.nn.functional as F
+
         pipe = self.pipe
         device = next(self.controlnet.parameters()).device
+        dtype = next(self.controlnet.parameters()).dtype
 
-        # TODO: inject ControlNet residuals into pipeline.
-        # For now use the base SD inpainting (ControlNet integration requires
-        # hooking into the UNet forward pass at training time; during inference
-        # we use the pipeline directly — full ControlNet injection is added
-        # once training produces a checkpoint).
-        result = pipe(
-            prompt=prompt,
-            image=context,
-            mask_image=mask,
-            num_inference_steps=steps,
-            guidance_scale=guidance,
-        ).images[0]
+        # Precompute ControlNet residuals from layout (pixel → latent space)
+        layout_tensor = torch.from_numpy(layout).unsqueeze(0).to(device, dtype=dtype)
+        latent_size = self.resolution // 8
+        layout_latent = F.interpolate(
+            layout_tensor, size=(latent_size, latent_size),
+            mode="bilinear", align_corners=False,
+        )
+
+        self.controlnet.eval()
+        with torch.no_grad():
+            down_residuals, mid_residual = self.controlnet(layout_latent)
+
+        # Patch the UNet forward to inject ControlNet residuals each step.
+        # During CFG the UNet receives a doubled batch (unconditional +
+        # conditional) so we expand the residuals to match.
+        original_forward = pipe.unet.forward
+
+        def _forward_with_controlnet(*args, **kwargs):
+            sample = args[0] if args else kwargs["sample"]
+            B = sample.shape[0]
+            kwargs["down_block_additional_residuals"] = [
+                r.expand(B, -1, -1, -1) for r in down_residuals
+            ]
+            kwargs["mid_block_additional_residual"] = mid_residual.expand(
+                B, -1, -1, -1
+            )
+            return original_forward(*args, **kwargs)
+
+        pipe.unet.forward = _forward_with_controlnet
+        try:
+            result = pipe(
+                prompt=prompt,
+                image=context,
+                mask_image=mask,
+                num_inference_steps=steps,
+                guidance_scale=guidance,
+            ).images[0]
+        finally:
+            pipe.unet.forward = original_forward
 
         return result
 

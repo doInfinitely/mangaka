@@ -4,6 +4,7 @@ Google Gemini vision annotator for manga pages.
 
 from __future__ import annotations
 
+import io
 import os
 
 from PIL import Image
@@ -35,12 +36,20 @@ class GeminiAnnotator(Annotator):
         prompt: str,
         system: str | None = None,
     ) -> str:
+        from google.genai import types
+
         full_prompt = prompt
         if system:
             full_prompt = f"{system}\n\n{prompt}"
 
+        buf = io.BytesIO()
+        image.save(buf, format="PNG")
+        image_part = types.Part.from_bytes(
+            data=buf.getvalue(), mime_type="image/png",
+        )
+
         response = await self.client.aio.models.generate_content(
             model=self.model,
-            contents=[image, full_prompt],
+            contents=[image_part, full_prompt],
         )
         return response.text

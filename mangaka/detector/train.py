@@ -22,7 +22,7 @@ import torch.nn.functional as F
 from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.utils.data import DataLoader, random_split
 from torch.utils.data.distributed import DistributedSampler
-from safetensors.torch import save_file as safetensors_save
+from safetensors.torch import save_model as safetensors_save
 
 from mangaka.detector.model import (
     MangaDetectorNet,
@@ -281,7 +281,7 @@ def fit(
             if is_main():
                 raw = model.module if use_ddp else model
                 os.makedirs(os.path.dirname(save_path) or ".", exist_ok=True)
-                safetensors_save(raw.state_dict(), save_path)
+                safetensors_save(raw, save_path)
                 logger.info("  -> saved best model (%s)", save_path)
         else:
             no_improve += 1
