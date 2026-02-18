@@ -127,7 +127,12 @@ async def run(args):
             infiller.load_lora_weights(lora_path)
 
         for i, page in enumerate(pages):
-            img = decode_page(page, infiller)
+            img = decode_page(
+                page, infiller,
+                style_override=args.style,
+                negative_prompt=args.negative_prompt,
+                seed=args.seed,
+            )
             img_path = output_dir / f"page_{i:03d}.png"
             img.save(str(img_path))
             console.print(f"  Rendered → [green]{img_path}[/green]")
@@ -163,6 +168,10 @@ def main():
                         help="Path to infiller checkpoints (required if --render)")
     parser.add_argument("--sd-model",
                         default="stabilityai/stable-diffusion-2-inpainting")
+    parser.add_argument("--negative-prompt", type=str, default=None,
+                        help="Negative prompt for SD (overrides default)")
+    parser.add_argument("--seed", type=int, default=None,
+                        help="Random seed for reproducible rendering")
     args = parser.parse_args()
 
     asyncio.run(run(args))

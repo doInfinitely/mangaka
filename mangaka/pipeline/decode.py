@@ -26,6 +26,9 @@ def decode_page(
     infiller: MangaInfiller,
     num_inference_steps: int = 50,
     guidance_scale: float = 7.5,
+    style_override: str | None = None,
+    negative_prompt: str | None = None,
+    seed: int | None = None,
 ) -> Image.Image:
     """Render a MangaPage JSON into a manga image.
 
@@ -34,6 +37,9 @@ def decode_page(
         infiller: trained MangaInfiller
         num_inference_steps: SD denoising steps
         guidance_scale: classifier-free guidance scale
+        style_override: if set, overrides page.style for the style prefix
+        negative_prompt: if set, overrides the default negative prompt
+        seed: if set, overrides the default seed for reproducibility
 
     Returns:
         PIL Image of the rendered manga page
@@ -42,6 +48,9 @@ def decode_page(
         page,
         num_inference_steps=num_inference_steps,
         guidance_scale=guidance_scale,
+        style_override=style_override,
+        negative_prompt=negative_prompt,
+        seed=seed,
     )
 
 
@@ -53,6 +62,9 @@ def decode_directory(
     resolution: int = 512,
     num_inference_steps: int = 50,
     guidance_scale: float = 7.5,
+    style_override: str | None = None,
+    negative_prompt: str | None = None,
+    seed: int | None = None,
 ) -> list[Path]:
     """Decode all JSON files in a directory to manga images.
 
@@ -96,6 +108,9 @@ def decode_directory(
                 page, infiller,
                 num_inference_steps=num_inference_steps,
                 guidance_scale=guidance_scale,
+                style_override=style_override,
+                negative_prompt=negative_prompt,
+                seed=seed,
             )
 
             rel = json_path.relative_to(json_dir)

@@ -136,6 +136,11 @@ class LayoutControlNet(nn.Module):
         return down, mid
 
 
+DEFAULT_STYLE_PREFIX = "manga, black and white, ink drawing, screentone shading, clean linework"
+DEFAULT_NEGATIVE_PROMPT = "photorealistic, 3d render, color, photograph, blurry, low quality, watermark"
+DEFAULT_SEED = 42
+
+
 class MangaInfiller(nn.Module):
     """Manga infiller using SD inpainting + ControlNet layout conditioning.
 
@@ -312,6 +317,9 @@ class MangaInfiller(nn.Module):
         page: MangaPage,
         num_inference_steps: int = 50,
         guidance_scale: float = 7.5,
+        style_override: str | None = None,
+        negative_prompt: str | None = None,
+        seed: int | None = None,
     ) -> Image.Image:
         """Render a full manga page from JSON by descending the hierarchy.
 
@@ -319,11 +327,26 @@ class MangaInfiller(nn.Module):
         Level 2 — Panel: crop panel → infill each element at full resolution
         Level 3 — Element (optional): crop element → fine-detail infill
 
+        Args:
+            page: structured manga page representation
+            num_inference_steps: SD denoising steps
+            guidance_scale: classifier-free guidance scale
+            style_override: if set, overrides page.style for the style prefix
+            negative_prompt: if set, overrides the default negative prompt
+            seed: if set, overrides the default seed for reproducibility
+
         Returns:
             PIL Image of the rendered page at (page.width, page.height)
         """
         res = self.resolution
         w, h = page.width, page.height
+
+        # Resolve style, negative prompt, and seed
+        style_prefix = style_override or page.style or DEFAULT_STYLE_PREFIX
+        neg_prompt = negative_prompt if negative_prompt is not None else DEFAULT_NEGATIVE_PROMPT
+        seed = seed if seed is not None else DEFAULT_SEED
+        device = self.pipe.device
+        generator = torch.Generator(device=device).manual_seed(seed)
 
         # Start with a white canvas at page dimensions
         canvas = Image.new("RGB", (w, h), (255, 255, 255))
@@ -359,6 +382,9 @@ class MangaInfiller(nn.Module):
                 prompt=panel.description,
                 steps=num_inference_steps,
                 guidance=guidance_scale,
+                style_prefix=style_prefix,
+                negative_prompt=neg_prompt,
+                generator=generator,
             )
 
             # ---------------------------------------------------------------
@@ -369,6 +395,9 @@ class MangaInfiller(nn.Module):
                 panel=panel,
                 num_inference_steps=num_inference_steps,
                 guidance_scale=guidance_scale,
+                style_prefix=style_prefix,
+                negative_prompt=neg_prompt,
+                generator=generator,
             )
 
             # Paste the rendered panel back into the page canvas
@@ -383,6 +412,9 @@ class MangaInfiller(nn.Module):
         panel: Panel,
         num_inference_steps: int = 50,
         guidance_scale: float = 7.5,
+        style_prefix: str = DEFAULT_STYLE_PREFIX,
+        negative_prompt: str = DEFAULT_NEGATIVE_PROMPT,
+        generator: torch.Generator | None = None,
     ) -> Image.Image:
         """Level 2: render all elements within a panel crop.
 
@@ -415,6 +447,9 @@ class MangaInfiller(nn.Module):
                 prompt=prompt,
                 steps=num_inference_steps,
                 guidance=guidance_scale,
+                style_prefix=style_prefix,
+                negative_prompt=negative_prompt,
+                generator=generator,
             )
 
             # Composite the element into the panel
@@ -427,6 +462,7 @@ class MangaInfiller(nn.Module):
                 current = self._refine_element(
                     current, panel, ei, elem,
                     num_inference_steps, guidance_scale,
+                    style_prefix, negative_prompt, generator,
                 )
 
         return current
@@ -439,6 +475,9 @@ class MangaInfiller(nn.Module):
         element: MangaElement,
         num_inference_steps: int,
         guidance_scale: float,
+        style_prefix: str = DEFAULT_STYLE_PREFIX,
+        negative_prompt: str = DEFAULT_NEGATIVE_PROMPT,
+        generator: torch.Generator | None = None,
     ) -> Image.Image:
         """Level 3: crop an element to full resolution for fine-detail rendering.
 
@@ -479,6 +518,9 @@ class MangaInfiller(nn.Module):
             prompt=prompt,
             steps=num_inference_steps,
             guidance=guidance_scale,
+            style_prefix=style_prefix,
+            negative_prompt=negative_prompt,
+            generator=generator,
         )
 
         # Composite back into panel
@@ -497,6 +539,9 @@ class MangaInfiller(nn.Module):
         prompt: str,
         steps: int,
         guidance: float,
+        style_prefix: str = DEFAULT_STYLE_PREFIX,
+        negative_prompt: str = DEFAULT_NEGATIVE_PROMPT,
+        generator: torch.Generator | None = None,
     ) -> Image.Image:
         """Run one SD inpainting pass with ControlNet layout conditioning.
 
@@ -507,8 +552,14 @@ class MangaInfiller(nn.Module):
         import torch.nn.functional as F
 
         pipe = self.pipe
-        device = next(self.controlnet.parameters()).device
-        dtype = next(self.controlnet.parameters()).dtype
+        device = pipe.device
+        dtype = pipe.unet.dtype
+
+        # Prepend style prefix to prompt for consistent style across all calls
+        styled_prompt = f"{style_prefix}, {prompt}" if style_prefix else prompt
+
+        # Ensure ControlNet is on the same device/dtype as the UNet
+        self.controlnet.to(device=device, dtype=dtype)
 
         # Precompute ControlNet residuals from layout (pixel → latent space)
         layout_tensor = torch.from_numpy(layout).unsqueeze(0).to(device, dtype=dtype)
@@ -541,11 +592,13 @@ class MangaInfiller(nn.Module):
         pipe.unet.forward = _forward_with_controlnet
         try:
             result = pipe(
-                prompt=prompt,
+                prompt=styled_prompt,
+                negative_prompt=negative_prompt,
                 image=context,
                 mask_image=mask,
                 num_inference_steps=steps,
                 guidance_scale=guidance,
+                generator=generator,
             ).images[0]
         finally:
             pipe.unet.forward = original_forward

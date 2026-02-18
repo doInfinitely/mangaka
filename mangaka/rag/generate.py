@@ -42,6 +42,10 @@ Bounding boxes are normalised to [0, 1]:
 
 Element types: character, speech_bubble, sfx, background, effect, object
 
+The page has an optional "style" field (string) that describes the art style
+for rendering, e.g. "manga, black and white, ink drawing, screentone shading".
+If the user specifies an art style, set this field accordingly.
+
 You must return ONLY valid JSON matching the MangaPage schema."""
 
 
@@ -79,7 +83,8 @@ def _build_generation_prompt(
         if page_spec.get("width") and page_spec.get("height"):
             parts.append(f"Page dimensions: {page_spec['width']}x{page_spec['height']}")
         if page_spec.get("style"):
-            parts.append(f"Art style: {page_spec['style']}")
+            parts.append(f'Art style: {page_spec["style"]}')
+            parts.append(f'Set the "style" field in the JSON to: "{page_spec["style"]}"')
 
     if num_pages == 1:
         parts.append(

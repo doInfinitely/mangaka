@@ -100,6 +100,10 @@ class MangaPage(BaseModel):
         ...,
         description="Page-level narrative summary.",
     )
+    style: str | None = Field(
+        default=None,
+        description="Art style for rendering (e.g. 'manga, black and white, ink drawing').",
+    )
     panels: list[Panel] = Field(
         default_factory=list,
         description="Panels on this page, in reading order.",
