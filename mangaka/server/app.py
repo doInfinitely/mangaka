@@ -11,6 +11,7 @@ import base64
 import io
 import json
 import logging
+import os
 from collections import Counter
 from pathlib import Path
 from typing import Any
@@ -19,6 +20,7 @@ from fastapi import FastAPI, HTTPException, Query, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
 
+from mangaka.inference.invoke import DecodeContext, DecodeResult, MangaInvoker
 from mangaka.schema import ELEMENT_TYPES, MangaPage
 from mangaka.server.models import (
     AnnotateRequest,
@@ -48,6 +50,28 @@ class _AppState:
         self.infiller = None
         self.index = None
         self.device = None
+        self._invoker: MangaInvoker | None = None
+
+    def get_invoker(self) -> MangaInvoker:
+        """Return a MangaInvoker — Modal or local depending on env."""
+        if self._invoker is None:
+            if os.environ.get("MANGAKA_USE_MODAL"):
+                from mangaka.inference.modal_invoker import ModalInvoker
+
+                pool_size = int(os.environ.get("MANGAKA_MODAL_POOL_SIZE", "4"))
+                self._invoker = ModalInvoker(pool_size=pool_size)
+                logger.info("Using ModalInvoker (pool_size=%d)", pool_size)
+            else:
+                from mangaka.inference.invoke import LocalInvoker
+
+                self._invoker = LocalInvoker(
+                    infiller_dir=str(self.model_dir),
+                    detector_path=str(self.model_dir / "detector.safetensors")
+                    if (self.model_dir / "detector.safetensors").exists()
+                    else None,
+                )
+                logger.info("Using LocalInvoker")
+        return self._invoker
 
     def _get_device(self):
         if self.device is None:
@@ -234,24 +258,18 @@ async def encode(file: UploadFile):
 
 @app.post("/decode")
 async def decode(req: DecodeRequest):
-    """Render a MangaPage JSON into a PNG image."""
-    from mangaka.pipeline.decode import decode_page
-
-    infiller = state.get_infiller()
-    image = decode_page(
-        req.page,
-        infiller,
+    """Render a MangaPage JSON into a PNG image via the invoker."""
+    invoker = state.get_invoker()
+    ctx = DecodeContext(
+        page_json=req.page.to_json(),
         num_inference_steps=req.num_inference_steps,
         guidance_scale=req.guidance_scale,
         style_override=req.style_override,
         negative_prompt=req.negative_prompt,
         seed=req.seed,
     )
-
-    buf = io.BytesIO()
-    image.save(buf, format="PNG")
-    buf.seek(0)
-    return Response(content=buf.read(), media_type="image/png")
+    result: DecodeResult = await asyncio.to_thread(invoker.decode, ctx)
+    return Response(content=result.image_bytes, media_type="image/png")
 
 
 # ---------------------------------------------------------------------------

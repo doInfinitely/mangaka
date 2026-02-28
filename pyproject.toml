@@ -26,6 +26,7 @@ dependencies = [
     "numpy>=1.24",
     "sentence-transformers>=2.2",
     "peft>=0.7",
+    "modal>=0.64",
 ]
 
 [project.optional-dependencies]
