@@ -123,7 +123,11 @@ class MangaPage(BaseModel):
     def from_json(cls, path_or_str: str | Path) -> "MangaPage":
         """Load from a JSON file path or raw JSON string."""
         p = Path(path_or_str)
-        if p.exists():
+        try:
+            is_file = p.exists()
+        except OSError:
+            is_file = False
+        if is_file:
             text = p.read_text(encoding="utf-8")
         else:
             text = str(path_or_str)

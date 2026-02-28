@@ -29,7 +29,8 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-dev = ["pytest", "ruff", "mypy"]
+dev = ["pytest", "ruff", "mypy", "httpx", "pytest-asyncio"]
+server = ["fastapi>=0.109", "uvicorn[standard]>=0.27", "python-multipart>=0.0.6"]
 
 [project.scripts]
 mangaka-annotate = "scripts.annotate:main"
@@ -39,6 +40,8 @@ mangaka-distill = "scripts.distill:main"
 mangaka-encode = "scripts.encode:main"
 mangaka-decode = "scripts.decode:main"
 mangaka-build-dataset = "scripts.build_dataset:main"
+mangaka-evaluate = "scripts.evaluate:main"
+mangaka-serve = "scripts.serve:main"
 
 [tool.setuptools.packages.find]
 include = ["mangaka*"]
