@@ -188,15 +188,18 @@ async def generate_manga(
     Returns:
         list of validated MangaPage objects
     """
-    # Step 1: retrieve
-    results = index.query(plot, top_k=top_k, structure_hint=structure_hint)
-    examples = [page for page, _, _ in results]
-
-    if results:
-        logger.info(
-            "Retrieved %d examples (top score: %.3f)",
-            len(results), results[0][2],
-        )
+    # Step 1: retrieve (skip if index not built)
+    examples: list[MangaPage] = []
+    try:
+        results = index.query(plot, top_k=top_k, structure_hint=structure_hint)
+        examples = [page for page, _, _ in results]
+        if results:
+            logger.info(
+                "Retrieved %d examples (top score: %.3f)",
+                len(results), results[0][2],
+            )
+    except RuntimeError:
+        logger.warning("RAG index not available, generating without examples.")
 
     # Step 2: build prompt
     prompt = _build_generation_prompt(plot, examples, num_pages, page_spec)
