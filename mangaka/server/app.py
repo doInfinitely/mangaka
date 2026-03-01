@@ -61,7 +61,9 @@ class _AppState:
                 pool_size = int(os.environ.get("MANGAKA_MODAL_POOL_SIZE", "4"))
                 self._invoker = ModalInvoker(pool_size=pool_size)
                 logger.info("Using ModalInvoker (pool_size=%d)", pool_size)
-            else:
+            elif (self.model_dir / "controlnet_best.pt").exists() or (
+                self.model_dir / "infiller"
+            ).exists():
                 from mangaka.inference.invoke import LocalInvoker
 
                 self._invoker = LocalInvoker(
@@ -71,6 +73,11 @@ class _AppState:
                     else None,
                 )
                 logger.info("Using LocalInvoker")
+            else:
+                raise RuntimeError(
+                    "No inference backend available. "
+                    "Set MANGAKA_USE_MODAL=1 or provide local model weights."
+                )
         return self._invoker
 
     def _get_device(self):
@@ -259,7 +266,11 @@ async def encode(file: UploadFile):
 @app.post("/decode")
 async def decode(req: DecodeRequest):
     """Render a MangaPage JSON into a PNG image via the invoker."""
-    invoker = state.get_invoker()
+    try:
+        invoker = state.get_invoker()
+    except RuntimeError as exc:
+        raise HTTPException(status_code=503, detail=str(exc))
+
     ctx = DecodeContext(
         page_json=req.page.to_json(),
         num_inference_steps=req.num_inference_steps,
@@ -268,7 +279,11 @@ async def decode(req: DecodeRequest):
         negative_prompt=req.negative_prompt,
         seed=req.seed,
     )
-    result: DecodeResult = await asyncio.to_thread(invoker.decode, ctx)
+    try:
+        result: DecodeResult = await asyncio.to_thread(invoker.decode, ctx)
+    except Exception as exc:
+        logger.exception("Decode failed")
+        raise HTTPException(status_code=500, detail=str(exc))
     return Response(content=result.image_bytes, media_type="image/png")
 
 
