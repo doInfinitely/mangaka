@@ -298,13 +298,17 @@ async def generate(req: GenerateRequest):
     from mangaka.rag.generate import generate_manga
 
     index = state.get_index()
-    pages = await generate_manga(
-        plot=req.plot,
-        index=index,
-        provider=req.provider,
-        num_pages=req.num_pages,
-        top_k=req.top_k,
-    )
+    try:
+        pages = await generate_manga(
+            plot=req.plot,
+            index=index,
+            provider=req.provider,
+            num_pages=req.num_pages,
+            top_k=req.top_k,
+        )
+    except Exception as exc:
+        logger.exception("Generate failed")
+        raise HTTPException(status_code=500, detail=str(exc))
     return pages
 
 
