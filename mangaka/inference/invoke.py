@@ -75,7 +75,7 @@ class LocalInvoker:
         self,
         detector_path: str | None = None,
         infiller_dir: str | None = None,
-        sd_model_id: str = "stabilityai/stable-diffusion-2-inpainting",
+        sd_model_id: str = "runwayml/stable-diffusion-inpainting",
         resolution: int = 512,
         backbone: str = "resnet50",
         gpt2_model: str = "gpt2",

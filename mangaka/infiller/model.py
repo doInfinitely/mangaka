@@ -167,7 +167,7 @@ class MangaInfiller(nn.Module):
 
     def __init__(
         self,
-        sd_model_id: str = "stabilityai/stable-diffusion-2-inpainting",
+        sd_model_id: str = "runwayml/stable-diffusion-inpainting",
         resolution: int = 512,
         controlnet: LayoutControlNet | None = None,
         element_level_types: tuple[str, ...] = ("character", "sfx"),

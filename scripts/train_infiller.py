@@ -49,7 +49,7 @@ def main():
             cfg[key] = val
 
     # Defaults
-    cfg.setdefault("sd_model", "stabilityai/stable-diffusion-2-inpainting")
+    cfg.setdefault("sd_model", "runwayml/stable-diffusion-inpainting")
     cfg.setdefault("resolution", 512)
     cfg.setdefault("epochs", 100)
     cfg.setdefault("batch_size", 4)

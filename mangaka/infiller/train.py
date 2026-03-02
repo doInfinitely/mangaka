@@ -109,7 +109,7 @@ def train_infiller(
 
     # Model
     infiller = MangaInfiller(
-        sd_model_id=cfg.get("sd_model", "stabilityai/stable-diffusion-2-inpainting"),
+        sd_model_id=cfg.get("sd_model", "runwayml/stable-diffusion-inpainting"),
         resolution=cfg.get("resolution", 512),
     )
     infiller.load_sd_pipeline(device, dtype=torch.float32)  # fp32 for training

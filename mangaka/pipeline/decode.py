@@ -58,7 +58,7 @@ def decode_directory(
     json_dir: str,
     output_dir: str,
     model_dir: str,
-    sd_model: str = "stabilityai/stable-diffusion-2-inpainting",
+    sd_model: str = "runwayml/stable-diffusion-inpainting",
     resolution: int = 512,
     num_inference_steps: int = 50,
     guidance_scale: float = 7.5,

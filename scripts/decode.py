@@ -28,7 +28,7 @@ def main():
                         help="Directory containing MangaPage JSON files")
     parser.add_argument("--output-dir", required=True,
                         help="Directory to save rendered images")
-    parser.add_argument("--sd-model", default="stabilityai/stable-diffusion-2-inpainting")
+    parser.add_argument("--sd-model", default="runwayml/stable-diffusion-inpainting")
     parser.add_argument("--resolution", type=int, default=512)
     parser.add_argument("--steps", type=int, default=50,
                         help="Number of SD denoising steps")

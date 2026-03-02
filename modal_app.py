@@ -112,7 +112,7 @@ class MangaWorker:
             )
             print(f"[worker] ControlNet loaded from {controlnet_path}")
 
-        sd_model_id = "stabilityai/stable-diffusion-2-inpainting"
+        sd_model_id = "runwayml/stable-diffusion-inpainting"
         self._infiller = MangaInfiller(
             sd_model_id=sd_model_id,
             resolution=512,

@@ -167,7 +167,7 @@ def main():
     parser.add_argument("--infiller-dir", default=None,
                         help="Path to infiller checkpoints (required if --render)")
     parser.add_argument("--sd-model",
-                        default="stabilityai/stable-diffusion-2-inpainting")
+                        default="runwayml/stable-diffusion-inpainting")
     parser.add_argument("--negative-prompt", type=str, default=None,
                         help="Negative prompt for SD (overrides default)")
     parser.add_argument("--seed", type=int, default=None,
