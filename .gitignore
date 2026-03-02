@@ -19,7 +19,8 @@ env/
 .cursor/
 
 # Data & checkpoints (large files)
-data/
+data/*
+!data/manga_index/
 checkpoints/
 output/
 *.pt

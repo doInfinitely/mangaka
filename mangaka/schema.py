@@ -15,7 +15,7 @@ import json
 from pathlib import Path
 from typing import Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, model_validator
 
 
 # ---------------------------------------------------------------------------
@@ -62,13 +62,21 @@ class MangaElement(BaseModel):
         description="Semantic type of this element.",
     )
     description: str = Field(
-        ...,
+        default="",
         description="Free-form natural-language description of the element.",
     )
     text: str | None = Field(
         default=None,
         description="Text content (for speech_bubble and sfx only).",
     )
+
+    @model_validator(mode="before")
+    @classmethod
+    def _default_description_from_text(cls, data: dict) -> dict:
+        """Fall back to text content when description is missing."""
+        if isinstance(data, dict) and not data.get("description"):
+            data["description"] = data.get("text") or ""
+        return data
 
 
 class Panel(BaseModel):
