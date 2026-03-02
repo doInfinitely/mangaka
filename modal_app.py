@@ -51,10 +51,11 @@ HF_HOME = "/hf-cache"
     image=worker_image,
     gpu="A10G",
     volumes={CKPT_PATH: ckpt_vol, HF_HOME: hf_vol},
+    secrets=[modal.Secret.from_name("huggingface-secret")],
     scaledown_window=120,
-    allow_concurrent_inputs=4,
     timeout=600,
 )
+@modal.concurrent(max_inputs=4)
 class MangaWorker:
     """Stateful inference worker for manga encode/decode.
 
