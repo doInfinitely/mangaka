@@ -138,11 +138,12 @@ class _AppState:
 
             self.index = MangaIndex()
             index_dir = self.dataset_dir.parent / "manga_index"
+            logger.info("cwd=%s, index_dir=%s, resolved=%s", os.getcwd(), index_dir, index_dir.resolve())
             if index_dir.exists():
                 self.index.load(index_dir)
                 logger.info("RAG index loaded from %s", index_dir)
             else:
-                logger.warning("No RAG index found at %s", index_dir)
+                logger.warning("No RAG index found at %s (ls data/: %s)", index_dir, list(Path("data").iterdir()) if Path("data").exists() else "NO data/ dir")
         return self.index
 
     def load_dataset_index(self) -> list[dict] | None:
