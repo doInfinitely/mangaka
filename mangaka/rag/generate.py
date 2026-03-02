@@ -237,6 +237,11 @@ def _parse_generation_response(raw: str, expected: int) -> list[MangaPage]:
             d.setdefault("width", 1654)
             d.setdefault("height", 2339)
             d.setdefault("description", "")
+            # Fix elements missing description (LLMs often omit it for speech_bubble/sfx)
+            for panel in d.get("panels", []):
+                for elem in panel.get("elements", []):
+                    if "description" not in elem:
+                        elem["description"] = elem.get("text", "")
             page = MangaPage.model_validate(d)
             pages.append(page)
         except Exception as e:

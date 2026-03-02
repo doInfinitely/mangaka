@@ -55,7 +55,7 @@ HF_HOME = "/hf-cache"
     scaledown_window=120,
     timeout=600,
 )
-@modal.concurrent(max_inputs=4)
+@modal.concurrent(max_inputs=1)
 class MangaWorker:
     """Stateful inference worker for manga encode/decode.
 
