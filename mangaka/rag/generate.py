@@ -52,29 +52,51 @@ You must return ONLY valid JSON matching the MangaPage schema."""
 def _build_generation_prompt(
     plot: str,
     examples: list[MangaPage],
-    num_pages: int = 1,
+    page_number: int = 1,
+    total_pages: int = 1,
+    previous_pages: list[MangaPage] | None = None,
     page_spec: dict | None = None,
 ) -> str:
-    """Build the user prompt with retrieved examples and the user's plot."""
+    """Build the user prompt for generating a single page.
+
+    Each page is generated one at a time so it can be conditioned on
+    the preceding pages for narrative continuity.
+    """
 
     parts = []
 
-    # Show examples
+    # Show RAG examples
     if examples:
         parts.append(
             f"Here are {len(examples)} example manga pages for reference. "
             "Study the structure, element placement, and description style:\n"
         )
         for i, ex in enumerate(examples):
-            # Compact JSON to save tokens
             ex_json = ex.model_dump(mode="json")
             parts.append(f"--- Example {i + 1} ---")
             parts.append(json.dumps(ex_json, indent=None, ensure_ascii=False))
             parts.append("")
 
+    # Show previously generated pages for continuity
+    if previous_pages:
+        parts.append(
+            f"--- Story so far ({len(previous_pages)} page(s) already created) ---"
+        )
+        for i, prev in enumerate(previous_pages):
+            prev_json = prev.model_dump(mode="json")
+            parts.append(f"Page {i + 1}:")
+            parts.append(json.dumps(prev_json, indent=None, ensure_ascii=False))
+            parts.append("")
+        parts.append(
+            "Continue the story naturally from where the previous page(s) left off. "
+            "Maintain character consistency, advance the plot, and vary panel compositions.\n"
+        )
+
     # User request
     parts.append("--- Your task ---")
-    parts.append(f"Create {num_pages} manga page(s) for the following plot:\n")
+    parts.append(
+        f"Create page {page_number} of {total_pages} for the following plot:\n"
+    )
     parts.append(f"Plot: {plot}\n")
 
     if page_spec:
@@ -86,14 +108,9 @@ def _build_generation_prompt(
             parts.append(f'Art style: {page_spec["style"]}')
             parts.append(f'Set the "style" field in the JSON to: "{page_spec["style"]}"')
 
-    if num_pages == 1:
-        parts.append(
-            "\nReturn a single JSON object matching the MangaPage schema."
-        )
-    else:
-        parts.append(
-            f"\nReturn a JSON array of {num_pages} MangaPage objects."
-        )
+    parts.append(
+        "\nReturn a single JSON object matching the MangaPage schema."
+    )
 
     parts.append(
         "\nMake bounding boxes tight and non-overlapping. "
@@ -188,7 +205,7 @@ async def generate_manga(
     Returns:
         list of validated MangaPage objects
     """
-    # Step 1: retrieve (skip if index not built)
+    # Step 1: retrieve RAG examples (skip if index not built)
     examples: list[MangaPage] = []
     try:
         results = index.query(plot, top_k=top_k, structure_hint=structure_hint)
@@ -201,15 +218,30 @@ async def generate_manga(
     except RuntimeError:
         logger.warning("RAG index not available, generating without examples.")
 
-    # Step 2: build prompt
-    prompt = _build_generation_prompt(plot, examples, num_pages, page_spec)
-
-    # Step 3: call LLM
     backend = _BACKENDS[provider]
-    raw = await backend(prompt, SYSTEM_PROMPT)
+    pages: list[MangaPage] = []
 
-    # Step 4: parse and validate
-    pages = _parse_generation_response(raw, num_pages)
+    # Generate pages sequentially, each conditioned on the previous ones
+    for page_num in range(1, num_pages + 1):
+        logger.info("Generating page %d of %d...", page_num, num_pages)
+
+        prompt = _build_generation_prompt(
+            plot,
+            examples,
+            page_number=page_num,
+            total_pages=num_pages,
+            previous_pages=pages if pages else None,
+            page_spec=page_spec,
+        )
+
+        raw = await backend(prompt, SYSTEM_PROMPT)
+        new_pages = _parse_generation_response(raw, 1)
+
+        if new_pages:
+            pages.append(new_pages[0])
+        else:
+            logger.warning("Failed to generate page %d, skipping", page_num)
+
     logger.info("Generated %d page(s)", len(pages))
     return pages
 
