@@ -1,0 +1,107 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A dramatic manga page showing figures in what appears to be a post-apocalyptic or destroyed setting, with dialogue about finding others in that place.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full page panel showing figures against a gradient background with debris, depicting a desolate scene",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.7
+          ],
+          "type": "background",
+          "description": "A dramatic manga panel featuring a gradient screentone background that transitions from deep black at the top to lighter gray tones toward the bottom, creating a sense of depth and atmosphere. The background uses dense halftone dot patterns typical of manga printing techniques. Two white speech bubbles with rounded edges contain Spanish text - one reads 'A\u00daN SE ENCUENTRAN EN ESE LUGAR...' positioned on the left side, and another reads 'DESPU\u00c9S DE TODO, LOS \"NOSOTROS\" REALES' in the upper right. A character figure is partially visible in the lower portion, drawn in clean black line art with minimal shading, showing an outstretched arm gesture. The composition emphasizes the vast, empty space created by the gradient background, suggesting a contemplative or dramatic moment in the narrative.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.4,
+            0.4,
+            0.9
+          ],
+          "type": "character",
+          "description": "A manga character shown in a dynamic pose, appearing to be falling or floating in mid-air. The character has flowing hair and is wearing what appears to be layered clothing or armor with distinctive angular/geometric patterns on the torso area. The figure is drawn in classic manga style with clean, bold line work and minimal shading using screentone effects. A speech bubble contains Spanish text reading 'A\u00daN SE ENCUENTRAN EN ESE LUGAR...' The character appears to be positioned against architectural elements, with part of a building structure visible at the bottom of the frame. The overall composition uses high contrast between black and white areas, with the character rendered primarily in white against darker backgrounds. The art style features typical manga characteristics including expressive line weight variation and detailed clothing folds.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.85,
+            0.7,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dramatic manga scene showing a character lying on the ground in what appears to be a defeated or collapsed state. The figure is drawn in a prone position with their body stretched out, wearing what looks like a light-colored garment or uniform. The character's hair appears disheveled and flowing. The art style employs heavy black and white contrast with detailed cross-hatching and screentone work typical of manga illustration. The shading creates a sense of depth and drama, with the ground rendered using dotted screentone patterns. The composition emphasizes the horizontal line of the fallen figure against the textured ground surface. The linework varies in weight, with bolder strokes defining the main figure and finer details in the clothing folds and hair. No visible text appears in this cropped section. The overall tone is somber and dramatic, suggesting a moment of defeat or exhaustion.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.7,
+            1.0,
+            0.95
+          ],
+          "type": "character",
+          "description": "A minimalist manga illustration showing a partial character rendered in high contrast black and white. The figure appears to be in profile or three-quarter view, with distinctive spiky or messy hair rendered in bold black ink with sharp, angular strokes. The character's clothing appears to be light-colored, possibly white or pale, shown through negative space. The art style employs stark contrasts with solid black areas dominating the composition, minimal line work, and no visible shading or screentone. The drawing technique uses confident, decisive brush strokes or pen lines with varying weights - thick black areas for shadows and hair, and clean white spaces for highlights. The composition is cropped tightly, showing only fragments of the character against what appears to be an environmental element or architectural structure. No text is visible in this panel fragment. The overall aesthetic is clean and graphic, typical of modern manga's high-contrast dramatic scenes.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.45,
+            0.35,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with clean, bold black outlines in a typical oval shape. The bubble contains Spanish text that reads 'ENCUENTRAN EN ESE LUGAR...' in simple, sans-serif lettering. The speech bubble appears to be positioned in the upper portion of the panel. The background shows partial character artwork with typical manga-style line work - clean black lines of varying weights, with some areas showing characteristic manga shading techniques including screen tones and hatching. The visible character elements include what appears to be clothing or armor with angular, geometric details rendered in the classic black and white manga aesthetic. The overall composition suggests this is part of a dramatic scene or dialogue sequence.",
+          "text": "A\u00daN SE ENCUENTRAN EN ESE LUGAR..."
+        },
+        {
+          "bbox": [
+            0.65,
+            0.12,
+            0.95,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A white oval speech bubble containing Spanish text that reads 'DESPU\u00c9S DE TODO, LOS \"NO-SOTROS\" REALES' in gray lettering. The bubble is positioned against a stark black and white background with distinctive manga-style screentone effects. The left side features dense stippled/dotted shading that transitions from dark at the top to lighter gray toward the bottom, while the right side is solid black. The contrast creates a dramatic backdrop typical of manga paneling. The speech bubble's clean white interior and simple oval shape provides clear readability against the textured background, with the text appearing to be mid-sentence or part of a longer dialogue exchange.",
+          "text": "DESPU\u00c9S DE TODO, LOS \"NOSOTROS\" REALES"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.85,
+            0.2,
+            1.0
+          ],
+          "type": "object",
+          "description": "This manga panel element shows a stark contrast between deep black space on the left and bright white space on the right, separated by what appears to be a doorway or opening. The black area dominates most of the frame with dense, solid black fill, while the white area occupies the upper right corner. There are subtle horizontal line details visible in the white section, suggesting architectural elements like ceiling beams or structural details rendered with fine linework. The transition between black and white is sharp and clean, typical of high-contrast manga storytelling techniques. The page number '84' is visible in the bottom left corner in white text against the black background. The composition creates a dramatic visual tension through this extreme tonal contrast, suggesting a threshold or transition space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.95,
+            0.8,
+            1.0
+          ],
+          "type": "object",
+          "description": "This appears to be a minimal white or very light colored object against a plain white background. The element is extremely sparse with very little visual information present. There are no discernible line weights, shading techniques, or hatching patterns visible. No text, characters, clothing, or expressions can be identified in this cropped section. The composition is essentially empty space with perhaps the faintest suggestion of a form or edge, but the contrast is so minimal that specific details cannot be determined. This could be part of a speech bubble, background element, or negative space from a larger manga panel.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

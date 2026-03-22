@@ -1,0 +1,74 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A full-page manga panel showing a young girl in gothic lolita dress standing in what appears to be a futuristic or mechanical interior space with stairs and industrial elements",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full page panel showing a girl in a dark dress standing in an industrial/futuristic interior with stairs and mechanical elements",
+      "elements": [
+        {
+          "bbox": [
+            0.35,
+            0.18,
+            0.65,
+            0.95
+          ],
+          "type": "character",
+          "description": "A young manga girl character drawn in classic black and white manga style, standing in a frontal pose with a gentle, innocent expression. She has very long, straight hair that flows down past her waist, with distinctive twin-tail styling secured by what appears to be hair accessories or bows at the top. Her large, expressive eyes are drawn in typical manga fashion with visible pupils and gentle curved eyebrows. She's wearing a Victorian or Lolita-style dress that extends to mid-calf length, featuring puffy short sleeves with frilly cuffs, a white collar with a dark bow tie at the neck, and decorative ruffled trim along the bottom hem. The dress appears to have a fitted bodice and flowing skirt. She's wearing dark mary jane style shoes. The art uses typical manga line work with clean, consistent black outlines of moderate weight, screentone shading for the dress fabric, and crosshatched background elements suggesting an indoor setting with geometric patterns. The composition places her centrally in the frame, emphasizing her full-body appearance and clothing details.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.25
+          ],
+          "type": "background",
+          "description": "This manga background depicts an industrial or construction setting with detailed architectural line work. The scene shows a structural framework with diagonal cross-bracing patterns created through precise hatching techniques. There are geometric shapes that appear to be construction equipment or machinery components, rendered in solid black silhouettes against the heavily cross-hatched background. The lower portion shows what appears to be a platform or deck with horizontal railings or barriers indicated by simple parallel lines. The entire background uses consistent diagonal hatching to create depth and shadow, with varying line densities to establish different planes and surfaces. The art style employs clean, technical line work typical of manga backgrounds, with strong geometric precision in the architectural elements. A partial view of a character with light-colored hair is visible at the bottom edge of the frame, suggesting this background serves as the setting for character action.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.25,
+            0.35,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel background element shows a vertical composition featuring architectural and character elements. At the top, there's a detailed screentone pattern creating a textured ceiling or overhang with vertical support beams or pillars rendered in clean black lineart. Below this, spiky anime-style hair is visible, drawn with dynamic angular strokes and highlighted with white areas to show volume and movement. The hair appears to belong to a character positioned in the lower portion of the frame. At the bottom, there's a partial view of what appears to be a dark-colored object or clothing element with an oval highlight, possibly a button or accessory. The overall composition uses typical manga visual techniques including screentones for shading, clean black lineart of varying weights, and strategic white space. Horizontal ruled lines run across portions of the background, suggesting notebook paper or a similar lined surface. The vertical panel format and cropped nature creates a sense of intimacy and focus on these specific visual elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.25,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts an architectural interior space rendered in typical manga style. The scene shows what appears to be a modern building interior with clean geometric lines and surfaces. The upper portion features dense screentone/halftone shading creating a textured gray area, likely representing a wall or ceiling. Below this is a white architectural space with angular geometric forms including what appears to be stairs or stepped structures with parallel line details suggesting depth and dimension. The linework is clean and precise with varying line weights - thicker outlines defining major structural elements and thinner lines for interior details. The composition uses strong contrast between the heavily toned upper area and the stark white lower section. The perspective suggests the viewer is looking across or into this architectural space, with the geometric forms creating a sense of depth and modern institutional or commercial building aesthetic typical of manga backgrounds.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.75,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a minimalist interior scene with clean, geometric composition. The upper portion displays a pair of bare legs and feet wearing black slip-on shoes or slippers, positioned above what appears to be a floor or platform edge. Below is a stark white surface or floor area. In the lower left corner, there's a partial view of what seems to be a dark object or furniture piece rendered with screentone/halftone shading, creating a textured gray appearance against the predominantly white background. The art style features clean, confident linework with varying line weights - thinner lines for the legs and thicker outlines for structural elements. The composition uses negative white space effectively, creating a sense of emptiness or vastness in the scene. The overall aesthetic is typical of modern manga with its high contrast between solid blacks, textured grays, and pure whites.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

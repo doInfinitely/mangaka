@@ -1,0 +1,63 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A single large panel showing an anime-style character with long hair and cat-like ears appearing distressed or crying, wearing what looks like a school uniform or jacket with '02' visible on it.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full-page panel showing a close-up of an anime character with long light-colored hair and dark cat-like ears, appearing to be crying or distressed",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.25,
+            0.85,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga-style character portrait featuring a young person with distinctive long, light-colored hair with cat-like ears or hair tufts protruding from the top. The character displays an emotional expression with one visible eye showing distress while the other appears closed or squinting. Vertical hatching lines cover the entire face, creating a shading effect that suggests tears, rain, or emotional turmoil. The character wears what appears to be a collared shirt or jacket with a tie or necktie. There's text reading '02' visible on the clothing. The art style uses clean black line work with screentone/halftone shading on the hair and selective vertical line hatching for dramatic effect. The composition is a close-up portrait shot focusing on the character's emotional state, with the hatched shading creating a powerful visual metaphor for their distressed condition.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.88,
+            0.45,
+            0.95
+          ],
+          "type": "object",
+          "description": "A close-up view of what appears to be a white or light-colored blade or sword edge against a textured background. The blade has clean, sharp lineart with minimal shading, rendered in a typical manga style with confident, precise strokes. The background features a distinctive crosshatch or woven pattern texture, created through regular parallel and intersecting lines that give it a fabric-like or mesh appearance. The contrast between the smooth, curved blade edge and the geometric regularity of the hatched background creates visual interest. The composition is cropped tightly, focusing on just this portion of what is likely a larger action scene. No text is visible in this particular cropped element.",
+          "text": "02"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.3
+          ],
+          "type": "background",
+          "description": "A minimalist manga background element depicting a mountainous landscape. The image shows layered mountain silhouettes rendered in different tonal values - the foreground mountains are solid black, while the background peaks are filled with fine screentone/halftone dotting patterns creating a gray tone. The mountains have soft, curved contours with gentle slopes and peaks. The composition is very simple and clean, with stark white negative space above representing sky. The line work is clean and precise with medium line weight defining the mountain edges. This appears to be a typical manga background treatment used to establish outdoor mountain settings without overwhelming detail, allowing focus to remain on foreground story elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.6,
+            0.6,
+            0.85
+          ],
+          "type": "effect",
+          "description": "This manga effect element shows dramatic speed lines and motion blur rendered in black ink against a white background. The lines consist of varying weights - some thick, bold strokes and others thin, precise lines that create a sense of rapid movement or impact. The composition features diagonal and curved lines that seem to radiate outward, creating a dynamic burst or explosion effect typical of action sequences in manga. The linework uses traditional manga hatching techniques with some areas showing concentrated parallel lines while others have more scattered, energetic strokes. The overall effect suggests intense motion, possibly depicting a character moving at high speed or the aftermath of a powerful attack. No text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

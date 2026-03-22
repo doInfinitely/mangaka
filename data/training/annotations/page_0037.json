@@ -1,0 +1,206 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A manga page showing a dramatic conversation between characters, with one character in bandages speaking to another. The scene appears tense with dramatic lighting and close-up shots.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.53
+      ],
+      "description": "Large top panel showing a silhouetted figure from behind with dramatic lighting effects above",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "The manga panel shows a dramatic scene with stark black and white contrasts. In the upper panel, there's a silhouetted figure viewed from behind, with dark messy hair and wearing what appears to be a high-collared jacket or coat. Above them are jagged, white crystalline or icicle-like formations against a dark background, creating an ominous atmosphere. The lower panel shows a close-up of a young male character with tousled dark hair and large eyes, drawn in typical manga style with clean linework. He appears to be looking upward with a concerned or questioning expression. There's a speech bubble containing Spanish text 'LA RESPUESTA QUE QUER\u00cdAS?' (The answer you wanted?). The art style uses bold contrasts between solid blacks and whites, with minimal shading and clean line weights typical of manga illustration. The composition creates tension through the dramatic angle and the juxtaposition of the threatening crystalline formations above and the vulnerable character below.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.35,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with curved, organic borders containing Spanish text in black lettering. The text reads 'SIN EMBARGO, AL PARECER LA RESPUESTA' on the upper portion and 'HA SIDO REVELADA' on the lower portion. The speech bubble is positioned against a contrasting background with black solid areas on the left and gray screentone/halftone pattern on the right. The bubble's tail or pointer extends toward the bottom right, suggesting the speaker is positioned below or to the right of the bubble. The lettering appears to be in a standard manga font style, with clean, bold characters that are evenly spaced and left-aligned within the bubble.",
+          "text": "SIN EMBARGO, AL PARECER LA RESPUESTA... HA SIDO REVELADA"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.95,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing the characteristic curved edge typical of dialogue balloons. The bubble appears to be white or very light colored against a darker background that features detailed screentone or halftone dot patterns creating a gradient effect from darker on the left to lighter toward the bubble. On the right edge, there are four small black dots arranged vertically, likely indicating an ellipsis or pause in dialogue (....). The line work is clean and precise, with smooth curves defining the bubble's border. The screentone background shows fine dot patterns typical of manga production techniques, creating atmospheric shading or indicating a specific mood or setting.",
+          "text": "..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.53,
+        0.52,
+        0.95
+      ],
+      "description": "Left panel showing a character with dark hair looking down",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel shows a partial view of a character rendered in classic black and white manga style. The character appears to be wearing light-colored clothing or armor with distinctive stitching or binding details visible as crossed lines across the garment. The art style features bold, clean linework with areas of solid black and white contrast. Heavy cross-hatching and parallel line shading techniques are used to create depth and texture, particularly visible in the background areas. Two speech bubbles contain Spanish text: 'NORMALMENTE, UNO ES...' in the upper bubble and 'FORZADO A RECIBIRLAS.' in the lower bubble. The composition shows only a portion of the character's torso and clothing, with dramatic shadowing creating a sense of tension or foreboding. The linework is confident with varying line weights, thicker for outlines and finer for interior details and shading patterns.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.35,
+            0.8,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel fragment shows a partial view of what appears to be a character's torso and clothing rendered in classic black and white manga style. The image features bold, confident line work with areas of solid black ink creating strong contrast. There are characteristic manga-style crosshatched shading patterns and diagonal line work typical of traditional manga art techniques. The composition shows what seems to be part of a speech bubble or panel border in the upper portion, with the character elements positioned below. The art style demonstrates typical manga rendering with clean, precise linework and strategic use of negative white space balanced against solid black areas and textured shading patterns.",
+          "text": "LA RESPUESTA QUE QUER\u00cdAS?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.52,
+        0.53,
+        1.0,
+        0.95
+      ],
+      "description": "Right panel showing a different character with a concerned expression",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.25,
+            0.85,
+            0.85
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up profile view of a male character with distinctive features. He has spiky, dark hair and is wearing glasses. His expression appears contemplative or serious as he looks to the side. The character is wearing what appears to be a dark jacket or coat with light-colored inner clothing visible. The art style employs typical manga techniques with clean, bold line work for outlines and detailed cross-hatching and screentones for shading, particularly visible on the clothing and hair. The composition is split into two vertical sections by a panel border. Spanish text is visible, with 'TAS' in the upper left and 'ACASO NO LO SABIAS?' (which translates to 'Didn't you know?') in the lower right, suggesting this is from a Spanish translation of the manga. The overall style is characteristic of seinen or shonen manga with realistic proportions and detailed linework.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.15,
+            0.95,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble rendered in classic black and white style with clean, bold outlines. The bubble has an organic, rounded shape with a distinctive tail or pointer extending from it to indicate the speaker. The interior is white/blank with no visible text. The surrounding area shows dramatic diagonal hatching lines and screentone patterns typical of manga art, creating a sense of motion or intensity. The line work is confident with varied line weights - thicker for the bubble's border and more delicate for the background texture work. The composition suggests this is part of a dynamic scene with strong directional elements radiating outward from the speech bubble area.",
+          "text": "HAS OBTENIDO..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.95,
+        0.82,
+        1.0
+      ],
+      "description": "Bottom left panel showing a bandaged character",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            0.9,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga illustration showing the side profile of a character's face and neck area. The character appears to have light-colored or white hair rendered with flowing, curved lines that suggest movement or wind. The art style uses clean, confident linework with varying line weights - thicker outer contours and finer detail lines. Cross-hatching and parallel line shading techniques are employed to create depth and shadow, particularly visible in the background areas which feature dense diagonal hatching patterns. The composition is cropped tightly, focusing on the character's jawline, neck, and hair, creating an intimate or dramatic moment. The contrast between the clean character rendering and the heavily textured background creates visual emphasis on the figure. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.4,
+            0.35,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble element from a manga panel. The visible portion shows the characteristic curved border of a speech bubble with clean, moderate line weight typical of manga artwork. The interior contains diagonal hatching or screentone patterns, which is a common technique in manga for creating texture, shadow effects, or indicating speech/thought patterns. The hatching consists of parallel diagonal lines creating a gray tone effect. The overall composition suggests this is likely part of a larger speech bubble that extends beyond the cropped frame, with the visible section showing the curved boundary and textured interior typical of manga dialogue or thought bubbles.",
+          "text": "NORMALMENTE, UNO ES..."
+        },
+        {
+          "bbox": [
+            0.05,
+            0.8,
+            0.35,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble or dialogue balloon from a manga panel. The visible portion shows the characteristic curved edge of a speech bubble with clean, bold black lineart typical of manga style. The interior appears to be white or very light, as is standard for speech bubbles. There are some fine diagonal hatching lines visible in what seems to be the background area outside the speech bubble, creating texture and depth. The hatching uses thin, parallel lines drawn at an angle, which is a common manga technique for indicating shadows, atmosphere, or background elements. The overall composition suggests this is just a small cropped section of a larger panel, with the speech bubble likely containing dialogue that extends beyond the visible area.",
+          "text": "FORZADO A RECIBIRLAS."
+        },
+        {
+          "bbox": [
+            0.55,
+            0.1,
+            0.85,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble's edge or tail, showing characteristic manga-style line work. The visible portion consists of clean, bold black outlines typical of speech bubble borders. There are diagonal hatching lines or speed lines radiating from what seems to be the pointed tail or connection point of the speech bubble. The hatching uses consistent parallel lines with medium line weight, creating a sense of emphasis or movement. The lines appear to be hand-drawn with confident strokes, showing the traditional manga inking technique. The composition suggests this is likely the lower or side portion of a speech bubble where it connects to indicate the speaker. No text is visible in this cropped section, only the structural linework of the bubble itself.",
+          "text": "UNO NO 'RECIBE' RESPUESTAS..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.82,
+        0.95,
+        1.0,
+        1.0
+      ],
+      "description": "Small bottom right panel showing partial character view",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This appears to be a heavily cropped portion of a manga character showing only a small section with minimal detail visible. The image shows what looks like part of a character rendered in typical manga style with clean, bold line work. The visible portion appears to be mostly white or very light colored, possibly representing clothing, skin, or hair. The art style follows standard manga conventions with crisp, defined black lines of varying weights. Due to the extreme cropping, specific details about pose, expression, or clothing are not discernible. No text is visible in this cropped section. The composition suggests this is a fragment from a larger panel where the character would have been more fully depicted.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.9,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble or dialogue balloon with clean, smooth curved edges typical of manga style. The bubble appears empty with no visible text content. The outline is drawn with thin, consistent black lines against a white or very light background. The shape is rounded and organic, following standard manga speech bubble conventions with what appears to be a small tail or pointer extending from one side to indicate the speaker, though the tail is partially cropped from view. The interior is completely white/blank with no shading, hatching, or texture effects.",
+          "text": "...ACASO NO LO SAB\u00cdAS?"
+        }
+      ]
+    }
+  ]
+}

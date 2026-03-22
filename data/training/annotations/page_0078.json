@@ -1,0 +1,217 @@
+{
+  "width": 942,
+  "height": 1400,
+  "description": "A manga page showing characters in what appears to be a mecha cockpit discussing a damaged Eva unit and tactical positioning. The page transitions from character dialogue to showing exterior views of mecha units.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.062,
+        0.0,
+        0.938,
+        0.46
+      ],
+      "description": "Two characters in a cockpit, with one pointing and speaking about a destroyed Eva unit",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.35,
+            0.4,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in two panels with dramatic emotional expressions. In the top panel, the character is shown in profile with spiky black hair, glasses, and an open mouth suggesting shouting or distress. Their face shows intense emotion with visible sweat drops. The art style uses bold black ink with clean line work and minimal shading. In the bottom panel, the same character is shown from a different angle with their head tilted down, hair falling over their face in a more subdued pose. The character appears to be wearing light-colored clothing. The art employs typical manga visual techniques including speed lines and emotional emphasis. Spanish text appears in speech bubbles reading 'UNO DE LOS EVAS HA SIDO DESTRUIDO!' in the top panel and 'PODR\u00cdA SER... QUE EL SUPUSE QUE ESTO IBA A' in the bottom panel. The overall composition emphasizes the character's emotional state through dynamic positioning and expressive linework.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.15,
+            0.8,
+            0.85
+          ],
+          "type": "character",
+          "description": "A manga character depicted in classic black and white style, showing a young person with shoulder-length dark hair and bangs framing their face. They're wearing what appears to be a military or pilot-style jacket with a high collar, featuring decorative elements including a cross symbol and rank insignia patches on the shoulders. The character has a serious, contemplative expression with large manga-style eyes looking slightly to the side. The art employs traditional manga techniques with clean line work, screentone shading for mid-tones, and crosshatching patterns in the background. The composition shows the character from roughly chest-up in a three-quarter view angle. At the bottom of the frame, there's a partial view of another character's dark hair. The overall style is consistent with classic manga artwork, featuring high contrast between black and white areas and detailed uniform rendering.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.4,
+            0.25,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel shows a close-up of a character's face in profile view, displaying intense emotion. The character has dark, tousled hair rendered with bold black strokes and appears to be wearing glasses. Their mouth is open in what seems to be an emotional outburst or shout. The art style features clean, confident line work with selective use of screentone dots for shading, particularly visible on the lower portion of the face/neck area. The character appears to be wearing what looks like a high-collared garment or uniform. Spanish text is visible in the speech bubble area, reading 'NO DE LOS LEVAS HA SIDO DESTRUIDO!' The overall composition emphasizes the character's emotional state through the dramatic angle and expressive linework typical of manga storytelling.",
+          "text": "UNO DE LOS EVAS HA SIDO DESTRUIDO!"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.25,
+            0.95,
+            0.55
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble containing Spanish text 'ES UN GOLPE DIRECTO' (meaning 'It's a direct hit'). The bubble has a clean, curved white border with black text in a standard manga font. The left side shows screentone/halftone pattern typical of manga backgrounds, while the right side is white. A small portion of what appears to be the speech bubble's tail or pointer is visible at the bottom left. The line work is clean and precise with solid black lettering against the white bubble interior, following typical manga speech bubble conventions.",
+          "text": "ES UN GOLPE DIRECTO!!"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background features a textured halftone dot pattern typical of manga printing, creating a gray atmospheric effect. The dotted screening technique uses varying density dots to create gradual tonal transitions across the background space. This screentone application provides depth and environmental context while maintaining the clean, high-contrast aesthetic characteristic of black and white manga artwork. The background serves as a neutral backdrop that allows the foreground characters and dialogue to stand out prominently, with the halftone pattern creating subtle visual interest without competing with the main visual elements.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.062,
+        0.49,
+        0.938,
+        0.774
+      ],
+      "description": "Close-up of the long-haired character speaking with a serious expression",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character with long, flowing black hair rendered in a dramatic style typical of manga artwork. The character appears to be wearing what looks like a jacket or uniform with the letter 'B' visible on it. The hair is drawn with bold, sweeping black strokes that create dynamic movement and volume. The art style uses clean line work with selective use of screentones for shading and texture effects. The composition shows the character from roughly chest-up, with the black hair dominating much of the visual space. There is Spanish text visible that reads 'ACASO... NO SE PUEDE HACER NADA?' (Perhaps... nothing can be done?). The overall aesthetic is consistent with modern manga styling, using high contrast between the solid black hair and white/gray toned areas, with precise linework defining the character's features and clothing details.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.45,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble containing Spanish text that reads 'CASO... NO SE PUEDE HACER' (Case... cannot be done/nothing can be done). The speech bubble appears in the lower left portion of the panel with typical manga-style clean black outlines. The text is rendered in a standard manga font style. The bubble is positioned against what appears to be an indoor setting with screened/hatched background textures and architectural elements like walls or furniture visible in the background. The overall art style uses clean line work with minimal shading, characteristic of manga illustration techniques.",
+          "text": "PODR\u00cdA SER... QUE \u00c9L SUPIESE QUE ESTO IBA A OCURRIR?"
+        },
+        {
+          "bbox": [
+            0.6,
+            0.1,
+            0.95,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This manga element shows a partial view of what appears to be a speech bubble or dialogue area in the upper portion, with some Japanese text visible but partially cut off. Below are two distinct panels: the left panel depicts an architectural interior view showing stairs with diagonal line hatching and geometric perspective lines typical of manga backgrounds. The right panel shows a minimalist composition with clean white space and simple curved lines suggesting an interior corner or surface. The art style uses traditional manga techniques with varied line weights - bold outlines for structural elements and fine hatching for depth and shadow. The overall composition demonstrates classic manga panel layout with clear geometric divisions and contrasting visual densities between the detailed architectural rendering and the sparse, clean spaces.",
+          "text": "NO HAY FORMA DE QUE ALGO COMO UN REFLEJO DE POSITRONES PUDIRSE HABERSE PREPARADO TAN R\u00c1PIDAMENTE."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.062,
+        0.794,
+        0.315,
+        1.0
+      ],
+      "description": "Technical diagram or schematic view showing mechanical details",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A detailed manga background showing architectural elements in black and white. The scene depicts what appears to be an urban setting with geometric building structures, including a gridded or windowed facade. The art style features clean line work with varied line weights, from thin architectural details to bold structural elements. Cross-hatching and screentone patterns are used for shading and texture. A speech bubble contains Spanish text reading 'ESTO TEN\u00cdA QUE OCURRIR.' (This had to happen). The composition shows angular perspectives typical of manga backgrounds, with strong geometric shapes creating depth and urban atmosphere. The overall tone is dramatic with high contrast between black lines and white/screentoned areas.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.9,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing Spanish text that reads 'ESTO TEN\u00cdA QUE OCU-RRIR.' (This had to happen). The text is split across multiple lines with a hyphenated word break. The speech bubble appears to be positioned over or adjacent to architectural elements including what looks like a building structure with crosshatched shading patterns. The manga art style shows typical black and white line work with screen tones and hatching techniques used for shading and texture. The composition shows geometric building forms with clean line weights and detailed architectural rendering typical of manga backgrounds.",
+          "text": "ACASO... NO SE PUEDE HACER NADA?"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.8,
+            0.9,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with a clean, rounded rectangular shape and a small tail pointer extending from the bottom left. The bubble appears empty with no visible text inside. The speech bubble has a thin black outline with consistent line weight, creating a crisp border against the white background. The interior is completely white with no shading or tone effects. The bubble's proportions are standard for manga dialogue, appearing moderately sized to accommodate typical speech text. The tail is positioned to indicate speech coming from a character located below and to the left of the bubble's position.",
+          "text": "ESTO TEN\u00cdA QUE OCURRIR."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.315,
+        0.794,
+        0.685,
+        1.0
+      ],
+      "description": "Wide shot of a large mecha unit in an industrial or hangar setting",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background depicts an urban industrial or residential setting rendered in black and white. The scene shows a multi-level structure with metal fire escape stairs featuring diagonal cross-bracing patterns. The architecture has a utilitarian feel with clean geometric lines and stark contrasts. The shading employs heavy black areas in the foreground creating depth, while the background buildings are rendered with lighter tones and screentone/halftone patterns. The composition uses strong diagonal elements from the staircase that lead the eye upward through the frame. The line work is clean and precise with consistent medium line weights throughout. The overall style is typical of seinen or josei manga with realistic architectural details and atmospheric perspective created through the gradation from dark foreground shadows to lighter background elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.4,
+            0.7,
+            0.9
+          ],
+          "type": "object",
+          "description": "A dark, cylindrical object rendered in dense black crosshatching and stippling technique. The object appears to be a rod or tube-like form with a smooth, rounded surface that gradually transitions from lighter tones at the top to deep black shadows at the bottom. The shading is created through fine, closely-spaced parallel lines and dotted texturing typical of manga illustration techniques. The object is positioned horizontally across the frame against a white background, creating strong contrast. The line work is precise and controlled, with varying densities of hatching to suggest the three-dimensional form and metallic or hard surface texture of the cylindrical object.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.685,
+        0.794,
+        0.938,
+        1.0
+      ],
+      "description": "Close-up technical view of mecha components or controls",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts a detailed mechanical or industrial interior setting. The artwork shows various mechanical components including pipes, valves, gauges, and what appears to be part of a control panel or machinery housing. The art style employs classic manga techniques with clean, precise line work of varying weights - thicker lines define major structural elements while thinner lines detail smaller mechanical components. Extensive use of screen tones creates depth and texture, particularly visible in the cross-hatched and dotted patterns that give dimension to the metallic surfaces. The composition shows these mechanical elements from a close-up perspective, creating an intricate, technical atmosphere typical of sci-fi or industrial manga settings. The shading uses a combination of solid blacks and graduated tones to establish form and lighting, giving the machinery a three-dimensional quality against the detailed background.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A manga page showing an emotional conversation between two characters, with one character expressing concern about the other dying, followed by a promise being made.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.635
+      ],
+      "description": "Large panel showing two characters in close proximity, with one character's face prominently featured on the right side",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel features two views of the same character - a young person with long, light-colored hair and large expressive eyes typical of manga art style. In the upper panel, the character is shown from a low angle perspective, wearing what appears to be a dark uniform or jacket with multiple buttons. Their expression shows concern or distress, with slightly furrowed brows. The character appears to be reaching toward or interacting with another figure whose white clothing is partially visible. The lower panel shows a closer view of the same character's face, displaying a more melancholic or troubled expression with downcast eyes. The art employs typical manga techniques including screentone shading, clean line work of medium weight, and minimal background details. Text bubbles contain dialogue in what appears to be Spanish, reading 'QUE IKARI-KUN MUERA.' in the upper panel and 'NO SE SI LLAMARTE CHICA MARAVILLA O SIMPLEMENTE ROBOT.' in the lower panel. The overall composition creates a sense of emotional tension and dramatic dialogue exchange.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows two scenes of what appears to be the same character. In the top panel, we see a dramatic close-up of a character's torso and lower face area, with flowing hair rendered in dynamic, sweeping lines. The character appears to be wearing light-colored clothing with detailed fabric folds and shadows. There's a speech bubble containing 'NO PERMI-TIRE...' The art style uses clean line work with selective cross-hatching and screentone shading. In the bottom panel, we see the same character from a different angle - a young person with medium-length hair and large eyes in typical manga style. They're wearing what appears to be a dark collar or choker. There's Spanish text in a speech bubble reading 'HMPH... EST\u00c1S SIGUIENDO LAS \u00d3RDENES DEL COMANDANTE, NO ES AS\u00cd?' The character has a somewhat serious or questioning expression. The panels use high contrast black and white with screentone patterns for shading and background elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.55,
+            0.35,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "A partial manga panel showing a white speech bubble in the upper left area, with clean black outlines typical of manga style. The bubble appears empty of text. Below and to the right, there is a figure rendered in screentone/halftone pattern showing what appears to be someone in fitted clothing or possibly a uniform. The figure is drawn with bold black contour lines and filled with gray dotted screening typical of manga production. The composition shows only a torso and partial limbs, with the figure positioned at an angle. The art style uses classic manga techniques with strong line weights for outlines and mechanical toning for shading and fill areas.",
+          "text": "QUE IKARI-KUN MUERA."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.28,
+            0.95,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with distinctive jagged, spiky edges that create an aggressive or intense visual effect. The bubble appears to be empty of text, showing only white/negative space within its borders. The jagged edges are drawn with bold, angular lines that vary in thickness, creating a dynamic, explosive quality typical of action or emotional outburst scenes in manga. The bubble is positioned in the upper portion of the frame, with parts of character anatomy visible - including what appears to be a neck/collar area and clothing rendered in typical manga style with clean linework and subtle cross-hatched shading. The overall composition suggests this is meant to convey shouting, anger, or dramatic emphasis in the narrative flow.",
+          "text": "NO PERMI-TIRE..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.635,
+        1.0,
+        0.9
+      ],
+      "description": "Two side-by-side panels showing character dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up view of a manga character's face and upper body, shown from a low angle perspective. The character has long, straight hair that falls in angular sections around their face. Their visible eye is drawn in typical manga style with a large, round pupil and defined eyelashes. The character appears to be wearing light-colored clothing. The art style uses clean, bold line work for outlines with screentone/halftone shading patterns to create depth and shadow effects. The composition emphasizes the character's face through the dramatic low-angle viewpoint. There is some partial text visible in the upper right corner that appears to read 'YO' and 'UN' but is cut off by the cropping. The overall aesthetic is consistent with modern manga illustration techniques, using a combination of solid blacks, whites, and dotted/screentone gray values.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.5,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character speaking, with only a portion of their face visible in the frame. The character appears to be positioned on the left side of the panel, with their rounded head/face outline clearly defined by clean black lines. The character is speaking the text 'YO HICE UNA PROMESA.' (Spanish for 'I made a promise'). The art style features typical manga characteristics with clean line work and subtle screentone shading visible in the background. The composition uses a large speech bubble that dominates the right portion of the panel, creating a strong contrast with the white interior against the dotted screentone pattern in the background. The overall layout suggests this is a moment of dialogue or internal monologue, with the character's partial visibility adding dramatic emphasis to their words.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.1,
+            0.25,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of what appears to be a speech bubble or panel border in black and white manga style. The image shows clean, bold black lines forming angular geometric shapes against a screentone/halftone dotted background. The linework is consistent and precise, typical of professional manga illustration. The composition shows triangular or pointed shapes that could be part of a speech bubble tail or geometric panel border. The screentone pattern provides texture and contrast, creating depth in the monochromatic artwork. No text is visible in this cropped section.",
+          "text": "NO SE SI LLAMARTE CHICA MA-RAVILLA O SIMPLEMEN-TE ROBOT."
+        },
+        {
+          "bbox": [
+            0.52,
+            0.15,
+            0.75,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a speech bubble showing only the curved left edge and interior. The bubble has a clean, bold black outline with consistent line weight typical of manga speech bubbles. The interior is filled with fine stippled or dotted shading texture rather than solid white, creating a subtle gray tone. The shading appears to be created through screen tone or dense stippling technique, giving it a soft, textured appearance. The visible curved edge suggests this is likely part of a larger rounded or oval speech bubble that extends beyond the cropped frame. No text is visible in this cropped portion. The overall style is clean and professional, consistent with standard manga visual conventions for dialogue containers.",
+          "text": "HMPH. ESTAS SIGUIENDO LAS ORDE-NES DEL COMANDANTE, NO ES ASI?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.9,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom panel showing a character's face with a speech bubble",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga panel shows a partial view of a character rendered in typical manga black and white style. The visible portion displays flowing, dynamic hair with characteristic manga-style strand definition and movement lines. The hair appears to be light-colored or highlighted, rendered with detailed line work and layered strands that suggest motion or wind. The art style features clean, confident line weights with varying thickness - thicker outlines for definition and thinner internal lines for detail. Screen tone/halftone shading is visible in the background and possibly on the hair, creating depth and texture. The composition suggests this is likely part of a larger action scene or emotional moment, with the hair's dramatic flow indicating movement or intensity. No text is clearly visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.2,
+            0.7,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial speech bubble or dialogue balloon from a manga panel. The element shows clean, bold black outline strokes that curve to form the characteristic rounded shape of a speech bubble. The interior is filled with white space, typical of manga speech bubbles. The line weight is consistent and medium thickness, drawn with confident, smooth curves. There appears to be some screentone or halftone pattern visible in the background area outside the speech bubble, creating a textured gray gradient effect. The bubble appears to be positioned in the upper portion of the panel based on the visible composition. No text is visible in this cropped portion of the speech bubble. The art style is clean and professional, consistent with modern manga illustration techniques.",
+          "text": "YO HICE UNA PRO-MESA."
+        }
+      ]
+    }
+  ]
+}

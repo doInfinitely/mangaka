@@ -1,0 +1,96 @@
+{
+  "width": 944,
+  "height": 1400,
+  "description": "This is a title page for a manga chapter, featuring the title 'Re-Take Vol. 64' and a dedication 'Para todos los jovenes de ese dia' (For all the young people of that day) along with translation credits.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full page title panel with text overlaid on a dark textured background",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This is a title page or credits page with a dark, textured background that appears to be rendered in deep brown or sepia tones with organic, mottled patterns suggesting aged paper or leather texture. The background has subtle variations in tone and grain that create depth and atmosphere. Overlaid on this textured background is white text in an elegant serif font, arranged vertically in a centered composition. The text reads 'RE-TAKE' at the top, followed by 'VOL. 64', then the main title 'PARA TODOS LOS JOVENES DE ESE DIA' (Spanish for 'For all the young people of that day'), and at the bottom 'TRADUCCION' and 'LORD MORPHEUS' indicating translation credits. The typography has a classic, formal appearance with consistent spacing and alignment. The overall aesthetic suggests this is likely a chapter title page or volume opener for a Spanish translation of a manga series, with the textured background providing an atmospheric, vintage feel that complements the formal presentation of the text.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.42,
+            0.16,
+            0.58,
+            0.21
+          ],
+          "type": "sfx",
+          "description": "A sound effect text reading 'RE-TAKE' rendered in white serif lettering against a dark, heavily textured background. The text appears to be hand-drawn with bold, confident strokes typical of manga typography. The background features dense cross-hatching and heavy black shading that creates a dramatic, high-contrast effect. The lettering style is clean and readable despite the rough, organic texture of the surrounding dark areas. The composition places the text centrally within the cropped frame, with the dark textured background filling the remaining space around it.",
+          "text": "RE-TAKE"
+        },
+        {
+          "bbox": [
+            0.41,
+            0.23,
+            0.54,
+            0.25
+          ],
+          "type": "sfx",
+          "description": "A sound effect (sfx) element rendered in white text against a dark background. The visible portion shows partial lettering that appears to be cut off, with bold, stylized manga-typical sound effect typography. The text has a thick, outlined appearance characteristic of impact sound effects in manga. The dark background suggests this sfx is overlaid on a shadowed or nighttime scene. The lettering style is angular and dynamic, typical of action or movement sound effects used in manga to convey dramatic moments or sudden actions.",
+          "text": "VOL. 04"
+        },
+        {
+          "bbox": [
+            0.39,
+            0.33,
+            0.61,
+            0.55
+          ],
+          "type": "sfx",
+          "description": "This appears to be a sound effect (SFX) text element with Spanish text reading 'PARA TODOS LOS JOVENES DE ESE DIA' (For all the young people of that day). The text is rendered in white italic serif font against a dark, heavily textured background with dense crosshatching or screening effects. The lettering has a dramatic, slanted presentation typical of manga sound effects or narrative text overlays. The background shows deep shadows created through intensive parallel line work and dot screening techniques common in manga art, creating a moody, atmospheric effect behind the prominent white text.",
+          "text": "PARA TODOS LOS JOVENES DE ESE DIA"
+        },
+        {
+          "bbox": [
+            0.38,
+            0.63,
+            0.54,
+            0.66
+          ],
+          "type": "sfx",
+          "description": "This appears to be a sound effect (SFX) text element from a manga panel, showing white katakana characters against a dark, heavily hatched background. The text appears to be rendered in a bold, angular font typical of manga sound effects. The background features dense cross-hatching or screentone patterns creating a dark, textured surface. The white text contrasts sharply against this dark background, suggesting this may be representing a loud or impactful sound. The cropped nature of the image shows only partial characters, making the complete sound effect difficult to read, but the style is consistent with typical manga onomatopoeia used to convey action or environmental sounds.",
+          "text": "TRADUCCION"
+        },
+        {
+          "bbox": [
+            0.34,
+            0.68,
+            0.58,
+            0.73
+          ],
+          "type": "sfx",
+          "description": "This appears to be a sound effect (SFX) element rendered in a dark, heavily textured style. The visual consists of dense, irregular black markings that create a rough, scratchy texture across the entire frame. The marks appear to be created with heavy crosshatching or stippling techniques, giving it an organic, almost fur-like or grass-like appearance. The linework is very dense with varying line weights, creating deep shadows and a sense of movement or rustling. There is no clearly legible text visible, as this appears to be an abstract textural sound effect meant to convey ambient noise like wind through foliage, rustling, or a similar atmospheric sound. The composition fills the frame uniformly with this textured pattern, creating an immersive environmental effect typical of manga's visual sound representation.",
+          "text": "LORD MORPHEUS"
+        },
+        {
+          "bbox": [
+            0.02,
+            0.96,
+            0.05,
+            0.98
+          ],
+          "type": "sfx",
+          "description": "This appears to be a dark, textured sound effect (SFX) element with a rough, organic appearance. The visual consists of dense, irregular crosshatching and heavy black ink work creating a mottled, almost bark-like or rock-like texture. The linework is thick and chaotic, with overlapping strokes that create deep shadows and a sense of roughness or decay. The overall shape is amorphous and fills the cropped frame completely. The heavy use of black ink and dense crosshatching suggests this likely represents a sound of impact, crumbling, or some kind of rough, grinding noise. The art style is typical of manga SFX work, using purely visual texture to convey auditory information without readable text characters.",
+          "text": "4"
+        }
+      ]
+    }
+  ]
+}

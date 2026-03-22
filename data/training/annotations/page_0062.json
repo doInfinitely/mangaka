@@ -1,0 +1,118 @@
+{
+  "width": 1280,
+  "height": 909,
+  "description": "A dramatic manga page showing characters in what appears to be an intense confrontation scene, with dynamic action and dialogue in Spanish",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.4,
+        1.0
+      ],
+      "description": "Left panel showing close-up of a character with light hair looking serious",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.3,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A melancholic manga character portrait showing a young person with long, flowing hair partially covering their face. The character displays a sorrowful expression with downcast eyes and a slight frown. They appear to be wearing dark clothing with what looks like straps or harnesses across their chest/shoulder area. The art style features clean, precise linework with varying line weights - thicker outlines for the character's silhouette and finer lines for hair strands and facial details. Subtle screen tones and shading are used to create depth, particularly in the hair and clothing. The composition shows the character from roughly chest-up in a three-quarter view. There is small text visible that appears to read 'TU ATAU' in the lower portion of the image. The overall mood conveyed is one of sadness or contemplation, emphasized by the character's posture and expression.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.4
+          ],
+          "type": "background",
+          "description": "This manga panel background shows a dramatic close-up composition featuring characters with flowing hair rendered in typical manga style. The image uses stark black and white contrasts with detailed screentone/halftone shading patterns. The hair is drawn with flowing, dynamic lines suggesting movement or wind. There's a speech bubble containing Spanish text 'LO HE PREPARADO PARA TI.' The composition creates an intimate, dramatic moment with the characters positioned close together. The line work varies from bold outlines to delicate hair details, and the shading employs both solid blacks and gradient screentones to create depth and atmosphere. The cropped nature focuses on the upper portions of the figures, emphasizing the hair and the dialogue exchange.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.9,
+            0.4,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble element rendered in typical manga style with clean black outlines of medium line weight. The bubble appears to be cut off at the edges of the crop, showing curved borders characteristic of speech balloons. The interior is filled with fine dot-pattern screentone (halftone), creating a light gray textured background commonly used in manga for speech bubbles or background elements. The screentone pattern consists of evenly distributed small dots that create a subtle gradient effect. No text is visible within this cropped portion of the speech bubble. The overall style is consistent with traditional black and white manga artwork, emphasizing clean lineart and professional screentone application.",
+          "text": "TU ATA\u00daD."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.4,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Large right panel showing action scene with multiple characters",
+      "elements": [
+        {
+          "bbox": [
+            0.55,
+            0.05,
+            0.85,
+            0.25
+          ],
+          "type": "speech_bubble",
+          "description": "This is a minimalist speech bubble rendered in classic manga style with clean, thin black lineart. The bubble appears as a simple oval or rounded rectangular shape with stark white fill and no visible text content. The bubble is positioned in the upper portion of the frame against a white background with subtle diagonal speed lines or motion lines crossing through the composition. The lineart is delicate and precise, typical of shoujo or josei manga aesthetics. Below the speech bubble, partial views of what appear to be two manga characters are visible - one with dark hair on the left side and another with lighter colored hair on the right, both rendered with fine line weights and soft shading techniques. The overall composition suggests this is from a conversational scene between characters, with the empty speech bubble potentially indicating a pause in dialogue or an unspoken moment.",
+          "text": "LO HE PREPARADO PARA TI."
+        },
+        {
+          "bbox": [
+            0.7,
+            0.15,
+            1.0,
+            0.6
+          ],
+          "type": "character",
+          "description": "A manga character depicted in black and white with detailed shading. The figure appears to be a young woman with long, flowing hair that has twin-tail or pigtail styling. She's wearing what appears to be a form-fitting bodysuit or plugsuit with the number '02' visible on the chest area. The suit has a futuristic or mecha pilot aesthetic with various panels and design elements. Her expression appears somewhat melancholic or serious, with her head tilted slightly downward and eyes partially obscured by her bangs. The art style features clean, precise line work with varied line weights - thicker outlines for the character's silhouette and finer lines for internal details. The shading uses a combination of solid gray tones and screentone patterns typical of manga artwork. Dynamic speed lines or motion lines are visible in the background, suggesting movement or dramatic tension. The composition shows the character from roughly a three-quarter view angle, positioned centrally within the frame.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.3,
+            0.7,
+            1.0
+          ],
+          "type": "object",
+          "description": "This manga panel shows a close-up view of a character's legs and feet in a resting or reclining position. The legs are drawn with clean, confident line work typical of manga art style, with the character wearing what appears to be loose-fitting pants or clothing. The shading is executed through a combination of screentone (halftone dots) and crosshatching techniques, creating depth and volume in the fabric folds and shadows. The composition shows the legs positioned diagonally across the frame, with the feet relaxed and slightly separated. The background features geometric panel divisions with thin black lines, and there are areas of detailed crosshatching that suggest shadows or environmental textures. The overall art style demonstrates typical manga conventions with clean lineart, varied line weights for emphasis, and strategic use of screentones for atmospheric shading. No visible text appears in this cropped section of the panel.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.4
+          ],
+          "type": "background",
+          "description": "A dramatic manga background featuring an interior architectural space with strong perspective lines. The scene shows what appears to be a modern building interior with large vertical window panels or glass walls creating a corridor-like space. Dynamic diagonal speed lines slash across the upper portion of the panel, creating intense motion and energy. The linework uses bold, confident strokes with stark black and white contrast typical of manga art. The perspective draws the eye toward a vanishing point, emphasizing depth and scale. The architectural elements are rendered with clean, geometric precision while the speed lines add chaotic energy to contrast the structured environment. No text is visible in this background element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts a dramatic action scene with dynamic speed lines and motion effects. The composition shows a female character with long flowing hair in a form-fitting bodysuit positioned in the center-right, appearing to be in motion or combat. The art style features bold, clean line work with heavy use of diagonal speed lines radiating across the panel to convey intense movement and impact. The background shows what appears to be structural elements like pillars or beams, rendered with crosshatching and solid black shadows for depth. The overall visual effect creates a sense of explosive action or high-speed movement, with the speed lines dominating the composition and drawing focus to the central action. The monochromatic black and white artwork uses varying line weights and tonal contrasts to create dramatic visual impact typical of action manga sequences.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

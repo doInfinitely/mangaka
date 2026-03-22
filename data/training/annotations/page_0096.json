@@ -1,0 +1,151 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A dynamic action sequence showing a character with a gun in what appears to be a tense confrontation, followed by reaction shots of other characters showing shock and concern.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.72
+      ],
+      "description": "Large action panel showing a character with a weapon amid dramatic speed lines and debris",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.15,
+            0.6,
+            0.85
+          ],
+          "type": "character",
+          "description": "This manga panel depicts a dramatic action scene featuring a character wielding what appears to be a long staff or pole weapon. The character is shown from a dynamic low angle, emphasizing the power and motion of their attack. The figure is rendered in typical manga style with bold, confident linework and high contrast black and white areas. The character appears to be wearing flowing clothing or robes that billow with the movement. The composition is filled with speed lines and motion effects radiating outward, creating a sense of explosive force and impact. Debris and fragmented shapes scatter across the frame, suggesting destruction or the aftermath of a powerful strike. The linework varies from thick, bold outlines for the main figure to finer detail work in the background elements. Screen tones and hatching are used sparingly but effectively to create depth and texture. The overall composition is diagonal and dynamic, with the character's weapon creating strong directional lines that guide the eye through the explosive action scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts an intense action sequence with dramatic speed lines and motion effects. The composition features bold, dynamic diagonal lines radiating across the entire frame, creating a powerful sense of movement and impact. The linework varies from thick, bold strokes to fine detail lines, with heavy use of parallel hatching and crosshatching for shading. In the lower portion, there appears to be a character or figure rendered in high contrast black and white, partially obscured by the motion lines. The overall style is typical of action manga, with emphasis on kinetic energy through the extensive use of speed lines that dominate the composition. The spatial arrangement creates depth through overlapping diagonal elements that draw the eye across the frame. The stark black and white contrast with selective use of screentone creates a dramatic, high-impact visual effect characteristic of intense battle or action scenes in manga.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.0,
+            1.0,
+            0.6
+          ],
+          "type": "background",
+          "description": "This manga background element depicts a dramatic architectural interior scene rendered in black and white with strong linear perspective. The composition shows what appears to be a staircase or stepped platform structure with bold diagonal lines creating dynamic movement across the frame. The art style employs varying line weights, with thick bold strokes defining the major structural elements and thinner lines adding detail and texture. Heavy black shadows and solid fills create strong contrast against the white spaces. Cross-hatching and speed lines are used throughout to suggest depth, movement, and atmospheric effects. The perspective is angled and dramatic, with converging lines that draw the eye through the composition. A small hand or gloved appendage is visible in the lower right portion, suggesting a character's presence within this architectural space. The overall style is characteristic of action manga, with emphatic linework and dynamic spatial relationships that create tension and movement within the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.2,
+            0.95,
+            0.45
+          ],
+          "type": "object",
+          "description": "A detailed manga illustration of a hand gripping what appears to be a handrail or bannister. The hand is drawn with clean, confident line work typical of manga art style, showing defined fingers wrapped around a cylindrical rail. The composition features dramatic diagonal speed lines radiating outward, creating a sense of movement or tension. The linework varies in weight, with bolder strokes for the hand and rail contrasting against the thinner speed lines. The shading is minimal but effective, using selective black fills and white space to create depth and dimension. The diagonal composition and dynamic line work suggest motion, urgency, or dramatic emphasis typical of action manga sequences.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.72,
+        0.35,
+        1.0
+      ],
+      "description": "Close-up panel of a character's shocked eye",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "A close-up view of a manga character's face showing a large, expressive eye with detailed linework. The eye features a prominent pupil with a small highlight, surrounded by multiple eyelashes drawn with varying line weights. Above the eye is a curved eyebrow rendered in bold, dark strokes. The character appears to have tears or sweat drops indicated by small curved lines near the lower portion of the visible face area. The art style employs clean, confident linework typical of manga illustration, with bold outlines and minimal shading. The composition shows only a partial view of the face, focusing primarily on the eye region. A panel border is visible on the right edge, indicating this is part of a larger manga page layout. The overall style suggests this is from a contemporary manga with expressive character art.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.35,
+        0.72,
+        0.65,
+        1.0
+      ],
+      "description": "Panel showing a gun being fired",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.2,
+            0.8,
+            0.8
+          ],
+          "type": "object",
+          "description": "A close-up view of a mechanical object, likely part of a weapon or device, rendered in typical manga black and white style. The object features a curved, metallic surface with several circular elements - including what appears to be a large central gear or wheel mechanism with visible teeth, and smaller circular components that could be bolts, rivets, or mechanical details. The artwork employs clean, precise line work with mechanical cross-hatching and dot screening (screentone) to create texture and depth on the metallic surfaces. The shading uses a combination of solid blacks and halftone patterns typical of manga printing techniques. The composition shows the object at an angle, creating a sense of dimensionality, with strong contrast between the dark mechanical elements and lighter background areas. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect element depicts a close-up view of what appears to be a weapon or mechanical device with circular components, possibly gun barrels or missile launchers. The object has a metallic appearance with distinctive circular openings or ports visible. The art style employs typical manga techniques with bold black linework and screentone/halftone shading patterns to create texture and dimensionality. The composition shows the object at an angle, creating a sense of depth and movement. Speed lines or action lines radiate from around the object, emphasizing motion or impact. The overall visual treatment suggests this is part of an action sequence, with the stark black and white contrast and dynamic linework typical of manga battle scenes. No visible text appears in this cropped element.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.65,
+        0.72,
+        1.0,
+        1.0
+      ],
+      "description": "Panel showing a dark-haired character's shocked reaction",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in profile view, positioned in the lower portion of the frame. The character has dark, messy hair with jagged bangs covering part of their face. Their expression appears shocked or surprised, with their mouth open. They're wearing what looks like a dark-colored top or jacket. The art style features clean, bold line work typical of manga, with minimal shading and screentone effects used sparingly. The composition creates dramatic tension through the character's positioning and expression. In the upper right corner, there's dialogue text reading 'AYA...!!' in capital letters, suggesting the character is calling out someone's name with urgency or surprise. The background is largely white space, focusing attention on the character's emotional reaction.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.15,
+            0.95,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble border visible in the upper portion of the image, showing clean black line work with consistent medium line weight. The bubble appears to have the typical rounded rectangular shape common in manga, with smooth curved corners. Only a small section of the border is visible, suggesting this is either the edge or corner of a larger speech bubble that extends beyond the cropped area. The line work is crisp and uniform, executed in traditional manga style with solid black ink against a white background. No text is visible within this cropped section, and no shading or tone effects are present on the bubble itself.",
+          "text": "AYA ...!!"
+        }
+      ]
+    }
+  ]
+}

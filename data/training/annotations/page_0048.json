@@ -1,0 +1,129 @@
+{
+  "width": 937,
+  "height": 1400,
+  "description": "A dramatic action sequence showing characters in conflict, with one character expressing they cannot let another leave, followed by an emotional moment where a character apologizes.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.588
+      ],
+      "description": "Action scene with multiple characters engaged in combat or struggle",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.227,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character's face in extreme close-up, depicted in a typical black and white manga art style. The character has large, wide eyes with detailed iris rendering and appears to be peering around or through something, creating a sense of curiosity or surprise. The character has spiky, angular hair rendered with sharp, defined lines. The facial expression conveys alertness or mild shock, with the mouth slightly open. The art uses clean line work with minimal shading, primarily relying on solid blacks and whites with some screentone halftone patterns visible in the background areas. Below the main face panel is a smaller panel showing what appears to be hands gripping or holding onto vertical bars or poles, rendered with heavy black ink and dynamic line work suggesting tension or urgency. The composition creates a sense of the character hiding behind or looking through some kind of barrier or obstruction.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.227,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows two characters in a dynamic action sequence. The upper character has messy, spiky hair and appears to be in motion, wearing what looks like a sleeveless top or vest. Below them is another character with shorter, more controlled hair styling. The art style features bold, confident line work with varied line weights - thicker outlines for character definition and thinner lines for details. Screen tones and hatching are used for shading, particularly visible on clothing and background elements. There are circular mechanical or technological elements visible, possibly part of machinery or equipment, rendered with precise geometric shapes and screen tone patterns. The composition suggests intense movement or action, with dynamic angles and positioning. A letter 'D' is visible in a speech bubble or sound effect in the lower left area of the panel. The overall style is typical of action manga with clean lineart and strategic use of screen tones for depth and contrast.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.435,
+            0.76,
+            0.565,
+            0.92
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a close-up detail of what appears to be clothing or fabric rendered in black and white. The image features bold, confident line work with varying line weights - thicker lines define the main contours while thinner lines suggest fabric folds and details. There are diagonal hatching lines in the upper portion that create shadow and depth. The composition shows curved and angular forms that suggest the draping or movement of clothing, possibly part of a garment like a sleeve or collar. The art style is clean and minimalist, typical of modern manga illustration techniques, with strong contrast between the black lines and white negative space. No text is visible in this cropped element.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.588,
+        1.0,
+        0.933
+      ],
+      "description": "Wide panel showing destruction or aftermath with various objects scattered",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel shows a dramatic close-up composition with two main sections. The upper portion features intricate mechanical or clockwork elements with detailed cross-hatching and screentone shading, creating a complex textural background with gears, mechanical parts, and angular geometric forms. The lower section presents a stark contrast with a character's profile rendered in clean, bold lines against a predominantly white background with minimal shading. The character appears to be speaking, with their mouth slightly open in profile view. Two speech bubbles contain Spanish text: 'NO PUEDO DEJAR QUE TE VAYAS.' on the left and 'LO SIENTO AYANAMI.' on the right. The composition uses dramatic contrast between the heavily detailed mechanical upper section and the clean, minimalist character portrayal below, creating visual tension and emphasis on the dialogue.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.3,
+            0.8
+          ],
+          "type": "sfx",
+          "description": "This manga panel features a dramatic sound effect (SFX) rendered in bold, angular lettering at the top left. The SFX appears to be expressing impact or explosive action, drawn with thick, dynamic strokes that create a sense of violent motion. Below this is a two-panel sequence: the upper panel shows what appears to be characters in an intense action scene with heavy cross-hatching and speed lines creating dramatic shading and movement. The lower panel contains a large white speech bubble against a black background with Spanish text reading 'NO PUEDO DEJAR QUE TE VAYAS' (I can't let you go). The art style employs classic manga techniques with bold line weights, dramatic contrasts between black and white areas, and energetic cross-hatching patterns typical of action sequences. The composition creates a sense of urgency and emotional intensity through the stark visual contrast between panels.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.933,
+        1.0,
+        1.0
+      ],
+      "description": "Close-up emotional panel with dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "A partial white speech bubble with clean black outlines is visible in the upper portion of the image. The bubble appears to be cut off at the top and sides, showing only the bottom curved edge and part of the side walls. The line work is consistent with typical manga styling - bold, clean black lines of medium weight defining the bubble's border. The interior is pure white, suggesting it either contains no text or the text has been cropped out. The bubble's shape follows standard manga conventions with smooth, rounded curves. The composition shows this as a fragment of a larger panel, with the bubble positioned in what would likely be the upper area of the full speech bubble.",
+          "text": "NO PUEDO DEJAR QUE TE VAYAS."
+        },
+        {
+          "bbox": [
+            0.5,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga element shows a partial view of a character rendered in clean, minimalist line art typical of manga style. The image captures what appears to be an arm or limb in a dynamic pose, drawn with confident, flowing black lines of moderate weight. The linework is precise and economical, using smooth curves and angular transitions. There is minimal shading or hatching - the artwork relies primarily on clean contour lines to define form and movement. The composition shows the limb extending across the frame in a diagonal orientation, suggesting motion or gesture. The white background emphasizes the stark contrast of the black linework. No clothing details or text are visible in this cropped section. The art style is characteristic of modern manga with its emphasis on clean, expressive linework over detailed rendering.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.1,
+            0.95,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble outline in typical manga style. The visible portion shows clean, bold black lines forming the characteristic curved and angular edges of a speech bubble border. The lines have consistent weight and are drawn with the sharp, precise style common in manga artwork. The bubble appears to be cropped, showing only fragments of what would be the complete speech bubble perimeter. The lines create angular corners and smooth curves that would typically contain dialogue text. No text is visible within this cropped section. The background is white/blank, emphasizing the stark black lineart. The drawing style suggests this is from a professionally produced manga with clean, confident line work.",
+          "text": "LO SIENTO AYANAMI."
+        }
+      ]
+    }
+  ]
+}

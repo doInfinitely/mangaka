@@ -1,0 +1,96 @@
+{
+  "width": 1280,
+  "height": 913,
+  "description": "A dramatic manga page showing mechas or robots in combat, with one fallen mecha and another standing figure observing the scene. The page contains Spanish text indicating sound effects and dialogue about destiny.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Single large panel showing a battle scene with fallen mechas and a standing character observing",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.45,
+            0.8
+          ],
+          "type": "character",
+          "description": "A manga character depicted in a dramatic low-angle view, wearing what appears to be a white hooded garment or cloak. The character has distinctive animal-like features including pointed ears and what seems to be a mask or face covering with dark markings around one eye area. The figure is holding or reading from a book or document. There's Spanish text visible that reads 'EL SONIDO DE UN HOMBRE... TOCANDO A LAS PUERTAS DEL DESTINO' (The sound of a man... knocking at destiny's doors). The art style features clean, bold line work with selective use of black fills and gray tones. The composition uses dramatic perspective with the character positioned above the viewer's eye level, creating an imposing presence. The shading is minimal but effective, using solid blacks and screentones rather than detailed hatching. The overall aesthetic is typical of modern manga with high contrast and dynamic positioning.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.55,
+            0.0,
+            1.0,
+            0.8
+          ],
+          "type": "character",
+          "description": "A dramatic manga panel featuring a large mecha or robot viewed from a low angle perspective. The mecha has a distinctive black and white color scheme with heavy angular armor plating and mechanical details. The art style employs bold, thick line weights for the mecha's contours with detailed cross-hatching and screentone shading to create depth and dimension. In the lower portion of the panel, a human figure with dark hair is shown from behind, looking up at the towering machine, emphasizing the massive scale difference. A speech bubble contains Spanish text 'AS\u00cd QUE ESO ERA...' The composition uses dramatic perspective and negative white space to create a sense of awe and intimidation. The ground is rendered with parallel hatching lines suggesting a concrete or paved surface. The overall artistic technique demonstrates classic manga visual storytelling with strong contrasts between black ink areas and white spaces.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.85,
+            0.7,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character from behind in a three-quarter view, with long black hair that has jagged, somewhat messy ends. The character is wearing what appears to be a light-colored jacket or shirt with simple line work defining the fabric folds and seams. The art style employs clean, confident line work with varied line weights - thicker outlines for the silhouette and hair, and thinner lines for clothing details. The shading is minimal, using solid black areas for the hair and subtle line work to suggest the form and draping of the clothing. The composition is cropped to focus on the upper torso and back of the head, creating an intimate, contemplative mood. The background appears to be blank or very lightly toned. No text is visible in this cropped section. The overall style is characteristic of contemporary manga with its clean linework and economical use of shading.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.25,
+            0.25,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing Spanish text that reads 'EL SONIDO DE UN HOMBRE TOCANDO A LAS PUERTAS DEL...' The bubble has a clean white background with black text in a standard manga font. The bubble's border is drawn with consistent black lineart typical of manga style. The text is arranged in multiple lines within the bubble's boundaries. The speech bubble appears to be positioned over or near a character illustration, with partial view of what seems to be clothing or fabric with typical manga-style line work and shading patterns visible in the background. The overall art style features clean black and white lineart with screentone or hatching patterns for shading effects, characteristic of traditional manga illustration techniques.",
+          "text": "EL SONIDO DE UN HOMBRE... TOCANDO A LAS PUERTAS DEL DESTINO"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.95,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with rounded edges containing Spanish text 'S\u00ed. QUE ESO ERA...' in black lettering. The bubble is positioned against a high-contrast black and white manga background featuring bold, angular shapes and heavy black shadows. The art style shows typical manga characteristics with clean line work, stark contrasts between black and white areas, and geometric composition. The speech bubble appears to be emerging from or near what looks like part of a vehicle or mechanical object rendered in the dramatic black and white style. The overall composition uses strong directional lines and negative space effectively, creating a dynamic visual flow around the speech bubble.",
+          "text": "AS\u00cd QUE ESO ERA..."
+        },
+        {
+          "bbox": [
+            0.4,
+            0.15,
+            0.65,
+            0.45
+          ],
+          "type": "background",
+          "description": "Rocky, cliff-like terrain forming the battlefield environment",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.4,
+            0.55,
+            0.65
+          ],
+          "type": "object",
+          "description": "A curved, ribbon-like banner or sash element with bold black text reading 'EVA-01 TEST' in a futuristic, angular font style. The banner appears to be flowing or wrapped around something, creating dynamic curved lines. The art style features clean, bold line work typical of mecha manga, with solid black fills for the text and minimal shading. The banner has a sleek, technological aesthetic consistent with science fiction themes. The composition shows the banner positioned diagonally across the frame, creating visual movement and emphasis on the text content.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

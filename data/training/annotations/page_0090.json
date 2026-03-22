@@ -1,0 +1,217 @@
+{
+  "width": 942,
+  "height": 1400,
+  "description": "A manga page showing an intense battle scene with a character using a modified weapon, followed by reaction shots and dialogue about the Eva series being silenced",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.572
+      ],
+      "description": "Large action panel showing a character firing a weapon with dramatic speed lines and effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.15,
+            0.35,
+            0.75
+          ],
+          "type": "character",
+          "description": "A small, cartoonish character with a round, simple face featuring large circular eyes and what appears to be a small mouth. The character has a cheerful, innocent expression and appears to be positioned in the center of dramatic radiating speed lines that emanate outward from behind them, creating a dynamic burst or explosion effect. The art style uses bold, confident line work with varying line weights - thicker lines for the character's outline and thinner, more numerous lines for the radiating background effect. The shading is minimal, relying primarily on the stark contrast between the white character and the dense pattern of speed lines. The composition places the character as the focal point, with all the radiating lines drawing attention inward toward them, suggesting movement, impact, or a moment of revelation. The overall style is characteristic of manga illustration techniques, using screen tones and hatching patterns to create visual impact and energy.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel features a dramatic sci-fi battle scene rendered in black and white with heavy contrast. The top panel shows large mecha or robotic units engaged in combat, with dynamic speed lines and motion blur effects creating intense movement. The mechanical designs are detailed with angular armor plating and weaponry, drawn with bold, confident line work. Heavy cross-hatching and screentone create depth and shadow, particularly in the background which shows a turbulent, stormy sky with sweeping diagonal lines suggesting wind or atmospheric disturbance. The composition uses dramatic perspective to emphasize the scale and power of the mechs. The bottom panel shows a close-up of what appears to be a pilot or character in military-style clothing with a collar, rendered with softer gray tones. Text reads 'THE EVA SERIES IS BEING SILENCED ONE BY ONE!' in a speech bubble, indicating this is likely from the Evangelion series. The art style is typical of 1990s mecha manga with detailed mechanical designs and dynamic action sequences.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.2,
+            1.0,
+            0.8
+          ],
+          "type": "character",
+          "description": "A dramatic manga panel showing multiple robotic or armored figures in dynamic action poses. The characters appear to be mecha or robot suits with angular, mechanical designs and helmet-like heads. They are rendered in a classic black and white manga style with bold, confident line work and heavy cross-hatching for shadows and depth. The composition features diagonal movement lines and speed lines that create a sense of intense motion and action. The shading uses traditional manga techniques with stark contrasts between black and white areas, giving the scene a dramatic, high-energy feel. The mechanical details of the suits are clearly defined with panel lines and technological elements. The overall art style is reminiscent of classic mecha manga with its clean linework and dynamic perspective that emphasizes the scale and power of these robotic characters.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            0.4
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts a dramatic impact or explosion effect with dynamic diagonal lines radiating outward from multiple points. The linework consists of bold, angular strokes that create a sense of violent force and motion. The shading is minimal, relying primarily on stark black lines against white space to convey the intensity of the moment. In the lower portion of the panel, there appears to be a character's head or face rendered in simple line art, showing what looks like a surprised or shocked expression with curved eyebrow lines. The overall composition uses geometric, crystalline shapes formed by the intersecting diagonal lines, creating a shattered or explosive visual effect. The art style is typical of action manga with its emphasis on speed lines and impact effects to convey dramatic force and movement.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.109,
+        0.572,
+        0.854,
+        0.794
+      ],
+      "description": "Horizontal panel showing character reactions and dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.05,
+            0.35,
+            0.95
+          ],
+          "type": "character",
+          "description": "A manga character drawn in typical shounen/seinen style, showing a young person with short, messy dark hair and large expressive eyes looking upward with a surprised or concerned expression. The character's mouth is slightly open, suggesting they are speaking or reacting to something. The art style features clean, bold line work with minimal shading, using screentone/halftone patterns in the background for texture. The character appears to be wearing what looks like a collared shirt or jacket. The composition shows the character from roughly chest-up in a three-quarter view angle, with the face tilted upward creating a dynamic sense of movement or urgency. The line weight varies from thick outlines to finer detail lines, particularly around the hair strands which are drawn with jagged, energetic strokes typical of manga character design.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.35,
+            0.28,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel shows a close-up of a character's face with large, expressive eyes and dark hair. The character has a somewhat melancholic or contemplative expression. The art style features clean, bold line work typical of manga, with solid black areas for the hair contrasting against white space. The hair is rendered with sharp, angular strokes creating a spiky texture. The eyes are drawn in the characteristic manga style with detailed pupils and simple highlights. There appears to be minimal shading, relying primarily on stark black and white contrast. The composition focuses on the upper portion of the face, creating an intimate, emotional moment. No visible text is present in this cropped section.",
+          "text": "WITH THIS...!!"
+        },
+        {
+          "bbox": [
+            0.35,
+            0.0,
+            0.75,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga panel showing a character in profile view with spiky or messy hair rendered in black and white. The character appears to be looking downward or to the side with a concerned or surprised expression, indicated by two exclamation marks ('!!') in a speech bubble. The art style features clean, bold line work typical of manga with areas of solid black and white contrast. Below the character panel is another section showing what appears to be rocky or rough terrain rendered with heavy crosshatching and textural line work. The composition uses strong black and white contrast with minimal gray tones, creating a dramatic visual effect typical of manga storytelling.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.2,
+            1.0,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This is a speech bubble containing text in all capital letters that reads 'MODIFYING A PC RIFLE FOR RAPID CAPACITY BY...' The text appears to be cut off at the bottom edge of the cropped panel. The speech bubble has clean, bold black outlines typical of manga style, with a standard rounded rectangular shape. The text is rendered in a clear, blocky font style commonly used in manga dialogue. The bubble appears to be positioned in the upper portion of what would be a larger panel, and the white interior provides stark contrast against the black text for easy readability.",
+          "text": "THE EVA SERIES IS BEING SILENCED ONE BY ONE!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.839,
+        0.454,
+        1.0
+      ],
+      "description": "Bottom left panel showing close-up of character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.0,
+            0.9,
+            0.85
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's face in profile, viewed from below at a dramatic low angle. The character has light-colored hair with jagged, spiky strands falling across their face. Their expression appears distressed or shocked, with wide eyes that have detailed pupils and emotional teardrops visible. The art style features clean, bold black lines with varying line weights - thicker for outlines and thinner for facial details. Shading is achieved through screentone/halftone patterns, particularly visible in the hair and around the eyes. The composition creates dramatic tension through the upward viewing angle. There is dialogue text reading 'THIS IS...' in a speech bubble, rendered in standard manga lettering style. The overall aesthetic is typical of shounen or seinen manga with its dynamic angles and emotional intensity.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.7,
+            0.35,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble or dialogue balloon, showing only dark angular shapes that likely represent the pointed tails or edges of the bubble. The visible portions are rendered in solid black with clean, sharp edges typical of manga speech bubble construction. The angular fragments suggest this is part of a directional speech bubble tail pointing toward a speaker. The art style uses bold, clean black fills without gradation or texture, consistent with standard manga dialogue balloon rendering techniques. The cropped nature of this element makes it difficult to discern the full shape or any contained text, showing only the characteristic pointed extensions that connect speech bubbles to their speakers in manga panel layouts.",
+          "text": "THI... THIS IS..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.454,
+        0.839,
+        0.636,
+        1.0
+      ],
+      "description": "Small middle panel showing action effect",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel element shows a dramatic high-contrast effect with stark black and white areas. The composition features jagged, angular black shapes that appear to be breaking or shattering, creating a sense of destruction or impact. The black areas are rendered as solid fills with sharp, irregular edges that contrast dramatically against the white background. There are thin vertical lines visible on the left side that suggest structural elements like poles or pillars. The overall visual effect is one of explosive force or collision, with the fragmented black shapes suggesting debris, shadows, or abstract representational elements typical of manga action sequences. The art style employs bold contrast without gradual shading or screentones, relying purely on the stark black and white dichotomy to create visual impact. The composition appears to be part of a larger scene, likely depicting a moment of high tension or climactic action.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (SFX) rendered in typical manga style. The image appears to be heavily contrasted with stark black and white areas. There are jagged, angular white shapes against a black background that suggest explosive or impact-related sound effects. The composition includes some linear elements that could be speed lines or structural details. The art style uses bold, high-contrast black and white with no gray tones or detailed shading - a common approach for dramatic sound effects in manga. The shapes have sharp, irregular edges typical of onomatopoeia representing loud or sudden sounds like crashes, explosions, or impacts.",
+          "text": "!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.636,
+        0.839,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom right panel with character and dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing the upper portion of a character's face and head in typical shoujo or josei manga style. The character has large, expressive eyes with detailed eyelashes and eyebrows, characteristic of feminine manga art. Their hair appears to be dark and styled, with clean line work defining the hair strands. The art style uses minimal shading with clean, confident line weights - thicker lines for outlines and thinner lines for details like hair texture and facial features. The character's expression appears calm or contemplative. On the right side of the panel, there are several vertical speed lines or motion lines drawn in thin strokes, suggesting movement or emphasis. The background is white/blank, focusing attention on the character. The overall composition is minimalist with high contrast between the black line art and white space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.0,
+            0.95,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel shows a close-up of a character's face in a dramatic, shadowed composition. The character has dark hair with jagged bangs that create harsh shadows across their forehead, rendered with dense vertical hatching lines. One visible eye is drawn in typical manga style with a dark pupil and expressive linework. The shading technique uses heavy black ink with stark contrast between light and shadow areas, creating a moody, intense atmosphere. The art style employs bold line weights with thick black areas dominating the composition. The cropping focuses on just the upper portion of the face, emphasizing the shadowed, brooding expression. No text is visible in this particular cropped element, and the overall aesthetic suggests this is from a dramatic or psychological manga series with mature themes.",
+          "text": "MODIFYING A POSITRON RIFLE FOR RAPID-FIRE CAPACITY BY REDUCING THE POWER OF EACH INDIVIDUAL ROUND... THE RESEARCH AND DEVELOPMENT WAS ALL FOR THIS."
+        }
+      ]
+    }
+  ]
+}

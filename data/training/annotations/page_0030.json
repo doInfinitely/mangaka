@@ -1,0 +1,162 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A dramatic manga page showing a character in distress in what appears to be a bathroom or shower area, with rain effects and dialogue indicating someone calling out to 'Suzuhara-kun'",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.52
+      ],
+      "description": "Upper panel showing a character hunched over in a tiled bathroom/shower area with heavy rain effects",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.15,
+            0.7,
+            0.85
+          ],
+          "type": "character",
+          "description": "A male manga character shown in a dramatic, intimidating pose with his head tilted down, creating shadows that obscure his facial features. He wears a long, dark coat or overcoat with distinctive triangular or chevron-shaped markings running down the front in a vertical pattern. The character has messy, medium-length hair and appears to be standing in an interior setting with wooden flooring and furniture visible in the background, including what appears to be a lamp. The art style uses heavy cross-hatching and screentone techniques typical of manga, with bold black lines and dramatic contrast. Multiple diagonal speed lines or action lines emanate from around the character, suggesting tension or an ominous presence. The overall composition emphasizes the character's imposing stature and creates a sense of foreboding through the heavy shadows and dramatic lighting.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel depicts a dramatic scene of a character standing in heavy rain in front of what appears to be a traditional Japanese building or house. The character is shown from behind, wearing a dark coat or jacket, with their hair getting soaked by the downpour. The rain is rendered with dense, diagonal hatching lines creating a curtain-like effect across the entire panel. The building behind them features traditional architecture with sliding doors/windows and wooden structural elements, all rendered in detailed cross-hatching and screentone. On the left side of the panel, there are large stylized sound effects written in bold katakana characters. On the right side, there's a vertical column of repeated 'PI' sound effects, likely representing the sound of raindrops. The overall composition creates a melancholic, atmospheric mood with the heavy use of parallel rain lines and the solitary figure's posture suggesting contemplation or distress. The art style employs classic manga techniques with varied line weights - bold lines for the main elements and finer hatching for textures and atmospheric effects.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.4,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "A dramatic manga sound effect (onomatopoeia) rendered in bold, angular black lettering that appears to spell out impact or motion sounds. The text is positioned diagonally across the panel, creating dynamic movement. The letters have sharp, jagged edges with thick black strokes that contrast starkly against a heavily cross-hatched background. The background shows detailed architectural elements including what appears to be industrial or mechanical structures with fine line work and dense crosshatching creating deep shadows and texture. The sound effect dominates the visual space, typical of action manga where dramatic typography is used to convey intense moments or impacts. The overall composition uses high contrast between the solid black lettering and the intricate background linework.",
+          "text": "\u30b6\u30a2\u30a2\u30a2"
+        },
+        {
+          "bbox": [
+            0.7,
+            0.2,
+            1.0,
+            0.8
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows repetitive sound effect text 'PI' arranged vertically down the right side of the frame. The 'PI' characters are rendered in bold, white lettering with black outlines in typical manga onomatopoeia style. The background features detailed architectural elements including screentone-shaded building structures on the left side with cross-hatched window patterns and geometric line work. On the right side, there are dynamic diagonal speed lines or action lines rendered in black ink, creating a sense of movement or intensity. The contrast between the structured building elements and the energetic diagonal lines creates visual tension, while the repetitive 'PI PI PI' sound effects suggest rapid, continuous action or movement occurring in the scene.",
+          "text": "\u30d4 \u30d4 \u30d4 \u30d4 \u30d4 \u30d4 \u30d4 \u30d4 \u30d4"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "A dramatic manga effect panel featuring a character silhouetted against heavy diagonal rain lines. The figure appears to be standing in or near a doorway, with their form rendered in dark tones against a lighter background. The character seems to be wearing loose clothing or a coat. The entire scene is dominated by intense hatching and crosshatching techniques creating the atmosphere of heavy rainfall, with diagonal lines filling most of the composition. There are vertical sound effect text elements reading 'PI' repeated multiple times on the right side of the panel, likely representing the sound of rain drops. The art style uses bold black ink with heavy line weights for the rain effects, creating a sense of dramatic tension and atmosphere. The background shows hints of architectural elements like doorways or building structures rendered in lighter tones beneath the rain pattern.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.52,
+        1.0,
+        1.0
+      ],
+      "description": "Lower panel continuing the scene with dialogue calling out to Suzuhara-kun",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.7,
+            0.9
+          ],
+          "type": "character",
+          "description": "A manga character depicted in a dramatic, ominous pose with their head tilted back and mouth open in what appears to be a scream or shout. The character is wearing what looks like a light-colored jacket or coat with a collar. The art style features heavy use of vertical hatching lines creating a rain-like effect throughout the scene, with bold black shadows and highlights typical of manga illustration. The character's hair appears dark and somewhat disheveled. The composition shows the figure from roughly chest-up, positioned centrally in the frame. The heavy vertical line work creates a sense of movement and intensity, while the stark contrast between light and dark areas emphasizes the dramatic nature of the scene. The background suggests an indoor setting with geometric shapes that could be furniture or architectural elements, all rendered in the same hatched style.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel depicts an intense scene with heavy rainfall rendered through dense vertical hatching lines covering the entire background. The scene shows what appears to be an interior space, possibly a room or hallway, with architectural elements like walls and structural details visible through the rain. The art style uses thick black lines and heavy cross-hatching to create dramatic shadows and depth. Large stylized sound effects 'AAAA' are prominently displayed in bold, angular lettering across the upper portion of the panel, suggesting intense emotion or action. Multiple speech bubbles contain Spanish text including 'SUZU-HARA-KUN!!' and 'SUZUHARA-KUN, EST\u00c1S BIEN?' and 'HEMOS LOCALIZADO AL CUARTO!!' The overall composition creates a sense of urgency and drama through the combination of the torrential rain effect, bold typography, and the spatial arrangement of the architectural elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.25,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with an irregular, angular shape positioned against a dark background with diagonal hatching patterns. The bubble contains black text reading 'SUZU-HARA-KUN!!' in a bold, uppercase font typical of manga dialogue. The speech bubble has clean black outlines and appears to be emerging from or overlapping with heavily shaded areas created through dense parallel line hatching. The contrast between the pure white interior of the bubble and the dark crosshatched background creates strong visual emphasis. The bubble's shape is somewhat elongated and organic rather than perfectly round, following typical manga speech bubble conventions for emotional or emphatic dialogue.",
+          "text": "SUZU-HARA-KUN!!"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.45,
+            0.3,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with irregular, organic edges typical of manga dialogue. The bubble contains black text in Spanish reading 'SUZUHARA-KUN, EST\u00c1S BIEN?' (Suzuhara-kun, are you okay?). The background shows detailed cross-hatching and screentone patterns creating depth and texture. There appears to be part of a character or object with black elements visible at the edges of the frame. The line work is clean and precise, with varied line weights creating visual hierarchy. The speech bubble's tail points toward the bottom right, indicating the speaker's position. The overall composition uses high contrast between the stark white bubble and the heavily detailed, textured background elements typical of professional manga artwork.",
+          "text": "SUZUHARA-KUN, EST\u00c1S BIEN?"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.4,
+            1.0,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This manga speech bubble features bold, black text in all caps reading 'HEMOS LOCALIZADO AL CUARTO!!' (Spanish for 'We have located the fourth one!!'). The text is left-aligned within a white speech bubble with clean black borders. The bubble has a traditional manga style with sharp, angular edges and a small tail pointing downward to indicate the speaker. The background shows architectural elements rendered in typical manga screening technique - diagonal hatching patterns creating gray tones on what appears to be building walls or structures. The linework is clean and precise, with consistent black outlines defining the structural elements. The composition places the speech bubble in the upper left portion of the frame, with the screentoned architectural background filling the remaining space below and to the right.",
+          "text": "HEMOS LOCALI-ZADO AL CUARTO!!"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.0,
+            0.5,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "Large, bold sound effect text dominates the panel with dramatic angular lettering that appears to represent intense impact or striking sounds. The SFX characters are rendered in thick, black brushstrokes with sharp, jagged edges that convey explosive force. The letters are arranged vertically and at dynamic angles, creating a sense of movement and violence. Behind the text, there are heavy crosshatched and screentoned backgrounds with vertical line patterns suggesting rain or motion blur. The composition shows parts of character figures - one appears to be calling out 'SUZUHARA-KUN!!' in a speech bubble, while another responds 'SUZUHARA-KUN, EST\u00c1S BIEN!' The art style uses high contrast black and white with detailed screentoning typical of manga, and the overall layout suggests this is capturing a moment of intense action or impact between characters.",
+          "text": "\u30b6\u30a2\u30a2\u30a2"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "A dramatic manga effect showing large, bold onomatopoeia characters '\u30c9\u30c9\u30c9\u30c9' (dododo) rendered in thick black brushstrokes against heavy diagonal rain lines. The sound effect dominates the upper portion of the panel, creating a sense of rumbling or heavy impact. Below, there are architectural elements including what appears to be a traditional Japanese building structure with detailed line work. The rain is depicted with dense parallel diagonal lines creating a heavy downpour atmosphere. Speech bubbles contain Spanish text including 'SUZU-HARA-KUN!!' and 'SUZUHARA-KUN, EST\u00c1S BIEN?' and 'HEMOS LOCALIZADO AL CUARTO!!' The overall composition uses high contrast between the bold black sound effects and the detailed background linework, with extensive use of screentone for atmospheric depth.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

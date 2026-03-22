@@ -1,0 +1,140 @@
+{
+  "width": 1280,
+  "height": 924,
+  "description": "A dynamic action sequence showing a character in Unit 01 suit being attacked or overwhelmed by a large creature or entity, with intense motion lines and dramatic effects throughout the page",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.244,
+        1.0
+      ],
+      "description": "Vertical panel showing a character's face in profile with speech bubbles",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.15,
+            1.0,
+            0.85
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a male manga character shown in profile, facing left. He has distinctive spiky black hair and a serious, contemplative expression with slightly furrowed brows. His face shows some light cross-hatching for shading, particularly around the eye area and jawline. The character appears to be wearing dark clothing, visible at the bottom of the frame. The art style is typical of shounen manga with bold, clean black lines and high contrast between black and white areas. There are vertical structural elements (possibly bars or a fence) visible on the right side of the panel. Spanish text appears in a speech bubble reading 'SE HA DESACTIVADO' and there's additional text that appears to include Japanese characters. The overall composition uses dramatic shadows and stark black-white contrast to create a serious, intense mood.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.05,
+            0.85,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A white oval speech bubble containing the Spanish text 'LA UNIDAD' in bold black letters, positioned in the upper portion of the panel. The bubble has clean, smooth edges typical of manga speech bubbles. Below and to the right, there is a dramatic close-up of a character's face rendered in high contrast black and white. The character has spiky, angular hair drawn with sharp, jagged lines and intense shadowing. Their eye is visible, drawn in typical manga style with heavy black shading around the socket area. The art style features bold, thick line weights with stark black and white contrast, no screentone or gradual shading - creating a dramatic, intense atmosphere. Some Japanese text characters are visible in the bottom right corner of the frame. The composition creates a sense of tension with the speech bubble positioned above the brooding character portrait.",
+          "text": "UNIDAD 01..."
+        },
+        {
+          "bbox": [
+            0.1,
+            0.7,
+            0.8,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing the Spanish text 'SE HA DESACTIVADO.' The bubble has a classic oval shape with clean black outlines and white fill. The text is rendered in a standard manga font style. The bubble is positioned in what appears to be the upper left portion of a panel, with part of a character or figure visible at the bottom right edge of the frame, shown in typical black and white manga art style with clean linework. The composition suggests this is a dialogue or narration element within a larger scene.",
+          "text": "SE HA DESACTIVADO"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.244,
+        0.0,
+        1.0,
+        0.52
+      ],
+      "description": "Large panel showing Unit 01 being attacked by a large creature with dramatic speed lines",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "A dynamic manga character rendered in black and white with intense motion lines radiating outward from the figure. The character appears to be in mid-action, possibly lunging or attacking, with their body positioned diagonally across the frame. They're wearing what looks like fitted clothing or possibly armor with distinctive angular design elements. The art style features bold, confident line work with varying line weights - thicker lines define the main contours while thinner lines create detail work. Heavy use of speed lines and motion blur effects create a sense of explosive movement and energy. The shading employs a mix of solid black areas and crosshatching techniques, with dramatic contrast between light and dark regions. The composition is highly kinetic, with the character's pose and the surrounding effect lines creating a powerful sense of forward momentum and impact. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect panel depicts a dramatic action sequence with intense motion lines and speed effects. The image shows a character in dynamic motion, rendered in classic black and white manga style with bold, clean line work. The character appears to be lunging or attacking forward with outstretched arms and clawed hands, suggesting a beast-like or transformed state. Heavy diagonal speed lines dominate the composition, creating a strong sense of velocity and impact moving from upper left to lower right. The character's face shows an aggressive expression with spiky hair being swept back by the motion. The art style uses confident, thick outlines with minimal shading, relying on the dramatic speed lines and white space to convey the explosive energy of the moment. In the bottom right corner, there appears to be Japanese sound effect text (onomatopoeia) that looks like 'UA' or similar characters, typical of action manga panels. The overall composition emphasizes raw kinetic energy through the interplay of the character's pose and the overwhelming directional line work that fills most of the panel space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.9,
+            0.8
+          ],
+          "type": "character",
+          "description": "A dynamic manga character depicted in intense motion, rendered in black and white with dramatic speed lines radiating across the composition. The figure appears to be lunging or attacking forward with an aggressive pose, one arm extended outward with fingers spread in a grasping motion. The character wears what appears to be form-fitting clothing or armor with angular, geometric design elements. The art style features bold, confident line work with heavy black shadows and minimal gray tones for shading. Diagonal speed lines dominate the background, creating a strong sense of movement and kinetic energy flowing from upper left to lower right. The composition uses high contrast between the stark white background and the solid black areas of the character, emphasizing the dramatic action. The lineart is clean and precise with varying line weights - thicker lines for outlines and major forms, thinner lines for details and speed effects. No visible text appears in this cropped section.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.244,
+        0.52,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom panel showing the character screaming with intense action effects",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "A manga character shown from a low angle perspective, appearing to be lying down or reclining. The character has light-colored hair and is wearing what appears to be a white shirt or jacket with dark trim or collar details. Their mouth is open, suggesting they are speaking or reacting emotionally. The art style uses clean, bold line work typical of manga with areas of solid black and white contrast. There are screentone patterns creating gray shading effects, particularly visible in the background and clothing details. The composition creates a dramatic upward viewing angle. Several katakana characters '\u30ac' are visible in the right portion of the panel, likely representing sound effects or emotional emphasis. The overall style is consistent with modern manga illustration techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts an intense action sequence rendered in black and white with dramatic contrasts. The scene shows a character in apparent distress or pain, with their mouth open in what appears to be a scream or shout. The figure is wearing what looks like formal attire or a uniform with visible straps or belts across the torso. The art style employs bold, dynamic line work with heavy black shadows and stark white highlights creating a sense of urgency and movement. Speed lines radiate from the upper left corner, emphasizing the kinetic energy of the moment. On the right side of the panel, there are multiple repetitions of the katakana character '\u30a2' (A), which is commonly used in manga to represent screaming, shouting, or intense vocalization sounds. The composition uses diagonal elements and dramatic angles to enhance the sense of chaos or violence in the scene. The shading technique combines solid blacks with screentone effects, typical of traditional manga artwork.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.2,
+            0.95,
+            0.8
+          ],
+          "type": "sfx",
+          "description": "This manga sound effect shows repeated katakana characters '\u30a2' (A) scattered across the panel in a dramatic pattern. The characters are rendered in bold black strokes with varying sizes, creating a sense of intensity or chaos. They appear to be overlapping and dispersed throughout the composition, with some characters appearing larger and more prominent than others. The sound effect is layered over what appears to be part of a character's clothing or uniform, visible in the lower left portion of the panel. The background shows typical manga screening/toning patterns. The overall visual effect suggests a loud, repetitive sound - possibly laughter ('ahaha') or screaming - with the scattered placement of the characters emphasizing the chaotic or overwhelming nature of the sound being represented.",
+          "text": "UAAA AAAAA AAAA AAAA"
+        }
+      ]
+    }
+  ]
+}

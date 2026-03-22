@@ -1,0 +1,250 @@
+{
+  "width": 1280,
+  "height": 924,
+  "description": "An intense action sequence showing fire-based combat with dramatic speed lines and explosive effects across multiple panels",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.34
+      ],
+      "description": "Large panel showing explosive fire effects with dramatic speed lines radiating outward",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect element depicts dynamic speed lines radiating outward from multiple focal points, creating an intense burst of motion. The lines are drawn with varying line weights - thicker, bolder strokes at the base that taper to fine points as they extend outward. The lines converge from the left and right sides of the frame, creating intersecting patterns of movement that suggest explosive force or rapid motion. The background is pure white, making the black ink lines stand out dramatically. The speed lines use classic manga technique with precise, clean strokes that maintain consistent direction and spacing. Some lines overlap and cross each other, adding depth and complexity to the motion effect. The overall composition creates a sense of radiating energy or impact, with the densest concentration of lines at the convergence points and gradually becoming more sparse toward the edges. No text is visible in this cropped effect element.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.34,
+        0.16,
+        0.87
+      ],
+      "description": "Narrow vertical panel showing a character among trees",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.8,
+            0.6
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character showing the lower portion of their face and upper body. The character appears to be wearing a light-colored garment with clean, geometric collar lines. The art style features crisp, confident linework with minimal shading, typical of modern manga aesthetics. The character's pose suggests they are in motion or turning, with dynamic angular lines in the background creating a sense of movement. The text 'AYA-NAMI !!' appears prominently in bold, stylized lettering, likely indicating either the character's name or someone calling out to them. The composition uses strong contrast between black and white areas, with speed lines and geometric shapes adding visual energy to the panel fragment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows dramatic black and white contrast with heavy use of speed lines and motion blur effects. The composition features strong diagonal lines creating a sense of movement and tension. There are bold black areas contrasted against white spaces, with crosshatching and parallel line work typical of manga art style. The hatching technique uses varying line weights, with thicker lines for emphasis and thinner lines for texture. Speed lines radiate outward suggesting rapid motion or impact. The text 'FUEGO.' appears in the lower right corner in simple, bold lettering. The overall aesthetic is high-contrast and dynamic, emphasizing action and movement through the strategic use of negative space and linear elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.75,
+            0.9,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a portion of a speech bubble or panel element featuring dynamic, spiky hair rendered in classic manga style. The hair is depicted with bold, angular strokes creating sharp, upward-pointing spikes characteristic of energetic or intense manga characters. The linework uses varying weights - thicker outer contours define the hair's silhouette while thinner internal lines add detail and texture. The art employs high contrast black and white with minimal gray tones, creating stark shadows that give the hair volume and dimension. Cross-hatching and parallel line techniques are visible in the darker areas to create depth. The composition shows only a partial view, suggesting this is cropped from a larger panel, with the hair appearing to extend beyond the frame boundaries. No text is visible in this particular element.",
+          "text": "FUEGO."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.16,
+        0.34,
+        0.4,
+        0.87
+      ],
+      "description": "Panel showing an explosive effect with a character",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.7
+          ],
+          "type": "effect",
+          "description": "A dramatic manga effect element showing dynamic speed lines or motion lines radiating diagonally across the frame. The lines are bold, black ink strokes of varying thickness that create a sense of intense movement or impact. The lines appear to emanate from the upper left area and sweep across the panel in multiple directions, with some lines being thicker and more prominent while others are thinner and more scattered. The effect creates a strong sense of kinetic energy and dramatic tension, typical of action manga sequences. The lines are drawn with confident, swift strokes that taper at the ends, and they overlay parts of the scene including what appears to be background elements and character areas, emphasizing the explosive or high-impact nature of whatever action is taking place in this moment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.7,
+            0.8,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dynamic manga character depicted in a heroic pose, wielding what appears to be a large sword or blade weapon. The character has spiky, wild hair and is drawn in a classic shounen manga style with bold, confident linework. The figure is positioned in an action stance, suggesting movement or combat readiness. The art employs strong contrast between black and white areas, with characteristic manga shading techniques including solid blacks for shadows and white highlights. The line weight varies from thick, bold outlines to finer detail lines, creating depth and dimensionality. The character appears to be wearing fitted clothing or armor, rendered with clean, angular lines typical of action manga art. The composition shows the character from a slightly low angle, emphasizing their imposing presence and heroic stature.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.6,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with clean, bold black outlines in typical manga style. The bubble has a classic oval shape with a pointed tail extending toward the bottom right, indicating the speaker's direction. Inside the bubble, there appears to be partial text that reads 'CENTRA' in capital letters, rendered in standard manga lettering style. The speech bubble is positioned against what appears to be a background with diagonal speed lines or motion lines, creating a sense of movement or intensity. The line work is crisp and precise, characteristic of professional manga production, with consistent line weights used for the bubble's border.",
+          "text": "AYA-NAMI !!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.4,
+        0.34,
+        0.64,
+        0.87
+      ],
+      "description": "Panel showing a character's face with concerned expression",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's face in a dramatic, angular composition. The character has spiky, disheveled hair rendered with bold, dynamic line work. Their eyes are wide and intense, depicted as solid black shapes that convey shock or surprise. The facial expression appears distressed or alarmed. The art style uses clean, confident line weights with minimal shading, relying primarily on stark black and white contrast. There are motion lines and hatching patterns in the background that create a sense of movement and tension. The composition is tilted at an angle, adding to the dramatic effect. The character appears to be wearing what looks like a collared garment, though only partial details are visible in this cropped view. The overall aesthetic is typical of action or thriller manga, with emphasis on emotional intensity through simplified but expressive features.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.05,
+            0.8,
+            0.3
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble element rendered in stark black and white manga style. The visible portion shows dramatic diagonal speed lines or motion lines created with bold, sweeping black strokes against a white background. The lines vary in thickness and create a sense of intense movement or energy, typical of action manga sequences. The composition shows these dynamic lines radiating or flowing in parallel directions, suggesting rapid motion or dramatic emphasis. The high contrast between the pure white areas and deep black linework is characteristic of traditional manga inking techniques. No text is clearly visible in this cropped portion of the speech bubble element.",
+          "text": "CENTRAR EN BLANCO"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.64,
+        0.34,
+        0.82,
+        0.87
+      ],
+      "description": "Panel showing close-up of eyes with intense expression",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.3,
+            0.9,
+            0.7
+          ],
+          "type": "character",
+          "description": "A dynamic manga character rendered in black and white with intense motion lines radiating outward. The figure appears to be in mid-action, with spiky, disheveled hair swept dramatically by movement. The character's expression shows determination or exertion, with visible facial features including an eye and part of the nose/mouth area. The art style employs heavy black ink with bold line weights for outlines and dramatic speed lines that create a sense of explosive energy or rapid movement. Cross-hatching and solid black areas provide contrast and depth. The composition is dominated by diagonal motion lines that emanate from the character, creating a radial burst effect that emphasizes the kinetic energy of the scene. The character appears to be wearing dark clothing, though details are partially obscured by the dramatic shading and motion effects.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect element features dramatic speed lines and motion blur rendered in stark black and white. The top portion shows dense parallel horizontal lines of varying thickness, creating a sense of rapid movement or impact. Below this are dynamic diagonal slash marks and motion lines that cut across the composition at sharp angles, suggesting explosive force or high-speed action. The linework uses bold, confident strokes with heavy black ink, typical of action manga style. The lines vary in weight from thin to very thick, creating visual rhythm and intensity. In the lower portion, there appears to be fragmented geometric shapes and angular forms that seem to be breaking apart or being scattered by the force represented by the speed lines. The overall composition creates a powerful sense of kinetic energy and dramatic motion, commonly used in manga to emphasize impactful moments or high-speed combat sequences.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.82,
+        0.34,
+        1.0,
+        0.87
+      ],
+      "description": "Panel showing action with fire effects and a character",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.6
+          ],
+          "type": "effect",
+          "description": "This manga effect element features dynamic motion lines radiating outward in multiple directions, creating a sense of explosive movement or impact. The lines vary in thickness, with some being bold and heavy while others are thin and delicate, creating visual hierarchy and depth. The lines appear to emanate from different focal points, suggesting multiple simultaneous actions or a complex burst of energy. The composition uses stark black ink on white background with no gray tones or screentones. The lines have clean, confident strokes typical of traditional manga inking techniques. Some lines extend beyond the panel borders, indicating the force or motion continues outside the frame. The overall effect creates a sense of speed, impact, or dramatic emphasis commonly used in action sequences or moments of high tension in manga storytelling.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.6,
+            0.8,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dynamic manga character rendered in black and white, shown in an intense action pose with their body angled diagonally across the frame. The figure appears to be in motion, possibly falling or being thrown, with their limbs positioned to suggest impact or struggle. The character is drawn with bold, confident line work typical of action manga, featuring strong black outlines and defined musculature. Heavy diagonal hatching fills much of the background, creating dramatic motion lines that emphasize the kinetic energy of the scene. The shading technique uses dense cross-hatching and solid black areas to create depth and contrast. The composition is cropped tightly around the character, focusing on the torso and limbs while cutting off portions of the figure at the frame edges. The overall art style is characteristic of seinen or shonen manga, with emphasis on dynamic action and dramatic visual impact through the use of speed lines and heavy contrast between light and dark areas.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.87,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom panel showing page number and additional fire effects",
+      "elements": [
+        {
+          "bbox": [
+            0.45,
+            0.3,
+            0.55,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows dramatic sound effect linework rendered in bold, dynamic black ink strokes. The lines radiate outward in sharp, angular directions creating a sense of explosive motion or impact. The strokes vary in thickness, with some heavy black lines contrasting against thinner accent marks. The composition uses negative white space effectively to emphasize the directional energy of the sound effect. The linework appears to be hand-drawn with confident, gestural strokes typical of action manga sequences. The overall effect suggests a powerful impact, explosion, or sudden movement moment in the narrative.",
+          "text": "61"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This is a horizontal manga effect panel featuring dynamic action lines and motion blur. The image shows fragmented architectural or structural elements rendered in black and white with heavy contrast. There are sharp, angular geometric shapes that appear to be breaking apart or in motion, creating a sense of destruction or explosive force. The art style employs bold black fills contrasted against white spaces, with diagonal hatching and speed lines throughout. The composition is very kinetic, with elements scattered across the frame in a way that suggests violent movement from left to right. The line weight varies dramatically between thick black shapes and fine detail lines. The number '61' is visible in the lower left portion, likely indicating a page number. The overall effect creates a sense of chaos, impact, or structural collapse through the fragmented visual elements and dynamic directional flow.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

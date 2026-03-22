@@ -1,0 +1,162 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A dramatic manga page showing a character in heavy rain discovering someone, with intense sound effects and dialogue indicating they've found a fourth person named Suzuhara-kun.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.68
+      ],
+      "description": "Large panel showing a figure in heavy rain standing in what appears to be a doorway or entrance",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.15,
+            0.7,
+            0.85
+          ],
+          "type": "character",
+          "description": "A tall, imposing figure stands in what appears to be heavy rainfall, depicted through dense vertical hatching lines covering the entire scene. The character is wearing a long, double-breasted coat or trench coat with prominent buttons and lapels, suggesting a formal or military-style garment. Their hair appears tousled and wet from the rain. The figure's posture is upright and commanding, with one hand visible at their side. The art style employs heavy use of screentone and crosshatching to create the rain effect, with bold black lines defining the character's silhouette and clothing details. The composition shows the character from roughly chest-up in the upper panel, creating a sense of authority and presence. The rain lines are drawn consistently vertical, creating a curtain-like effect that partially obscures background details. The overall tone is dramatic and atmospheric, typical of serious manga scenes involving weather or emotional tension.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts a dramatic scene with heavy vertical rain lines creating a stark atmospheric effect. The scene is divided into two panels showing a character with light-colored hair in what appears to be a coat or jacket, viewed from behind in an interior setting with brick walls, windows, and furniture visible. The entire composition is rendered in black and white with heavy crosshatching and screentone patterns typical of manga art. Large stylized sound effect text '\u30b6\u30a2\u30a2\u30a2' (representing the sound of heavy rain) dominates the left side of both panels in bold, angular lettering. The rain effect is created through dense vertical parallel lines that fill the background, creating a sense of intensity and drama. In the lower panel, there's a speech bubble containing 'SUZU-HARA-KUN!' The art style uses clean line work with varying weights, detailed background elements, and atmospheric shading techniques to convey the stormy weather conditions.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            0.8
+          ],
+          "type": "sfx",
+          "description": "A vertical sound effect (SFX) element rendered in bold, black brushstroke-style lettering that reads phonetically as repeated impact or striking sounds. The characters are arranged vertically down the panel, creating a cascade effect that suggests multiple consecutive impacts or a prolonged action. The lettering uses thick, dynamic strokes with varying line weights that taper and swell, giving them an organic, hand-drawn quality typical of manga sound effects. The SFX is positioned against a background of architectural line work showing what appears to be brick or stone masonry with cross-hatching and parallel line shading techniques. The overall composition uses the vertical SFX as a dominant visual element that draws the eye downward, emphasizing the repetitive or continuous nature of whatever action is being depicted. The contrast between the solid black lettering and the lighter, more detailed background creates strong visual hierarchy.",
+          "text": "\u30b6\u30b6\u30b6\u30b6"
+        },
+        {
+          "bbox": [
+            0.7,
+            0.0,
+            1.0,
+            0.5
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (sfx) rendered in stark black and white. The sfx appears as bold, angular black strokes against a white triangular or pointed shape that cuts dramatically across the panel. The black marks are thick, dynamic lines that suggest intense motion or impact - likely representing a slashing, cutting, or striking sound. The background features detailed architectural elements including vertical wooden planks or siding with fine hatching and screentone shading, creating depth and texture. The contrast between the sharp, aggressive sfx marks and the more delicate background linework emphasizes the dramatic nature of the sound being depicted. The composition creates a sense of violent motion cutting through the scene, with the white shape serving as a stark backdrop that makes the black sfx marks pop visually.]",
+          "text": "\u30b6\u30b6\u30b6"
+        },
+        {
+          "bbox": [
+            0.25,
+            0.15,
+            0.75,
+            0.85
+          ],
+          "type": "background",
+          "description": "A manga background showing the interior of what appears to be a traditional or rustic building. The scene features wooden architectural elements including exposed ceiling beams, wooden posts/pillars, and what looks like a wooden floor or platform. There are rectangular window openings visible in the background walls. The art style uses heavy cross-hatching and vertical line work to create texture and depth, with dense parallel lines creating shadows and dimensional effects on the wooden surfaces. The linework is bold and consistent, typical of manga illustration techniques. Rain or atmospheric effects are suggested by diagonal lines throughout the composition. The perspective draws the eye toward the windowed areas in the background, creating depth in the architectural space.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.68,
+        1.0,
+        1.0
+      ],
+      "description": "Lower panel continuing the rain scene with dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.7,
+            0.9
+          ],
+          "type": "character",
+          "description": "A manga character shown from behind in a dramatic pose, wearing a long flowing coat or cloak that appears soaked from heavy rain. The figure has spiky, wild hair and stands with arms positioned at their sides. The character is rendered in classic black and white manga style with heavy use of diagonal hatching lines to indicate the intense rainfall. The linework is bold and dynamic, with varying line weights that create depth and movement. Rain lines streak diagonally across the entire composition, creating a sense of harsh weather conditions. The character's coat billows slightly, suggesting wind and movement. The overall composition emphasizes the solitary, dramatic nature of the scene through the character's silhouette against the storm. No visible text appears in this cropped panel element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts a dramatic scene with a character standing in heavy rain within what appears to be a damaged or deteriorating building structure. The character is wearing a light-colored coat or jacket and has messy, wet hair. The art style employs heavy vertical line work to represent the intense rainfall, creating a strong sense of atmosphere and mood. The background shows architectural elements like pillars, beams, and structural damage rendered with detailed cross-hatching and screentone shading. The composition emphasizes the character's isolation within the harsh environment. Two speech bubbles contain dialogue: 'SUZUHARA-KUN, ARE YOU ALRIGHT?!' on the left and 'WE'VE FOUND THE FOURTH!!' on the right. The overall visual treatment uses high contrast between the detailed linework of the rain and the softer tones of the character and environment, creating a cinematic quality typical of dramatic manga scenes.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.25,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'SUZUHARA-KUN! ARE' in bold, clear lettering. The bubble has a clean white interior with a black outline and a small tail pointing toward the speaker. The bubble is positioned against a background showing part of a character's clothing - appears to be a striped or textured garment with vertical line patterns and cross-hatching shading typical of manga art style. The line work is precise with consistent black ink strokes, and the shading uses traditional manga hatching techniques to create depth and texture on the fabric.",
+          "text": "SUZU-HARA-KUN!"
+        },
+        {
+          "bbox": [
+            0.05,
+            0.5,
+            0.35,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing the text 'YOU ALRIGHT?!' in bold, capitalized letters. The bubble has a standard oval shape with a tail pointing downward toward the speaker. The text uses typical manga lettering style with thick, black sans-serif font. Behind the speech bubble, there's a partial view of what appears to be a character's clothing or uniform with a checkered or plaid pattern rendered in screentone/halftone dots. The art style shows clean lineart with minimal shading, characteristic of typical manga illustration techniques. The composition shows this as a cropped section focusing on the dialogue element within a larger panel.",
+          "text": "SUZUHARA-KUN, ARE YOU ALRIGHT?!"
+        },
+        {
+          "bbox": [
+            0.65,
+            0.35,
+            0.95,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A blank white speech bubble with a curved, organic outline typical of manga dialogue balloons. The speech bubble has a smooth, rounded shape with a small tail or pointer extending downward, indicating the speaker's position below. The bubble is completely empty with no text inside. The outline is drawn with clean, consistent black lines of medium weight. The interior is pure white, contrasting against the detailed screentone backgrounds visible around it. The bubble is positioned in the upper portion of the frame and appears to be floating above architectural elements rendered with crosshatching and screentone patterns.",
+          "text": "WE'VE FOUND THE FOURTH!!"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga panel shows a dramatic scene with a character calling out 'SUZUHARA-KUN, ARE YOU ALRIGHT?!' in bold, worried dialogue text. The visual composition features strong diagonal lines and architectural elements, including what appears to be wooden beams or structural supports rendered with heavy black lines. The background uses detailed crosshatching and screentone patterns to create depth and atmosphere. The art style employs typical manga techniques with varied line weights - thick, bold strokes for the structural elements contrasting with finer hatching for shading and texture. The spatial arrangement suggests an indoor or covered area, with the diagonal beams creating dynamic movement across the frame. The overall tone appears tense or urgent, matching the concerned dialogue.",
+          "text": "\u30b6\u30b6"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.0,
+            1.0,
+            0.4
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (sfx) rendered in bold, uppercase lettering that reads 'WE'VE FOUND THE FOURTH!!' The text appears to be dialogue or an exclamation rather than a traditional onomatopoeia. The lettering is stark black against the white background, with clean, sans-serif styling typical of manga text. Below the text is a partial view of what appears to be a cylindrical or tubular object rendered with fine cross-hatching and parallel line shading techniques. The object has vertical striations or ridges suggested by the hatching pattern. The composition is minimal and focused, with the dramatic text positioned above the mysterious cylindrical form, creating a sense of discovery or revelation typical of manga storytelling moments.",
+          "text": "\u30b6\u30b6\u30b6"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A manga page showing a conversation between characters, with the top panel featuring a close-up of a female character, the middle panel showing her from behind, and the bottom panel depicting a battle scene with multiple characters.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.42
+      ],
+      "description": "Close-up panel of a female character with long hair looking to the side with a serious expression",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in a close-up portrait style, featuring a young person with long, straight hair that has detailed line work and screentone shading. The character has large, expressive eyes typical of manga art style, with a somewhat melancholic or thoughtful expression. Their face is drawn with clean, precise linework and minimal shading. The character appears to be wearing what looks like a light-colored garment or shirt with simple line details. The composition shows the character from roughly chest-up, positioned in the upper portion of the panel. The art style uses traditional manga techniques with varying line weights - thicker outlines for the main features and finer lines for hair details. Screentone dots are used extensively in the hair to create depth and shadow. The background is minimal with clean white space and simple panel borders. No visible text appears in this cropped section.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.42,
+        1.0,
+        0.83
+      ],
+      "description": "Panel showing the same female character from behind, with her hair flowing",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A female manga character in a dark bodysuit or pilot suit with twin-tails hairstyle, standing among rocky debris or rubble. She has a determined expression and is positioned in the center-left of the panel. The art style features clean black line work with moderate line weights, and the rocky environment is rendered with detailed cross-hatching and shading techniques. Screen tones are used for mid-tone grays on the rocks. To the left is a black speech bubble containing Spanish text 'ESTA LUCHA NO CARECE DE SIGNIFICADO.' The character appears small against the large rocky formations, creating a sense of scale and emphasizing the harsh environment around her.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.83,
+        1.0,
+        1.0
+      ],
+      "description": "Wide panel showing a battle scene with multiple characters in combat poses on what appears to be rocky terrain",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.28,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with a curved, organic shape against a solid black background. The bubble has clean, bold black outlines with consistent line weight typical of manga art style. The interior is pure white, creating strong contrast against the dark background. The bubble appears to be empty of text and has a smooth, rounded form with subtle curves that suggest it's positioned in the upper portion of a panel. The stark black and white contrast and clean linework are characteristic of traditional manga illustration techniques, with no visible shading, hatching, or tonal variations - just pure geometric shapes defined by solid fills and outlines.",
+          "text": "ESTA LUCHA\n\nNO CARECE DE SIG-NIFICA-DO."
+        },
+        {
+          "bbox": [
+            0.28,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in a dramatic low-angle perspective, creating an imposing presence. The figure appears to be wearing traditional Japanese clothing, likely a hakama or similar garment with flowing, loose-fitting pants or skirt. The character's pose suggests movement or a dynamic stance. The art style employs clean, bold line work typical of manga, with selective use of screentones for shading and texture. Cross-hatching and parallel line shading techniques are visible, particularly in the fabric folds and shadowed areas. The composition emphasizes the character's lower body and clothing through the cropped framing, with strong contrast between the white clothing and darker shaded areas. The lineart varies in weight, with thicker outlines defining the main forms and finer lines for interior details and fabric texture.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.28,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a partial view of characters in what appears to be an indoor setting. The art style features clean, moderate line weights typical of modern manga with subtle cross-hatching and tonal shading. Visible are portions of clothing including what looks like a dark vest or uniform piece and lighter colored garments, possibly shirts or jackets. The composition suggests characters positioned at different depths, creating a layered background effect. The shading uses screentone patterns common in manga to create depth and atmosphere. The overall tone appears to be from a slice-of-life or school-based manga given the clothing styles visible. No readable text is present in this cropped section. The background maintains the characteristic black and white manga aesthetic with careful attention to fabric folds and clothing details.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

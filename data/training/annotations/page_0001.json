@@ -1,0 +1,85 @@
+{
+  "width": 966,
+  "height": 1400,
+  "description": "A full-page manga illustration featuring a red-haired female character in a red plugsuit against a blue sky background with dynamic motion elements and stylized text",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Single full-page panel showing an anime-style character in dynamic pose with flowing hair and clothing against a sky background",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.8
+          ],
+          "type": "background",
+          "description": "This manga background element features a vibrant red-haired female character in dynamic motion against a blue sky with white clouds. She has long, flowing orange-red hair with darker red streaks that streams dramatically behind her, creating strong diagonal movement lines. Her expression is energetic and joyful with her mouth open in excitement, large blue eyes, and a cheerful demeanor. She wears a form-fitting red plugsuit or bodysuit with yellow accents on the chest area and black trim details. The character appears to be surfing or riding on what looks like red liquid or energy, with white foam and splash effects at the bottom. The art style employs clean, bold line work typical of anime/manga with cel-shaded coloring. The background shows a gradient blue sky with soft white clouds, creating depth and atmosphere. There are small red droplets or particles scattered around the character, adding to the dynamic movement. Large gray text reading 'EVANGELION' is visible on the left side of the image in a bold, angular font style. The overall composition emphasizes speed and energy through the character's pose, flowing hair, and splash effects.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.85,
+            0.9
+          ],
+          "type": "character",
+          "description": "A dynamic manga illustration featuring a young woman with long, flowing orange-red hair that streams dramatically behind her. She has large, expressive blue eyes and an open mouth suggesting she's calling out or exclaiming something. She's wearing a form-fitting red plugsuit or bodysuit with yellow/orange accents on the chest area and black trim lines running along the sides. The character is positioned in a dynamic pose with one arm extended, creating a sense of movement and energy. The art style features clean, bold line work with cel-shading typical of anime/manga illustration. The background shows a blue sky with white clouds, and there are water splash effects at the bottom of the image in red and white, suggesting motion through water. Red geometric angular shapes appear in the lower portion, possibly representing speed lines or abstract design elements. The overall composition has a vertical orientation and conveys a sense of action and movement.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.75,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "A dynamic manga effect showing flowing, flame-like energy or fabric rendered in vibrant red and pink tones against a deep blue background dotted with white particles or snow. The effect features sweeping, curved lines that create a sense of powerful movement and flow, with the red forms appearing to billow and twist through the composition. The art style uses bold, confident linework with black outlines defining the flowing shapes. The coloring employs gradient shading from deep crimson to bright pink, creating volume and dimensionality. White highlights and particles are scattered throughout, suggesting either sparks, snow, or energy discharge. Angular geometric shapes or sound effect lines appear overlaid on the flowing forms, typical of manga visual effects. The composition creates a strong diagonal movement from upper left to lower right, emphasizing the dynamic nature of whatever force or energy is being depicted.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.1,
+            0.4,
+            0.8
+          ],
+          "type": "sfx",
+          "description": "This manga sound effect (sfx) features bold, angular lettering rendered in a dramatic perspective that creates a sense of motion and impact. The text appears to be katakana characters drawn with thick black outlines and filled with a gradient that transitions from orange-red at the bottom to lighter tones toward the top. The letters are positioned at a dynamic diagonal angle, suggesting movement or force. The background shows a blue sky with white clouds, and there are motion lines and impact effects including small white dots and red/pink energy bursts at the bottom of the frame. The overall composition uses strong contrast between the warm-colored text and cool blue background, with the perspective lines enhancing the sense of speed or explosive action typical of action manga scenes.",
+          "text": "NEON GENESIS EVANGELION"
+        },
+        {
+          "bbox": [
+            0.6,
+            0.85,
+            1.0,
+            1.0
+          ],
+          "type": "sfx",
+          "description": "A stylized sound effect (SFX) rendered in bold, angular lettering against a dramatic red-toned background. The text appears to be partially visible, showing geometric letterforms with sharp, angular cuts and strong black outlines. The background features a rich crimson and burgundy color palette with organic, flowing shapes that could represent flames, smoke, or energy effects. The composition uses layered translucent elements with varying opacity, creating depth through overlapping red tones. Small white dots or sparkles are scattered throughout the background, adding a sense of movement or magical energy. The overall art style is typical of modern manga with clean digital coloring, smooth gradients, and dynamic visual effects that emphasize the intensity of the sound being represented.",
+          "text": "01"
+        },
+        {
+          "bbox": [
+            0.4,
+            0.2,
+            0.9,
+            0.6
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts a dynamic female character with long, flowing orange-red hair that streams dramatically through the frame. She appears to be in motion or caught in a powerful moment, with her mouth open in what seems to be a cry or exclamation. The character is wearing a bright red plugsuit or bodysuit with yellow/golden accents on the chest area and mechanical details like buttons or ports. The art style features clean, bold line work typical of modern manga, with smooth gradients and cell-shading techniques. The background shows a blue sky with what appears to be geometric architectural elements or mecha parts in darker tones. Small red particles or effects scatter through the composition, adding to the sense of movement and energy. The overall composition uses a low angle perspective that emphasizes the character's dramatic pose and creates visual impact through the contrast between the warm reds and oranges against the cool blue background.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

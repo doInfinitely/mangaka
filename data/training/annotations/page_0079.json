@@ -1,0 +1,184 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A dramatic manga page showing a conversation between two characters, followed by a disturbing scene of crucifixion, exploring themes of fate and divine intervention.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.5
+      ],
+      "description": "Split panel showing close-ups of two characters in conversation - a blonde character on the left and a dark-haired bearded man on the right",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile and three-quarter view across two panels. The character has shoulder-length light-colored hair with bangs and spiky sections. Their expression appears contemplative or concerned, with downcast eyes and a slight frown. They're wearing what appears to be a high-collared jacket or uniform with detailed linework showing fabric folds and structure. The art style features clean, precise linework with moderate line weight variation. Shading is achieved through screentone/halftone patterns, particularly visible in the lower panel's background and on the character's clothing. The composition emphasizes the character's facial expression and upper body, creating an intimate, introspective mood. Text bubbles contain dialogue reading 'IS THAT IT?' and 'DIFFERENT SOUL INHABITS UNIT 01...' The panels are arranged vertically, with the character's pose shifting slightly between them to show different angles of their contemplative state.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.7,
+            0.35,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a cropped portion of a manga speech bubble showing only the curved border lines and partial interior space. The bubble has clean, medium-weight black outlines typical of manga speech bubbles. The interior shows subtle halftone dot screening (screentone) in light gray tones, creating a gentle gradient or texture effect. The visible portion shows smooth, flowing curves that suggest this is part of a larger oval or rounded speech bubble. No text is visible in this cropped section, only the structural elements of the bubble itself. The art style is consistent with standard manga conventions, using precise linework and professional screentone application for shading effects.",
+          "text": "IS THAT IT?"
+        },
+        {
+          "bbox": [
+            0.2,
+            0.15,
+            0.45,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing partial English text that reads 'DIFFERENT SO INHABIT UNIT'. The text appears to be cut off at the edges, suggesting this is part of a larger dialogue. The speech bubble has the typical rounded, cloud-like border characteristic of manga speech bubbles. The text is rendered in standard manga lettering style with clean, bold characters. The bubble appears to be positioned in the upper right portion of the cropped panel, with clean white interior space around the black text.",
+          "text": "A DIFFERENT SOUL INHABITS UNIT 01 ..."
+        },
+        {
+          "bbox": [
+            0.5,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dramatic manga character shown in profile view, featuring a masculine figure with spiky, wild black hair and facial hair including a mustache and beard. The character wears what appears to be a dark hooded garment or cloak. The art style employs bold black and white contrast with heavy ink work and cross-hatching techniques typical of manga illustration. Screen tones create subtle gradients in the background. The composition shows the character from roughly chest-up in a three-quarter profile angle, creating a sense of contemplation or brooding intensity. Two speech bubbles are visible containing the text 'SINCE YUI IS...' and 'GONE, NOW.' The line work is confident with varying weights, using thick blacks for the hair and clothing while maintaining clean, precise lines for facial features. The overall mood is somber and dramatic, enhanced by the stark monochromatic palette and shadowing techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.1,
+            0.85,
+            0.3
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel shows a close-up of a character's face in profile, featuring spiky, disheveled black hair rendered with bold, angular strokes. The character appears to be wearing what looks like a high-collared garment or jacket with visible zipper details drawn in clean, precise lines. The art style employs typical manga techniques with strong contrast between black and white areas, no visible hatching or tone work, creating a stark, dramatic effect. The line weight varies from thick, confident strokes for the hair to finer lines for facial features and clothing details. The composition is tightly cropped, focusing on the upper portion of the character's head and shoulder area. The background appears to be white or very light with some subtle texture. No visible text or speech bubbles are present in this particular cropped section, despite being labeled as containing a speech bubble element.",
+          "text": "SINCE YUI IS ..."
+        },
+        {
+          "bbox": [
+            0.65,
+            0.65,
+            0.85,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel shows a close-up of what appears to be a character's hair and partial face area rendered in black and white. The hair is depicted with flowing, angular strands typical of manga art style, with sharp, jagged edges that create dynamic movement. The linework uses varying weights - thicker black lines define the main hair contours while finer lines add internal detail and texture. The shading employs solid black fills and screentone/halftone patterns to create depth and shadow. The composition is cropped tightly, focusing on the hair detail and creating an intimate, dramatic framing. No visible text appears in this particular cropped section. The art style is characteristic of shoujo or josei manga with its emphasis on detailed hair rendering and atmospheric shading techniques.",
+          "text": "GONE, NOW."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.5,
+        1.0,
+        0.65
+      ],
+      "description": "Close-up panel of the bearded man's face in profile, showing glasses and facial hair detail",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in a reclining or lying position, rendered in classic black and white manga style. The character appears to have dark, messy hair and is wearing what looks like light-colored clothing or possibly a shirt. The art style employs clean, confident line work with varying line weights - thicker outlines for the main forms and thinner lines for details. Shading is achieved through screentone (halftone dot patterns) visible in the background areas, creating gray tones that contrast with the stark black and white elements. The composition shows the character from a side angle, with the figure positioned horizontally across the panel. The drawing technique demonstrates typical manga aesthetics with simplified but expressive character design, emphasizing clean lineart and strategic use of negative space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.3,
+            1.0
+          ],
+          "type": "background",
+          "description": "A minimal manga background element featuring two distinct tonal areas separated by a clean horizontal division. The upper portion displays a light gray halftone screentone pattern with fine dotted texture typical of manga backgrounds. The lower section shows a much darker, heavily saturated screentone with dense black stippling or crosshatching that creates an almost solid black appearance. A thin black line runs along the top edge of the upper section, likely indicating an architectural element like a ceiling or structural beam. The composition uses stark contrast between light and dark values to create depth and atmospheric separation, employing classic manga visual techniques for environmental storytelling without specific details.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.65,
+        1.0,
+        1.0
+      ],
+      "description": "Large panel depicting a crucifixion scene with a figure on a cross and speech bubbles containing philosophical dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.7,
+            0.9
+          ],
+          "type": "character",
+          "description": "A dramatically rendered male torso depicted from chest to lower abdomen, shown with arms outstretched in a crucifixion-like pose. The character appears severely injured or tortured, with extensive battle damage covering the torso - multiple cuts, gashes, and what appears to be torn flesh rendered in detailed cross-hatching and heavy black ink work. The muscular anatomy is clearly defined through confident line work, with the chest and abdominal muscles prominently displayed. The art style employs heavy contrast between stark white flesh tones and deep black shadows, with intricate hatching patterns used to show depth and texture of the wounds. Screen tones create a gray background atmosphere. The composition focuses entirely on the torso area, cropping out the head and lower body to emphasize the extent of physical trauma. Partial text is visible in the upper right corner reading 'ON' and 'THE' and 'OF', likely part of dialogue or narration that has been cut off by the cropping.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A dramatic manga panel showing a crucified figure against a dark, heavily crosshatched background. The character appears to be bound to a cross-like structure with arms outstretched, wearing minimal clothing around the lower body. The figure's head is tilted downward and appears to have some kind of covering or bandage. The art style features heavy black shading and crosshatching techniques typical of dark manga, creating a somber, oppressive atmosphere. The composition emphasizes the vertical nature of the crucifixion pose against the stark black background. Speech bubbles contain dialogue including 'COULD HAVE CHANGED IT SO...' on the left, and 'I DON'T KNOW WHO... DESIGNED THIS SCENARIO, OR FOR WHAT PURPOSE.' and 'ONLY THE HAND OF GOD' on the right side of the panel.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.4,
+            0.25,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A cropped portion of a manga speech bubble showing the characteristic curved edge in solid black against a white background. The bubble's border displays typical manga line work with clean, consistent line weight forming a smooth curved boundary. The interior shows the standard white/light tone fill common to speech bubbles. The cropping reveals only a curved section of what appears to be a larger oval or rounded rectangular speech bubble shape. The art style demonstrates the clean, high-contrast black and white aesthetic typical of manga paneling, with sharp definition between the dark border and light interior space where text would normally appear.",
+          "text": "COULD HAVE CHANGED IT SO..."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.95,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with black text positioned in the upper portion of the frame. The bubble has a clean, rounded rectangular shape with a tail pointing downward and to the left, indicating the speaker is below and to the left of the bubble. The text reads 'THIS SCENARIO, OR FOR WHAT PURPOSE.' in bold, uppercase lettering typical of manga dialogue. The bubble appears to be part of a larger conversation, likely continuing from a previous statement. The background visible through the bubble shows stark black and white contrast with heavy black shading or solid areas, characteristic of dramatic manga art style with bold ink work and minimal gray tones.",
+          "text": "I DON'T KNOW WHO... DESIGNED THIS SCENARIO, OR FOR WHAT PURPOSE."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.65,
+            0.95,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a black speech bubble or text balloon with a curved edge visible on the left side. The bubble has a solid black fill with what appears to be some subtle texture or grain pattern within the black area. The edge shows the characteristic rounded curve typical of manga speech bubbles. There appears to be some faint text or marking visible in the upper left corner that looks like 'OD' or similar characters, though it's partially cut off by the cropping. The overall style is consistent with typical manga paneling and speech bubble design, using solid black fills rather than outlined bubbles.",
+          "text": "ONLY THE HAND OF GOD"
+        }
+      ]
+    }
+  ]
+}

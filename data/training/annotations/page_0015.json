@@ -1,0 +1,96 @@
+{
+  "width": 960,
+  "height": 1400,
+  "description": "An action sequence showing a character being attacked or struck, with dramatic sound effects and motion lines indicating intense combat or violence",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.5
+      ],
+      "description": "Upper panel showing a character being struck with dramatic motion lines and impact effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.6,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a dramatic action sequence featuring a character's hand in motion. The hand appears to be gripping or grasping something with intense force, rendered with bold, confident line work typical of action manga. The composition uses dynamic diagonal speed lines radiating outward to convey rapid movement and impact. Cross-hatching and parallel line shading create depth and shadow, particularly around the hand and fingers. The art style employs heavy contrast between black ink and white space, with varied line weights - thicker lines for the main forms and thinner lines for detail work and motion effects. The panel is cropped to focus on this specific moment of action, with geometric panel borders visible at the edges. The overall composition creates a sense of explosive movement and tension through the use of radiating speed lines and dramatic foreshortening of the hand reaching toward the viewer.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect panel depicts intense motion lines radiating diagonally across the frame, creating a dramatic sense of speed or impact. The lines are rendered in varying weights, with bold black strokes dominating the composition and creating strong directional movement from upper left to lower right. In the lower portion, there appears to be a silhouetted figure or object caught in this motion blur effect. The right side features bold, stylized sound effect text reading 'WAAA AAA AAA' in thick, jagged black lettering arranged in three rows, emphasizing the intensity of the action. The overall composition uses high contrast between the white background and black linework, with no gray tones or detailed shading, creating a stark, dynamic visual impact typical of action sequences in manga. The speed lines and sound effects work together to convey explosive movement or a powerful attack.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.1,
+            1.0,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga sound effect (SFX) features bold, jagged black lettering that appears to spell out repeated syllables like 'UAAA' or 'AAAA' in a rough, hand-drawn style. The text has an aggressive, explosive quality with uneven edges and varying thickness that creates a sense of violent impact or loud noise. The lettering is positioned against diagonal speed lines or motion lines that sweep across the frame from the upper left, rendered in thin black strokes that create dynamic movement. The overall composition suggests intense action or a powerful sound effect, with the stark black text contrasting against the white background and intersecting motion lines. The art style is typical of manga action sequences, using bold typography and kinetic line work to convey auditory impact visually.",
+          "text": "UAAA AAA AAA"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "description": "Lower panel showing the aftermath or continuation of the attack with the character in distress",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.7,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dynamic manga illustration depicting a mecha or robot character in an action pose. The figure appears to be a humanoid mechanical being with angular, armored plating and distinctive helmet-like head design. The character is rendered in classic black and white manga style with bold, confident line work and dramatic cross-hatching for shadows and depth. Speed lines radiate diagonally across the composition, creating a sense of rapid movement or impact. The mecha's pose suggests it's either lunging forward or recoiling from an attack, with limbs positioned dynamically. The art style features strong contrast between light and shadow areas, with mechanical details clearly defined through precise linework. Various geometric shapes and angular forms make up the character's design, typical of mecha manga aesthetics. The overall composition conveys intense action and movement through the use of motion lines and dramatic perspective.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts an intense action sequence with dynamic speed lines and impact effects. The left side shows a character in what appears to be armored or mechanical gear, rendered with bold black linework and cross-hatching for shadows and depth. The figure is positioned at a dramatic angle, suggesting rapid movement or combat. The right side of the panel is dominated by sweeping speed lines that radiate outward, creating a sense of explosive motion or impact. These lines vary in thickness, with some bold strokes accompanied by thinner parallel lines. The overall composition uses high contrast between stark white areas and deep black shadows, typical of action manga art style. The speed lines and motion effects occupy a significant portion of the panel, emphasizing the kinetic energy of the scene. Small debris or impact fragments are scattered throughout the composition, further enhancing the sense of violent action or collision.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.2,
+            1.0,
+            0.8
+          ],
+          "type": "character",
+          "description": "A close-up manga illustration showing a character's torso and upper body in a relaxed, reclining pose. The character appears to be wearing a light-colored, loose-fitting garment with simple line work defining the fabric folds and contours. The art style employs clean, confident line work with varying weights - thicker outlines for the main forms and thinner lines for internal details. Subtle hatching patterns are visible in the upper portion, likely indicating shadows or texture. The shading is minimal and relies primarily on line work rather than heavy tonal values, creating a soft, gentle aesthetic typical of slice-of-life or romance manga. The composition focuses on the fabric draping naturally over the character's form, with curved lines suggesting a comfortable, at-rest position. No text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

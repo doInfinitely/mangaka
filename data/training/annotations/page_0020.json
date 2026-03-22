@@ -1,0 +1,195 @@
+{
+  "width": 933,
+  "height": 1400,
+  "description": "A dramatic manga page showing a character in distress in a bath, followed by explosive destruction scenes and a final conversation between characters",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.485,
+        0.387
+      ],
+      "description": "Character in bathtub with sound effects",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's torso and partial face in a dramatic moment. The character appears to be shirtless, with detailed musculature rendered through careful line work and subtle shading. Their hair is light-colored and flowing, suggesting movement or impact. The art style features clean, confident line weights with minimal but effective screentone shading to create depth and form. There are impact effects and motion lines scattered throughout the composition, including sound effect text in katakana that appears to read '\u30c9\u30c9\u30c9' (dododo), indicating intense action or impact. The panel composition is cropped to focus on the character's physical form, creating an intimate and dynamic visual moment typical of action manga sequences. The overall aesthetic uses high contrast between the white background and the detailed line art, with strategic use of grey tones to enhance the three-dimensional quality of the figure.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.05,
+            0.35,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This is a sound effect (SFX) element rendered in typical manga style with bold, angular katakana characters. The text appears to be drawn with thick, confident black lines that create a dynamic, explosive visual impact. The characters have sharp, geometric edges and are positioned at slight angles, suggesting movement or intensity. The linework is clean and decisive with solid black fills, characteristic of action manga sound effects. There are some additional smaller mark elements and partial character strokes visible around the main SFX text. The overall composition creates a sense of dramatic impact or collision, with the text serving as an onomatopoeia to represent a specific sound or action occurring in the scene.",
+          "text": "\u30b4\u30dc\u30b4\u30dc"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            0.2,
+            0.95
+          ],
+          "type": "effect",
+          "description": "This manga panel element shows a stark black and white composition with strong contrast. The image features bold, angular line work with thick black strokes creating geometric shapes or architectural elements. There's a prominent use of solid black fill areas contrasted against white negative space, with fine cross-hatching or screentone texture visible in some regions. The composition appears to show part of a structural element, possibly a corner or edge of a building or interior space, rendered in a minimalist, high-contrast style typical of dramatic manga panels. The line weight varies from thin detail lines to thick, bold strokes that create strong silhouettes and shadows. No text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.485,
+        0.0,
+        1.0,
+        0.387
+      ],
+      "description": "Hand holding electronic device",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.3,
+            0.9,
+            0.8
+          ],
+          "type": "object",
+          "description": "A handheld electronic device, likely a portable gaming system or calculator, rendered in classic manga style with bold black ink lines and cross-hatching shading. The device features a rectangular screen displaying what appears to be a simple graphic or icon, with three small circular buttons positioned below the screen on the right side. The device is being held by a hand shown from below, with clean line work defining the fingers and thumb gripping the sides of the device. The art style uses traditional manga techniques with varied line weights - thicker outlines for the device's form and finer lines for details. Cross-hatching and dot screening create depth and shadow, particularly visible in the screen area and along the device's edges. The composition shows the device at a slight angle, giving it dimensionality, while the hand position suggests active use or demonstration of the device.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.05,
+            0.95,
+            0.25
+          ],
+          "type": "sfx",
+          "description": "This is a sound effect (sfx) element depicted as a white, elongated oval or bubble shape against a gray halftone background. Inside the white shape are bold black brush strokes that form abstract angular marks, likely representing a sound effect in katakana or stylized onomatopoeia. The strokes appear to be painted with confident, quick movements creating sharp angles and varying line weights. The overall composition is simple but dynamic, with the white sfx bubble creating strong contrast against the dotted gray background texture typical of manga printing. The sound effect marks inside are rendered in solid black ink with no gradation or shading, giving them a bold, impactful appearance characteristic of manga sound effects.",
+          "text": "\u30d4\u30c3"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.419,
+        1.0,
+        0.742
+      ],
+      "description": "Large explosion or destruction scene",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect panel depicts a dramatic tree branch silhouette rendered in bold black ink against a white sky filled with scattered leaves. The branch extends diagonally across the frame with thick, confident brushstrokes that create texture through varied line weights and cross-hatching. Numerous leaves are shown falling or floating through the air, each rendered as solid black shapes of varying sizes that create a sense of movement and seasonal transition. The contrast between the solid black elements and the white negative space is stark and impactful, using minimal tones to maximum effect. The composition suggests wind or natural movement, with the leaves dispersed in an organic, flowing pattern that guides the eye across the panel. This type of environmental effect is commonly used in manga to establish mood, transition between scenes, or emphasize the passage of time.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.774,
+        0.485,
+        1.0
+      ],
+      "description": "Two characters standing, one speaking",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character shown from an angled perspective, featuring dark black hair and what appears to be part of their face or head. The character is positioned in the lower portion of the frame against a background with diagonal line hatching and crosshatching patterns typical of manga art. There's a speech bubble containing the text 'WELL DONE?' in capital letters positioned in the upper left area. The art style employs clean, bold line work with varied line weights - thicker outlines for the character and finer lines for the detailed crosshatching background. The shading technique uses traditional manga screening and hatching patterns to create depth and texture. The composition suggests this is part of a larger panel, with the character appearing to be in some kind of interior space, possibly looking upward or at an angle based on the perspective lines in the background.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.4,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with clean, bold black outlines containing the text 'WELL DONE?' in uppercase letters. The text appears to be in a standard manga font with solid black lettering. The speech bubble has a classic rounded rectangular shape with a small tail pointing downward and to the left, indicating the speaker is located below and to the left of the bubble. The background shows crosshatched shading patterns typical of manga artwork, with diagonal line work creating texture and depth. The speech bubble itself has a white/clean interior that contrasts sharply with the detailed crosshatching surrounding it. The overall composition suggests this is a response or reaction from a character, with the question mark indicating uncertainty or seeking confirmation.",
+          "text": "WELL DONE?"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts a tiled floor viewed from above at an angle, rendered in typical manga style with cross-hatching and screentone patterns. The floor features rectangular tiles arranged in a grid pattern, with clean linear perspective lines showing depth. Two pairs of feet in dark dress shoes are visible at the top of the frame, suggesting business or formal attire. The shading uses a combination of screentones (halftone dot patterns) and line work to create depth and texture on the floor surface. A speech bubble containing the text 'WELL DONE?' floats in the upper left area. In the bottom left corner, there's a partial view of a character with dark hair shown from behind/profile view. The overall composition uses a bird's-eye perspective that creates a sense of looking down at the scene, with the geometric floor pattern providing strong directional lines that guide the eye through the panel.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.485,
+        0.774,
+        0.742,
+        1.0
+      ],
+      "description": "Close-up of destruction aftermath",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect element depicts dynamic motion lines and debris scattered across the panel. The composition features bold, sweeping diagonal hatching lines that create a sense of intense movement or impact, drawn with varying line weights from thick to thin. Scattered throughout are irregular white shapes representing debris, dust, or fragments being blown by force. The hatching technique uses dense, parallel lines that curve and flow to suggest wind or explosive energy. The contrast between the heavily crosshatched dark areas and the stark white debris creates a dramatic visual effect typical of action sequences in manga. The lines converge and diverge in patterns that guide the eye across the frame, emphasizing the chaotic nature of whatever destructive event is occurring. No text is visible in this particular cropped section.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.742,
+        0.774,
+        1.0,
+        1.0
+      ],
+      "description": "Close-up of character's eye",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.2,
+            0.9,
+            0.8
+          ],
+          "type": "character",
+          "description": "This cropped manga panel shows a partial view of a character with dark, spiky hair rendered in heavy black ink with crosshatching texture. Only the hair and what appears to be part of the character's head/face area are visible in this cropped section. The hair is drawn with bold, jagged strokes creating a wild, unkempt appearance. The art style uses strong black and white contrast with no gray tones. There are clean panel borders visible on the left side, and the composition suggests this is from the upper portion of a manga panel. The linework is confident with varying line weights - thicker for the hair's outer contours and finer lines for internal detail and texture. No text is visible in this particular cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

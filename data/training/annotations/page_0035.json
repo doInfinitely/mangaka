@@ -1,0 +1,250 @@
+{
+  "width": 944,
+  "height": 1400,
+  "description": "A manga page showing a tense confrontation scene with characters discussing defeat and an entrance to a sealed location, featuring detailed hand imagery and character dialogue.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.65
+      ],
+      "description": "Large panel showing a detailed illustration of an open hand with wrinkled, weathered skin against a plain background",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.0,
+            0.85,
+            0.95
+          ],
+          "type": "object",
+          "description": "A detailed manga illustration showing an open hand positioned prominently in the upper panel, drawn with clean black outlines and minimal internal line work depicting palm creases and finger joints. The hand appears to be reaching upward or outward, with all five fingers extended and slightly separated. Below in a second panel, the same hand is shown from a different angle as part of a scene with a male character who has dark hair and is wearing what appears to be a collared shirt or uniform. The character is positioned to the right side of the lower panel, shown in profile view. There is dialogue text reading 'OF MY DEFEAT.' in the lower left. The art style employs typical manga techniques with varied line weights - bold outlines for main forms and finer lines for details. Screen tones are used for shading and background areas, creating depth and contrast. The composition emphasizes the hand as a central visual element across both panels, suggesting its significance to the narrative moment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.85,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a minimalist composition with stark black and white contrasts. The upper portion features geometric shapes and angular forms rendered in solid black against white space, with some areas showing delicate screentone/halftone patterns creating subtle gray gradations. The linework is clean and confident with varying weights - thick bold lines defining major shapes and thinner lines for detail work. Below this is a horizontal panel strip showing a series of rectangular frames or windows, creating a rhythmic pattern across the composition. The overall style employs high contrast between pure blacks and whites with selective use of screentones, typical of professional manga artwork. The spatial arrangement suggests architectural or structural elements, possibly interior spaces or geometric abstractions that serve as environmental context for character action.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.65,
+        1.0,
+        0.9
+      ],
+      "description": "Horizontal panel showing two characters, one with an outstretched hand and another speaking",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            1.0
+          ],
+          "type": "character",
+          "description": "A partial view of a character shown from behind and side angle, featuring dark hair rendered with bold black ink and distinctive manga-style hatching. The character wears what appears to be a light-colored garment, possibly a shirt or jacket, depicted with clean line art and minimal shading. The hair is drawn with strong, flowing lines and crosshatching techniques typical of manga art, creating depth and texture. The character's pose suggests they are standing or moving, with their body positioned at an angle that shows both the back and partial side profile. The art style employs classic manga techniques with varied line weights - thicker, bold strokes for the hair contrasting with thinner, cleaner lines for the clothing and body contours.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.5,
+            0.1,
+            0.95,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel shows two characters in a dramatic conversation scene. On the left is a character with long dark hair and intense eyes, shown in profile/three-quarter view. On the right is a character wearing what appears to be a knit beanie or winter hat, with distinctive cross-hatched shading patterns covering their face, suggesting either scarring or a mask-like appearance. The art style features clean, bold line work typical of manga, with heavy use of cross-hatching for shadows and texture, particularly on the right character's face and clothing. The composition creates tension through the positioning of the characters facing each other. Speech bubbles contain dialogue including 'NINA... WHY ARE YOU HERE?', 'YOU HAD NOT TAKEN HER AWAY', 'WITH ADAM GONE', and 'THERE IS NOTHING THAT REI COULD'. The overall tone is serious and dramatic, emphasized by the stark black and white contrast and detailed linework.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.3,
+            0.25,
+            0.55
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'ROUTE HI EXISTS' in bold, uppercase lettering. The bubble has a clean, rounded rectangular shape with a pointed tail extending downward and to the left, indicating the speaker is positioned below and to the left of the bubble. The text is rendered in a standard manga font style with thick, black letters that stand out clearly against the white background of the bubble. The bubble itself has a thin black outline consistent with typical manga speech bubble conventions. The tail of the bubble is positioned to point toward what appears to be a character or source of the dialogue outside the cropped frame.",
+          "text": "OF MY DEFEAT."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.95,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing the text 'ADAM GONE,' in bold, capitalized lettering. The speech bubble has a clean, oval shape with a pointed tail indicating the speaker. The text uses a standard manga font with thick, black lettering that creates strong contrast against the white interior of the bubble. The bubble appears to be positioned in the upper portion of the panel, and part of a character's face is visible at the edge - showing what appears to be a person with straight hair and cross-hatched shading on their clothing or hood. The overall art style uses clean line work typical of manga, with the speech bubble serving as a key narrative element in the scene.",
+          "text": "THIS IS THE EVI-DENCE"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.9,
+        0.32,
+        1.0
+      ],
+      "description": "Small panel showing an entrance or doorway with Japanese text",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "background",
+          "description": "This appears to be a minimalist background element featuring clean, thin black line work on a white background. The visible elements include what looks like part of an architectural structure or interior space, with geometric lines suggesting walls, frames, or structural elements. The art style is very clean and simple, using consistent thin line weights without any shading, hatching, or tonal variation. The composition shows angular geometric forms intersecting at various points, creating a sense of depth and spatial dimension. The overall aesthetic is stark and uncluttered, typical of modern manga background treatments that focus on essential structural elements rather than detailed environmental rendering. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.15,
+            0.85,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial speech bubble element rendered in typical manga style with clean, confident black lineart. The bubble appears to be cut off at the edges of the crop, showing curved contour lines that form the classic rounded speech bubble shape. The lines are drawn with consistent medium weight, creating smooth, flowing curves characteristic of professional manga artwork. The interior of the bubble appears to be empty or contains very minimal content that's not clearly visible in this cropped section. The bubble's positioning and partial visibility suggests it's part of a larger dialogue sequence, with the curved edges indicating it likely connects to other speech elements or extends beyond the visible frame. The art style demonstrates the clean, precise linework typical of contemporary manga, with no visible shading or tone work within this particular element.",
+          "text": "EVEN THOUGH THIS PLACE IS SEALED, A DIRECT ROUTE HERE EXISTS."
+        },
+        {
+          "bbox": [
+            0.1,
+            0.65,
+            0.9,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of a manga speech bubble showing only the bottom curved border line. The line is clean and smooth with consistent medium line weight, typical of standard manga speech bubble construction. The curve appears to be part of a circular or oval bubble shape, drawn with a single black outline against a white background. No text is visible in this cropped portion, and the minimal visible area shows the characteristic clean, geometric precision common in manga paneling and speech bubble design.",
+          "text": "REI COULD COME TO THIS PLACE, IF SHE WISHED TO."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.32,
+        0.9,
+        0.48,
+        1.0
+      ],
+      "description": "Narrow panel showing a character's profile",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a partial view of a character, displaying what appears to be the upper torso or shoulder area. The character is wearing dark clothing rendered with heavy black ink and dense crosshatching patterns that create rich shadows and texture. The art style employs bold, confident line work with varied line weights - thick, solid black areas contrast with intricate hatching techniques used for shading and dimensional modeling. The composition shows the figure positioned against what appears to be a white or light background with some geometric framing elements visible at the edges. The cropping cuts off most of the character, focusing on the clothing details and the interplay between the dark, heavily textured garment and the clean background space. The shading technique demonstrates classic manga artistry with its systematic use of parallel lines and crosshatching to create depth and form.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.48,
+        0.9,
+        0.68,
+        1.0
+      ],
+      "description": "Panel showing a female character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga element shows a partial view of a character, featuring primarily their hand/arm area. The character appears to be wearing light-colored clothing, possibly a shirt or jacket sleeve. The art style employs clean, confident line work with varied line weights - thicker outlines defining the main forms and thinner lines for interior details. There is subtle hatching and crosshatching used for shading, particularly visible in the clothing folds and shadow areas. The composition shows the character positioned near what appears to be a doorway or frame structure. The word 'DONE.' appears in the upper portion, rendered in simple, bold lettering typical of manga dialogue or sound effects. The overall style is characteristic of professional manga artwork with its precise linework and economical use of shading techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial speech bubble element showing clean, precise lineart typical of manga style. The visible portion displays sharp, angular corners with consistent medium-weight black lines forming the bubble's border. The interior is blank white space, suggesting this may be an empty speech bubble or the text portion is cropped out. The linework is smooth and professional, with no visible texture or shading within the bubble itself. The geometric precision of the visible corner angles indicates this is likely from a more modern or digitally-produced manga rather than hand-drawn work.",
+          "text": "THEN... WHY ARE YOU HERE?"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.55,
+            0.9,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble visible in the upper portion of the frame, showing only the curved outline and tail/pointer of what appears to be a standard manga dialogue bubble. The bubble has clean, consistent black line weight typical of manga art style. Only a small triangular tail/pointer section is visible, suggesting the speaker is positioned outside the current frame or crop area. The bubble appears empty or the text content is not visible in this cropped section. The line work is precise and geometric, maintaining the characteristic sharp, clean aesthetic of professional manga artwork.",
+          "text": "EVEN IF YOU HAD NOT TAKEN HER AWAY,"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.68,
+        0.9,
+        1.0,
+        1.0
+      ],
+      "description": "Final panel showing a character with bandaged face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character's torso and lower face in profile. The character is wearing what appears to be a light-colored shirt or jacket with a darker vest or sweater layered over it. The vest features a subtle crosshatch pattern texture and has a darker horizontal stripe or band across it. The linework is clean and precise with moderate line weight, typical of manga style. The shading is minimal, using mostly the crosshatched pattern on the clothing for texture rather than heavy shadows. The composition cuts off the character at the neck area, focusing on the clothing details. There appears to be some text visible in the upper left corner that reads 'NE.' The overall art style is clean and professional, with careful attention to clothing folds and fabric rendering.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.1,
+            0.85,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble element showing the characteristic curved outline typical of manga dialogue bubbles. The visible portion displays clean, consistent line weight forming the bubble's border. The interior shows standard manga halftone screening/dot pattern shading in gray tones. The bubble appears to be cut off at the edges of the crop, showing only a curved section that would normally contain dialogue text. The shading technique uses regular dot patterns common in manga printing, creating a subtle gray fill within the speech bubble boundaries.",
+          "text": "WITH GOMA GONE,"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.45,
+            0.9,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A partial manga speech bubble element showing the characteristic angular, geometric shape typical of manga dialogue balloons. The bubble appears to have clean, bold black outlines with a white interior space. The visible portion shows sharp, angular edges rather than rounded curves, giving it a dynamic, energetic feel. The line work is consistent with typical manga art style - crisp, confident strokes with uniform line weight. There appears to be some screentone or halftone shading visible in the background areas, creating textural contrast. The composition suggests this bubble is positioned in the upper portion of a panel, likely containing dialogue or sound effects, though no text is clearly visible in this cropped section.",
+          "text": "THERE IS NOTHING THAT REI COULD HAVE DONE."
+        }
+      ]
+    }
+  ]
+}

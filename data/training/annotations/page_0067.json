@@ -1,0 +1,107 @@
+{
+  "width": 943,
+  "height": 1400,
+  "description": "A manga page showing a close-up of a character with light hair and dark eyes in the top panel, followed by a larger panel below showing two characters - a blonde male and a dark-haired female in what appears to be a plugsuit or similar outfit - with dialogue about Unit 01 shutting down.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.067,
+        0.0,
+        0.933,
+        0.667
+      ],
+      "description": "Large close-up panel of a character's face with light-colored hair and dark eyes looking directly at viewer",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga element shows two panels featuring anime-style characters rendered in black and white. The top panel displays a close-up of a character with shoulder-length, flowing hair and large expressive eyes, drawn with clean, precise linework typical of manga art. The character appears to be looking slightly upward with a contemplative or gentle expression. The bottom panel shows two characters in what appears to be an intimate or close moment - one character has spiky, messy hair while the other has smoother hair. They appear to be positioned close together, possibly embracing or in a tender scene. The art style employs typical manga techniques including screentone backgrounds (visible crosshatching patterns), varied line weights for emphasis, and minimal but effective shading. There is visible Japanese text that appears to read '\u30d0\u30b7...' and some English text reading 'UNIT 01...' in the bottom right corner. The overall composition suggests an emotional or romantic scene between the characters.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.067,
+        0.683,
+        0.933,
+        1.0
+      ],
+      "description": "Panel showing two characters - a blonde male and dark-haired female in a plugsuit - with dialogue about Unit 01",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.45,
+            1.0
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character shown from behind and side angle, depicting their muscular back and shoulder. The character has light-colored hair and appears to be wearing minimal clothing or is unclothed from the waist up. The art style features clean, confident line work with varying line weights - thicker outlines defining the character's form and thinner lines for anatomical details. The shading is accomplished through screentone/halftone patterns visible in the background, creating depth and atmosphere. A speech bubble with jagged, angular borders contains the text 'IF SOMETHING DOESN'T HAPPEN...!' positioned to the left side of the frame. The composition focuses on the character's physical form, emphasizing their muscular definition through careful line placement and minimal but effective shading techniques typical of manga artwork.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.15,
+            0.8,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character from chest up wearing a form-fitting bodysuit or pilot suit with a distinctive design. The suit is rendered in gray tones with screentone shading and features circular breast plates or armor elements on the chest, along with what appears to be geometric paneling and possibly a collar or neck piece marked with 'BZ'. The character has long hair that flows down, depicted with fine parallel lines typical of manga art style. A white garment or jacket is worn over one shoulder. The art uses clean, confident line work with varied line weights - thicker outlines for the main forms and finer lines for details like hair strands. Screentone patterns create texture and depth in the gray areas of the suit. Sound effects or motion lines appear as diagonal marks ('\u30b6' characters) in the background, suggesting movement or emphasis. The composition focuses on the torso and creates a sense of the character's presence through the detailed costume design and confident linework typical of professional manga illustration.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.6,
+            0.35,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows a minimalist line art drawing featuring the lower portion of a human figure, likely depicting legs and feet. The artwork uses clean, confident black lines of varying weights against a white background. The drawing style is characteristic of manga illustration with simplified yet expressive linework. The composition shows curved and straight lines that suggest the contours of legs, with some additional loose, gestural lines in the upper left area that may represent hair or fabric movement. The linework is precise and economical, using negative space effectively to define form. No text is visible in this cropped portion of what appears to be a speech bubble element from a larger manga panel.",
+          "text": "IF SOMETHING DOESN'T HAPPEN...!"
+        },
+        {
+          "bbox": [
+            0.65,
+            0.25,
+            0.95,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "A partially visible speech bubble containing vertical Japanese text characters. The bubble appears in the upper portion of the frame with clean, bold black lines forming its border. Inside, there are several vertical stroke marks that appear to be katakana or hiragana characters rendered in solid black. The background within the bubble is white/blank. The speech bubble's tail or pointer extends downward, suggesting it originates from a character below. The linework is clean and consistent with typical manga styling, using solid black ink without gradients or complex shading effects.",
+          "text": "UNIT 01... IT'S ON THE BRINK OF SHUTTING DOWN COMPLETELY!!"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.3,
+            0.15,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "A white speech bubble or text balloon with a clean, simple border outline. The bubble contains black text that reads 'IF SOMETHING DOESN'T HAPPEN...!' in a bold, all-caps font typical of manga dialogue. The text appears to be expressing urgency or concern through the ellipsis and exclamation point. The bubble has a standard manga speech balloon shape with a slight pointed tail indicating the speaker. The line work is clean and minimal, with no additional shading or hatching effects. The background visible through the cropped area appears to be white or very light, creating strong contrast with the black text.",
+          "text": "\u30d0\u30bf\u30d0\u30bf"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.7,
+            0.95,
+            1.0
+          ],
+          "type": "sfx",
+          "description": "A simple sound effect (sfx) element rendered in black ink against a light beige/cream colored background. The sfx consists of two short diagonal lines - one shorter line positioned above and to the left, and one longer diagonal line below and to the right, both drawn with bold, confident black strokes. The lines appear to represent a quick slashing or cutting motion, typical of manga sound effects for swift movements or impacts. The art style is minimalist and clean, with solid black line work against the neutral background, creating a stark contrast that emphasizes the dynamic nature of the sound effect.",
+          "text": "!!!"
+        }
+      ]
+    }
+  ]
+}

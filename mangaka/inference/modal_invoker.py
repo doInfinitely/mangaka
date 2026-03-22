@@ -56,6 +56,7 @@ class ModalInvoker:
             ctx.style_override,
             ctx.negative_prompt,
             ctx.seed,
+            ctx.artist_names,
         )
 
         return DecodeResult(image_bytes=image_bytes)

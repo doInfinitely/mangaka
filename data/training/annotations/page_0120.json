@@ -1,0 +1,250 @@
+{
+  "width": 935,
+  "height": 1400,
+  "description": "A manga page showing a mecha battle scene with Eva Unit 01, featuring dialogue about the unit's weakening pulse and sync rates, with characters working on technical operations.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.08,
+        0.0,
+        0.92,
+        0.52
+      ],
+      "description": "Large panel showing Eva Unit 01 in a damaged state with mechanical details",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "object",
+          "description": "A large mechanical mecha or robot unit dominates the upper portion of the panel, rendered in detailed manga style with clean, precise linework. The mecha has a bulky, angular design with heavy armor plating, rivets, and mechanical joints clearly defined through careful cross-hatching and screentone shading. The unit appears to be viewed from a low angle, emphasizing its imposing size and mass. Panel lines divide the composition, with the lower section showing a partial view of a character with dark hair in profile. The artwork uses traditional manga techniques including screentones for shading and detailed mechanical linework. Speech bubbles contain dialogue about 'UNIT 01' and the 'PILOT'S PULSE WEAKENING', as well as mentions of signals and communication issues. The overall composition creates a sense of scale between the massive mechanical unit and human elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.25,
+            0.25,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a speech bubble from a manga panel. The bubble appears to be white or light-colored against a dark background with heavy cross-hatching or screentone texture. Only a portion of the speech bubble is visible in this crop, showing its curved edge. There is partial text visible that reads 'NY', 'ORE', 'HAN', 'GIS', suggesting this may be part of a larger dialogue. The art style uses traditional manga techniques with dense black shading or screentone patterns creating a dramatic contrast against the lighter speech bubble. The composition shows the bubble positioned against what appears to be a heavily shadowed or textured background area.",
+          "text": "ANY MORE THAN THIS IS..."
+        },
+        {
+          "bbox": [
+            0.7,
+            0.15,
+            0.95,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with jagged, urgent edges containing the text 'UNIT 01... THE PILOT'S PULSE IS WEAKENING!!' in bold, capitalized lettering. The bubble has a sharp, pointed tail extending toward the left side of the frame. The text uses a sans-serif font with thick, black letters that convey urgency and alarm. Behind the speech bubble, there appears to be part of a mechanical or architectural structure with cross-hatched shading and heavy black linework typical of mecha manga art style. The overall composition suggests this is dialogue from a tense, dramatic scene involving a pilot in distress.",
+          "text": "UNIT 01... THE PILOT'S PULSE IS WEAKENING !!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.08,
+        0.54,
+        0.45,
+        0.88
+      ],
+      "description": "Panel showing a character at a control station with Eva-01 display",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.3,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character shown from behind/side angle, featuring dark hair rendered with bold black ink and white highlights. The character appears to be in a contemplative or serious pose. The art style uses clean, confident line work with strong contrast between black and white areas. There is dialogue text reading 'UNIT 01'S SYNCHRO RATE AND AT FIELD ARE...' positioned in the upper portion of the panel. The composition creates a sense of tension or anticipation through the character's positioning and the technical dialogue suggesting a mecha or sci-fi context. The shading technique relies primarily on solid black fills rather than screentone or crosshatching, giving it a stark, dramatic appearance typical of action manga.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.05,
+            0.4,
+            0.4
+          ],
+          "type": "object",
+          "description": "A close-up view of what appears to be a handheld electronic device, likely a mobile phone or pager, rendered in typical manga black and white style. The device has a rectangular screen displaying text in what appears to be Japanese characters. The art style features bold, clean line work with solid black areas and white highlights typical of manga illustration. Cross-hatching and tone work create depth and dimensionality on the device's surfaces. The composition shows the device at an angle, with strong contrast between the dark device body and the lighter screen area. The lineart is precise and technical, suggesting this is meant to represent a realistic modern electronic device rather than a stylized object.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.1,
+            0.95,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing text that reads 'UNIT 01'S SYNCHRO RATE AND AT FIELD'. The text is rendered in bold, sans-serif lettering typical of manga dialogue. The speech bubble appears to be a standard rounded rectangular shape with clean, thin black outlines. The text is left-aligned within the bubble. Above the speech bubble, there is a partial view of what appears to be a character's hand or arm rendered in black and white manga style with solid black areas and white highlights, showing typical manga shading techniques. The overall art style is consistent with serious or dramatic manga, using high contrast black and white artwork with minimal gray tones.",
+          "text": "BUT IT REFUSES TO RECEIVE THE SIGNAL... IT WON'T GO THROUGH AT ALL!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.47,
+        0.54,
+        0.92,
+        0.88
+      ],
+      "description": "Panel showing two characters in conversation",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.3,
+            0.5,
+            0.9
+          ],
+          "type": "character",
+          "description": "A dynamic manga panel showing a mecha or robot character in an action pose. The figure appears to be EVA-01 (as indicated by visible text), rendered in bold black and white with heavy contrast. The character is depicted with angular, mechanical features and appears to be in motion or combat stance. The art style employs heavy use of speed lines radiating outward from the central figure, creating a sense of explosive movement or energy. The shading is predominantly solid black fills with stark white highlights, typical of high-contrast manga artwork. Cross-hatching and screentone effects are visible in the background areas. The composition is framed within panel borders, with the character positioned dynamically within the confined space. The text 'EVA-01' is clearly visible in the upper left portion of the panel, identifying the mecha unit.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.5,
+            0.2,
+            0.9,
+            0.8
+          ],
+          "type": "character",
+          "description": "A dramatic manga panel showing a character in an intense emotional state. The character has long, dark hair flowing dynamically across the frame, with sharp, angular strands that create a sense of movement and distress. Their face is partially visible, showing wide, startled eyes with a shocked or distressed expression. The character appears to be recoiling or falling backward. The art style features bold, heavy black lines with strong contrast between the dark hair and lighter background areas. Cross-hatching and screentone patterns are used for shading and texture. Two prominent exclamation marks ('!!') appear in the lower left, emphasizing the dramatic nature of the scene. The composition is fragmented across multiple panels, creating a sense of chaos and emotional intensity typical of dramatic manga moments.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.05,
+            0.35,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with a distinctive curved, organic shape that appears to be empty or contains very light/faded text that is not clearly visible in this cropped panel. The bubble has the typical manga style with clean, bold outlines and a small tail or pointer extending downward, indicating the speaker is likely positioned below. The bubble's shape is somewhat irregular and flowing, following the natural conversation balloon conventions of manga art. The line work is consistent with typical manga panel borders - clean, black lines with uniform weight. The interior of the bubble appears white or very light, creating strong contrast against any surrounding panel elements.",
+          "text": "I'VE BEEN TRYING,"
+        },
+        {
+          "bbox": [
+            0.65,
+            0.05,
+            0.95,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "This manga element shows a speech bubble with a distinctive curved, organic shape typical of manga dialogue balloons. The bubble appears to be empty or contains minimal content, rendered in clean black outlines against white. Below the speech bubble, there's a partial view of a manga character's face showing one eye and dark hair rendered in typical manga style with clean linework. The eye appears alert or surprised with characteristic manga proportions. The shading uses screentone/halftone patterns visible in the background areas, creating texture and depth. The composition suggests this is part of a dialogue scene where the character is either speaking or reacting to speech. The art style demonstrates clean, professional manga illustration techniques with bold outlines and precise geometric speech bubble construction.",
+          "text": "HAVEN'T YOU CUT OFF THE NERVE FEEDBACK CONNECTIONS?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.9,
+        0.36,
+        1.0
+      ],
+      "description": "Panel showing close-up of character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a close-up partial view of a character's face, specifically focusing on the lower portion. The image captures what appears to be part of a cheek or jaw area rendered in typical manga style with clean, confident black line work. The lineart uses varying line weights - thicker, bold strokes define the main contours while thinner lines suggest subtle facial features and details. The shading is minimal and subtle, with some light tonal areas that create gentle dimensionality. There are small circular elements visible that could be part of facial features or expression marks. The overall art style is clean and polished, characteristic of professional manga illustration, with smooth curves and precise draftsmanship. The composition is intimate due to the close cropping, creating focus on this specific facial area. No text is visible in this particular cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.2,
+            0.6,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of a manga speech bubble rendered in clean black lineart. The visible portion shows the curved outline of what appears to be the bottom or side edge of a speech bubble, drawn with consistent medium-weight black lines against a white background. The linework is smooth and confident, typical of professional manga art style. No text is visible in this cropped section, only the geometric outline of the bubble's border. The composition shows the bubble element positioned in the upper portion of the frame, with clean white negative space surrounding it.",
+          "text": "UNIT 01'S SYNCHRO RATE AND AT FIELD ARE..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.38,
+        0.9,
+        0.64,
+        1.0
+      ],
+      "description": "Panel showing control screen display",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "object",
+          "description": "A cropped manga panel element showing what appears to be a book or document with dense text visible on its pages. The object is rendered in typical manga style with clean, bold black lines forming the rectangular shape of the book/document. The pages contain multiple lines of small text that appear as horizontal black marks or scribbles, suggesting written content without being legible. The art style uses solid black fills and clean linework characteristic of manga illustration, with sharp geometric edges defining the book's form. The object is positioned at an angle, creating a sense of depth and dimension in the composition. Only a portion of the book is visible in this cropped view, with clean white space surrounding it.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.7,
+            0.3,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a minimal speech bubble element consisting of a thin, straight vertical black line. The line has consistent line weight and appears to be part of a speech bubble's border or tail connector. The line is rendered in solid black ink with clean, precise lineart typical of manga style. There is no visible text, shading, or hatching present in this cropped element. The composition is extremely simple, showing only this single vertical stroke against what appears to be a white or light background.",
+          "text": "THIS IS..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.66,
+        0.9,
+        0.92,
+        1.0
+      ],
+      "description": "Panel showing character's shocked reaction",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "A partially visible manga character shown from behind in a minimal line art style. The character has long, dark hair that flows down their back with fine, detailed linework showing individual hair strands. They appear to be wearing what looks like a light-colored garment or top. The character is positioned in the lower right portion of a simple rectangular panel border. The art style uses clean, confident line weights with no shading or tone - just pure black ink lines on white background. The composition suggests this is likely a transition or establishing shot, with the character's pose appearing contemplative or in motion. No text is visible in this cropped element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.05,
+            0.5,
+            0.3
+          ],
+          "type": "sfx",
+          "description": "A single diagonal line element rendered in black ink, appearing as a clean, tapered stroke that runs from upper left to lower right across the frame. The line has consistent weight throughout most of its length with a subtle taper at one end, characteristic of brush or pen strokes used for manga sound effects or motion lines. The line appears smooth and confident, with no visible texture or hatching, set against a plain white background. This type of simple linear element is commonly used in manga to represent swift motion, cutting actions, or as part of onomatopoeia effects.",
+          "text": "!!"
+        }
+      ]
+    }
+  ]
+}

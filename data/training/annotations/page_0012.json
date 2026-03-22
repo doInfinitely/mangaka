@@ -1,0 +1,140 @@
+{
+  "width": 951,
+  "height": 1400,
+  "description": "A manga page showing a character in what appears to be a damaged or chaotic environment, with scenes of destruction and the character's reactions across multiple panels",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.42
+      ],
+      "description": "Large top panel showing destruction scene with multiple characters and debris",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.15,
+            0.15,
+            0.85
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up profile view of a character's face and upper body. The character appears to be male with dark, somewhat messy hair that falls across their forehead. The art style uses clean, precise linework with minimal shading, typical of manga illustration. The character's expression appears contemplative or serious, shown in three-quarter profile view. The upper portion shows some architectural elements like what appears to be a doorway or window frame with simple geometric lines. The lower section features distinctive manga-style screentone (halftone dots) creating a gradient effect in the background. The linework varies in weight, with bolder strokes defining the character's hair and facial features, while thinner lines are used for clothing details and background elements. The overall composition is vertically oriented, suggesting this is part of a standard manga page layout.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.55,
+            0.35,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a male character in profile view, facing left. He has dark, messy hair that falls across his forehead in jagged strands. His expression appears contemplative or melancholic, with his mouth slightly open as if speaking or breathing. He's wearing what appears to be a dark-colored garment with a collar visible at the bottom of the frame. The art style uses clean, bold line work typical of manga, with selective use of screentone shading in the background creating a dotted halftone pattern. The character's face is rendered with minimal shading, using white space effectively to define facial contours. There's subtle cross-hatching under his chin to indicate shadow depth. The composition is tightly cropped, focusing on the character's head and upper shoulders, creating an intimate, character-focused moment. No text is visible in this particular panel element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel shows a dramatic scene with two main elements against a screentoned gray background. On the left side is what appears to be damaged or destroyed mechanical equipment, possibly part of a mecha or robot, rendered with detailed line work and angular, broken forms. The mechanical debris includes cylindrical parts and jagged fragments scattered across the frame. On the right side stands a female character with long dark hair tied back, wearing what appears to be a light-colored jacket or uniform. She is shown in profile, leaning forward slightly with one hand extended, suggesting she is observing or reaching toward the wreckage. The art style employs clean, confident line work with minimal shading, relying primarily on screentone for the background atmosphere. A speech bubble with ellipses (...) appears in the upper right, indicating a pause or contemplative moment. The composition creates a sense of scale and drama, with the character appearing small relative to the mechanical wreckage, emphasizing the magnitude of whatever destruction has occurred.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.3,
+            1.0,
+            0.85
+          ],
+          "type": "character",
+          "description": "A manga character drawn in black and white with distinctive long, flowing black hair that appears to be moving or windswept. The character is shown in profile/three-quarter view, looking downward with a melancholic or contemplative expression. They are wearing what appears to be a light-colored jacket or coat with visible zipper details and possibly a hood. The art style features clean, bold line work for the character's outline contrasted against screentone/halftone shading in the background. The character's pose suggests they are leaning or hunched forward slightly, with one hand visible. There is a speech bubble or thought bubble visible in the upper right portion of the panel with a small dot inside it, indicating silence or pause in dialogue. The overall composition emphasizes the character's introspective mood through the downward gaze and flowing hair movement.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.05,
+            0.95,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a white speech bubble with a clean, rounded outline typical of manga dialogue bubbles. The bubble contains three small black dots arranged vertically, representing an ellipsis or pause in dialogue, commonly used to indicate hesitation, trailing off, or unfinished thoughts in manga. The speech bubble has a smooth, uniform white fill with thin black borders. In the background, there is screentone hatching with a dotted pattern typical of manga artwork, creating a textured gray background. A small portion of what appears to be another black element, possibly part of a character or object, is visible at the bottom left corner of the frame. The overall composition is minimalist and focuses attention on the ellipsis within the speech bubble.",
+          "text": "..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.42,
+        0.48,
+        1.0
+      ],
+      "description": "Bottom left panel showing character walking down stairs",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.3,
+            0.8,
+            1.0
+          ],
+          "type": "character",
+          "description": "A male manga character shown from a low angle perspective, creating a dramatic upward view. He has messy, medium-length dark hair that falls naturally around his face. The character is wearing a light-colored (likely white or gray) hoodie or sweatshirt with what appears to be a dark emblem or design on the chest area, paired with dark pants. His pose suggests he is walking or moving, with one hand visible at his side. The art style features clean, confident line work with selective use of screentones for shading on the clothing. The background shows architectural elements like stairs or structural lines rendered in simple line art. The composition emphasizes the character's presence through the dramatic low angle, making him appear imposing or significant. The overall style is typical of modern manga with its balance of detailed character rendering and simplified environmental elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A manga panel showing a young male character in a school or indoor setting. He has messy, dark hair and is wearing what appears to be a light-colored shirt or jacket with dark pants. The character is positioned in the lower portion of the panel, walking or moving across what looks like a tiled or wooden floor. The background features architectural elements including stairs with handrails and geometric structural lines. The art style uses clean black ink lines with minimal shading, typical of manga illustration. There are some small debris or objects scattered on the floor around the character. In the upper right corner, there's text that reads 'HEH...' indicating a sound effect or dialogue. The composition uses a wide panel format that emphasizes the spatial environment and the character's movement through it. The linework is consistent with standard manga techniques, using varied line weights to define forms and create depth.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.1,
+            0.85,
+            0.3
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing only the curved outline borders. The lines are clean and thin with consistent black ink weight, typical of manga speech bubble construction. The visible portions show smooth, flowing curves that would normally enclose dialogue text. The lines are precise and unadorned, following standard manga conventions for speech bubble design. No text is visible within this cropped section, only the characteristic curved border lines that define the bubble's shape. The composition shows multiple curved segments suggesting this may be part of a larger or irregularly shaped speech bubble.",
+          "text": "HEH ..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.48,
+        0.42,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom right panel showing close-up of character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "A close-up manga panel featuring a young male character with tousled black hair covering part of his face. He has a gentle, slightly melancholic expression with one visible eye and is resting his chin on his hand in a contemplative pose. The character is wearing what appears to be a light-colored collared shirt or jacket with clean, simple lines. The art style employs bold black ink lines with varying weights - thicker outlines for the hair and facial features, and thinner lines for clothing details. Shading is achieved through screentone (halftone dots) on the clothing and subtle hatching lines under the chin and around facial contours. The composition is intimate, focusing on the upper torso and face, with the character positioned at a slight angle that creates visual interest. The overall aesthetic is typical of shoujo or josei manga with its soft, romantic styling and emotional undertones.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

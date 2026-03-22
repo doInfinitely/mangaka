@@ -1,0 +1,107 @@
+{
+  "width": 870,
+  "height": 1400,
+  "description": "A dramatic manga page showing a character's shocked reaction to seeing what appears to be the Maldita Sea, with large creatures or sea monsters visible in the scene",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.38,
+        1.0
+      ],
+      "description": "Left panel showing a close-up of a character's shocked face with spiky hair",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character's face in dramatic distress or shock. The character has spiky, disheveled black hair rendered with bold, jagged strokes that create dynamic movement and energy. Their large eye is wide open with visible distress, featuring typical manga-style proportions with a detailed pupil and iris. The character's mouth is open, suggesting they are shouting or exclaiming. The art style uses high contrast black and white with minimal screentone, emphasizing clean lineart with varying line weights - thick bold strokes for the hair and thinner lines for facial details. Cross-hatching and parallel lines are used sparingly for shading around the eye area. Two speech bubbles contain the repeated text 'MALDITA SEA...' and 'MALDITA SEA, MALDITA SEA!!', indicating emotional outburst in Spanish. The composition is tightly cropped to focus intensely on the character's emotional state, with the dramatic hair taking up the upper portion of the panel while the facial features dominate the lower area.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.15,
+            0.85,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble containing the text 'MALDITA SEA...' in bold, black capital letters. The bubble has a clean, rounded rectangular shape with a pointed tail extending downward and to the left, indicating the speaker is positioned below and to the left of the bubble. The background shows dramatic black ink strokes or feathered patterns with sharp, jagged white spaces between them, creating a high-contrast, dynamic visual effect. The art style features bold, expressive linework with stark black and white contrast typical of manga illustration. The overall composition suggests intensity or emotional distress, with the chaotic background elements framing the speech bubble prominently in the upper right portion of the panel.",
+          "text": "MALDITA SEA..."
+        },
+        {
+          "bbox": [
+            0.05,
+            0.75,
+            0.95,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'MALDITA SEA, MALDITA SEA!!' in bold, capitalized letters. The bubble has a classic manga style with clean black outlines and a white interior. The tail of the speech bubble points toward what appears to be part of a character's face or head visible in the lower portion of the frame. The character shows flowing hair rendered with dynamic curved lines and speed lines, suggesting movement or emotional intensity. The art style features clean line work with minimal shading, typical of manga illustration. The composition creates a sense of urgency or distress, with the exclamatory text emphasizing the emotional state of the speaking character.",
+          "text": "MALDITA SEA! MALDITA SEA!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.38,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Right panel showing large sea creatures or monsters with open mouths",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel depicts a dramatic close-up of a character's wide-open mouth, likely shouting or roaring, with the sound effect 'AGUAAA' visible in bold, jagged lettering at the top left. The mouth is rendered with heavy black shading inside, showing detailed teeth and tongue anatomy. The character appears to be wearing what looks like a hooded garment or mask with halftone screentone shading. Below the main figure, there's a detailed hand drawn with fine linework and crosshatching, showing creased skin texture. The art style uses classic manga techniques including solid black fills for dramatic shadows, screentones for mid-tones, and varied line weights from thin detail lines to bold outlines. The composition creates a sense of intense emotion or action, with the large mouth dominating the upper portion of the frame and the hand positioned in the lower section, suggesting the character is in an animated, possibly distressed state.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.9,
+            0.7
+          ],
+          "type": "character",
+          "description": "A dramatic close-up of a character's wide open mouth, shown from a low angle perspective. The mouth is rendered with bold, heavy black lines and fills most of the frame, creating an intense, overwhelming effect. The interior of the mouth is depicted with solid black shading and curved line work to show the tongue and throat. Sharp white teeth are visible along the edges. The character appears to be yelling or screaming, with Japanese sound effect text '\u30ae\u30e3\u30a2\u30a2\u30a2' visible in the upper left corner indicating a loud vocalization. The art style uses high contrast black and white with minimal gray tones, typical of manga illustration. Screen tones are used for subtle shading in some areas. The composition creates a sense of being engulfed or overwhelmed by the character's vocalization, with the mouth taking up the majority of the panel space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.6,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows two characters in an intimate close-up composition. The upper character has dark, flowing hair and is positioned above, leaning down towards the lower character. The lower character appears to be lying down with lighter colored hair and is rendered with detailed facial features including defined eyes and lips. The art style employs classic manga techniques with clean, confident line work of varying weights - thicker outlines for character definition and finer lines for facial details. Extensive screentone (halftone dot patterns) is used throughout the background and shading areas, creating depth and atmosphere. The shading technique combines solid blacks with gradient screentones, particularly visible on the characters' clothing and hair. The composition creates an emotionally charged scene with the characters positioned in close proximity, suggesting an intimate or dramatic moment. No visible text appears in this cropped section of the panel.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.02,
+            0.65,
+            0.25
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (sfx) rendered in bold, black lettering against a white background. The text appears to be stylized in a typical manga onomatopoeia format, with thick, angular letterforms that suggest impact or motion. The sfx is positioned in the upper left portion of the cropped image. Below the text element, there are curved line details that appear to be part of a larger illustration, including what looks like a curved surface with fine dot-pattern screen tones (halftone shading) typical of manga art. There are also some flowing line elements that could represent movement lines or part of a character's hair or clothing. The overall composition uses clean, bold linework characteristic of manga illustration style, with strong contrast between the black text and white background.",
+          "text": "GUAAA"
+        }
+      ]
+    }
+  ]
+}

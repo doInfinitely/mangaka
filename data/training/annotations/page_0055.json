@@ -1,0 +1,52 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A single full-page panel showing a close-up of a young girl in a school uniform with short blonde hair, appearing emotional or distressed. The page contains Spanish text in speech bubbles.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full-page close-up portrait of a blonde girl in a school sailor uniform, looking emotional with tears in her eyes",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.05,
+            0.9,
+            0.95
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a manga character named Asuka shown from roughly chest-up. The character has medium-length light-colored hair with bangs partially covering their face and what appears to be a small ponytail or hair tie. Their expression appears melancholic or troubled, with downcast eyes that have a sad, distant look. The character is wearing what looks like a school uniform - a light-colored (likely white or cream) sailor-style top with a dark collar and a dark bow tie or necktie. The art style features clean, delicate linework typical of manga, with minimal shading and subtle use of screentone for texture on the clothing. The composition focuses on the character's emotional state, with the head tilted slightly downward. There are two text elements visible: 'ASUKA' in the lower left identifying the character, and 'HICE UNA PROMESA CON' (Spanish text meaning 'I made a promise with') in the upper right portion of the image.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.67,
+            0.25,
+            0.95,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "This speech bubble contains the text 'PROMESA CON' in bold, dark lettering positioned in the upper portion of the bubble. The bubble itself has a clean, rounded rectangular shape with smooth curved edges typical of manga dialogue balloons. The bubble appears to be cutting off at the bottom edge of the frame, suggesting the text continues below. In the lower left corner, there's a partial view of what appears to be a character's eye with distinctive manga-style lineart - clean, confident black lines of moderate weight. The eye shows typical manga characteristics with defined eyelashes and shading. The overall composition uses minimal shading with clean line work, consistent with modern manga styling. The bubble's tail or pointer is visible at the bottom, indicating the speaker's position below the frame.",
+          "text": "HICE UNA PROMESA CON"
+        },
+        {
+          "bbox": [
+            0.05,
+            0.8,
+            0.25,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble element featuring the text 'ASUKA' in bold, black capital letters. The bubble has a clean white background with a black outline. The left portion shows diagonal hatching/screentone patterns typical of manga art, creating a textured shading effect. There are angular panel border lines visible, suggesting this bubble is positioned at the edge or corner of a manga panel. The typography is clear and prominent, using a standard manga font style. The overall composition suggests this is likely a character name or dialogue callout within the manga panel structure.",
+          "text": "ASUKA"
+        }
+      ]
+    }
+  ]
+}

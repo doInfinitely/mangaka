@@ -1,0 +1,85 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A manga page showing characters in what appears to be a rocky, mountainous terrain. Two characters in dark suits are positioned on rocky ground, with one saying 'GRACIAS' (Thank you in Spanish). The scene appears to be set in a dangerous or post-battle environment with rocky debris scattered around.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full-page panel showing two characters in a rocky, mountainous environment with scattered debris",
+      "elements": [
+        {
+          "bbox": [
+            0.09,
+            0.43,
+            0.41,
+            1.0
+          ],
+          "type": "character",
+          "description": "A young manga character with short, layered hair stands in a three-quarter view pose. They wear a form-fitting bodysuit or pilot suit with circular design elements and panel details, rendered in solid black with white highlights. The character's expression appears calm or contemplative, with typical manga-style facial features including large eyes. The art style employs clean, confident line work with varied line weights - thicker outlines for the character and thinner lines for details. Shading is accomplished through solid black fills and screentone patterns rather than traditional hatching. The character is positioned against what appears to be geometric architectural or mechanical elements in the background, rendered with lighter line weights and crosshatching. The composition places the character prominently in the right portion of the frame, creating a dynamic vertical layout typical of manga paneling.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.41,
+            0.35,
+            0.68,
+            0.85
+          ],
+          "type": "character",
+          "description": "This manga panel shows two characters in an intimate moment, with one character leaning over another. The character on top appears to be wearing dark clothing with flowing fabric, rendered in darker tones and cross-hatching. The character below has light-colored hair with distinctive manga-style spiky strands and appears to be wearing lighter clothing. The art style employs classic manga techniques with varied line weights - bold outlines for character definition and finer lines for detail work. Shading is achieved through screentone patterns and cross-hatching, creating depth and contrast between the light and dark areas. The composition focuses on the upper bodies and faces of the characters, with the positioning suggesting a romantic or dramatic scene. The background is minimal, keeping focus on the character interaction. The overall style is typical of shoujo or josei manga with clean linework and emotional intensity conveyed through the positioning and rendering techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.46,
+            0.22,
+            0.58,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with a curved, organic outline rendered in black ink. The bubble has a distinctive tail or pointer extending downward and to the right, indicating the speaker's position. The interior is filled with fine dotted halftone screening typical of manga printing, creating a light gray texture. The bubble's border is drawn with consistent medium-weight black lines that flow smoothly around the curved perimeter. No text is visible within this particular speech bubble element. The composition shows only a portion of what appears to be a larger speech bubble, cropped at the edges of the frame.",
+          "text": "GRACIAS."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel depicts a dramatic scene set in what appears to be a cavernous or underground environment with large rock formations and debris scattered across a cracked, uneven floor. The background features towering stone structures with detailed cross-hatching and shading techniques creating depth and texture. Two characters are positioned in the scene - one in the foreground wearing what appears to be a form-fitting dark suit or uniform with light-colored hair, and another figure in the middle distance. The art style employs traditional manga techniques with bold black lines, screen tones for shading, and detailed environmental linework. A speech bubble contains the text 'GRACIAS.' The composition uses dramatic perspective to emphasize the scale of the rocky environment, with the characters appearing small against the imposing geological backdrop. The scene has an action or adventure manga aesthetic with clean, detailed line work typical of the medium.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.0,
+            0.6,
+            0.4
+          ],
+          "type": "background",
+          "description": "This manga background element depicts a damaged urban or architectural setting rendered in classic black and white manga style. The scene shows deteriorating walls or structures with visible cracks, holes, and structural damage. The artwork employs varied line weights - bold, confident strokes for major structural elements contrasted with finer detail work for texture and damage patterns. Cross-hatching and parallel line shading techniques create depth and shadow, particularly in the recessed areas and cracks. The composition shows angular, geometric forms typical of architectural backgrounds, with a speech bubble containing the text 'GRACIAS.' positioned in the upper right portion. The overall aesthetic suggests an abandoned or battle-damaged environment, with careful attention to realistic structural decay through precise linework and strategic use of negative space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.0,
+            1.0,
+            0.5
+          ],
+          "type": "background",
+          "description": "This manga panel shows a dramatic scene with a character viewed from behind, featuring short light-colored hair and wearing a dark sleeveless vest or tunic with a belt around the waist. The character appears small in scale compared to a massive creature or form that dominates the composition - this large entity has smooth, curved surfaces rendered with screen tones and dotted shading patterns typical of manga artwork. The creature's form creates dramatic sweeping lines and organic shapes that fill most of the frame. The art style employs clean, confident line work with varying weights, and uses traditional manga shading techniques including cross-hatching and screen tones to create depth and volume. The composition emphasizes the scale difference between the human figure and the imposing presence above, creating a sense of awe or confrontation. Some partial text is visible in the upper left corner showing 'AS.' The overall mood is dramatic and fantastical, characteristic of adventure or fantasy manga.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

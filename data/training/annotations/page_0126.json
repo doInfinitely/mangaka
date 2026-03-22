@@ -1,0 +1,217 @@
+{
+  "width": 1280,
+  "height": 926,
+  "description": "A manga page showing an intense emotional scene with close-ups of characters' faces and a dramatic moment where a female character appears to be transforming or in distress",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.074,
+        0.035,
+        0.473,
+        0.195
+      ],
+      "description": "Close-up panel of a character's eye with spiky hair",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's face, specifically focusing on the eye area and hair. The character has straight, layered hair with sharp, angular bangs that frame the face in a distinctive triangular pattern. One visible eye is drawn in typical manga style with a clear iris and defined pupil, conveying an intense or serious expression. The art style features clean, bold line work with moderate line weight variation. The shading is minimal, using primarily solid black areas for the hair with some gradient tones in the background. The composition is tightly cropped, creating an intimate, focused view that emphasizes the character's gaze. There appears to be some text in the upper right corner of the panel, though it's partially cut off in this cropped view. The overall aesthetic is characteristic of modern manga with its clean lineart and dramatic close-up perspective.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.473,
+        0.0,
+        1.0,
+        0.195
+      ],
+      "description": "Panel showing a character's face with speech and emotional effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character's face in profile, depicted with spiky, disheveled dark hair rendered with bold black strokes. The character appears to be in distress or emotional turmoil, with their mouth open as if shouting or crying out. The art style employs heavy black ink with dramatic speed lines radiating outward from the character's head, creating a sense of intense emotion or psychological pressure. There are two speech bubbles with text - one on the left reading 'ALG\u00daN D\u00cdA NOS ENCONTRAREMOS' and one on the right reading 'NO TE OLVIDES'. The linework is confident and expressive, with thick outlines defining the character's features and hair, while the radiating lines use varying weights to create dynamic visual impact. The composition focuses tightly on the emotional moment, with the speed lines filling the background space around the character's head.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.1,
+            0.55,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of a manga speech bubble showing dynamic motion lines and hair strands. The image features bold, angular black lines radiating outward, typical of speed lines or impact effects in manga. Several strands of hair are visible, drawn with sharp, tapered lines that suggest movement or wind. The linework is clean and confident with varying line weights - thicker for emphasis and thinner for detail work. The composition shows strong directional flow from left to right, with the hair strands and motion lines creating a sense of rapid movement or dramatic action. The style is characteristic of shounen or action manga with its bold, energetic linework and emphasis on dynamic motion.",
+          "text": "ALG\u00daN D\u00cdA NOS ENCONTRAREMOS..."
+        },
+        {
+          "bbox": [
+            0.82,
+            0.15,
+            1.0,
+            0.3
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with a clean, rounded rectangular shape and a small tail pointer extending from the bottom left corner. The bubble appears empty with no visible text inside. The outline is drawn with thin, consistent black lines typical of manga style. The interior is completely white/blank, creating a stark contrast against what appears to be a darker background with vertical hatching or line work visible at the edges of the cropped image. The speech bubble's positioning and tail direction suggest it's meant to indicate dialogue from a character located below and to the left of the bubble's position.",
+          "text": "NO LE SIRVE..."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel element shows a dramatic visual effect featuring intense radiating lines emanating from a central point, creating a classic manga 'speed lines' or 'focus lines' effect. The lines are drawn with varying line weights, starting thick and bold at the center and tapering as they extend outward. The effect creates a sense of intense emotion, shock, or dramatic revelation. There are two speech bubbles with Spanish text - one on the left reading 'ALG\u00daN D\u00cdA NOS ENCONTRAREMOS' and one on the right reading 'NO TE OLVIDES'. The radiating lines create a strong sense of movement and energy, typical of emotional climax moments in manga. The background is completely white, making the black ink lines stand out starkly. The overall composition draws the viewer's eye to the center point where the lines converge, creating a powerful focal point that emphasizes the dramatic nature of the scene.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.213,
+        0.326,
+        0.547
+      ],
+      "description": "Panel showing another character's face in profile",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up of a manga character's face shown in profile, featuring a young person with dark hair that falls across their forehead. The character has a gentle, peaceful expression with closed or nearly closed eyes and a subtle smile. The art style employs clean, confident line work with varied line weights - thicker outlines for the hair and facial features, and thinner lines for details. The hair is rendered with solid black areas and dynamic brush strokes that suggest movement and texture. Cross-hatching and screentone shading is used in the background and shadows, creating depth and atmosphere. The character appears to be wearing dark clothing at the collar area. The composition focuses tightly on the face, creating an intimate, contemplative mood. There appears to be some text or sound effects in the upper right corner of the panel, rendered in typical manga style lettering.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.326,
+        0.213,
+        0.46,
+        0.671
+      ],
+      "description": "Narrow vertical panel with text",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.15,
+            0.9,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A partially visible speech bubble element appearing in the bottom left corner of the frame. The speech bubble has clean, bold black outlines typical of manga style, with smooth curved edges. Only a small portion of the bubble is visible, showing its characteristic rounded shape. The bubble appears to be empty or the text is cut off from view. The line work is consistent with standard manga illustration techniques, featuring solid black borders without additional shading or hatching effects. The bubble's positioning suggests it's part of a dialogue sequence, though its content and full shape are obscured by the cropping of the panel.",
+          "text": "QUI\u00c9N"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.45,
+            0.9,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of a manga speech bubble showing curved black border lines with varying line weights - thicker outer contours and thinner inner details. The bubble appears to have a rounded, organic shape typical of manga dialogue balloons. The interior shows crosshatched shading or tone work using diagonal parallel lines, creating texture and depth within the speech bubble. The cropped view reveals the characteristic smooth, flowing curves of the bubble's border, drawn with confident black ink lines that taper and vary in thickness to create visual interest and dimensionality.",
+          "text": "ERES T\u00da?"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.75,
+            0.9,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing only the bottom pointed tail portion. The speech bubble tail is rendered with clean, consistent black line art in typical manga style. The tail consists of two curved lines that converge to form a downward-pointing triangle or arrow shape, indicating the speech is directed toward a character below. The lines have uniform weight and are drawn with solid black ink against a white background. The tail appears to be connecting to the main body of the speech bubble which extends beyond the cropped frame. The drawing style is clean and precise, characteristic of professional manga artwork with no visible shading or hatching effects in this particular element.",
+          "text": "POR QU\u00c9 EST\u00c1S AQU\u00cd?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.547,
+        0.326,
+        0.877
+      ],
+      "description": "Panel showing close-up of character's eye",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character's face in profile, featuring distinctive black hair with jagged, angular strands that create dramatic shadows. The character has a large, expressive eye with detailed linework and appears to have a contemplative or melancholic expression. The art style employs bold, varying line weights with heavy black ink for the hair contrasting against clean white spaces. Cross-hatching and screentone effects create depth and texture in the background areas. The composition focuses on the upper portion of the face, emphasizing the eye and hair as dominant visual elements. Japanese text appears in speech bubbles or sound effect boxes on the right side of the panel, rendered in typical manga lettering style.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.46,
+        0.213,
+        1.0,
+        0.877
+      ],
+      "description": "Large panel showing a female character in a dress with long hair in a dramatic pose",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel depicts a young female character in an elaborate Victorian-style maid dress with extensive ruffles and frills. She has short, layered hair with twin-tail styling held by ribbons. Her expression appears determined or focused, with large expressive eyes typical of manga art style. The dress features multiple tiers of ruffled fabric rendered with detailed line work and cross-hatching for shading and texture. The character is positioned dynamically, with flowing fabric suggesting movement. The art style uses bold, clean line weights for character outlines contrasted with finer detail work for clothing textures. Screen tones and hatching create depth and volume in the dress's elaborate construction. The composition fills most of the frame, emphasizing the ornate costume design. The background shows motion lines and atmospheric effects suggesting rapid movement or action.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.15,
+            0.85,
+            0.85
+          ],
+          "type": "character",
+          "description": "A manga character drawn in a classic shoujo or romance manga style, depicted from roughly chest-up in a reclining or lying position. The character has medium-length layered hair with bangs that partially obscure their eyes, creating a somewhat melancholic or dreamy expression. They are wearing what appears to be a dark-colored dress or top with decorative frilled or ruffled details around the neckline and sleeves. The character's pose suggests they are lying down, with their head tilted and supported, creating an intimate, contemplative mood. The art style features clean, flowing line work with varying line weights - thicker outlines for the main forms and finer lines for details like hair strands and fabric texture. Shading is achieved through screentone or hatching techniques, particularly visible in the clothing and background elements. The composition includes flowing, curved lines that suggest movement or wind, with some scattered debris or petals in the upper portion of the frame, adding to the atmospheric quality of the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "A dynamic manga panel showing a character in motion with flowing, elaborate clothing featuring ruffled and layered fabric elements. The character has medium-length hair with bangs and appears to be in an action pose. The art style employs bold, confident line work with varied line weights - thicker outlines defining the main forms and finer details for fabric textures and hair strands. Extensive use of screentone (halftone dot patterns) creates depth and shading throughout the composition. Cross-hatching and diagonal shading lines add texture to the clothing and background elements. The composition shows dramatic movement with flowing fabric and hair creating sweeping curved lines that guide the eye through the frame. Speed lines and motion effects radiate outward, enhancing the sense of dynamic action. The overall aesthetic is classic manga style with high contrast black and white rendering and meticulous attention to fabric folds and movement dynamics.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

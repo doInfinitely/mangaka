@@ -1,0 +1,140 @@
+{
+  "width": 912,
+  "height": 1400,
+  "description": "A dramatic manga page showing an intimate moment between two characters, with one character cutting or styling the other's hair, followed by dialogue expressing emotional conflict.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.45
+      ],
+      "description": "Split panel showing hands holding scissors and a close-up of a character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "A minimalist manga panel showing a close-up of a character's hand holding what appears to be a knife or blade. The hand is drawn with clean, confident line work typical of manga style, with moderate line weight and minimal shading. The fingers are delicately positioned around the handle of the implement. In the left portion of the panel, there is a speech bubble containing the text 'NO...' in simple lettering. The bottom portion shows some black shading or hatching suggesting movement or impact. The overall composition is stark and dramatic, using negative white space effectively. A second panel below shows partial glimpses of what appears to be hair or fabric with flowing lines, maintaining the same clean line art style with minimal detail work.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.2,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble rendered in typical manga style with clean, black outlines of medium line weight. The bubble appears to be cut off, showing only the curved left portion with smooth, flowing lines. Inside the visible area is the text 'NO' in bold, uppercase letters, followed by three dots ('...') below it, suggesting hesitation or trailing off. The bubble has a clean white interior with no shading or tone effects, maintaining the stark contrast typical of manga dialogue bubbles. The overall style is minimalist and clean, consistent with modern manga artistic conventions.",
+          "text": "NO ..."
+        },
+        {
+          "bbox": [
+            0.5,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character with light-colored, messy hair in what appears to be a reclining or lying down position. The character is drawn in a typical manga style with clean, confident line work of moderate weight. The upper panel shows the character from behind/side angle, with their hair flowing naturally and some clothing details visible including what appears to be a garment with button details on the side. The lower panel shows a closer view of the character's face and upper body, with the hair partially obscuring their features. A speech bubble contains Spanish text reading 'T\u00da NISIQUIERA ME ENTREGASTE LO QUE M\u00c1S DESEABA'. The art uses minimal shading with some screentone effects visible in the background areas. The composition creates an intimate, emotional scene typical of romantic or dramatic manga sequences.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.95,
+            0.8
+          ],
+          "type": "effect",
+          "description": "This manga panel element shows a dynamic motion effect with flowing, curved lines that suggest rapid movement or wind. The art features clean, bold black lineart with varying line weights - thicker lines define the main flowing shapes while thinner lines add detail and texture. There are several small black dots arranged vertically, likely representing speed lines or motion particles. The composition uses sweeping, organic curves that flow diagonally across the frame, creating a sense of swift movement or atmospheric disturbance. The style is typical of action manga with its emphasis on conveying kinetic energy through abstract linear forms. No text is visible in this cropped section. The overall effect creates visual momentum and suggests something moving quickly through the scene.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.45,
+        1.0,
+        1.0
+      ],
+      "description": "Larger panel showing two characters, one cutting the other's hair from behind",
+      "elements": [
+        {
+          "bbox": [
+            0.25,
+            0.1,
+            0.75,
+            0.9
+          ],
+          "type": "character",
+          "description": "A dramatic manga panel showing two male characters in a medical or clinical setting. The main subject is a dark-haired man with facial hair sitting in what appears to be a medical chair, wearing a dark jacket or coat. His expression shows discomfort or resignation, with his eyes partially closed and a grimace. Behind him stands another figure in a white coat (likely a medical professional) who is partially visible from the torso up, holding what appears to be a medical instrument or syringe. The art style features clean, bold line work with strategic use of screentone shading on the darker clothing and background elements. The composition uses a low angle perspective that emphasizes the seated character's vulnerable position, with horizontal lines in the background suggesting an institutional setting. The contrast between the dark clothing of the patient and the white coat of the medical figure creates visual tension in the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.45,
+            0.7,
+            0.9
+          ],
+          "type": "character",
+          "description": "A dramatic manga character shown from a low angle perspective, depicting a muscular male figure in dark clothing. The character wears a black jacket or coat with white/light trim details and appears to have a beard or facial hair. His arms are positioned with hands reaching toward the viewer, creating a dynamic, imposing pose. The art style features bold, thick black lines with heavy contrast between light and dark areas. Extensive use of screentone/halftone patterns creates texture and shading, particularly on the dark clothing. The composition emphasizes the character's dominant presence through the upward viewing angle and outstretched arms that fill the frame. The linework is confident and expressive, typical of action manga styling, with strong shadows and highlights that enhance the dramatic mood of the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.98,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "A large oval speech bubble with clean, smooth black outlines of medium weight. The bubble contains Spanish text in all capitals reading 'COMO SI HUBIESES SABIDO QUE LO IBA A DECIR....' with four dots at the end indicating a trailing off or pause. The text is arranged in multiple lines within the bubble's center. The speech bubble has a small tail or pointer extending from its lower left portion, indicating the speaker's direction. The overall style is typical of manga, with crisp linework and clear, readable typography. The bubble appears against a white background with some partial panel borders visible at the edges of the cropped image.",
+          "text": "T\u00da NISI-QUIERA ME ENTERE-GASTE LO QUE M\u00c1S DESEABA ...."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.7,
+            0.98,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble element, showing primarily the black silhouette or shadow portion. The visible area displays solid black fill with clean, defined edges typical of manga speech bubble construction. There's a stark contrast between the deep black area and the white space, with a thin horizontal line visible in the upper portion that likely represents part of the speech bubble's border or panel division. The cropping shows only a fragment of what would be a larger speech bubble, with the characteristic smooth, curved edges that are standard in manga dialogue presentation. No text is visible in this cropped section, and the art style follows traditional manga conventions with clean line work and high contrast between black and white areas.",
+          "text": "COMO SI HUBIESES SABIDO QUE LO IBA A DECIR ...."
+        },
+        {
+          "bbox": [
+            0.02,
+            0.8,
+            0.25,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble rendered in typical manga style with clean, thin black outlines. The bubble appears to be cut off at the edges of the crop, showing only curved border lines. Below the speech bubble area, there are sketchy manga-style line details that appear to be part of a character's clothing or body, drawn with varied line weights - some thin, some slightly thicker for emphasis. The linework shows typical manga hatching and cross-hatching techniques for shading and texture. The overall art style is clean and minimalist, characteristic of modern manga illustration. No visible text is present within the cropped speech bubble portion.",
+          "text": "REALMENTE... T\u00da...."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A manga background panel featuring two characters in what appears to be an indoor setting with horizontal line work suggesting walls or panels. The upper character has spiky light-colored hair and wears light clothing, positioned behind and slightly above the lower character. The lower character has dark hair and wears a dark coat or jacket, seated and looking upward with an expression of distress or concern. The art style uses clean black ink lines with screentone shading, particularly visible on the dark clothing. Speech bubbles contain Spanish text: 'GASTE LO QUE M\u00c1S DESEABA...', 'COMO SI HUBIESES SABIDO QUE LO IBA A DECIR...', and 'REALMENTE... T\u00da...'. The composition creates a sense of emotional tension between the characters, with the spatial relationship emphasizing the upper character's position of advantage or knowledge over the lower character.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "width": 933,
+  "height": 1400,
+  "description": "A manga page showing characters reacting to something alarming, with dramatic action and movement in the lower panel",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.35
+      ],
+      "description": "Top panel showing dramatic Japanese text and title with speed lines",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "A dramatic manga sound effect (sfx) rendered in bold white Japanese characters against a stark black background. The text appears to read '\u8f5f\u8f5f\u8f5f' (g\u014dg\u014dg\u014d), representing a thunderous roaring or rumbling sound. The characters are positioned at a dynamic angle, with sharp white speed lines radiating outward from behind the text, creating a sense of explosive motion and impact. The composition uses high contrast black and white coloring typical of manga art, with the angular speed lines extending diagonally across the frame to emphasize the intensity and directionality of the sound effect. The bottom portion shows part of what appears to be a character or object rendered in grayscale tones, providing context for the dramatic sound effect above.",
+          "text": "\u84bc\u5929\u90ce"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "effect",
+          "description": "A dramatic manga effect panel featuring bold, angular Japanese characters (appearing to be sound effects or onomatopoeia) rendered in stark white against a solid black background. The text is positioned diagonally across the upper portion with dynamic speed lines and motion blur effects radiating outward, creating a sense of explosive impact or sudden movement. Below this effect text, there are partial views of character faces - one showing spiky dark hair and intense eyes, another character with shorter dark hair. The art style uses high contrast black and white with clean, bold linework typical of action manga. White motion lines streak across the composition, emphasizing the kinetic energy of the scene. The overall composition suggests this is a climactic or pivotal moment in the narrative, with the large effect text dominating the visual space to convey dramatic impact.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.35,
+        1.0,
+        0.68
+      ],
+      "description": "Middle panel showing two characters with shocked expressions",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows two cropped scenes of a character with dark hair in what appears to be an intimate or emotional moment. In the top panel, we see a close-up of a character's face and upper body at an angle, with dark hair partially obscuring their features and visible perspiration or emotion marks. The bottom panel shows the same character from a different angle, appearing to be leaning or positioned close to another figure. The art style employs clean black lines with screentone shading for depth and texture. There are sound effects visible - '!!' in the top panel and what appears to be Japanese onomatopoeia in the bottom panel. The composition uses dramatic close-up angles typical of manga storytelling, with heavy contrast between black hair and white/screentoned areas. The line work is precise with varying weights to create depth and emphasis on the emotional tension of the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.5,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows two characters in close proximity, rendered in classic black and white manga style. The upper portion features a character with spiky dark hair viewed from behind/side angle, wearing what appears to be a uniform or jacket with geometric detailing. The lower portion shows another character with lighter, more flowing hair in a dramatic close-up angle. The art style employs clean, confident line work with varied line weights - thicker outlines for character definition and finer lines for hair detail and clothing elements. Shading is achieved through traditional manga techniques including screentones (visible dotted patterns) and solid black areas for contrast. The composition creates dynamic tension through the angular positioning of the characters. Two speech bubbles contain dialogue: 'WHAT'S GOING ON?!' in the upper right, and a partially visible text beginning with 'UNIT 00' in the lower right. The overall aesthetic is typical of action or mecha manga with its sharp, angular character designs and dramatic perspective choices.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.2,
+            0.6,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of a manga speech bubble showing the characteristic white interior with black border outline. The bubble appears to be cut off at the edges of the frame. Below the speech bubble area, there are black and white manga-style hair strands with typical spiky, angular styling rendered in bold black ink strokes against white background. The hair shows dynamic directional flow with sharp, jagged edges characteristic of manga character design. The linework is clean and bold with high contrast between the black hair and white negative space. No visible text appears within the cropped speech bubble portion.",
+          "text": "THI... THIS IS..."
+        },
+        {
+          "bbox": [
+            0.7,
+            0.3,
+            0.95,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "This speech bubble element shows a dramatic close-up of a character's face in typical manga style. The character has sharp, angular facial features with distinctive eyes - one eye appears normal while the other seems to have an unusual design or marking. The artwork uses bold, confident line work with heavy black ink strokes and dramatic contrast between light and dark areas. Cross-hatching and screentone effects create depth and shadow, particularly around the character's face and clothing. The character appears to be wearing dark clothing or a jacket with angular collar details. The composition is dynamic and intense, cropped tightly to focus on the character's expression. The art style is characteristic of action or thriller manga with its dramatic shading techniques and sharp, precise linework that emphasizes the character's intense or possibly sinister expression.",
+          "text": "WHAT'S GOING ON?!"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.7,
+            0.15,
+            1.0
+          ],
+          "type": "sfx",
+          "description": "A black and white manga sound effect (sfx) rendered in bold, angular strokes. The characters appear to be drawn with thick, confident line work typical of action manga. The sfx consists of vertical and diagonal black strokes with sharp, jagged edges that create a sense of impact or sudden movement. The lettering style uses heavy black ink with minimal detail, emphasizing the dramatic effect. White space is preserved around and within the characters to maintain contrast and readability. The overall composition suggests this represents a striking or hitting sound effect, with the angular nature of the strokes conveying force and intensity typical of combat or action scenes in manga.",
+          "text": "!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.68,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom panel showing mechanical/robotic elements with action and movement",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.7,
+            1.0
+          ],
+          "type": "object",
+          "description": "A dramatic manga panel depicting what appears to be structural destruction or collapse. The artwork shows angular, geometric forms - likely debris, broken beams, or architectural elements - rendered in stark black and white with heavy contrast. The linework is bold and dynamic, with thick black strokes defining the major structural elements. Cross-hatching and screentone shading create depth and shadow throughout the composition. The perspective is dramatic and angular, with sharp diagonal lines creating a sense of violent motion or impact. Various geometric shapes - rectangular beams, angular fragments, and structural crosses or supports - are scattered throughout the frame in a chaotic arrangement that suggests destruction or explosive force. The art style is typical of action manga, with emphasis on dramatic angles and high contrast to convey intensity and movement.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.0,
+            1.0,
+            0.5
+          ],
+          "type": "character",
+          "description": "A partial view of a character shown from behind/side angle, depicting someone with detailed hair rendered in manga style with fine line work and cross-hatching for shading. The character appears to be wearing what looks like a uniform or structured clothing with precise lineart. The art style features clean, confident line weights with selective use of screentone or hatching for dimensional shading. Two speech bubbles are visible containing the text 'UNIT 00 IS UNMANNED, BUT...!!' and 'IT'S'. The composition shows the character positioned in the left portion of the frame, with the speech bubbles creating a dynamic flow across the panel space. The drawing demonstrates typical manga artistic conventions with detailed hair texture and careful attention to clothing folds and structural elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.1,
+            0.95,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'But...!!' in a standard manga font. The bubble has a clean, rounded rectangular shape with a typical manga speech bubble tail pointing toward the speaker. The text appears to be rendered in bold lettering with double exclamation marks emphasizing the dramatic, hesitant nature of the dialogue. The bubble is positioned in the upper right portion of the cropped panel, with clean line work typical of manga art style. The background shows partial glimpses of what appears to be character artwork with crosshatched shading patterns visible at the edges of the crop.",
+          "text": "UNIT 00 IS UNMANNED, BUT...!!"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.6,
+            0.95,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a portion of a speech bubble or dialogue balloon rendered in typical manga style. The element shows clean, flowing curved lines that form the characteristic rounded border of a speech bubble. The lineart is executed with consistent, medium-weight black lines against a white background. The drawing style is minimalist and precise, following standard manga conventions for speech balloon construction. The visible portion shows smooth, geometric curves that would typically contain dialogue text, though no text is visible in this cropped section. The composition appears to be part of a larger panel layout, with the bubble positioned to direct the reader's attention to character dialogue within the manga's narrative flow.",
+          "text": "IT'S MOVING!"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.3,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "A dynamic manga sound effect (SFX) rendered in bold, angular black lettering that appears to read katakana characters. The text is integrated into dramatic motion lines and speed lines that radiate outward in multiple directions, creating a sense of explosive movement or impact. The lettering uses thick, confident strokes with sharp edges typical of action manga SFX. The composition features heavy use of parallel hatching and cross-hatching techniques, with dense black areas contrasting against white space. Motion lines sweep dramatically across the frame in curved and straight patterns, suggesting rapid movement or a powerful force. The overall style is characteristic of dynamic shonen manga artwork, with high contrast black and white rendering that emphasizes the intensity of the moment being depicted.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

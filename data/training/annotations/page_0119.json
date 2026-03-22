@@ -1,0 +1,63 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A single full-page panel showing an emotional close-up of an anime-style character with long hair and cat ears, appearing to be crying or distressed while wearing what looks like a school uniform.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full-page close-up of a character with long hair, cat ears, and an emotional expression with tears",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.3,
+            0.9,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up portrait of an anime/manga character with long, flowing hair that has cat-ear-like protrusions at the top. The character appears to be crying, with visible tears streaming down their face rendered through vertical hatching lines. They have large, expressive eyes with detailed pupils, and their mouth is open in what appears to be distress or anguish. The character wears what looks like a collared shirt or uniform with 'OZ' text visible on it. The art style features clean, bold line work typical of manga, with selective use of screen tones and hatching for shading and emotional effect. The tears are emphasized through dense vertical line patterns covering much of the face, creating a strong sense of emotional intensity. The composition is tightly cropped to focus entirely on the character's emotional expression, with the hair framing the face dramatically.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.6,
+            0.75,
+            0.85
+          ],
+          "type": "effect",
+          "description": "This manga panel shows a dramatic close-up of a character's lower face and neck area, featuring heavy vertical hatching lines that create a rain-like or intense emotional effect. The character appears to be wearing a collared shirt or jacket with angular lapels. The most striking element is a bold black triangular shadow or mask-like shape that covers the upper portion of the face, creating a stark contrast against the lighter tones. The vertical line work is dense and consistent throughout the image, suggesting either heavy rain or intense dramatic tension. The art style uses strong black and white contrast with minimal gray tones, typical of manga's high-contrast aesthetic. The composition focuses on the lower facial features and clothing details, with the geometric black shape serving as a powerful visual anchor that draws attention upward while obscuring the character's identity or expression.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.85,
+            0.7,
+            0.95
+          ],
+          "type": "object",
+          "description": "This cropped manga element shows what appears to be fabric or clothing rendered in black and white with distinctive diagonal hatching patterns. The image features bold, clean black lines that define the contours and folds of what looks like draped or hanging fabric. The shading technique uses parallel diagonal lines (hatching) to create depth and shadow, which is a classic manga art technique. The lines vary in weight, with thicker outlines defining the main shapes and thinner lines creating the internal texture and shading. The composition shows curved and angular forms suggesting fabric creases or folds, with the hatched areas providing tonal contrast against the white negative space. The art style is consistent with traditional manga illustration techniques, emphasizing clear line work and effective use of black and white contrast.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.9,
+            0.5,
+            0.95
+          ],
+          "type": "object",
+          "description": "A cropped manga panel showing what appears to be a dark rectangular object or opening against a background of diagonal hatching lines. The hatching consists of fine, parallel lines drawn at an angle, creating a textured gray tone typical of manga shading techniques. The dark rectangular element appears solid black with clean, straight edges, contrasting sharply against the lighter hatched background. The line work is precise and consistent, with the hatching lines maintaining uniform spacing and direction. The composition is minimal and geometric, focusing on the stark contrast between the black rectangular form and the crosshatched texture surrounding it.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

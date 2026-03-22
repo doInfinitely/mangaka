@@ -1,0 +1,239 @@
+{
+  "width": 935,
+  "height": 1400,
+  "description": "A tense scene showing characters on stairs, with one character making a statement about someone not coming and pilots being protected at a safe location.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.058,
+        0.0,
+        1.0,
+        0.397
+      ],
+      "description": "Wide panel showing the back of a character's head with dark hair, looking out, with a speech bubble",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.6,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dramatically rendered back view of a male character with distinctive spiky black hair that creates jagged, flame-like silhouettes against the light background. The character wears what appears to be a dark formal suit or jacket with a tie visible at the neck. The art employs high contrast black and white manga styling with solid black fills for the hair and clothing, creating stark silhouettes. Screen tone/halftone patterns fill the background areas, giving texture to the composition. The character's head is positioned in the upper panel looking away from the viewer, while the lower panel shows a closer crop of the shoulders and neck area. The line work is clean and bold, typical of professional manga art, with sharp definition between the black areas and white space. The overall composition emphasizes the character's mysterious or contemplative mood through the rear-facing pose and dramatic lighting contrast.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.78,
+            0.12,
+            0.95,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble with clean, thin black outlines forming the curved border typical of manga dialogue balloons. The bubble appears to be cut off at the edges of the frame, showing only a portion of what would be a larger speech element. Inside the visible area, there is black text that reads 'SHE'S NOT' in a standard manga font style. The background within the bubble is white/clean, and the line work is crisp and minimal, following typical manga conventions for dialogue presentation. The bubble's border shows smooth, flowing curves characteristic of natural speech patterns in manga layout design.",
+          "text": "SHE'S NOT COMING."
+        },
+        {
+          "bbox": [
+            0.6,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel features a minimalist composition with two distinct sections. The upper portion contains a large, irregularly-shaped speech bubble with thin black outlines against a light background with subtle halftone dotting texture. Inside the bubble, the text 'SHE'S NOT COMING.' appears in bold, sans-serif lettering. The lower section shows a partial view of a character with dark hair in what appears to be an indoor setting, drawn with clean black line work typical of manga art style. The character is positioned in the lower right portion of the frame, with architectural elements like walls or panels visible in the background. The overall composition uses stark contrast between the white speech bubble area and the more detailed lower panel, creating a sense of pause or contemplation in the narrative flow.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.058,
+        0.397,
+        0.442,
+        0.771
+      ],
+      "description": "Panel showing character's hands and partial view of their dark clothing",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in a two-panel sequence. In the upper panel, we see a close-up of hands in white/light colored sleeves or cuffs against a dark background, with clean line work and minimal shading. The lower panel shows a full figure of a person in business attire - wearing a white dress shirt, dark tie, and dark pants or skirt. The character has dark hair and is standing in what appears to be an indoor setting with architectural elements like walls or doorways visible in the background. There's a question mark ('?') speech bubble near the character. The art style uses typical manga conventions with clean line work, screentone shading for backgrounds, and minimal but effective use of black and white contrast. The composition creates a sense of mystery or uncertainty, transitioning from the intimate hand gesture in the first panel to the questioning stance of the full figure below.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.442,
+        0.397,
+        0.537,
+        0.771
+      ],
+      "description": "Narrow vertical panel showing part of a character and stairs",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a partial view of a character positioned behind what appears to be a vertical barrier or wall. Only fragments of the character are visible - a pale hand or arm reaching around or gripping the edge of the barrier, and dark hair visible at the top. The character appears to be partially concealed or hiding behind this structure. The art style uses clean, bold line work typical of manga, with solid black areas for the hair and screentone/halftone patterns for shading. The composition creates a sense of mystery or tension through the fragmented, partially obscured view of the character. The vertical white barrier dominates the center of the panel, creating a strong compositional divide.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.537,
+        0.397,
+        1.0,
+        0.771
+      ],
+      "description": "Panel showing a character standing on stairs in what appears to be an institutional building",
+      "elements": [
+        {
+          "bbox": [
+            0.35,
+            0.3,
+            0.65,
+            0.8
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a partial view of a character, captured from approximately waist down. The figure is wearing dark clothing, likely pants or a long coat, rendered with heavy black ink and distinctive crosshatching technique. The character appears to be standing on what looks like a tiled or paved surface, indicated by geometric line work suggesting floor tiles or pavement blocks. The art style employs bold, confident line weights with stark black and white contrast typical of manga illustration. The shading is achieved through dense crosshatching patterns that give volume and depth to the dark garment. The composition is cropped tightly, creating a sense of mystery by not revealing the character's upper body or face. The spatial relationship shows the character positioned above the geometric floor pattern, with clean architectural lines suggesting an indoor or structured outdoor environment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts an indoor architectural space with clean, modern lines. The scene shows a multi-level interior with geometric flooring patterns featuring rectangular tiles or panels. There are railings visible on what appears to be an upper level or balcony area, drawn with precise horizontal lines. The perspective creates depth through the angular arrangement of architectural elements. The art style uses clean line work with minimal shading, typical of manga backgrounds. Some screentone (halftone dots) is applied to certain surfaces for texture and depth. The overall composition emphasizes geometric shapes and modern interior design elements, with strong use of negative white space. The drawing technique shows careful attention to architectural perspective and structural details, creating a sterile, institutional or modern building interior atmosphere.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.058,
+        0.771,
+        0.442,
+        1.0
+      ],
+      "description": "Panel showing two characters on stairs, one standing higher than the other",
+      "elements": [
+        {
+          "bbox": [
+            0.25,
+            0.1,
+            0.55,
+            0.6
+          ],
+          "type": "character",
+          "description": "This manga element shows the lower portion of a character, featuring black pants or trousers rendered with dense cross-hatching and heavy black ink. The clothing appears to have a textured, possibly leather or heavy fabric appearance due to the intensive hatching technique. The character's pose suggests movement or a dynamic stance, with the legs positioned in what appears to be a walking or stepping motion. The art style employs traditional manga techniques with bold black lines and detailed crosshatching for shadows and texture. The background features a dotted halftone pattern typical of manga printing. The cropping focuses entirely on the lower body from approximately mid-thigh down, creating a sense of mystery about the character's full appearance. The line weight varies from thick outlines to fine hatching details, demonstrating skilled pen work characteristic of professional manga illustration.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.6,
+            0.7,
+            0.9
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing the lower portion of a character, featuring their legs and feet. The character appears to be wearing dark-colored pants or trousers with clean, bold line work typical of manga illustration. The figure is positioned against a white background with subtle halftone dot pattern shading visible in the upper portion. The art style employs confident black ink lines with minimal shading, characteristic of classic manga visual language. The composition shows the character from approximately mid-thigh down, suggesting they are standing in a neutral pose. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel shows two silhouetted figures in a minimalist, high-contrast black and white art style. The larger figure on the right stands in full view, rendered as a solid black silhouette with curly or messy hair, wearing what appears to be a long coat or jacket. Only the lower portion of a second figure is visible on the left side of the frame, showing black pants and feet. The background features clean geometric lines suggesting an indoor architectural space, possibly a hallway or corridor, with diagonal perspective lines and rectangular shapes that could represent doorways or structural elements. The art employs stark contrast with heavy black fills for the figures against white/light backgrounds, with minimal detail except for the environmental line work. The composition uses negative space effectively, creating a sense of depth and movement within the confined panel frame. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.05,
+            0.2,
+            0.25
+          ],
+          "type": "speech_bubble",
+          "description": "A minimalist speech bubble with clean, thin black outlines against a white background. The bubble appears to be empty or contains very faint text that is not clearly visible in this cropped section. The line work is consistent with typical manga styling - smooth, even strokes with no heavy shading or cross-hatching. There appears to be a small tail or pointer element at the bottom, suggesting this bubble is meant to indicate dialogue from a character positioned below the frame. The overall composition is simple and uncluttered, focusing attention on the speech bubble's basic geometric form.",
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.442,
+        0.771,
+        0.537,
+        1.0
+      ],
+      "description": "Narrow vertical panel showing partial character view",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga element shows a partial view of a character, likely cropped from a larger panel. The image displays what appears to be the lower portion of a figure, showing clothing with clean, precise linework typical of manga illustration. The character appears to be wearing what looks like a uniform or formal attire with structured lines. The art style features characteristic manga line weights - bold outer contours defining the silhouette with thinner interior lines for detail work. There's minimal shading, relying primarily on clean line art rather than heavy tone work. The composition shows the figure positioned against what appears to be an interior setting, with architectural elements like walls or panels visible in the background, rendered with simple geometric lines. The overall aesthetic is clean and minimalist, focusing on clear contours and form definition rather than elaborate detail or heavy shadowing techniques.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.537,
+        0.771,
+        1.0,
+        1.0
+      ],
+      "description": "Panel with speech bubble containing dialogue about pilots",
+      "elements": [
+        {
+          "bbox": [
+            0.05,
+            0.1,
+            0.45,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble visible in the bottom right corner of the image, containing black text that reads 'THE PILOT ARE BEING PROTECTED AT A SAFE LOCATION'. The speech bubble has a clean white interior with a thin black border outline typical of manga style. The text uses a standard manga font with consistent letter spacing. The bubble appears to be cut off at the edges of the frame, suggesting this is a cropped portion of a larger panel. The overall art style follows conventional manga aesthetics with clear, precise linework and high contrast black and white presentation.",
+          "text": "THE PILOTS ARE BEING PROTECTED AT A SAFE LOCATION."
+        },
+        {
+          "bbox": [
+            0.5,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dramatic silhouetted figure rendered in solid black, positioned in the lower right portion of the panel. The character appears to be wearing flowing, draped clothing or robes that create dynamic angular shapes and folds. Long, dark hair is visible flowing behind the figure, suggesting movement or wind. The character's pose suggests they are in motion or turning, with the clothing creating sweeping, cape-like forms. The art style uses high contrast black silhouetting against a lighter background, with no internal detail work visible within the dark mass. Screen tones or halftone patterns are visible in the background areas, creating texture and depth. The composition places the figure dramatically against what appears to be an architectural or structural background with horizontal lines. There is some Japanese text visible in the upper left area reading what appears to be katakana characters. The overall effect is very cinematic and emphasizes the mysterious or dramatic nature of the character through the stark silhouette treatment.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

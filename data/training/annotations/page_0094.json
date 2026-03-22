@@ -1,0 +1,118 @@
+{
+  "width": 870,
+  "height": 1400,
+  "description": "A dramatic manga page showing a character's shocked reaction and a large creature or monster with sharp teeth. The page contains emotional dialogue expressing frustration.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.32,
+        1.0
+      ],
+      "description": "Left panel showing a close-up of a character's face with spiky hair and wide eye, expressing shock or surprise",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.4,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's face in profile, displaying intense emotion. The character has spiky, angular hair rendered with bold, dark strokes. Their single visible eye is wide and dramatically emphasized with heavy black linework, featuring a distinctive circular iris with crosshatched shading. The character's mouth is open in what appears to be a shout or cry of frustration, with the text 'DAMN IT DAMN IT!!' positioned near the mouth area. The art style employs high contrast black and white tones with extensive use of speed lines and hatching for dramatic effect. Dynamic diagonal lines frame the upper portion of the image, creating a sense of movement and emotional intensity. The linework is bold and expressive, typical of action manga, with varying line weights that emphasize the character's distressed state. The composition focuses tightly on the facial features, particularly the eye and mouth, to convey maximum emotional impact.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.15,
+            0.9,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'DAMN IT...' in bold, capitalized letters. The bubble appears to be positioned in the upper right portion of the panel against a dramatic background of heavy black ink strokes. These strokes create dynamic, sweeping lines that suggest intense movement or emotional turmoil, rendered with bold line weights and high contrast between the stark black ink and white paper. The speech bubble itself has clean, simple linework typical of manga style, with the text clearly legible against the chaotic background elements. The overall composition creates a sense of tension and frustration, with the expressive background art emphasizing the emotional weight of the dialogue.",
+          "text": "DAMN IT..."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.4
+          ],
+          "type": "effect",
+          "description": "A dramatic manga effect featuring dynamic, explosive-style motion lines rendered in bold black ink. The lines radiate outward in sharp, angular strokes creating a sense of intense impact or burst of energy. The linework varies in thickness, with some thick, heavy strokes contrasting against thinner accent lines. The composition fills most of the frame with aggressive, jagged marks that suggest violent motion or destruction. Within a white speech bubble positioned in the upper right area, the text 'DAMN IT...' appears in standard manga lettering, indicating frustration or anger. The overall effect uses high contrast black and white with no gray tones, creating a stark, impactful visual that emphasizes the explosive nature of whatever action is occurring. The artistic style is typical of action manga, using speed lines and impact effects to convey kinetic energy and emotional intensity.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.85,
+            0.9,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble with clean, bold black outlines typical of manga art style. The bubble appears to be empty of text and shows the characteristic rounded, cloud-like border that defines speech bubbles in manga. The line work is consistent and smooth, with varying line weights - thicker for the main bubble outline and thinner for internal details. There appears to be some cross-hatching or shading technique visible in what looks like hair or fabric in the lower portion of the image, executed with fine parallel lines. The overall composition suggests this is cropped from a larger panel, showing only a portion of the speech bubble and some background character or object elements. The art style is clean and professional, consistent with modern manga illustration techniques.",
+          "text": "DAMN IT, DAMN IT!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.32,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Large right panel showing a massive creature or monster with sharp teeth and what appears to be some kind of structural damage or debris",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            1.0,
+            0.85
+          ],
+          "type": "character",
+          "description": "A dramatic manga panel featuring a large, monstrous creature with an enormous gaping maw filled with rows of sharp teeth. The creature's mouth dominates the frame, rendered with bold black linework and detailed cross-hatching to create depth and shadow within the cavernous opening. White foam or saliva drips from the creature's jaws, emphasizing its predatory nature. The art style employs high contrast with deep blacks for the mouth's interior and lighter tones with screentone patterns for the creature's exterior surfaces. Japanese sound effect text '\u304b!' appears in the upper left, likely representing a chomping or biting sound. The composition creates a sense of imminent danger, with the viewer positioned as if looking directly into the creature's mouth. The linework varies from thick, bold strokes for the main forms to finer hatching for texture and shading details.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.05,
+            0.6,
+            0.25
+          ],
+          "type": "sfx",
+          "description": "This is a Japanese sound effect (onomatopoeia) rendered in bold, black brushstroke-style lettering. The characters appear to be written in hiragana script with thick, expressive strokes that convey movement or emphasis. The text is positioned over what appears to be a curved, screentoned surface with fine dot pattern shading typical of manga art. The lettering has a dynamic, hand-drawn quality with varying line weights that suggest urgency or intensity. The contrast between the solid black text and the lighter screentoned background creates visual hierarchy and draws attention to the sound effect.",
+          "text": "\u304b'"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            0.5,
+            1.0
+          ],
+          "type": "background",
+          "description": "A close-up detail of clothing fabric rendered in classic manga style, showing what appears to be part of a garment with a collar or lapel area. The image uses characteristic manga screentone patterns - fine dotted halftone shading creates depth and texture across the fabric surfaces. Clean, confident line work defines the garment's edges and seams, with varying line weights that are heavier for outer contours and lighter for interior detail lines. The shading technique combines solid black areas with graduated screentone patterns, creating a sense of dimensional form and fabric texture. The composition shows fabric folds and creases that suggest natural drape and movement. The overall aesthetic is typical of professional manga artwork with its precise lineart, systematic use of screentones for shading, and clean black and white contrast.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.3,
+            0.6
+          ],
+          "type": "effect",
+          "description": "This is a vertical manga effect element featuring bold, dynamic black brushstrokes against a white background. The main visual element is a large, sweeping curved line that dominates the upper portion, executed with thick, confident strokes that taper at the ends. Below this are additional linear elements and what appears to be crosshatched shading patterns in the lower section. The composition uses strong contrast between the deep black ink and pristine white space, creating a sense of movement or impact. The brushwork has an organic, hand-drawn quality with slight irregularities that give it energy. There are some smaller mark-making elements and possible debris or spatter effects scattered throughout. The overall style is characteristic of Japanese manga visual effects, likely representing motion, impact, or atmospheric elements within a larger scene.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

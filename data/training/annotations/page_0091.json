@@ -1,0 +1,107 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A dramatic manga page showing characters in distress amid explosive effects and smoke, with Spanish dialogue indicating Eva units are reactivating and presenting no damage",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Single full-page panel with explosive background effects and multiple characters",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A dramatic manga background featuring heavy atmospheric effects created through dense cross-hatching and stippling techniques. The background is dominated by swirling, turbulent patterns of black and white that create a sense of motion and intensity. The shading uses a combination of solid black areas and gradient effects achieved through varying densities of dots and hatching lines. The composition flows diagonally across the panel, with darker concentrations in the upper left transitioning to lighter areas. The technique creates a smoky, explosive, or supernatural atmosphere typical of action or supernatural manga scenes. The background serves to heighten the dramatic tension of the scene while providing contrast for the foreground elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.04,
+            0.98,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A large, oval-shaped speech bubble with clean black outlines dominates the frame. The bubble contains Spanish text reading 'LOS EVAS EN SERIE SE EST\u00c1N REAC-TIVANDO...' in bold, sans-serif lettering arranged in multiple lines. The speech bubble is positioned against a detailed manga background featuring heavy cross-hatching and screentone patterns. The surrounding area shows typical manga artistic techniques including dense parallel line work in the upper portion and dotted screentone patterns (halftone dots) in the lower areas. The contrast between the clean white interior of the speech bubble and the heavily textured background creates strong visual hierarchy. A small portion of what appears to be a character or mechanical element is visible in the lower left corner, rendered with fine line work and shading typical of manga illustration style.",
+          "text": "LOS EVAS EN SERIE SE EST\u00c1N REACTIVANDO..."
+        },
+        {
+          "bbox": [
+            0.02,
+            0.48,
+            0.25,
+            0.72
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'DA\u00d1O...!!' positioned in the upper portion of the panel. The bubble has a clean, rounded rectangular shape with a tail pointing downward toward the speaker. The text is rendered in bold, capitalized letters with multiple exclamation marks, suggesting urgency or distress. The speech bubble is set against a white background, with heavy black shadows and cross-hatched shading visible in the lower portion of the frame. The contrast between the clean white bubble and the dramatic dark shading below creates a sense of tension. The lettering style is typical of manga typography, with clear, readable characters that emphasize the emotional intensity of the dialogue.",
+          "text": "NO PRESENTAN NING\u00daN DA\u00d1O...!!"
+        },
+        {
+          "bbox": [
+            0.15,
+            0.75,
+            0.55,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's torso and partial face in a dramatic, intimate composition. The character appears to be leaning or positioned at an angle, with their head tilted back. The art style features clean, confident line work with varying line weights - thicker outlines defining the main forms and thinner lines for details. Heavy cross-hatching and stippling techniques create dramatic shadows and depth, particularly around the torso area and clothing folds. The shading creates strong contrast between light and dark areas, giving the image a sense of volume and dimensionality. The character appears to be wearing light clothing or garments that are rendered with flowing, organic line work. The composition focuses on the upper body and creates an sense of movement or tension through the positioning and dramatic lighting effects. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.55,
+            0.8,
+            0.85,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's torso and hands in a dramatic pose. The character appears to be wearing a white garment or shirt with black accents or trim. Their hands are positioned near their chest/collar area in what seems to be an emotional or distressed gesture. The art style features clean, bold line work typical of manga, with stark black and white contrast. There's heavy use of screentone or stippling effects visible in the darker areas, creating texture and depth. The composition is cropped to focus on the upper body and hands, emphasizing the character's emotional state through body language. The lineart varies in weight, with thicker lines defining the main contours and thinner lines for details. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.35,
+            0.8,
+            0.6
+          ],
+          "type": "object",
+          "description": "This manga panel element depicts a rocky cliff or mountainous terrain rendered in classic black and white manga style. The rocks are drawn with bold, angular contour lines that define the geometric faces and edges of the stone formations. The shading employs multiple techniques: dense cross-hatching and stippling create deep shadows in the crevices and recessed areas, while halftone dot patterns (screentone) of varying densities are applied to the lighter surfaces to show gradation and texture. The composition shows the rocky surface extending diagonally across the frame, with dramatic contrast between the stark white highlights on the upper surfaces and the heavily textured dark areas below. The line work varies from thick, confident strokes defining the main structural elements to fine detail work in the textural areas. No text is visible in this cropped section. The overall effect creates a sense of scale and geological solidity typical of adventure or action manga backgrounds.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.42,
+            0.12,
+            0.62,
+            0.25
+          ],
+          "type": "sfx",
+          "description": "This manga sound effect element features bold, angular Japanese katakana characters rendered in thick black brushstrokes against a white background. The text appears to read '\u30b2\u30ad' (geki), suggesting an impact or striking sound. The lettering has a dynamic, explosive quality with slightly irregular edges that convey motion and force. The background shows heavy cross-hatching and screentone effects in the upper left corner, creating a textured, dramatic contrast with dense black diagonal lines and dotted patterns. The composition suggests this SFX is positioned to emphasize a moment of action or collision, with the heavy shading providing visual weight and the stark black-and-white contrast typical of manga artwork.",
+          "text": "GRKK"
+        },
+        {
+          "bbox": [
+            0.7,
+            0.82,
+            0.95,
+            0.98
+          ],
+          "type": "sfx",
+          "description": "This manga element shows a close-up detail featuring heavy black cross-hatching and stippling effects that create dense shadowing. The shading technique uses thick, overlapping diagonal lines and dots to build up dark tonal areas. There appears to be part of a character's clothing or body visible on the left side with clean white areas contrasting against the heavily textured shadow regions. The art style employs traditional manga screening techniques with bold line weights and high contrast between the stark white negative space and the intensely detailed black shaded areas. The composition creates a dramatic visual effect typical of sound effects or impact moments in manga, with the dense hatching potentially representing motion blur, impact force, or atmospheric disturbance.",
+          "text": "GRKK GRKK"
+        }
+      ]
+    }
+  ]
+}

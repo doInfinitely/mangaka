@@ -1,0 +1,162 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A dramatic manga page showing a character in mechanical armor reflecting on their past, followed by close-up panels of another character with long hair making emotional statements about care and possession.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.35
+      ],
+      "description": "Wide panel showing a character in elaborate mechanical armor with many protruding elements, set against vertical lines suggesting movement or energy",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "A character shown from behind/above perspective, wearing what appears to be a futuristic helmet or headgear with mechanical details and ventilation grilles. The helmet has a rounded, dome-like shape with technical paneling and small circular vents or sensors visible. The character's pose suggests they are looking upward or forward. The art style uses clean, precise linework typical of manga with detailed mechanical rendering. Shading is achieved through screentone/halftone patterns creating gray values, particularly visible on the helmet and surrounding technological elements. The composition shows vertical structural elements or beams in the background, suggesting an industrial or sci-fi setting. Partial dialogue text is visible in the upper left reading fragments like 'DAY', 'BEHIND', 'TH MY', 'ND ITY', 'ND TO', 'OUL.' The overall aesthetic is clean and technical, emphasizing the mechanical/technological theme through precise geometric forms and detailed surface textures.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.12,
+            0.15,
+            0.35,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with curved, organic borders containing black text that reads 'THAT DAY... I LEFT BEHIND BOTH MY HUMANITY AND MY SOUL.' The bubble has a clean white interior with bold, sans-serif lettering arranged in multiple lines. The speech bubble's tail points toward the right side of the frame, suggesting the speaker is positioned there. In the background, there are geometric angular shapes and crosshatched shading patterns typical of manga art style, with fine parallel lines creating depth and shadow. The overall composition uses high contrast between the white speech bubble and the heavily shaded background elements, which appear to be architectural or mechanical structures rendered with precise linework and detailed cross-hatching techniques.",
+          "text": "THAT DAY... I LEFT BEHIND BOTH MY HUMANITY AND MY SOUL."
+        },
+        {
+          "bbox": [
+            0.77,
+            0.1,
+            0.95,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with black text reading 'I HAVE NOTHING LEFT NOW.' positioned in the right portion of the panel. The bubble has a rounded rectangular shape with a small tail pointing toward the left, indicating the speaker is likely positioned off-screen or partially visible to the left. The text is rendered in a standard manga font style, arranged in three lines with center alignment. Behind the speech bubble, there are diagonal structural elements that appear to be part of a building or architectural framework, rendered with crosshatching and screentone patterns typical of manga art. The linework is clean and precise, with varying line weights creating depth and definition in the background elements.",
+          "text": "I HAVE NOTHING LEFT NOW."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background depicts a dramatic sci-fi or mecha setting with intricate mechanical structures. The upper panel shows a complex network of cylindrical pipes, cables, and structural beams rendered with detailed cross-hatching and screentone shading. The mechanical elements create a dense, industrial atmosphere with various circular and angular components interconnected throughout the scene. The lower panels feature more minimalist backgrounds with subtle screentone gradients. The art style employs traditional manga techniques with varied line weights - thicker lines for structural elements and finer lines for mechanical details. The composition creates depth through overlapping mechanical elements and strategic use of negative space, giving the environment a claustrophobic, high-tech facility aesthetic typical of cyberpunk or mecha manga genres.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.35,
+        0.24,
+        1.0
+      ],
+      "description": "Narrow vertical panel with minimal content",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.25,
+            0.85,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "A partial white speech bubble outline visible in the bottom portion of the image against a light gray halftone/screentone background. The speech bubble appears to be cut off by the crop, showing only the curved bottom edge with clean, thin black lineart typical of manga style. The background features a subtle dot pattern or screentone texture commonly used in manga for atmospheric effects or to indicate sky or neutral space. No text is visible within the cropped speech bubble portion. The lineart is precise and uniform in weight, consistent with digital manga production techniques.",
+          "text": "TAKE..."
+        },
+        {
+          "bbox": [
+            0.1,
+            0.8,
+            0.9,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble or dialogue balloon from a manga panel. The element shows a stark white area (likely the interior of the speech bubble) contrasted against heavy black shading or screening. The black area features characteristic manga-style hatching and cross-hatching techniques, with jagged, spiky edges that create a dramatic visual texture. The line work appears bold with varying line weights, typical of manga illustration. On the right edge, there are diagonal hatching lines that suggest dimensionality or shadow effects. The composition shows strong contrast between the pure white space and the densely shaded black areas, creating visual tension. No visible text can be discerned in this cropped portion of the speech bubble.",
+          "text": "CARE."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A vertical manga panel showing a minimalist background composition. The panel features clean white space with subtle screentone/halftone shading in gray. Two speech bubbles are positioned in the upper and middle portions containing the text 'TAKE...' and 'CARE.' respectively. At the bottom of the panel, there's a partial view of a character with spiky black hair rendered in solid black ink, shown from behind or at an angle where only the hair silhouette is visible. The art style uses simple, clean line work with minimal detail, characteristic of modern manga aesthetics. The overall composition creates a sense of departure or farewell, with the sparse visual elements and generous white space emphasizing the emotional weight of the brief dialogue.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.24,
+        0.35,
+        1.0,
+        1.0
+      ],
+      "description": "Large panel showing close-up of a character with long hair and emotional expression",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.95,
+            0.9
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a young male manga character rendered in classic black and white line art style. The character has medium-length hair with layered bangs framing his face, drawn with flowing, dynamic strokes that suggest movement. His large, expressive eyes are drawn in typical manga style with detailed irises and are gazing directly at the viewer with an intense, slightly melancholic expression. His facial features are angular and refined, with a sharp jawline and well-defined nose. He appears to be wearing what looks like a collared shirt or uniform with a tie, visible at the bottom of the frame. The linework varies in weight, with bold outlines defining the character's silhouette and finer lines used for hair texture and facial details. There is minimal shading, mostly achieved through strategic use of solid black areas and line density rather than tone or hatching. The composition is tightly cropped to focus on the face and upper chest area, creating an intimate, portrait-like framing. No text is visible in this cropped panel.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.1,
+            0.95,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows a close-up of a character's face rendered in typical black and white manga style. The character has large, expressive eyes characteristic of manga art, with detailed eyelashes and what appears to be a surprised or concerned expression. The hair is drawn with flowing, dynamic lines that create movement and texture. The linework varies in weight, with bold outlines defining the main features and finer lines used for details like hair strands and facial features. There is minimal shading, relying primarily on clean line art. A speech bubble or panel border is visible on the right edge of the frame. The composition focuses on the upper portion of the face, creating an intimate, emotional moment typical of manga storytelling. The art style appears clean and polished, with crisp black lines on white background following conventional manga visual language.",
+          "text": "BUT... EVERYTHING ELSE"
+        },
+        {
+          "bbox": [
+            0.4,
+            0.75,
+            0.7,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows a partial view of what appears to be a speech bubble or dialogue balloon. The image contains flowing, dynamic line work typical of manga art style, with bold black lines creating movement and energy. There are diagonal hatching patterns and screentone effects visible, creating texture and depth. The composition shows angular, sharp lines that suggest motion or impact, possibly from an action sequence. The speech bubble appears to be cut off or cropped, showing only a portion of its typical rounded or pointed shape. The line weights vary from thin detail lines to bold, heavy strokes that emphasize the dramatic nature of the scene. No readable text is visible in this cropped section.",
+          "text": "IS YOURS."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel features a close-up portrait of a young character with short, layered hair and large, expressive eyes characteristic of manga art style. The character appears to be wearing what looks like a school uniform or formal clothing with a dark collar or tie visible at the bottom of the frame. The art employs clean, confident linework with varying line weights - thicker lines for outlines and thinner lines for hair strands and facial details. The shading is minimal and subtle, using light screentones and selective shadows to create depth, particularly around the hair and facial contours. The composition focuses on the character's face, which takes up most of the panel space, creating an intimate, emotional moment. Two speech bubbles contain dialogue: 'BUT... EVERYTHING ELSE' in the upper right and 'IS YOURS.' in the lower left. The background is kept simple with light screentone patterns, directing all attention to the character's contemplative or melancholic expression. The overall style is typical of shoujo or josei manga, with delicate linework and emphasis on emotional storytelling through facial expressions.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

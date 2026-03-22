@@ -1,0 +1,162 @@
+{
+  "width": 936,
+  "height": 1400,
+  "description": "A manga page showing an emotional conversation between two characters, with one expressing regret about not being able to save someone, and another character appearing in a final panel",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.41
+      ],
+      "description": "Two-panel sequence showing close-ups of two characters in conversation",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character with long, light-colored hair tied in twin tails is shown in an emotional close-up. The character has large, expressive eyes with a melancholic or distressed expression, with slight shadowing under the eyes suggesting fatigue or sadness. They are wearing what appears to be a dark-colored outfit with a bow or ribbon detail at the neck. The art style features clean, flowing lines for the hair with delicate strands and careful attention to the character's facial features. The shading is minimal but effective, using subtle tonal work rather than heavy hatching. Three speech bubbles contain dialogue: 'I DON'T NEED THEM.', 'JUST WANT TO GO AND DIE.', and 'THAT IDIOT AND THE FIRST BOTH'. The composition focuses on the upper body and face, creating an intimate, emotionally charged moment. The background appears to be solid black, emphasizing the character's pale features and creating dramatic contrast.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.25,
+            0.25,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with black text reading 'JUST WANT TO GO AND DIE.' in all capital letters. The bubble has a clean, rounded rectangular shape with a small tail pointing toward the speaker. The text is arranged in four lines with consistent spacing. The bubble is positioned against a background showing part of a character with light-colored hair rendered in typical manga style with fine line work and screentone shading. The overall composition uses high contrast between the stark white bubble and the darker toned background elements, with crisp black lineart characteristic of manga illustration.",
+          "text": "JUST WANT TO GO AND DIE."
+        },
+        {
+          "bbox": [
+            0.5,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in close-up profile view, depicting a young person with light-colored, layered hair that falls across their face in wispy strands. The character's eyes are closed or nearly closed, with a serene, peaceful expression suggesting sleep or quiet contemplation. They appear to be wearing dark clothing with light trim or collar details. The art style employs clean, confident linework with minimal but effective shading using screentone patterns. The composition focuses on the character's face and upper torso area, with diagonal hatching and geometric screentone patterns in the background creating depth and atmosphere. The overall mood is tranquil and intimate, enhanced by the soft rendering of facial features and hair texture typical of shoujo or seinen manga styles.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.55,
+            0.15,
+            0.85,
+            0.55
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel shows a close-up of an anime/manga character's face in profile view, facing downward with a melancholic or contemplative expression. The character has spiky, layered hair rendered in light tones with clean, flowing lines. The art style features typical manga aesthetics with smooth line work and minimal shading - primarily using screentone/halftone patterns for subtle gradation effects. The character's eye is partially visible, drawn in the characteristic large-eyed manga style with delicate linework. The background uses a dotted screentone pattern. The overall composition creates an intimate, emotional atmosphere with the downward gaze suggesting introspection or sadness. The lineart is clean and precise with varying line weights - thicker outlines for the hair and facial contours, and finer lines for internal details. No text is visible in this cropped section.",
+          "text": "I DON'T NEED THEM. THAT IDIOT AND THE FIRST BOTH"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.42,
+        1.0,
+        0.69
+      ],
+      "description": "Wide panel showing an architectural interior view",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background depicts an indoor architectural space with clean, geometric lines typical of modern manga art style. The scene shows structural elements including what appears to be stairs or stepped platforms with fine cross-hatching pattern details, and angular walls or surfaces rendered with precise linework. The background uses minimal shading with subtle screentone gradients to create depth. The architectural elements are drawn with consistent line weights and feature geometric precision. The composition shows the space from an angled perspective, creating dimensional depth. The overall art style is clean and minimalist, focusing on structural forms rather than decorative details, rendered in the typical black and white manga aesthetic with careful attention to perspective and spatial relationships.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.15,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of speech bubble elements from a manga panel. The image shows geometric angular shapes with crosshatch/screentone patterns typical of manga artwork. The shapes have clean, bold black outlines with varying line weights. The interior areas are filled with a dotted halftone pattern (screentone) commonly used in manga for shading and texture. The composition shows what appears to be two separate angular sections - one in the upper portion and one in the lower portion of the frame. The shapes have sharp, precise edges suggesting they are parts of speech bubble borders or panel dividers. No visible text can be clearly discerned in this cropped section. The art style is consistent with traditional manga production techniques, featuring high contrast black and white elements with mechanical dot patterns for tonal variation.",
+          "text": "..."
+        },
+        {
+          "bbox": [
+            0.55,
+            0.1,
+            0.95,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with clean, bold black outlines containing the text 'SAVE THEM.' in all capital letters. The text appears to be in a standard manga font with medium weight. The speech bubble has a typical rounded rectangular shape with a small tail or pointer extending from the bottom left, indicating the speaker is positioned below and to the left of the bubble. The background shows crosshatched/screentone patterns typical of manga art, creating texture and depth. The overall composition suggests this is part of a dramatic or urgent dialogue moment, with the stark contrast between the white bubble and the detailed background emphasizing the importance of the spoken words.",
+          "text": "THE POWER TO DO SO, I COULDN'T SAVE THEM. SO... EVEN IF I HAD"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.7,
+        1.0,
+        1.0
+      ],
+      "description": "Large panel showing two characters, one in profile and another smaller figure",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.6,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in profile view facing right, with spiky hair rendered in typical manga style. The character has a determined or serious expression with closed eyes and a slightly open mouth, suggesting they are speaking. The art style uses clean, bold black lines for the character outline with minimal internal detail lines. The background features screentone/halftone shading patterns creating texture and depth. There is a speech bubble containing the text 'YOU'RE JUST LIKE SHINJI WAS, BACK THEN.' positioned in the upper right portion of the panel. The composition emphasizes the character's profile against the textured background, creating a dramatic conversational moment typical of manga storytelling.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.1,
+            0.95,
+            0.9
+          ],
+          "type": "character",
+          "description": "A manga character depicted from roughly chest down, wearing an elaborate Victorian or Gothic Lolita-style dress. The outfit features a high white collar with ruffled trim and a large black bow at the neck. The dress has puffy, gathered sleeves with white cuffs at the wrists, and the bodice appears to have decorative frills or lace detailing across the chest area. The dress extends down in flowing fabric rendered with soft gray tones and subtle shading. The art style uses clean, precise linework with minimal but effective screentone shading to create depth and texture in the fabric. The composition is cropped to focus on the torso and dress details, emphasizing the ornate clothing design. The character's pose appears formal and upright. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.6,
+            0.65,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A partial manga speech bubble visible in the upper left portion of the frame, rendered with clean black line art typical of manga style. The bubble appears to be cut off by the crop, showing only a small curved section. To the right, there are detailed line drawings of what appears to be hair or fabric rendered with fine parallel lines and crosshatching techniques. The artwork demonstrates classic manga aesthetics with precise linework, varied line weights, and detailed shading through screentone or hatching patterns. The composition suggests this is part of a dialogue scene, with the speech bubble positioned above or near a character whose hair/clothing details are visible in the frame.",
+          "text": "YOU'RE JUST LIKE SHINJI WAS, BACK THEN."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.85,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of what appears to be a speech bubble or dialogue balloon in manga style. The image shows curved black outlines typical of speech bubble borders, with crosshatched shading and screentone patterns visible in the background. The linework uses varying weights with bold black outlines contrasting against lighter hatched areas. The composition suggests this is the edge or corner portion of a larger speech bubble, with the characteristic smooth, rounded curves that define manga dialogue containers. No visible text is present in this cropped section, showing only the structural elements of the speech bubble against a textured background with diagonal line patterns and dot screening typical of manga artwork.",
+          "text": "SO"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A manga page showing a conversation between characters, with scenes involving scientific equipment and emotional dialogue about following in someone's footsteps",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.057,
+        0.083,
+        0.437,
+        0.408
+      ],
+      "description": "Panel showing scientific equipment with a character speaking about not hiding things",
+      "elements": [
+        {
+          "bbox": [
+            0.02,
+            0.15,
+            0.35,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with black text in Spanish that reads 'ES MEJOR NO HACER COSAS QUE NO PUEDES OCULTAR...' The bubble has a classic manga style with clean black outlines and a pointed tail extending toward the bottom right. The text is rendered in a simple, bold font typical of manga dialogue. Below the speech bubble, there's a partial view of what appears to be a character wearing dark clothing, shown through cross-hatched shading patterns. The overall composition uses high contrast black and white lineart characteristic of manga illustration style, with precise line weights and clean geometric shapes for the speech bubble against the more organic, textured rendering of the character below.",
+          "text": "ES MEJOR NO HACER COSAS QUE NO PUEDES OCULTAR..."
+        },
+        {
+          "bbox": [
+            0.35,
+            0.1,
+            0.98,
+            0.9
+          ],
+          "type": "object",
+          "description": "This manga panel shows a detailed close-up of what appears to be part of a vehicle or mechanical object, likely a car or ship. The image features clean, precise line work typical of manga art style. There's a circular element (possibly a porthole, wheel, or mechanical component) prominently displayed on a white surface. Below this are what appear to be tires or landing gear rendered in solid black with detailed cross-hatching and screening techniques. The shading uses a combination of solid blacks and dotted halftone patterns (screentone) to create depth and texture. The composition is cropped tightly to focus on these mechanical details, with strong contrast between the white surfaces and dark shadowed areas. The line weights vary from thin detail lines to bold outlines, creating a sense of dimensional form typical of technical or mechanical illustrations in manga.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.437,
+        0.0,
+        1.0,
+        0.408
+      ],
+      "description": "Panel showing a character's face in profile with dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.65,
+            0.15,
+            1.0,
+            0.95
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view with spiky, disheveled hair rendered in bold black strokes. The character appears to be leaning or resting, with their head tilted downward in a contemplative or tired pose. The art style features clean, confident line work with minimal shading - primarily using simple black lines on white background. The character is wearing what appears to be a light-colored garment with subtle cross-hatching details on the collar or neckline area. There's visible text reading 'YO CREO' in the lower portion of the panel. The composition is intimate and close-up, focusing on the upper body and head area. The lineart is typical of modern manga style with varied line weights - thicker outlines for definition and thinner lines for interior details. The overall mood conveyed is subdued or pensive through the character's downward gaze and relaxed posture.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.25,
+            0.65,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing Spanish text that reads 'NO SAB\u00cdA QUE T\u00da CRE\u00cdAS EN ESE TIPO DE COSAS.' The bubble has clean, bold black outlines typical of manga style. In the background, there's a partial view of a character's face showing spiky hair rendered with sharp, angular lines. The character's eye is visible with typical manga styling - large and expressive with defined eyelashes. The art uses clean line work with minimal shading, employing screentone/halftone patterns in the background areas. The composition shows the speech bubble positioned in the upper left portion of the frame, with the character's face partially visible on the right side, creating a typical manga panel layout for dialogue scenes.",
+          "text": "NO SAB\u00cdA QUE T\u00da CREYE-RAS EN ESE TIPO DE COSAS."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.052,
+        0.438,
+        0.948,
+        0.888
+      ],
+      "description": "Large panel showing a character with closed eyes speaking emotionally",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.0,
+            0.9,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a manga character with medium-length hair featuring layered bangs that partially obscure their eyes. The character has a gentle, melancholic expression with closed or half-closed eyes and a subtle smile. They appear to be wearing what looks like a collared shirt or jacket. The art style employs clean, flowing line work with varying line weights - thicker outlines for the main contours and finer lines for hair details. The shading is minimal and achieved through subtle gradients and selective use of screentone/halftone patterns. The character's face is rendered with soft, delicate features typical of shoujo or josei manga style. Spanish text appears in speech bubbles, with phrases like 'NO ES PARTE DE TI', 'SEGUIR LOS PASOS DE TU PADRE, ESO...', 'ES GRACIAS A TI', and 'RIT-SUKO'. The composition focuses on the upper body and face, creating an intimate, emotional moment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.5,
+            0.35,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with curved edges positioned against a solid black background. The bubble contains partial Spanish text reading 'ES GRA-CIA' (likely 'GRACIAS' meaning 'thank you'). The text appears to be in a bold, clean font typical of manga lettering. The speech bubble has a distinctive pointed tail extending from its lower left portion, indicating the direction of the speaker. The contrast between the pure white bubble and the deep black background creates stark visual separation. The bubble's shape is organic and rounded, following traditional manga speech bubble conventions. The cropped nature of the image cuts off part of the text and bubble, suggesting this is a fragment of a larger panel layout.",
+          "text": "NO ES PARTE DE TI."
+        },
+        {
+          "bbox": [
+            0.7,
+            0.15,
+            0.98,
+            0.55
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing Spanish text that reads 'SEGUIR LOS PASOS DE TU PADRE, ESO...' The bubble has a clean, rounded rectangular shape with a small tail pointing toward the speaker. The text is written in bold, uppercase letters in a standard manga font. The bubble appears to be positioned in the upper portion of the panel. Visible in the background are partial character elements including what appears to be clothing with crosshatch shading patterns and clean line work typical of manga art style. The overall composition uses black and white contrast with screentone shading techniques common in manga illustration.",
+          "text": "YO CREO LO MISMO."
+        },
+        {
+          "bbox": [
+            0.65,
+            0.6,
+            0.98,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble rendered in classic manga style with clean black outlines against a halftone screentone background. The bubble has an irregular, organic shape with a pointed tail extending downward to indicate the speaker. The interior is white/blank with no visible text. The background features diagonal halftone dot patterns transitioning from light to dark, creating atmospheric depth. In the composition, there are dramatic black silhouetted elements - what appears to be spiky or flame-like shapes in the upper right corner, and angular geometric forms in the lower left, both rendered with bold, confident line work. The overall aesthetic uses high contrast between the stark white speech bubble, deep black silhouettes, and graduated screentone patterns typical of professional manga artwork.",
+          "text": "SEGUIR LOS PASOS DE TU PADRE, ESO..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.052,
+        0.908,
+        0.427,
+        1.0
+      ],
+      "description": "Small dark panel with white text bubbles",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This background element shows a stark black and white composition with high contrast. The top portion features solid black areas that appear to be architectural or structural elements, possibly parts of buildings or walls. Below this is a clean white space with a simple curved line drawn in thin black linework, creating a minimal geometric form that could represent a boundary, horizon line, or abstract architectural detail. The art style is very clean and minimalist, using solid fills rather than tone or hatching. The composition uses negative space effectively, with the white area dominating the lower portion while the black elements frame the top. The linework is precise and uniform in weight, typical of digital manga artwork or clean ink work. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.45,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial speech bubble cropped from a manga panel, showing only the bottom curved outline. The bubble appears to be a standard dialogue balloon with clean, bold black lineart of consistent medium weight. The visible portion shows the characteristic rounded bottom edge that curves inward to form the typical speech bubble shape. The interior is pure white/blank with no visible text or content due to the cropping. The line quality is smooth and confident, typical of professional manga artwork, with no additional shading, hatching, or decorative elements visible in this cropped section.",
+          "text": "RIT-SUKO."
+        },
+        {
+          "bbox": [
+            0.55,
+            0.15,
+            0.9,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a manga speech bubble showing only the bottom white portion against a black background. The speech bubble has the characteristic clean, solid white fill typical of manga dialogue bubbles. The visible portion shows smooth, curved edges with crisp black outlines of medium line weight. The stark contrast between the pure white interior and the deep black surrounding area creates the standard high-contrast aesthetic common in manga artwork. No text is visible in this cropped section, and no other visual elements like characters, backgrounds, or additional panel details are present in this isolated fragment.",
+          "text": "ES GRA-CIAS A TI."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.437,
+        0.908,
+        1.0,
+        1.0
+      ],
+      "description": "Panel showing partial view of a character with light hair",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up cropped view of a character's lower face and neck area rendered in stark black and white manga style. The image shows thick, dark facial hair or beard covering the jawline and chin area, depicted with bold black ink and rough, textured strokes. A portion of an ear is visible on the right side of the frame. The character appears to be wearing what looks like a light-colored collar or clothing edge. The art style uses high contrast with solid black areas and clean white spaces, typical of manga illustration. The line work is bold and confident, with the facial hair rendered using dense, scratchy pen strokes that create texture and volume. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.8,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element features bold, dynamic black ink strokes creating an abstract, energetic composition. The artwork uses heavy line weight with aggressive, sweeping brush-like marks that flow diagonally across the frame. The strokes have a rough, textured quality with jagged edges and varying thickness, suggesting movement or impact. There are areas of solid black contrast against white space, creating strong visual tension. In the upper right corner, there appears to be a small white geometric shape or bubble form. The overall style is characteristic of action manga backgrounds, using high contrast black and white with expressive, gestural linework to convey motion or emotional intensity. No text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

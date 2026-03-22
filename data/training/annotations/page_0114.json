@@ -1,0 +1,173 @@
+{
+  "width": 939,
+  "height": 1400,
+  "description": "A manga page showing a character searching for someone who has disappeared, with panels showing different locations and ending with a photograph of two people",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.06,
+        0.0,
+        0.58,
+        0.38
+      ],
+      "description": "Wide panel showing an industrial or facility interior with stairs and walkways",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.25,
+            1.0
+          ],
+          "type": "character",
+          "description": "A vertically cropped manga panel showing a character with long, flowing hair that cascades down in graceful strands. The character appears to be in profile or three-quarter view, with their hair rendered in typical manga style using clean, flowing lines. The lineart is delicate with medium line weight, and the hair shows dimensional shading through screentone/hatching patterns. The background features geometric architectural elements including what appears to be a window frame or doorway with screentone shading. The composition emphasizes the elegant flow of the hair against the structured background elements. The art style is characteristic of shoujo or josei manga with its refined linework and attention to hair detail. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "Industrial interior with stairs, railings, and striped archway",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.58,
+        0.0,
+        1.0,
+        0.38
+      ],
+      "description": "Close-up panel of a character's face with spiky hair",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel features a close-up of an anime-style character with spiky, light-colored hair and large expressive eyes. The character appears to be lying down or reclining, with their head tilted at an angle. The art style uses clean, bold line work typical of manga, with minimal shading achieved through screentone patterns. The character's facial expression appears contemplative or possibly distressed. Below this main image is a smaller panel showing what appears to be the same or similar character in a different pose, with visible text that reads 'WHERE DID' suggesting dialogue or internal monologue. The overall composition uses strong contrasts between black lines and white/screentoned areas, creating a dramatic visual effect characteristic of manga artwork.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.06,
+        0.4,
+        0.5,
+        0.67
+      ],
+      "description": "Another close-up of the same character's face from a different angle",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's face in profile view, facing to the right. The character has light-colored hair with detailed line work showing individual strands and texture. Their facial features are drawn in typical manga style with clean, confident linework - visible are the nose, lips, and jawline rendered with precise black ink lines. The character appears calm or contemplative in expression. Below the face panel is a second panel that's largely empty white space with subtle screentone/halftone shading in the upper left corner creating a gradient effect. There are a few minimal diagonal lines in the lower right of this panel, possibly indicating motion or atmospheric effects. The overall art style uses clean black line art with selective screentone application, characteristic of professional manga illustration techniques. The composition creates a sense of pause or transition between moments.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.5,
+        0.4,
+        1.0,
+        0.67
+      ],
+      "description": "Panel showing a character in what appears to be a corridor or hallway",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.0,
+            0.8,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in a three-quarter view pose, wearing what appears to be a fitted bodysuit or uniform with a high collar. The character has shoulder-length wavy or curly hair and appears to be in motion or leaning forward slightly. The art style features clean, confident line work with moderate line weight variation. Shading is achieved through screentone/halftone patterns rather than solid blacks, creating subtle gradations on the clothing and form. The character's pose suggests movement or anticipation, with the body angled dynamically within the frame. The background is minimal with some geometric panel borders visible, focusing attention on the character figure. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.1,
+            0.4,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This is a minimalist speech bubble element rendered in typical manga style with clean, thin black lineart. The bubble appears to be empty or contains very faint text that is not clearly visible in this cropped portion. The speech bubble has a simple, rounded rectangular shape with smooth curves typical of manga dialogue bubbles. The line weight is consistent and thin, matching the overall clean art style of the manga panel. The bubble appears to be positioned in the lower portion of the panel space, and there are some light sketchy lines visible that may be part of background elements or panel borders. The overall composition suggests this is part of a larger dialogue sequence, with the clean white interior of the bubble contrasting against the minimal lineart surrounding it.",
+          "text": "WHERE DID SHE GO?"
+        },
+        {
+          "bbox": [
+            0.8,
+            0.3,
+            1.0,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a portion of a speech bubble or dialogue balloon from a manga panel. The element shows clean, minimal line work typical of manga art style, with what appears to be the curved edge or border of a speech bubble rendered in black lines against a white background. The lines have consistent weight and appear to be drawn with precise, smooth strokes characteristic of professional manga artwork. The visible portion suggests this is likely part of a larger speech bubble that has been cropped, showing only the curved boundary lines without any visible text content within the frame.",
+          "text": "..."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a minimalist architectural interior space with clean, geometric lines. The composition features stark white walls or surfaces intersecting at angular planes, creating a sense of depth and dimensional space. The linework is precise and thin, typical of manga backgrounds, with subtle variations in line weight to define the structural edges. There is minimal shading, relying primarily on the contrast between white space and defined black outlines to create the three-dimensional effect. In the lower portion, there appears to be a textured area with fine crosshatching or screentone pattern, possibly representing flooring or a different surface material. The overall aesthetic is clean and uncluttered, serving as a neutral backdrop that doesn't compete with character elements, which is characteristic of professional manga background art.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.06,
+        0.69,
+        1.0,
+        1.0
+      ],
+      "description": "Large panel showing a photograph lying on a surface",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.15,
+            0.95,
+            0.95
+          ],
+          "type": "object",
+          "description": "A manga page or document shown at an angled perspective, lying flat on what appears to be a white surface. The page features a black and white illustration of an anime-style character with large eyes and flowing hair in the upper portion. The character appears to be drawn in typical manga style with clean linework and screentone shading. Below the illustration are several blocks of Japanese text arranged in columns, likely dialogue or narrative text. The page has clean white margins and appears to be professionally printed manga material. The perspective creates depth, showing the page as a three-dimensional object rather than a flat image, with subtle shadows cast on the surface beneath it.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A manga page or document lying flat on what appears to be a tiled floor surface. The page contains a romantic illustration of two characters - a male and female figure in an intimate embrace or close positioning, drawn in typical shoujo manga style with soft line work and screentone shading. Below the illustration is a block of Japanese text, likely dialogue or narrative content. The page itself is rendered with clean line work and minimal shading, positioned at a slight angle on the floor. The floor beneath shows geometric tile patterns with subtle hatching and screentone effects to indicate the surface texture and shadows cast by the paper.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

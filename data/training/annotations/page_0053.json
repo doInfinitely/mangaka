@@ -1,0 +1,162 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A dramatic manga page showing a conversation between two characters, with one character making a promise while another appears distressed about someone named Ikari-kun dying.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.632
+      ],
+      "description": "Large panel showing two characters - one in the foreground with white/blonde hair partially covering their face, and another character in the background wearing what appears to be a plugsuit",
+      "elements": [
+        {
+          "bbox": [
+            0.55,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A two-panel manga sequence showing a character with light-colored, shoulder-length hair. In the top panel, the character is shown from behind/side angle with their head tilted down, with dynamic speed lines radiating outward suggesting intense emotion or movement. A speech bubble contains the text 'I WON'T LET...'. The character appears to be gripping something, indicated by their hand position. The bottom panel shows the same character from the front, with a gentle, somewhat melancholic expression and closed or nearly-closed eyes. They're wearing what appears to be a dark bow tie or collar accessory. The art style features clean line work with screentone shading, particularly visible in the background. The composition emphasizes emotional intensity in the first panel transitioning to a calmer, more resolved expression in the second panel.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.15,
+            0.45,
+            0.85
+          ],
+          "type": "character",
+          "description": "A manga character shown in a dramatic three-quarter view pose, featuring a young person with long, flowing light-colored hair that cascades down their back. They're wearing what appears to be a form-fitting bodysuit or pilot suit with mechanical or technological details, including circular elements and segmented panels. The character's expression shows concern or distress, with wide eyes and a slightly open mouth. The art style uses clean, precise linework with varied line weights - thicker outlines for the character and finer details for hair strands and suit elements. Screentone halftoning is visible in the background creating a gradient effect. The composition shows the character from roughly chest-up, positioned slightly off-center. A speech bubble contains the text 'IKARI-KUN DIE.' The overall style is typical of modern manga with detailed character design and professional production values.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.55,
+            0.25,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing the curved outline of the bubble's border in black line art. The bubble appears to be empty with no visible text. Adjacent to the speech bubble is a portion of what appears to be a character's hair or clothing rendered with fine crosshatching and screentone patterns typical of manga art. The hatching creates gray tonal values and texture. The line work is clean and consistent with traditional manga illustration techniques, using varying line weights to define the bubble's edge and the detailed crosshatching for shading effects.",
+          "text": "IKARI-KUN... DIE."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.95,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'I WON'T LET...' in bold, capital letters. The bubble has a classic oval shape with clean, black outlines and a white interior. The text appears to be cut off mid-sentence, suggesting continuation in another panel. The bubble is positioned against what appears to be flowing fabric or clothing rendered with fine line work. There are diagonal hatched shading patterns visible in the background on the right side of the image, created with closely spaced parallel lines typical of manga screentone or hand-drawn hatching techniques. The overall line weight is consistent with traditional manga art style, featuring crisp, clean strokes for the speech bubble outline and more varied line weights for the background elements.",
+          "text": "I WON'T LET..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.075,
+        0.648,
+        0.452,
+        0.887
+      ],
+      "description": "Left panel showing close-up of character with light hair speaking",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up view of a manga character's face showing spiky, angular hair rendered in a typical manga style. The character has a large, prominent eye with a circular pupil marked with the number '0' inside it, creating an intense or surprised expression. The art style features clean, bold black lines with varying line weights - thicker outlines for major features and thinner lines for details. The hair is depicted with sharp, jagged strokes creating a dynamic, windswept appearance. Gray screentone shading fills the background and some hair areas, providing depth and contrast. The composition is tightly cropped, focusing on just the upper portion of the face from roughly the nose up, creating an intimate and dramatic framing that emphasizes the character's striking eye and distinctive hairstyle.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.6,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "This manga element shows what appears to be a speech bubble or dialogue balloon with distinctive pointed, angular shapes. The visual style features clean, bold black outlines with minimal internal detail. The background has a subtle screentone or halftone pattern typical of manga printing techniques. The shapes are geometric and sharp, resembling triangular or spear-like forms that could be part of a speech bubble's tail or pointer. The line work is consistent with typical manga art style - crisp, confident strokes with varying line weights. The composition shows these angular elements against a textured gray background, creating contrast through the solid black lines against the dotted/screentoned surface. No readable text is visible in this cropped portion of the speech bubble element.",
+          "text": "I DON'T KNOW WHETHER I SHOULD CALL YOU WONDER GIRL, OR SIMPLY A ROBOT..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.461,
+        0.648,
+        0.853,
+        0.887
+      ],
+      "description": "Right panel showing another character's reaction",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a partial view of a character from behind or side angle. The character appears to be wearing dark clothing, with only their silhouette and shoulder/back area visible. The art style features clean, bold black lines with minimal detail on the character's form. There is a speech bubble containing the text 'I MADE A PROMISE.' in all capital letters. The background shows subtle screentone shading with a dotted halftone pattern. The composition focuses on the emotional weight of the dialogue rather than detailed character features, creating an intimate, contemplative mood. The panel cropping emphasizes the character's posture, suggesting a moment of reflection or determination.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.15,
+            0.7,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble element showing the curved outline of what appears to be the left edge of a speech bubble. The bubble has a clean, bold black outline with consistent line weight typical of manga speech bubbles. The interior is white/blank with no visible text. The background features detailed screentone/halftone dotted shading that creates a gradient effect, transitioning from lighter to darker areas. The screentone pattern consists of small dots arranged in a regular pattern, which is a classic manga shading technique. The composition shows only a fragment of the bubble against this textured background, suggesting this is cropped from a larger panel where the full speech bubble would contain dialogue.",
+          "text": "HMPH... YOU'RE FOLLOWING THE COMMANDER'S ORDERS, AREN'T YOU?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.903,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom panel showing close-up of character's eye and face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga panel shows a close-up of a character's face and upper body in a dramatic emotional state. The character appears to be crying or in distress, with tears visible and an anguished expression. Their hair is drawn with flowing, dynamic lines that suggest movement or emotional turmoil. The art style employs typical manga techniques with clean black line work of varying weights - thicker lines for outer contours and thinner lines for facial details and hair strands. The shading is achieved through screentone patterns, creating gray tonal areas that add depth and atmosphere. The composition focuses tightly on the character's emotional state, with the face positioned prominently in the frame. There appears to be some text or sound effects integrated into the hair/background area, rendered in the characteristic style of manga lettering, though the specific characters are partially obscured in this crop.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.15,
+            0.75,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing the curved bottom edge and border lines. The bubble appears to be empty or mostly cropped out, with clean black line work forming the typical rounded speech bubble border. The background shows characteristic manga screentone/halftone dotting pattern in gray, creating texture and depth. The line weight is consistent and medium thickness, typical of manga speech bubble borders. The composition shows just the lower curved portion of what would be a standard oval or rounded rectangular speech bubble shape.",
+          "text": "I MADE A PROMISE."
+        }
+      ]
+    }
+  ]
+}

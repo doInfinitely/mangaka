@@ -1,0 +1,6 @@
+# Gallery fetching configuration
+rate_limit: 2.0          # Seconds between requests
+max_retries: 3           # Retry count per request
+timeout: 30.0            # HTTP timeout in seconds
+cache_dir: data/gallery_cache
+max_galleries_per_artist: 20

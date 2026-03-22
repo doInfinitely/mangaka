@@ -56,6 +56,27 @@ class DecodeRequest(BaseModel):
     style_override: str | None = Field(default=None)
     negative_prompt: str | None = Field(default=None)
     seed: int | None = Field(default=None)
+    artist_names: list[str] | None = Field(
+        default=None,
+        description="Artist names for post-infill style transfer.",
+    )
+
+
+class PrepareStyleRequest(BaseModel):
+    """Request to fetch galleries and encode style embeddings for artists."""
+
+    artists: list[str] = Field(..., description="Artist names to prepare style banks for.")
+    cache_dir: str | None = Field(default=None, description="Gallery cache directory override.")
+    max_galleries: int = Field(default=20, ge=1, le=100, description="Max galleries per artist.")
+
+
+class PrepareStyleResponse(BaseModel):
+    """Status of style preparation per artist."""
+
+    status: dict[str, dict[str, int]] = Field(
+        default_factory=dict,
+        description="Per-artist status: { artist: { images: N, embeddings: N } }",
+    )
 
 
 # ---------------------------------------------------------------------------

@@ -1,0 +1,129 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A manga page showing a sequence of panels depicting what appears to be a ship or vessel in motion, with dramatic action occurring including someone falling or being thrown from the vessel.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.08,
+        0.08,
+        0.92,
+        0.36
+      ],
+      "description": "Wide panel showing a ship or vessel with angular geometric shapes against a mountainous background",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.25,
+            0.8
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows sound effect lines (SFX) rendered in bold black strokes against a light background. The lines are drawn with varying weights, creating a dynamic visual impact typical of manga sound effects. There are several diagonal and vertical lines clustered together, suggesting rapid movement or impact. The lines appear to be hand-drawn with confident, quick strokes. In the composition, there's also a diagonal shaded area created with fine crosshatching or screentone, creating contrast against the white space. The overall style is clean and minimalist, focusing attention on the dramatic line work that conveys motion or sound in the typical manga visual language.",
+          "text": "!!!"
+        },
+        {
+          "bbox": [
+            0.25,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A stark black and white manga background depicting a large pyramidal or triangular structure dominating the composition. The pyramid features geometric panels with crosshatched shading on its slanted surfaces and appears to have some kind of emblem or symbol on its face. Power lines stretch across the upper portion of the image, creating dynamic diagonal lines that frame the structure. In the foreground, silhouetted evergreen trees (likely pine or fir) create a dark border along the bottom right, rendered in solid black against the white sky. Mountains or hills are visible in the background, drawn with light linework and subtle shading. The overall art style uses clean, precise linework with selective crosshatching for shadows and depth, typical of manga architectural backgrounds. The composition creates a sense of scale and isolation, with the geometric man-made structure contrasting against the organic natural elements.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.08,
+        0.38,
+        0.92,
+        0.66
+      ],
+      "description": "Panel showing the same vessel from a different angle with a character's hand visible",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.2,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows sound effect (SFX) linework rendered in black ink with clean, confident strokes. The lines appear to be motion lines or impact effects, drawn with varying line weights - some bold and thick, others thinner and more delicate. The strokes have a dynamic, sweeping quality typical of manga action sequences or movement indicators. The lines are positioned against a light/white background with minimal shading, creating stark contrast. The composition shows partial linear elements that suggest speed lines or emphasis effects commonly used in manga to convey motion, impact, or dramatic emphasis. The art style is clean and minimalist, focusing on the essential linear elements without excessive detail or cross-hatching.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            0.8,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts an architectural scene with geometric buildings rendered in classic manga line art style. The upper panel shows angular, modernist structures including what appears to be a pyramidal or triangular building with crosshatched shading and linear perspective lines. There are diagonal speed lines or perspective lines cutting across the sky, creating dynamic movement. A large hand gesture is visible in the foreground, with fingers spread dramatically. The lower panel shows curved architectural elements with flowing, organic lines contrasting the geometric structures above. The art uses varied line weights - thin precise lines for architectural details and bolder strokes for emphasis. Shading is achieved through crosshatching and solid black areas, with screen tones used for mid-gray values. The composition creates strong diagonal movement and dramatic perspective, typical of action manga layouts.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.4,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a partial view of a character's torso and clothing rendered in black and white line art. The character appears to be wearing a striped garment with bold, curved black stripes against white fabric. The stripes follow the natural contours and folds of the clothing, creating a sense of dimensional form. The linework is clean and confident with varying line weights - thicker lines define the major contours and stripe patterns while thinner lines suggest fabric folds and details. The shading technique relies primarily on solid black areas for the stripes rather than screentones or hatching. The composition shows flowing, organic curves that suggest the character may be in motion or the fabric is draping naturally. The art style is typical of manga illustration with its emphasis on clear, economical linework and high contrast between black and white areas. No text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.08,
+        0.68,
+        0.92,
+        0.96
+      ],
+      "description": "Close-up panel showing a character who appears to be falling or in distress",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dramatic manga sequence showing a character in an intense combat or confrontational scene across two panels. The character appears to be wielding or drawing a blade, with dynamic angular positioning suggesting swift movement. The art style features bold, confident line work with heavy black shadows and selective screentone shading. Cross-hatching is used sparingly for texture, particularly on darker areas. The composition emphasizes the weapon and the character's arm/torso through close-up framing, creating a sense of immediacy and tension. The panels are cleanly bordered with thick black lines, and the overall aesthetic follows traditional manga visual language with high contrast between black shadows and white highlights. No visible text appears in these cropped panels.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.08,
+        0.98,
+        0.92,
+        1.0
+      ],
+      "description": "Bottom panel showing what appears to be part of the vessel or character from below",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This appears to be a very minimal or heavily cropped manga element showing what looks like a faint outline or silhouette of a character rendered in extremely light gray tones against a white/off-white background. The image is so faded or lightly rendered that specific details like facial features, clothing, pose, or expression are not clearly discernible. The art style appears to use very thin, delicate line work with minimal contrast. The composition shows only a partial view, likely the upper portion or torso area of a figure. No text is visible in this cropped element. The overall aesthetic suggests this might be a background character, a memory/flashback sequence, or an intentionally ethereal artistic choice typical of manga's subtle visual storytelling techniques.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

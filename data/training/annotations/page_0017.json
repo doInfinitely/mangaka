@@ -1,0 +1,272 @@
+{
+  "width": 949,
+  "height": 1400,
+  "description": "A manga page showing Eva units surrounded in a facility, with characters discussing security and tactical situations",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.537
+      ],
+      "description": "Large panel showing Eva units surrounded by mechanical structures in a facility",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "background",
+          "description": "The background depicts a dramatic low-angle view of towering mechanical structures or mecha units arranged in a threatening formation. The machines are rendered with heavy mechanical detailing including rivets, panels, and angular armor plating. The art style employs bold black ink with heavy contrast, using screentone shading to create depth and dimensionality on the metallic surfaces. The composition creates a sense of being overwhelmed or surrounded, with the massive mechanical forms looming overhead against a stark white sky. Speed lines and dramatic hatching emphasize the imposing nature of these units. The mechanical designs feature industrial aesthetics with visible joints, bolts, and segmented armor panels typical of mecha manga artwork. The perspective emphasizes scale and power, making the viewer feel small in comparison to these towering mechanical giants.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.25,
+            0.35,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with bold, capitalized black text reading 'IT'S BEEN COMPLETELY SURROUNDED BY THE EVA SERIES!!' The bubble has a clean white interior with a thick black outline typical of manga speech bubbles. The text uses an impactful, urgent font style suggesting alarm or excitement. Around the edges of the frame, there are partial views of what appears to be dark hair or clothing rendered with fine parallel lines and cross-hatching, creating areas of deep shadow. The contrast between the bright white speech bubble and the darker surrounding elements emphasizes the dramatic nature of the dialogue.",
+          "text": "IT'S BEEN COMPLETELY SURROUNDED BY THE EVA SERIES!!"
+        },
+        {
+          "bbox": [
+            0.65,
+            0.15,
+            0.95,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with a curved, organic shape typical of dialogue balloons. The bubble has clean black outlines with moderate line weight. Inside the bubble is black text that reads 'UNIT 01'S SYNCHRO RATE IS DROPPING' in a standard manga font. The bubble appears to be positioned in the upper portion of the panel, with white/light gray fill and subtle screentone shading visible in the background area outside the bubble. The overall art style follows conventional manga visual language with crisp linework and high contrast between the white speech bubble and darker background elements.",
+          "text": "UNIT 01'S SYNCHRO RATE IS DROPPING RAPIDLY!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.064,
+        0.537,
+        0.585,
+        0.892
+      ],
+      "description": "Panel showing an explosion or impact with debris",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "effect",
+          "description": "This manga panel shows an explosive action scene with heavy impact effects. The top portion depicts a violent collision or explosion with multiple dark silhouetted figures being thrown about amidst debris and impact lines. Heavy black ink splatters and motion lines create a sense of chaos and force. The art style uses bold, thick line weights for the impact effects and cross-hatching for shading. Below are two dialogue panels - one showing a dark silhouetted figure speaking about 'transferring the pilots without the commander's express permission,' and another smaller panel with just the word 'HURRY.' The composition emphasizes the dramatic contrast between the explosive action above and the calmer dialogue panels below, with the heavy use of screentone and stark black-and-white contrasts typical of manga artwork.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.6,
+            0.35,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with black text on white background containing dialogue that reads 'TRANS FERRIN THE PILOT WITHOUT COMMAND EXPRESS HELICE IS... WELL, HE'S NOT HERE NOW, SO THERE.' The text appears to be in a standard manga font with bold, clear lettering. The speech bubble has a typical rounded rectangular shape with a pointed tail indicating the speaker. The background behind the bubble shows dark crosshatching or screentone patterns typical of manga art style. The text layout follows a vertical reading pattern common in manga, with line breaks creating natural speech rhythm.",
+          "text": "OF IT STOPPING ANYTIME SOON."
+        },
+        {
+          "bbox": [
+            0.4,
+            0.05,
+            0.9,
+            0.55
+          ],
+          "type": "speech_bubble",
+          "description": "A blank white speech bubble with a simple black outline, positioned in the lower portion of the panel. The bubble has a clean, rounded rectangular shape with a small tail or pointer extending upward, indicating the speaker is located above. The interior is completely empty with no text or dialogue. The speech bubble uses standard manga conventions with thin, consistent line weight for the border. It appears to be set against a screentoned background with gray halftone dots, creating contrast that makes the white bubble stand out clearly. The positioning and empty state suggests this may be a pause in dialogue or a moment of silence in the conversation.",
+          "text": "SECURITY HAS ENGAGED THE JSSDF AROUND THE CAGE AREA. THERE'S NO SIGN"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.585,
+        0.537,
+        1.0,
+        0.892
+      ],
+      "description": "Panel showing two characters in conversation",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "A manga character shown in close-up with spiky dark hair and intense eyes, displaying a determined or defiant expression. The character appears to be shouting 'NO CHANCE!' with their mouth open. The art style features clean, bold linework typical of manga with minimal shading and screentone usage. The character is wearing what appears to be a light-colored garment. In a separate panel below, there's a partial view of another character with dark hair and visible eye, accompanied by dialogue text reading 'TRANSFER THE PILOTS TO THE LOWEST FLOOR OF DOGMA.' The composition uses dramatic close-up framing to emphasize the emotional intensity of the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.05,
+            0.5,
+            0.25
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing the text 'NO CHANCE!' in bold, uppercase letters. The bubble has a typical rounded rectangular shape with a pointed tail extending toward the speaker. The text appears to be hand-lettered in a standard manga font style with thick, black lines. The speech bubble is positioned in the lower portion of the frame against a white background. The bubble's outline is clean and bold, consistent with typical manga speech bubble conventions. The exclamation conveys urgency or emphasis through both the text content and the bold lettering style.",
+          "text": "WHAT ABOUT UNIT 00?"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.65,
+            0.4,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with a white fill and black outline, containing dialogue text that reads 'THE PIL TO TH LOWER FLOOR DORM'. The text appears to be cut off at the edges of the crop. The speech bubble has a typical rounded rectangular shape with a small tail pointing downward, indicating the speaker is likely positioned below or to the side of the bubble. The lettering uses a standard manga font style in black ink. The background shows some screentone/halftone pattern typical of manga artwork, creating a textured gray appearance behind the speech bubble.",
+          "text": "NO CHANCE!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.064,
+        0.892,
+        0.27,
+        1.0
+      ],
+      "description": "Small panel with character speaking",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A minimal manga background element featuring a stark black silhouette against white space. The black area appears to be part of a larger figure or object, rendered as a solid, heavy shadow with clean, bold edges. Above the silhouette is a white speech bubble with black text reading 'FOR IT.' in standard manga lettering. The composition uses high contrast between the pure black shadow and bright white background, creating a dramatic visual effect typical of manga's bold graphic style. The line work is clean and precise, with no visible hatching or texture within the black area, suggesting this is meant as a background element or partial view of a character or object that extends beyond the cropped frame.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble showing only the top-left corner with bold black text reading 'FOR IT.' The bubble has a clean white interior with a solid black border of medium line weight. The curved edge of the speech bubble is visible, and there appears to be dark crosshatched or solid black shading in the upper portion, likely representing hair or a dark object from the character speaking. The composition suggests this is part of a larger dialogue bubble that has been cropped, with the text positioned in the upper area of the bubble following typical manga text placement conventions.",
+          "text": "WELL, HE'S NOT HERE NOW, SO THERE'S NOTHING FOR IT."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.27,
+        0.892,
+        0.485,
+        1.0
+      ],
+      "description": "Panel with character and speech bubble",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            0.8,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a partial view of a character, featuring what appears to be part of their face and hair rendered in clean, precise linework typical of manga illustration. The visible portion shows defined facial features with sharp, angular line work characteristic of shounen or seinen manga styles. The hair appears to have detailed strand definition with varying line weights to create depth and texture. The art style employs minimal shading with selective use of solid blacks for contrast, creating a high-contrast aesthetic. The composition suggests this is likely from a close-up or medium shot of the character, with the cropping cutting off portions of the figure to focus on specific facial details. The linework is confident and controlled, with consistent line weights that emphasize the character's features while maintaining the clean, polished appearance typical of professional manga artwork.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.05,
+            0.9,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing the text 'EH?' in bold, stylized lettering. The bubble has the characteristic rounded, cloud-like shape typical of manga dialogue bubbles with a small tail pointing toward the speaker. Below the bubble, part of a character's face is visible, showing wide, surprised eyes with detailed eyelashes and eyebrows raised in shock or confusion. The character appears to have dark hair with fine line work typical of manga art style. The linework is clean and precise with moderate line weight, and there's minimal shading used primarily for the hair. The composition suggests this is a reaction shot capturing a moment of surprise or disbelief.",
+          "text": "TRANSFERRING THE PILOTS WITHOUT THE COMMANDER'S EXPRESS PERMISSION IS..."
+        },
+        {
+          "bbox": [
+            0.3,
+            0.4,
+            0.7,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble element showing clean, curved black lines that form the characteristic rounded border of a manga speech bubble. The lines have consistent medium weight with smooth, flowing curves typical of digital manga artwork. The bubble appears to be cut off at the edges of the crop, showing only a portion of what would be a complete oval or cloud-like shape. The interior is white/blank with no visible text content. The line art style is clean and minimalist, without any shading, hatching, or texture effects, maintaining the standard contemporary manga aesthetic for dialogue containers.",
+          "text": "HURRY."
+        },
+        {
+          "bbox": [
+            0.65,
+            0.5,
+            0.9,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "This speech bubble appears to be a partial or cropped manga panel element with distinctive black linework forming angular, geometric shapes. The lines have varied weights with some bold, thick strokes and thinner connecting lines creating an abstract or fragmented appearance. The composition shows intersecting angular forms that could be part of a larger speech bubble outline or decorative border element. The lineart style is clean and precise with sharp angles rather than curved forms typical of standard speech bubbles. There's minimal shading or hatching visible, with the emphasis on bold black line definition against white space. No visible text is present in this cropped portion of the element.",
+          "text": "EH?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.485,
+        0.892,
+        0.733,
+        1.0
+      ],
+      "description": "Panel with text about transferring pilots",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "A partial manga speech bubble element showing flowing, curved lines typical of speech bubble borders. The image shows black and white line art with characteristic manga-style line weights - bold, clean outlines defining the bubble's shape. The visible portion appears to be part of a larger speech bubble that has been cropped, showing smooth, organic curved lines that flow naturally. The art style uses solid black lines without cross-hatching or tone screening in this particular element. The composition shows only the bubble's border/outline against what appears to be a white background, with no visible text or interior content in this cropped section. The line work is confident and clean, typical of professional manga artwork, with consistent line weight throughout the visible bubble border.",
+          "text": "TRANSFER THE PILOTS TO THE LOWEST FLOOR OF DOGMA."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.733,
+        0.892,
+        1.0,
+        1.0
+      ],
+      "description": "Partial panel showing character detail",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a partial view of a character rendered in classic black and white manga style. The visible portion appears to be part of a character's torso or clothing, featuring clean, bold lineart with varying line weights. The shading technique employs traditional manga screentone/halftone patterns creating textured gray areas. There are geometric panel borders visible, suggesting this is part of a larger panel composition. The art style is clean and precise with sharp contrasts between the solid black areas and the dotted screentone regions. Two small black dots are visible in what appears to be a white panel section, possibly indicating speech or thought elements. The overall composition shows careful attention to panel framing and spatial relationships typical of professional manga artwork.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

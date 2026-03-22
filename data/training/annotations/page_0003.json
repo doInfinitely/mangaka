@@ -1,0 +1,52 @@
+{
+  "width": 944,
+  "height": 1400,
+  "description": "A simple dedication page with white text on a dark background, dedicating the work to all the children of that day",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full page panel with dark textured background and centered white text",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A minimalist manga page featuring a dark, muted brown-gray textured background that fills the entire frame. The background has a subtle grainy or paper-like texture typical of manga printing. Centered in the upper portion of the page is white text in a casual, hand-lettered font style that reads 'TO ALL THE CHILDREN OF THAT DAY-' arranged in four lines. The text appears slightly irregular and organic, consistent with manga lettering conventions. In the bottom left corner, the page number '4' is visible in small white text. The overall composition is stark and somber, with the dark background creating a sense of weight or gravity that emphasizes the dedication-like text. The lack of panel borders and imagery suggests this is likely a title page, dedication, or transitional page within the manga.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.37,
+            0.37,
+            0.63,
+            0.52
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with a dark gray/black textured background featuring white hand-lettered text that reads 'TO ALL THE CHILDREN OF THAT DAY-'. The text appears to be written in a casual, slightly rough font style typical of manga lettering. The speech bubble has an irregular, organic shape with slightly curved edges. The background has a grainy, hatched texture created with cross-hatching or stippling techniques, giving it a somber, weathered appearance. The text is positioned in the upper portion of the bubble, with the phrase appearing to be incomplete as it ends with a dash, suggesting continuation in another panel or bubble. The overall composition has a serious, reflective tone conveyed through the stark contrast between the white text and dark background.",
+          "text": "TO ALL THE CHILDREN OF THAT DAY-"
+        },
+        {
+          "bbox": [
+            0.04,
+            0.92,
+            0.08,
+            0.97
+          ],
+          "type": "object",
+          "description": "This cropped manga element shows a textured surface with diagonal crosshatch shading patterns typical of manga artwork. The shading consists of fine parallel lines creating a dark, mottled texture that suggests fabric, stone, or another rough material surface. The crosshatching technique uses consistent line weights with intersecting diagonal strokes to build up tonal depth and shadow. The overall tone is dark gray to black, with the hatching lines creating subtle variations in density across the surface. The cropped nature of the element makes it difficult to determine the exact object, but the shading technique is characteristic of detailed manga backgrounds or object rendering.",
+          "text": "4"
+        }
+      ]
+    }
+  ]
+}

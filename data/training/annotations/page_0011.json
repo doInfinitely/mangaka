@@ -1,0 +1,140 @@
+{
+  "width": 951,
+  "height": 1400,
+  "description": "A manga page showing a character experiencing what appears to be a fall or collapse, with debris and objects scattered around. The sequence shows the character's reaction and movement through multiple panels.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.59
+      ],
+      "description": "Large panel showing a character in a room with scattered debris and objects, with another character visible in the background",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.24,
+            0.29,
+            0.63
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a male character's face in profile view, looking upward with a contemplative or determined expression. He has dark, messy hair with bangs falling across his forehead. The character appears to be wearing light-colored clothing, possibly a white shirt or jacket. The art style features clean, bold linework typical of manga, with minimal shading and effective use of white space. Above this main panel is a smaller panel showing what appears to be another character from behind, wearing a light-colored top with a dark belt or sash around the waist. The composition uses strong contrast between black and white areas, with no visible text or dialogue in this cropped section. The drawing technique emphasizes emotional intensity through the character's upward gaze and the dramatic framing of his face.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.14,
+            0.29,
+            0.26
+          ],
+          "type": "character",
+          "description": "A manga character shown from behind in a three-quarter rear view. The figure has dark, messy hair and is wearing what appears to be a light-colored garment with cross-hatched shading. The character's posture suggests they are seated or positioned at what looks like a desk or table surface, visible in the lower left portion of the frame. The art style employs clean, confident line work with selective cross-hatching for shadows and texture on the clothing. The composition is minimalist with plenty of negative white space, creating a contemplative or introspective mood. The lineart is precise with varying line weights - thicker outlines for the main form and finer lines for details and shading. No text is visible in this cropped element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.29,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel depicts a dramatic scene with two main sections. The upper panel shows a character with long dark hair in a ponytail wearing what appears to be a light-colored shirt or jacket, looking down at a chaotic scene of destruction. The background features heavily damaged or destroyed mechanical elements, possibly machinery or vehicle parts, rendered with detailed linework and crosshatching. Debris and broken pieces are scattered throughout the scene. There are several speech bubbles with ellipses (...) indicating silence or pause. The lower panel shows a close-up of the same character's face from above, with their dark hair prominently featured using solid black fills with white highlights. The text 'HEH...' appears in a speech bubble. The art style uses clean, precise linework typical of manga, with effective use of screen tones for shading and atmospheric effects. The composition creates a sense of scale and destruction, with the character appearing small against the wreckage.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.58,
+            0.22,
+            1.0,
+            0.65
+          ],
+          "type": "character",
+          "description": "A male manga character drawn in a contemplative, melancholic pose. He has shoulder-length dark hair with bangs partially covering his face, creating shadows over his eyes. His expression appears pensive or troubled, with a slight downward gaze. He's wearing what appears to be a light-colored hoodie or casual jacket with a drawstring visible at the neck. The character is positioned leaning or sitting, with one arm extended in a relaxed gesture. The art style uses clean, confident line work with minimal shading, primarily relying on solid blacks for the hair and subtle screentone/hatching for texture on the clothing and background. The background features light screentone patterns and some geometric shapes including what appears to be a speech bubble or panel border in the upper right. The overall composition emphasizes the character's introspective mood through the use of negative space and the character's withdrawn posture.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.77,
+            0.04,
+            0.93,
+            0.22
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of a white speech bubble with a clean, curved outline against a textured gray background. The bubble appears to be cut off at the edge of the frame, showing only its right portion with a smooth, rounded border. Two small black dots are visible inside the bubble, likely representing ellipsis or a pause in dialogue, positioned vertically with even spacing. The background features a fine crosshatch or screentone pattern typical of manga artwork. The line work is clean and precise with consistent black outlines, following standard manga visual conventions for speech bubbles.",
+          "text": "..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.59,
+        0.43,
+        1.0
+      ],
+      "description": "Panel showing character running or moving down what appears to be stairs or an inclined surface",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A dynamic manga illustration showing a male character in motion, appearing to be running or moving quickly down what looks like a staircase or sloped surface. The character has messy, dark hair and is wearing a light-colored shirt or jacket with dark pants. His pose conveys urgency or haste, with his body leaning forward and arms positioned for balance during movement. The art style uses clean, confident line work with selective solid black areas for shadows and contrast, particularly in the character's hair and pants. The background features geometric architectural elements - angular lines suggesting stairs, railings, or structural framework rendered in simple line art. Scattered small debris or objects are visible on the ground around the character's feet, adding to the sense of hurried movement. The overall composition uses a bird's-eye or elevated perspective, looking down at the scene, which enhances the feeling of descent or rapid movement through the space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.35,
+            0.65,
+            0.95
+          ],
+          "type": "character",
+          "description": "A dramatically rendered silhouetted figure in dynamic motion, shown from approximately chest down. The character appears to be mid-leap or jump, with one leg extended forward and arms positioned for balance. The figure is rendered as a solid black silhouette with heavy crosshatching and dense black ink fills, creating stark contrast against the white background. The clothing appears to be form-fitting, possibly pants or a bodysuit. The art style employs bold, expressive linework typical of action manga, with rough, energetic strokes around the edges of the silhouette suggesting movement and intensity. The composition captures the character in an athletic pose, emphasizing the physicality and momentum of the action. No facial features are visible due to the silhouette treatment, but the body language conveys power and agility. Scattered motion lines and rough sketchy marks around the figure enhance the sense of dynamic movement.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.72,
+            0.12,
+            0.88,
+            0.32
+          ],
+          "type": "speech_bubble",
+          "description": "A partial white speech bubble visible in the upper left corner of the frame. The bubble appears to be cut off by the crop, showing only a small curved portion with clean, thin black outlines typical of manga speech bubbles. The interior is pure white/blank with no visible text or content. The line weight is consistent and moderate, creating a standard manga dialogue balloon style. The bubble's edge shows the characteristic smooth, rounded contour that would normally contain character dialogue or thoughts.",
+          "text": "HEH..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.43,
+        0.59,
+        1.0,
+        1.0
+      ],
+      "description": "Close-up panel of character's face showing distress or exhaustion",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a young male character with tousled dark hair and a gentle, sleepy expression. His eyes are half-lidded with a soft, content look, and he has a slight smile. He appears to be lying down or reclining, wearing what looks like a light-colored shirt or jacket with visible collar and fabric folds. The art style features clean, confident line work with varied line weights - thicker outlines for the character's silhouette and finer lines for facial details and hair strands. Subtle screentone shading is used on the clothing to create depth and texture. Cross-hatching appears under the chin and jaw area to define shadows. The composition is intimate and cropped closely to focus on the character's peaceful expression, with the figure positioned at a slight angle within the panel frame.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

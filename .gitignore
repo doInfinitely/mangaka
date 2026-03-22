@@ -20,6 +20,8 @@ env/
 
 # Data & checkpoints (large files)
 data/manga_dataset/
+data/gallery_cache/
+data/style_images/
 checkpoints/
 output/
 *.pt

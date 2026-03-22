@@ -27,6 +27,7 @@ dependencies = [
     "sentence-transformers>=2.2",
     "peft>=0.7",
     "modal>=0.64",
+    "requests>=2.31",
 ]
 
 [project.optional-dependencies]
@@ -43,6 +44,7 @@ mangaka-decode = "scripts.decode:main"
 mangaka-build-dataset = "scripts.build_dataset:main"
 mangaka-evaluate = "scripts.evaluate:main"
 mangaka-serve = "scripts.serve:main"
+mangaka-fetch-style = "scripts.fetch_style_data:main"
 
 [tool.setuptools.packages.find]
 include = ["mangaka*"]

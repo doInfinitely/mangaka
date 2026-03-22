@@ -1,0 +1,129 @@
+{
+  "width": 912,
+  "height": 1400,
+  "description": "A manga page showing an intimate scene between two characters, with one character performing a medical procedure on another, followed by emotional dialogue",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.4
+      ],
+      "description": "Split panel showing hands performing a medical procedure with a syringe",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a dramatic close-up of a character's hand gripping what appears to be a knife or blade. The hand is drawn with clean, confident line work typical of manga art style, with minimal but effective shading. The fingers are elegantly positioned around the weapon's handle, suggesting tension or preparation for action. In the upper portion of the panel, there's a speech bubble containing the text 'NO...' which adds to the dramatic tension of the scene. The composition creates a sense of foreboding, with the weapon prominently featured against a mostly white background. The art style uses varying line weights - thicker lines for the main contours and thinner lines for details like finger creases. There appears to be some dark shading or ink work in the lower right corner, possibly representing shadows or hair. The overall aesthetic is clean and minimalist, focusing attention on the hand and weapon as the central dramatic element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.4,
+            0.15,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "A simple manga speech bubble with clean, curved outlines drawn in consistent black line weight. The bubble has an organic, rounded shape that extends from the left edge of the frame. Inside the bubble is the text 'NO' followed by three dots (...) indicating a trailing off or hesitation. The bubble appears to have a standard white fill with no internal shading or tone work. A small tail or pointer extends from the bottom portion of the bubble, suggesting the speaker is positioned below or to the side of the bubble's main body. The overall style is typical of contemporary manga with minimal decorative elements and straightforward lettering.",
+          "text": "NO..."
+        },
+        {
+          "bbox": [
+            0.5,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga panel showing a character with light-colored, tousled hair lying down or reclining. The character appears to be in a relaxed or resting position. The art style features clean, confident line work with varying line weights - thicker outlines for the main forms and thinner lines for hair details and facial features. The shading is minimal and uses screentone/halftone patterns in the background for atmospheric effect. There's a speech bubble in the lower portion containing the text 'YOU DIDN'T NOTICE?' The composition shows the character from roughly a side angle, with their hair flowing naturally. The overall style is typical of contemporary manga with its clean lineart and selective use of tonal shading.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.95,
+            0.6
+          ],
+          "type": "effect",
+          "description": "This manga effect element shows dynamic motion lines and impact effects rendered in clean black lineart against a white background. The composition features sweeping curved lines that create a sense of movement or force, with several small circular dots arranged vertically on the right side, likely representing impact points or debris. The linework uses varying weights, with thicker bold strokes for the main motion lines and thinner lines for secondary effects. The style is typical of action manga effects, using minimal shading and relying primarily on bold, confident line work to convey kinetic energy. The cropped nature shows this as part of a larger action sequence, with the curved lines suggesting either a powerful strike, explosion, or rapid movement across the panel space.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.4,
+        1.0,
+        1.0
+      ],
+      "description": "Large panel showing two characters in an intimate position, one administering care to the other",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel depicts two male characters in a vertical composition. The upper character has light, messy hair and wears what appears to be a light-colored shirt or jacket. He is positioned behind the lower character, holding what looks like scissors near the other's head, suggesting he is cutting hair. The lower character has dark hair and is wearing a dark-colored outfit, possibly black or navy. He appears relaxed with his eyes closed and a peaceful expression. The art style uses clean black ink lines with minimal shading, typical of manga illustration. Screen tones are used for shading on the dark clothing. The background shows simple horizontal lines suggesting an indoor setting. There is partial text visible in the upper right corner that reads 'AS I' and 'KNEW' and 'I WAS' and 'TO S' but appears to be cut off. The overall composition creates an intimate, calm moment between the two characters.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.75,
+            0.2,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble containing the text 'REALLY... YOU...' in uppercase letters. The bubble has a clean, rounded rectangular shape with a standard manga-style tail pointing downward and to the left, indicating the speaker is positioned below and to the left of the bubble. The text appears to be set in a typical manga font with moderate letter spacing. Below the speech bubble, there are partial sketchy line details that appear to be part of a character's hair or clothing, rendered with light, loose strokes. The overall art style is clean and minimalist, with thin line weights for both the speech bubble border and the sketched elements beneath it.",
+          "text": "REALLY... YOU..."
+        },
+        {
+          "bbox": [
+            0.65,
+            0.05,
+            0.95,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'ME WHAT I WANTED MOST...' in standard manga lettering. The bubble has clean, bold black outlines with a smooth, rounded shape typical of manga speech bubbles. There's a small tail extending from the bubble pointing toward the speaker. The interior is white/blank, creating clear contrast with the black text. The text appears to be mid-sentence, suggesting this is part of a longer dialogue. The bubble is positioned in the upper portion of the cropped panel, with some partial line art visible below showing what appears to be clothing or fabric rendered in simple black linework against white space.",
+          "text": "YOU DIDN'T EVEN GIVE ME WHAT I WANTED MOST..."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.5,
+            0.95,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with rounded, organic edges typical of manga style. The bubble contains black text in all caps reading 'AS IF YOU KNEW THAT I WAS GOING TO SAY IT...' followed by three dots indicating a trailing off or pause. The speech bubble has clean, bold outlines with no special effects or decorative elements. Below the bubble, there's a partial view of what appears to be a character's dark clothing or hair rendered in solid black with some hatching/crosshatching texture. The overall art style is clean and minimal with strong contrast between the white speech bubble and black elements.",
+          "text": "AS IF YOU KNEW THAT I WAS GOING TO SAY IT..."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A manga panel depicting two male characters in what appears to be an indoor setting with horizontal line work suggesting wooden flooring or paneling in the background. The scene shows a character with light/white messy hair wearing what appears to be a light-colored shirt or jacket, positioned behind and above a dark-haired character who is wearing a black military-style uniform or coat. The dark-haired character appears to be in distress or emotional turmoil, with his head tilted back and eyes closed in apparent anguish. The art style features clean line work with selective screentone shading, particularly visible on the dark uniform. Speech bubbles contain dialogue including 'YOU DIDN'T EVEN GIVE ME WHAT I WANTED MOST...' and 'AS IF YOU KNEW THAT I WAS GOING TO SAY IT...' and 'REALLY... YOU...'. The composition creates an intimate yet tense moment between the two characters, with the vertical panel layout emphasizing their close physical proximity and emotional intensity.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

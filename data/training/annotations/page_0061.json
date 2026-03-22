@@ -1,0 +1,151 @@
+{
+  "width": 1280,
+  "height": 909,
+  "description": "A dramatic manga page showing a confrontation scene with characters in what appears to be an indoor setting. The page features close-up character shots and a wider scene showing multiple figures.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.466,
+        1.0
+      ],
+      "description": "Left panel showing a close-up of a character with light hair and intense expression",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A three-panel manga sequence rendered in black and white with dramatic contrast and screen tone shading. The panels show close-up portraits of characters with flowing, light-colored hair typical of shoujo or josei manga style. The leftmost panel features a character with layered, flowing hair partially obscuring their face, creating a mysterious atmosphere. The center panel shows another character with long, straight hair and intense eyes, positioned at a slight angle. The rightmost panel depicts a third character with shorter, tousled hair. The art style employs clean, confident line work with varying weights - thicker outlines for character definition and finer lines for hair detail and facial features. Screen tones create subtle gradations and shadows, particularly in the hair and clothing areas. Two speech bubbles contain dialogue: 'I PREPARED IT FOR YOU' in the upper portion and 'YOUR COFFIN' in the lower area. The overall composition creates a sense of tension and foreboding through the close cropping and dramatic lighting effects achieved through the strategic use of black and white contrast.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel features a character with long, flowing light-colored hair that partially obscures their face. The character has a melancholic or intense expression with downcast eyes and a slight frown. They appear to be wearing dark clothing, possibly a jacket or coat. The art style employs clean, confident line work with varied line weights - thicker lines define the main contours while thinner lines detail hair strands and facial features. The shading is primarily achieved through screentone/halftone patterns, creating subtle gradients and depth. Two speech bubbles contain the text 'I PREPARED IT FOR YOU' and 'YOUR COFFIN.' The composition uses vertical panel divisions, with the character positioned prominently in the center-right portion. The overall tone is dramatic and somewhat ominous, enhanced by the stark black and white contrast typical of manga artwork.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.8,
+            0.9,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows a close-up detail of what appears to be clothing or fabric rendered in a typical manga art style. The image features clean, bold black line work with varying line weights that define the contours and folds of the material. The shading is minimal, using solid areas of gray tone rather than complex hatching patterns. The composition shows curved and angular lines that suggest the draping or structure of garment elements, possibly part of a collar, sleeve, or other clothing detail. The art style is clean and modern, with smooth tonal gradations and sharp, confident linework characteristic of contemporary manga illustration. No text is visible in this cropped section, and the overall aesthetic emphasizes form and structure through strategic use of negative space and selective shading.",
+          "text": "YOUR COFFIN."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.466,
+        0.0,
+        1.0,
+        0.6
+      ],
+      "description": "Upper right panel showing another character speaking",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts a dramatic interior scene with stark black and white contrast. The composition features tall vertical structural elements, likely pillars or window frames, rendered with bold black silhouettes against a bright white background. Dynamic diagonal speed lines sweep across the upper portion of the frame, creating a sense of movement and tension. The linework alternates between thick, solid black areas and delicate hatching patterns. In the foreground, there appears to be furniture or seating rendered with screentone patterns, providing textural contrast to the sharp architectural elements. The overall composition uses strong geometric shapes and dramatic lighting to create an atmosphere of intensity, with the diagonal speed lines suggesting either rapid movement or emotional impact within this indoor setting.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.3,
+            0.7,
+            0.9
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view, appearing to be in motion or falling backwards. The figure is drawn in typical manga style with clean, confident line work. The character wears what appears to be a light-colored shirt or jacket with some darker shading/hatching used to define form and shadows. The pose suggests dynamic movement, with the body angled and limbs positioned as if caught mid-motion. The art style employs traditional manga techniques with varied line weights - thicker outlines for definition and thinner lines for details. Minimal shading is used, mostly consisting of screentone or light hatching in select areas to create depth. The composition shows the character against what appears to be an interior background with vertical elements that could be walls or panels. The overall style is clean and minimalistic, focusing on clear silhouettes and essential details rather than heavy rendering.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.05,
+            0.8,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel shows two characters in a minimalist, clean art style. The left character appears to be wearing a hooded garment or coat, drawn with simple but expressive linework. The right character has dark hair and is positioned lower in the composition. The artwork uses a sparse, economical line style with minimal shading - primarily relying on clean black lines against white space. There are diagonal speed lines or motion lines crossing the panel, suggesting movement or dramatic tension. The composition creates a sense of vertical hierarchy with one character positioned above the other. The overall aesthetic is typical of modern manga with its emphasis on negative space and selective detail rather than heavy rendering. No visible text appears in this cropped section of what appears to be a speech bubble element.",
+          "text": "I PREPARED IT FOR YOU."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.466,
+        0.6,
+        1.0,
+        1.0
+      ],
+      "description": "Lower right panel showing a wider scene with multiple characters in an indoor setting",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts a rocky, mountainous terrain rendered in a classic black and white manga style. The composition shows large, angular rock formations and cliff faces with varied line weights - thick, bold outlines define the major rock structures while thinner lines add detail and texture. Cross-hatching and diagonal shading techniques are used extensively to create depth and shadow, particularly in the crevices and recessed areas between rocks. The rocks appear jagged and weathered, with organic, irregular shapes that create a sense of natural erosion. Small debris and smaller rock fragments are scattered throughout the scene. The spatial arrangement creates depth through overlapping rock formations that recede into the background. The overall aesthetic is typical of adventure or action manga, with the rough, inhospitable terrain suggesting a challenging environment. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.2,
+            0.95,
+            0.8
+          ],
+          "type": "character",
+          "description": "A manga character shown from a low angle perspective, with their head tilted back and face turned upward. The character appears to be in a dynamic pose with arms raised or extended. The art style features clean, confident line work with varying line weights - thicker outlines defining the main forms and thinner lines for internal details. Cross-hatching and parallel line shading techniques are used to create shadows and depth, particularly visible on the character's clothing and body. The composition emphasizes the upward movement and creates a sense of drama through the low viewpoint. The character's hair appears to be flowing or in motion. No visible text appears in this cropped section. The overall style is typical of shounen or action manga with bold, expressive linework and dynamic positioning.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.3,
+            0.5,
+            0.9
+          ],
+          "type": "object",
+          "description": "This manga panel shows flowing fabric or clothing rendered in classic manga style with clean, confident line work. The fabric appears to be draped or billowing, with natural folds and creases that suggest movement or wind. The artist uses varied line weights - thicker outlines define the main shapes while thinner lines detail the internal fold patterns. Cross-hatching and parallel line shading techniques create depth and shadow beneath the fabric, particularly in the lower portion where darker areas contrast with the lighter fabric above. The composition flows diagonally across the frame, with the fabric's organic curves creating dynamic visual movement. The drawing style is characteristic of traditional manga illustration with its emphasis on clean lineart and strategic use of black and white contrast rather than gray tones.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.3
+          ],
+          "type": "effect",
+          "description": "A dynamic manga effect showing explosive or impact lines radiating outward in sharp, angular formations. The lines are drawn with bold, confident strokes of varying weights, creating a sense of violent motion or destruction. The composition features jagged, crystalline fragments and debris scattered throughout the frame, rendered with clean black lineart against a light gray screentoned background. The effect lines converge toward multiple focal points, suggesting simultaneous impacts or explosions. The art style employs traditional manga techniques with strong contrast between the solid black lines and dotted halftone screening. Small debris particles and dust clouds are indicated through loose, gestural strokes and scattered dots, enhancing the chaotic energy of the scene.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

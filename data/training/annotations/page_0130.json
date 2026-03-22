@@ -1,0 +1,140 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A dramatic manga page showing the Lance of Longinus being revealed and thrown, with intense action sequences and impact effects.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.46,
+        1.0
+      ],
+      "description": "Left panel showing the detailed Lance of Longinus with dramatic speed lines",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.4,
+            0.95
+          ],
+          "type": "object",
+          "description": "A vertical manga panel showing a long, slender spear or lance extending downward through the frame. The weapon has a sharp pointed tip at the top and appears to be drawn with clean, precise lines of varying thickness. The shaft is rendered with minimal detail, emphasizing its length and straightness. Text reading 'THE LANCE OF LONGINUS !!' is positioned in the middle-lower portion of the panel in bold, all-caps lettering. The background is predominantly white with subtle vertical line work suggesting depth or atmosphere. The overall composition creates a sense of dramatic scale and importance, with the weapon's imposing length emphasized by the tall, narrow panel format. The art style uses minimal shading and relies on strong line work typical of manga illustration.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "A dramatic manga illustration depicting 'The Lance of Longinus' - a legendary spear rendered in detailed black and white lineart. The weapon features twin elongated blade points at the top that curve slightly inward, with intricate cross-hatching and shading defining their metallic surfaces. The blades connect to an ornate twisted shaft decorated with spiral wrapping or binding patterns that create a complex geometric texture down its length. Dynamic speed lines radiate outward from behind the lance, creating a sense of powerful motion or divine energy. The composition is vertical and imposing, with the weapon taking up most of the frame. Text reading 'THE LANCE OF LONGINUS!!' appears in bold lettering on the left side. The art style uses confident, precise linework with varying line weights - thicker outlines for the main forms and finer detail lines for texture and shading. The overall effect is dramatic and otherworldly, typical of supernatural or mecha manga illustrations.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.85,
+            0.25,
+            0.98
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a manga speech bubble element, showing only the right edge and corner of what would be a larger speech bubble. The visible portion consists of clean, thin black lines forming the bubble's border against a white background. The line work is consistent with typical manga style - smooth, uniform stroke weight without variation or texture. There are no visible text elements, shading, or hatching patterns in this cropped section. The composition shows just the curved corner and straight edge of the speech bubble boundary, suggesting this is cut from a larger panel where the full bubble and its contents would provide narrative context.",
+          "text": "THE LANCE OF LONGINUS ?!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.46,
+        0.0,
+        1.0,
+        0.65
+      ],
+      "description": "Upper right panel showing the lance being thrown with sound effect",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "A dramatic manga sound effect showing a powerful lance or spear attack. The effect dominates the panel with bold, angular lettering that appears to spell out an onomatopoeia for the attack impact. The letters are drawn with thick, jagged black lines that convey explosive force and motion. Surrounding the text are numerous speed lines radiating outward in all directions, creating a sense of tremendous velocity and impact. The speed lines vary in thickness and intensity, with some drawn as bold strokes and others as fine hatching lines. In the upper left corner, there's dialogue text reading 'IT'S A LANCE!!' in a speech bubble. The overall composition emphasizes the overwhelming power and speed of the attack through the dynamic arrangement of the sound effect text and radiating motion lines against a white background.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.25,
+            0.35,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble containing exclamatory text that reads 'IT'S A DANCE!!' in bold, uppercase lettering. The text uses strong, thick line weights typical of manga emphasis. The speech bubble appears to be cut off at the edges of the crop, showing only the right portion with characteristic manga-style bubble borders drawn in clean, confident black lines. The lettering style suggests high energy or excitement, with the double exclamation marks reinforcing the emphatic delivery. The overall line quality is crisp and professional, consistent with published manga artwork standards.",
+          "text": "IT'S A LANCE!!"
+        },
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.9,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga panel depicts a dynamic sound effect (SFX) rendered through intense diagonal speed lines. The composition features numerous parallel lines of varying thickness streaming diagonally across the frame from upper left to lower right, creating a powerful sense of motion and impact. The lines range from thin, delicate strokes to bold, heavy black marks, with some appearing as solid black bands while others are more sketch-like and hatched. The varying line weights and densities create depth and visual rhythm. At the bottom of the frame, there appear to be some angular, jagged shapes that could represent debris, impact fragments, or stylized visual elements breaking through the speed lines. The overall effect is characteristic of manga's visual language for representing explosive movement, high-speed action, or dramatic impact moments. The stark black lines against the white background create high contrast typical of manga artwork.",
+          "text": "WOOSH"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.46,
+        0.65,
+        1.0,
+        1.0
+      ],
+      "description": "Lower right panel showing the impact and destruction caused by the lance",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel element depicts a dynamic destruction effect showing structural beams or wooden planks breaking and splintering. The scene captures debris flying through the air with various angular fragments scattered throughout the composition. The art style uses bold, confident black ink lines of varying weights to define the broken structural elements, with some areas featuring light screentone shading to create depth and volume. The linework is energetic and expressive, typical of action manga, with sharp angular shapes suggesting violent impact or collapse. In the lower portion of the frame, detailed foliage or tree branches are rendered with intricate linework, providing contrast to the chaotic destruction above. The overall composition creates a sense of explosive force and movement, with the debris pattern radiating outward from what appears to be a point of impact. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.4,
+            0.7,
+            0.7
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a partial view of what appears to be a character's arm or limb rendered in clean, minimalist lineart. The drawing features bold, confident black lines of varying weights - thicker outer contours defining the form and thinner detail lines for interior definition. The style is typical of modern manga with smooth, flowing curves and minimal shading. The composition shows diagonal movement across the frame, with the limb positioned at dynamic angles that suggest motion or action. The background is completely white/blank, focusing attention entirely on the character element. No clothing details are visible in this cropped section, just the clean anatomical form. There is no visible text in this element. The linework demonstrates skilled manga draftsmanship with economical but expressive strokes that convey form and movement effectively.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.8,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a minimalist outdoor scene rendered in black and white. The composition features delicate line work depicting tree foliage in the upper right portion, created with fine, organic strokes that suggest leaves and branches without heavy detail. On the left side, there are several vertical parallel lines that likely represent architectural elements like fence posts or building edges. The background uses a clean, uncluttered style typical of manga environments, with plenty of negative white space that creates a sense of openness and serenity. The linework varies in weight, with the foliage rendered in lighter, more organic strokes while the structural elements use cleaner, more defined lines. No text is visible in this cropped section. The overall aesthetic suggests this is part of a peaceful, everyday setting commonly found in slice-of-life or drama manga genres.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

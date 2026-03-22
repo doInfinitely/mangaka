@@ -1,0 +1,162 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A manga page showing an intimate scene between two characters followed by what appears to be an action sequence or aftermath",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.631,
+        0.569
+      ],
+      "description": "Large panel showing two characters in an intimate embrace",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows two characters in an intimate embrace, drawn in classic black and white manga style. The upper character has light-colored spiky hair and is positioned above, while the lower character has darker hair. Both characters have their eyes closed in peaceful expressions, suggesting a tender or romantic moment. The art style features clean, confident linework with varying line weights - thicker lines for outlines and thinner lines for facial details. Shading is achieved through screentone/halftone patterns visible in the background and some clothing areas. The composition is cropped to focus on their faces and upper bodies, creating an intimate framing. Below this main panel is a smaller panel showing what appears to be an architectural or mechanical element with crosshatch shading and geometric patterns, providing contrast to the organic curves of the character art above. The overall style is consistent with shoujo or josei manga aesthetics, emphasizing emotional expression and romantic themes.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.631,
+        0.0,
+        1.0,
+        0.279
+      ],
+      "description": "Small panel showing a close-up of a character's face in profile",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in a sleeping or resting position, depicted in classic black and white manga style. The character appears to be lying down with their head turned to the side, showing spiky or tousled hair rendered with bold, angular strokes. The art style uses clean, confident line work with varied line weights - thicker outlines for major forms and thinner lines for details. There's minimal shading, mostly achieved through solid black areas and white space, creating strong contrast typical of manga aesthetics. A small sound effect '\u30b9...' (su...) appears in the upper left, indicating soft breathing or sleeping sounds. The composition is intimate and close-up, focusing on the peaceful expression of the resting figure. The lower portion shows additional hair detail with flowing, organic line work that contrasts with the more geometric panel border above.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.4,
+            0.3,
+            0.8
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a dramatic sound effect (SFX) rendered in stark black ink. The visual consists of bold, jagged black strokes that appear to burst or explode outward from a central point, creating an intense radiating pattern. The lines are thick and organic, with rough, feathered edges that give a sense of violent motion or impact. The black areas are solid and dense, contrasting sharply against the white background. The composition suggests an explosive or shattering effect, with the irregular, spiky formations extending in multiple directions. The art style employs high contrast with no gradual shading or halftones - just pure black against white. At the bottom of the frame, there appears to be some screentone or halftone pattern visible, indicating this is part of a larger manga panel. The overall effect is visceral and dynamic, typical of action manga sound effects meant to convey sudden, violent movement or destruction.",
+          "text": "\u30b9..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.631,
+        0.279,
+        1.0,
+        0.569
+      ],
+      "description": "Small panel showing another character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up profile view of a manga character's face and upper body shown in two panels. In the top panel, the character is depicted from the side with spiky, layered hair rendered in clean line art. The character appears to be looking downward with their hand raised near their face in a contemplative or distressed gesture. The art style uses minimal shading with clean, confident line weights typical of manga illustration. The bottom panel shows what appears to be a partial view of clothing or a uniform with vertical lines, possibly representing a jacket or shirt collar area. The overall composition uses negative space effectively, with screen tones (halftone patterns) visible in the background areas. The style is characteristic of shoujo or josei manga with its emphasis on emotional expression and clean linework.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.089,
+        0.589,
+        0.854,
+        0.8
+      ],
+      "description": "Horizontal panel showing an interior space with industrial elements",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A minimalist manga background panel featuring stark geometric compositions. The upper portion shows architectural elements with detailed cross-hatching and screentone patterns, creating depth through varying densities of parallel lines and dots. The lower section is predominantly white/blank space with a few strategic line elements - thin horizontal lines on the right side and some angular marks or effects lines on the left side. The contrast between the heavily detailed upper area and the sparse lower area creates visual tension typical of manga panel layouts. The line work uses varying weights, with thicker borders defining panel boundaries and thinner lines for architectural details and atmospheric effects.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.3,
+            0.4,
+            0.7
+          ],
+          "type": "object",
+          "description": "This appears to be a very minimal or nearly empty manga panel element with an extremely light, almost white background. There are very faint traces of what might be light pencil marks or extremely subtle shading, but the content is so faded or cropped that specific details are barely discernible. The art style appears to use very light line weights, possibly from preliminary sketching or heavily faded/overexposed printing. No clear objects, characters, text, or distinct visual elements can be definitively identified in this cropped section. The composition suggests this might be part of a larger panel's background or negative space area.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.089,
+        0.82,
+        0.854,
+        1.0
+      ],
+      "description": "Large bottom panel showing a character lying on the ground",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A minimalist manga background scene depicting an indoor space with clean architectural lines. The composition shows geometric floor tiles or panels with subtle perspective lines, and what appears to be a window or opening in the upper right corner with diagonal structural elements. The art style uses thin, precise line work with minimal shading. There are some scattered motion lines or debris marks on the left side, rendered as short dashed strokes. A dark silhouette or shadow form is visible on the floor, suggesting something lying prone. The overall aesthetic is stark and geometric, typical of modern manga backgrounds that emphasize spatial relationships through line work rather than detailed rendering. The scene has an empty, institutional quality with its clean lines and sparse detailing.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.6,
+            0.8,
+            0.95
+          ],
+          "type": "character",
+          "description": "This manga element shows a partial character figure rendered in dynamic black ink strokes with heavy line weight. The character appears to be in motion, with flowing fabric or clothing depicted through bold, sweeping brush strokes that create a sense of movement and energy. The art style employs dramatic contrast between solid black areas and white space, with minimal detail but maximum impact. The linework is expressive and gestural, using thick, confident strokes that taper and vary in weight. There's extensive use of speed lines and motion blur effects created through horizontal hatching and streaking marks that extend across the frame, emphasizing rapid movement or action. The composition is cropped to show only a portion of the character, focusing on the dramatic flow of their garments or cape-like clothing. No text is visible in this cropped section. The overall style is characteristic of action manga with its emphasis on dynamic movement and kinetic energy conveyed through bold, economical linework.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.1,
+            0.2,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "A simple black sound effect (sfx) element consisting of bold, angular brush strokes against a white background. The main element appears to be a thick diagonal line or slash mark, accompanied by smaller dotted or fragmented marks below it. The strokes have varied line weights, with the primary diagonal being thick and confident, while the secondary marks are thinner and more scattered. The art style is minimalist and expressive, typical of manga speed lines or impact effects. The composition suggests movement or a cutting/slashing motion, with the fragmented elements below possibly indicating debris or continuation of the motion. No text is visible in this cropped sfx element.",
+          "text": "\u30d6\u30eb\u30fc"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A dramatic manga page showing an intense confrontation between characters, with one character making threats about protecting precious things and another responding defiantly before what appears to be a violent action sequence.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.059,
+        0.0,
+        1.0,
+        0.68
+      ],
+      "description": "Large panel showing two characters in close confrontation with dramatic dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.3,
+            0.45,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "A large, oval-shaped speech bubble dominates the left portion of the panel, containing the text 'IS WORSE THAN DYING.' in bold, uppercase letters. The speech bubble has a clean, smooth outline with typical manga styling - a white interior with black borders. The bubble's tail points toward the right side of the panel, indicating the speaker is positioned off-panel or partially visible. The text is centered within the bubble and uses a standard manga font style. The overall composition suggests this is part of a dramatic dialogue sequence, with the speech bubble taking up significant visual space to emphasize the gravity of the statement. The line work is clean and consistent with typical manga art style, using solid black lines without excessive detail or shading effects.",
+          "text": "IS WORSE THAN DYING."
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            1.0,
+            0.7
+          ],
+          "type": "character",
+          "description": "A close-up profile view of a male manga character with spiky, disheveled hair rendered in gray screentone. The character's head is tilted downward in a dejected or contemplative pose, with his face partially obscured by his hair and hand. His hand is positioned near his forehead/face area in what appears to be a gesture of distress or exhaustion. The art style features clean, confident line work with varied line weights - thicker outlines for the character's silhouette and finer lines for hair details and facial features. Gray screentone shading is used throughout the hair and some shadow areas. A speech bubble in the upper right contains the text 'FAILING TO PROTECT THE THINGS THAT'RE PRECIOUS TO YOU' in standard manga lettering. The composition focuses on the emotional weight of the character's posture, with the downward angle and obscured face conveying vulnerability or regret. The character appears to be wearing what looks like a collared shirt or jacket, though only the collar area is visible in this cropped view.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.55,
+            0.15,
+            0.95,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing the text 'FAILING TO PROTECT THE THINGS THAT'RE PRECIOUS TO YOU' in bold, uppercase letters. The bubble has a classic oval shape with a pointed tail extending toward the bottom left, indicating the speaker is positioned below and to the left. The text is arranged in four lines with consistent spacing. The bubble's outline is clean and bold, contrasting against a background showing part of a character's spiky hair rendered in typical manga style with jagged, angular strands. The hair is drawn with fine line work and subtle shading/screening, creating texture and depth. The overall composition suggests this is part of an emotional or dramatic scene, with the speech bubble positioned prominently in the upper portion of the panel.",
+          "text": "FAILING TO PROTECT THE THINGS THAT'RE PRECIOUS TO YOU"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.059,
+        0.68,
+        1.0,
+        0.95
+      ],
+      "description": "Horizontal panel split into two parts showing character reactions and dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.35,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows two scenes of what appears to be the same male character in different emotional states. In the left panel, he is shown from behind or side angle with his head down in a dejected pose, wearing what looks like a light-colored shirt or jacket. The text 'AYA-NAMI.' appears in the upper portion. In the right panel, there's a close-up of his face showing him covering his eyes with his hand in what appears to be distress or exhaustion. He has messy, medium-length hair and is wearing what looks like a buttoned shirt or uniform. The art style uses clean black linework with minimal shading, typical of manga illustration. Cross-hatching and screentone patterns are used sparingly for texture and depth. The composition emphasizes the character's emotional vulnerability through the intimate framing and body language.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.25,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble appears in the upper left portion of the frame, containing fragmented text that reads 'A-' and 'MI.' in bold, black lettering. The speech bubble has clean, solid black outlines with a white interior. The bubble's tail or pointer is not visible in this cropped section. Below the speech bubble, there are partial views of what appear to be character elements - some hair strands rendered with fine black lines and hatching, and what looks like part of clothing or fabric with crosshatch shading patterns. The overall art style is typical of manga, with bold line work, high contrast black and white rendering, and detailed crosshatching for shadows and texture.",
+          "text": "SHUT UP...!!"
+        },
+        {
+          "bbox": [
+            0.35,
+            0.0,
+            0.7,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "A dramatic manga speech bubble containing Japanese katakana text that reads '\u30ab\u30ea' (kari) followed by '\u30b7\u30e3' (sha) and '\u30c3' (small tsu). The speech bubble has a stark white interior with bold black lettering arranged vertically in traditional Japanese reading style. The bubble is surrounded by intense radiating speed lines or hatching that creates a dynamic burst effect, suggesting explosive sound or action. The heavy cross-hatching and dramatic shading around the bubble emphasize the intensity of whatever sound or exclamation is being represented. The overall composition uses high contrast black and white with no gray tones, typical of manga's bold visual style for impactful sound effects or dramatic dialogue.",
+          "text": "WHEN YOU DON'T HAVE THE RESOLVE TO MAKE ANYONE THINK THAT WAY..."
+        },
+        {
+          "bbox": [
+            0.7,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in motion, captured from a low angle perspective. The figure appears to be leaning or moving forward dynamically, with flowing hair rendered in loose, expressive strokes. The character is wearing what appears to be light-colored clothing with clean, simple lines. The art style employs bold, confident line work with varying line weights - thicker outlines define the main forms while thinner lines detail hair movement and clothing folds. Shading is minimal, using selective areas of screentone/halftone patterns to create depth and contrast. The composition emphasizes movement and energy through diagonal lines and flowing elements. There are some sound effects or motion lines visible as stylized text characters in the upper portion, rendered in bold black strokes that complement the overall kinetic feel of the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.72,
+            0.1,
+            0.98,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A dynamic speech bubble containing bold, angular sound effects rendered in thick black brushstrokes. The text appears to be onomatopoeia with sharp, jagged letterforms that convey impact or explosive action. The speech bubble itself has an irregular, energetic outline with rough edges that break from traditional smooth bubble borders. The lettering style uses heavy line weight with varying thickness, creating a sense of movement and force. The composition shows dramatic diagonal strokes and angular text placement that suggests violent motion or collision. The overall art style is characteristic of action manga, with bold contrast between the black text and white bubble interior, emphasizing the intensity of the sound being depicted.",
+          "text": "SAYING BULLSHIT LIKE THAT ALRIGHT FOR ME TO DIE?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.059,
+        0.95,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom row of small action panels showing character interactions and effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.25,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a partial view of a character, focusing on what appears to be their lower torso and leg area. The character is wearing light-colored clothing, possibly white or pale colored garments that contrast against the heavy black areas in the composition. The art style employs bold, clean line work with stark black and white contrasts typical of manga illustration. There's distinctive cross-hatching or screentone patterns visible in the gray areas, creating texture and depth. The black areas are rendered as solid fills, creating dramatic shadows or negative space. The composition is cropped tightly, showing only a fragment of the character's form, with the spatial relationship suggesting the figure is positioned against or near the dark elements. The line weight varies from thin contour lines defining the character's form to bold black masses that dominate portions of the frame. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.2,
+            0.2,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble element from a manga panel. The visible portion shows characteristic manga-style line work with clean, bold black outlines typical of speech bubble borders. The interior appears to be white or very light, as is standard for speech bubbles to provide contrast for text. The curved edge suggests this is part of a rounded or oval speech bubble shape. The line weight is consistent and moderately thick, following typical manga conventions for dialogue containers. No text is visible in this cropped portion, and the overall style matches traditional black and white manga artwork with high contrast between the dark border lines and light interior space.",
+          "text": "AYA-NAMI."
+        },
+        {
+          "bbox": [
+            0.25,
+            0.0,
+            0.6,
+            1.0
+          ],
+          "type": "character",
+          "description": "This appears to be a very minimal or nearly blank manga panel element showing what looks like a faint outline or silhouette of a character rendered in extremely light gray tones against a white/cream background. The linework is so subtle it's barely visible, suggesting either a fade effect, background character placement, or possibly an intentionally ghosted/transparent rendering technique. The art style appears to use very fine, delicate line weights with minimal contrast, creating an almost ethereal or distant visual effect. No distinct features, clothing details, or text are clearly discernible due to the extremely light rendering.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.1,
+            0.55,
+            0.9
+          ],
+          "type": "sfx",
+          "description": "This appears to be a sound effect (SFX) element rendered in white text against a light background, making it barely visible in this cropped section. The text style appears to be typical manga onomatopoeia with angular, stylized lettering that would normally stand out more prominently against a darker background or with different contrast. The SFX text seems to be positioned in what would likely be empty space or sky area of the original panel, following the common manga convention of placing sound effects in negative space to avoid obscuring important visual elements.",
+          "text": "\u30ac\u30b7\u30e3"
+        },
+        {
+          "bbox": [
+            0.6,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect element shows a close-up partial view of a character's torso and clothing. The image features clean, bold black line art typical of manga style with no shading or tone work. The character appears to be wearing what looks like a sleeveless vest or top with a distinctive collar or neckline detail. The linework is consistent and confident, with varying line weights used to define the clothing's structure and folds. The composition is cropped tightly, focusing on the clothing details and upper body area. The art style is minimalistic and clean, emphasizing the clothing's silhouette and construction lines. No text is visible in this cropped section. The overall aesthetic is characteristic of contemporary manga illustration with its emphasis on clear, uncluttered line art.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.2,
+            0.9,
+            0.8
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (sfx) rendered in white against a halftone screentone background. The sfx appears to be integrated into the scene with characteristic manga styling - bold, dynamic lettering that creates visual impact. The background features typical manga screentone patterns with dotted halftone shading in gray tones. The white sfx text contrasts sharply against this textured background, creating the layered visual depth common in manga panels. The composition shows part of what appears to be a character or object at the edges, with clean black lineart typical of manga illustration style.",
+          "text": "\u30ac\u30c3"
+        }
+      ]
+    }
+  ]
+}

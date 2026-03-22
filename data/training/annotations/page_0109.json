@@ -1,0 +1,107 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A dramatic manga page showing characters in what appears to be an apocalyptic or destroyed setting, with one character reaching upward while others are on the ground below.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "A single full-page panel showing a dramatic scene with characters in a destroyed landscape under a dark, textured sky",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.65
+          ],
+          "type": "background",
+          "description": "A dramatic manga panel featuring a gradient screentone background that transitions from dark at the top to light at the bottom, creating an atmospheric sky effect. The background uses fine dot screening typical of manga production. In the foreground, a character is shown in a dynamic pose with one arm extended outward, reaching toward the right side of the panel. The character appears to be wearing a form-fitting outfit with geometric stripe patterns. The art style employs clean line work with minimal shading, focusing on the silhouette against the toned background. Two speech bubbles contain dialogue: one reading 'ARE STILL AT THAT PLACE...' positioned near the character, and another in the upper right stating 'AFTER ALL, THE REAL US--'. The composition creates a sense of longing or reaching, enhanced by the vast gradient background that suggests distance or separation.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.12,
+            0.95,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A white oval speech bubble positioned against a heavily textured black and gray background. The bubble contains black text that reads 'AFTER ALL THE REAL \"US\".' The background features dense crosshatching and stippling techniques typical of manga art, creating a gradient effect from dark black on the right to lighter gray tones on the left. The speech bubble's shape is elongated vertically, with clean white fill and a thin black outline. The text is rendered in a simple, sans-serif font style with quotation marks around the word 'US' for emphasis. The overall composition suggests this is part of a dramatic or contemplative scene, with the heavily shaded background creating atmospheric tension around the dialogue.",
+          "text": "AFTER ALL THE REAL \"US\""
+        },
+        {
+          "bbox": [
+            0.35,
+            0.35,
+            0.85,
+            0.85
+          ],
+          "type": "character",
+          "description": "This manga panel depicts multiple figures in a dramatic scene with classic manga line art styling. On the left side, there's a character in what appears to be a form-fitting outfit with chevron or zigzag patterns across the torso, shown from behind with one arm extended outward in a reaching gesture. The character has flowing hair rendered with clean, confident line work. In the lower portion of the panel, there's a figure kneeling or crouching down, shown from above, with dark hair and wearing what looks like a light-colored shirt or jacket. On the right edge, there's a partial view of another character's arm and hand reaching into the frame. The background features extensive screentone (dot pattern shading) creating a textured, atmospheric effect typical of manga artwork. The composition uses strong contrasts between the clean white spaces and the heavily textured background, with varied line weights - thicker outlines for the main figures and finer details for clothing and hair. The overall scene suggests a moment of tension or drama, with the reaching gestures creating dynamic movement across the panel.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.45,
+            0.45,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'AT THAT PLACE...' in bold, uppercase letters. The bubble has a clean, rounded oval shape with a small tail pointing downward and to the right, indicating the speaker is below and to the right of the bubble. The text is positioned in the upper portion of the bubble, leaving white space below. The speech bubble uses typical manga styling with clean black outlines and solid white fill. The lettering appears to be standard manga font with consistent spacing and clear readability against the white background.",
+          "text": "ARE STILL AT THAT PLACE..."
+        },
+        {
+          "bbox": [
+            0.1,
+            0.8,
+            0.6,
+            0.95
+          ],
+          "type": "character",
+          "description": "A manga panel depicting a character in a crouched or kneeling position on what appears to be a beach or sandy surface. The character is wearing light-colored clothing and appears to be examining or interacting with something on the ground. The art style uses clean line work with selective hatching and tone screening typical of manga. The composition shows the character from a side angle, with horizontal tone lines suggesting water or horizon in the background. The shading employs screentone patterns to create depth and atmosphere, particularly in the background elements. The overall style is consistent with shounen or seinen manga aesthetics, using moderate line weights and restrained detailing to focus attention on the character's action.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.8,
+            0.9,
+            0.95
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing a partial view of a character, likely depicting someone's torso and arm area. The image features typical manga art styling with clean black line work and screentone/halftone shading patterns creating gradient effects. The character appears to be wearing light-colored clothing, possibly a shirt or jacket. The composition shows the figure from a side or three-quarter angle. The shading technique uses dotted patterns characteristic of manga screentones to create depth and shadow. The line weight varies from thin to medium, with confident strokes defining the clothing folds and body contours. The overall tone is monochromatic black and white with gray halftone values, maintaining the classic manga aesthetic.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.8,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel depicts a dramatic scene with stark black and white contrast. In the upper portion, there's a menacing figure with wild, dark hair leaning over what appears to be a prone character lying on the ground. The art style uses bold, heavy black ink with strong contrast between light and dark areas. The background shows horizontal hatching lines creating texture and depth. The composition is split into two main sections - the upper area shows the threatening figure from above, while the lower portion reveals the victim lying on what appears to be a flat surface or ground. The linework is confident and expressive, with thick black areas used to create shadow and form. The overall mood is ominous and suspenseful, typical of thriller or horror manga aesthetics. There's a page number '84' visible in the lower left corner.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.75,
+            0.2,
+            0.85
+          ],
+          "type": "object",
+          "description": "A partial view of what appears to be a white geometric structure, possibly part of a building, fence, or architectural element. The object shows clean white lines forming angular shapes against a dark, heavily textured background. The background is rendered with dense cross-hatching and stippling techniques creating a rich, dark tone that contrasts sharply with the bright white linear elements. The line work is precise and bold, typical of manga's clean architectural rendering style. Only a fragment of the white structure is visible in this cropped section, showing what looks like parallel or intersecting linear elements that could be part of a larger grid, fence, or building framework. No text is visible in this portion of the panel.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

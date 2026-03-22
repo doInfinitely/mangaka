@@ -1,0 +1,228 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A manga page showing characters in what appears to be a school or institutional setting, with dialogue about children and someone leaving",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.43,
+        0.58
+      ],
+      "description": "Left panel showing two characters - one in profile view and a smaller figure in the background",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A manga page featuring multiple panels with typical black and white manga art style. The panels show characters with spiky, light-colored hair in a classic anime/manga style. The artwork uses clean line work with moderate line weights and screentone shading patterns typical of manga production. One panel shows a character in what appears to be a dramatic pose or action sequence, while another focuses on a close-up profile view of a character's face. The composition uses traditional manga panel layouts with clear borders separating the scenes. There is some dialogue text visible in the bottom panel that appears to include partial English text fragments. The overall aesthetic demonstrates standard manga visual storytelling techniques with emphasis on character expressions and dynamic angles.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.15,
+            0.95,
+            0.95
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view with spiky, light-colored hair that falls across their face in jagged strands. The character has a contemplative or slightly melancholic expression with downcast eyes. They are wearing what appears to be a light-colored garment with button details visible on the front. The art style features clean, precise linework with minimal shading, typical of manga illustration. The hair is rendered with sharp, angular strokes that create a windswept appearance. Screen tones are used sparingly for subtle shading effects. The composition shows the character from roughly chest-up in a three-quarter profile view. There appears to be some Japanese text characters visible in the lower portion of the panel, though they are partially cropped. The overall mood conveyed is introspective or pensive, enhanced by the character's downward gaze and the soft rendering of their features.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.65,
+            0.25,
+            0.95
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a partial view of a character, appearing to be the lower portion of a figure rendered in typical black and white manga style. The image features clean, confident linework with varying line weights - thicker outlines defining the main forms and thinner lines for internal details. The character appears to be wearing what looks like pants or lower garments with subtle fabric folds indicated through light linework. There's characteristic manga-style cross-hatching and tone work visible, particularly in shadow areas, creating depth and dimension. The composition is vertically oriented, showing the character from approximately waist or hip level downward. The overall art style demonstrates professional manga techniques with precise linework and effective use of negative space typical of the medium.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.43,
+        0.0,
+        1.0,
+        0.58
+      ],
+      "description": "Right panel showing a hallway scene with multiple characters",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background element shows an interior architectural setting with clean, geometric line work typical of manga environments. The upper panel features a simple indoor space with plain walls rendered in light gray tones and minimal detail, creating a neutral backdrop for the character interaction. The lower panel depicts what appears to be a library or institutional building interior, characterized by vertical structural elements like pillars or bookshelves rendered with precise parallel lines and crosshatching. The architectural details use consistent line weights and systematic hatching patterns to create depth and dimension. The backgrounds employ minimal shading with mostly white and light gray tones, following the typical manga convention of keeping backgrounds relatively simple to focus attention on the characters and dialogue in the foreground.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.45,
+            0.45,
+            0.85
+          ],
+          "type": "character",
+          "description": "This manga element shows two distinct character segments in black and white. The upper portion depicts legs and feet wearing what appears to be a dress or skirt with formal shoes, rendered with fine cross-hatching and detailed shading. The lower segment shows a character's head and shoulders from a low angle perspective, featuring spiky, disheveled hair characteristic of manga style. The character appears to be looking upward, with their face partially visible. The art employs traditional manga techniques with clean line work, screentones for shading, and vertical hatching patterns in the background. The composition creates a dramatic spatial relationship between the two figures, with the lower character positioned beneath the standing figure, suggesting a scene of interaction or confrontation.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.35,
+            0.85,
+            0.85
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character shown from behind, depicted in typical black and white manga style. The character appears to be wearing a long dress or skirt with a dotted or polka dot pattern rendered through screentone halftones. The figure has long, flowing hair that extends down past the frame. The character is standing on what appears to be a wooden floor or platform, indicated by parallel horizontal lines. The art style uses clean, confident line work with medium line weights for the character outline and clothing details. The shading is achieved through screentone patterns rather than traditional hatching. The composition shows the character from approximately waist-down, creating a sense of partial revelation typical of manga panel cropping. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.15,
+            0.55,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing Spanish text 'T\u00da PUEDES VERME...' (You can see me...) positioned in the upper portion of the panel. The bubble has a clean, rounded oval shape with a thin black outline and white fill. Below it, partially visible in the lower left corner, is a manga character with spiky dark hair wearing what appears to be dark clothing or armor. The character is drawn in typical manga style with clean lineart and minimal shading. The background features a dotted halftone pattern that gradates from darker dots on the left to lighter/white space on the right, creating a dramatic atmospheric effect. The overall composition suggests this is a moment of dialogue or revelation, with the speech bubble prominently positioned above the character.",
+          "text": "T\u00da PUEDES VERME..."
+        },
+        {
+          "bbox": [
+            0.85,
+            0.1,
+            1.0,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a manga speech bubble, showing only the right edge and border. The bubble has a clean, white interior with a bold black outline typical of manga dialogue bubbles. There is some text visible that appears to read 'T\u00da' in a standard manga font style. The bubble's edge curves inward, suggesting this is likely part of a larger oval or rounded rectangular speech bubble that extends beyond the visible crop area. The line work is crisp and clean with solid black borders against the white background, following conventional manga visual language for dialogue presentation.",
+          "text": "T\u00da ..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.09,
+        0.58,
+        1.0,
+        0.92
+      ],
+      "description": "Wide horizontal panel showing two characters in conversation",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A two-panel manga sequence featuring two characters in conversation. The left panel shows a character with spiky, light-colored hair in a three-quarter profile view, wearing what appears to be a dark collar or high-necked garment. Their expression appears contemplative or serious. The right panel depicts another character with longer, straight light-colored hair covering one eye, shown in a front-facing view with a gentle, slightly melancholic expression. Both characters are rendered in typical manga style with clean, medium-weight lineart and minimal shading using screentone. The Spanish text 'POR QUE NO VAS CON EL?' (Why don't you go with him?) appears in the left panel. The composition uses standard manga panel layout with a clear vertical divider between the two scenes, creating an intimate dialogue moment between the characters.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.35,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a manga character shown in profile view, facing left. The character has spiky, light-colored hair with sharp, angular strands that create dynamic movement. Their expression appears serious or determined, with a visible eye drawn in typical manga style - large and expressive. The character is wearing what appears to be a dark collar or high-necked garment. The art style features clean, bold black ink lines with varying line weights - thicker outlines for the main contours and finer lines for detail work. The background uses screentone/halftone patterns creating a gray textured effect that contrasts with the white areas of the character's face and hair. The composition is tightly cropped, focusing on the head and upper shoulder area, creating an intimate character study. The overall aesthetic follows classic manga conventions with high contrast between black lines, white spaces, and gray toned areas.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.15,
+            1.0,
+            0.85
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a manga character showing their face and upper shoulders. The character has medium-length, tousled hair with jagged bangs falling across their forehead. Their eyes are closed or nearly closed in a peaceful, content expression with a subtle smile on their lips. The art style is typical black and white manga with clean, confident linework of moderate weight. The shading is minimal and soft, using light screentone or halftone patterns in the hair to create texture and depth. The character's facial features are drawn with delicate, precise lines. The composition is tightly cropped, focusing entirely on the serene facial expression. There appears to be a partial panel border visible in the upper left corner. No text is visible in this cropped element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.15,
+            0.65,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble positioned in the upper right portion of the panel, containing the Spanish text 'POR QUE NO VAS CON \u00c9L?' (Why don't you go with him?). The bubble has a clean white background with bold, sans-serif black lettering. The speech bubble's tail points toward the left side of the panel, indicating the speaker is positioned off-screen or partially visible. Surrounding the bubble are dynamic, flowing lines suggesting movement or wind, rendered with varying line weights and screentone shading. The background features diagonal hatching and speed lines that create a sense of motion and emotional intensity typical of dramatic manga scenes.",
+          "text": "NO ME GUSTAN LOS NI\u00d1OS. VETE DE AQU\u00cd."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.92,
+        0.57,
+        1.0
+      ],
+      "description": "Bottom left panel showing close-up of character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows the lower portion of a character, featuring their torso and clothing rendered in typical manga style. The character appears to be wearing dark clothing, with solid black areas contrasted against lighter toned sections created through screentone/halftone patterns. The shading technique uses dotted screentones to create gradual tonal transitions and depth. The composition is minimal and cropped, showing only a partial view that cuts off the character at what appears to be chest or shoulder level. The line work is clean with varied line weights - thicker outlines defining the character's form and thinner lines for internal details. The art style is consistent with contemporary manga aesthetics, using high contrast between the solid blacks and the textured gray tones to create visual interest and dimensionality.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.15,
+            0.85,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble or dialogue balloon from a manga panel. The visible portion shows a white or light-colored curved boundary typical of speech bubble borders, with clean black lineart defining its edge. The interior appears to be blank white space, suggesting this may be an empty speech bubble or only a small section is visible in this crop. The line weight appears consistent and moderate, typical of standard manga dialogue balloon construction. There is no visible text or other graphic elements within this cropped section.",
+          "text": "POR QUE NO VAS CON \u00c9L?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.57,
+        0.92,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom right panel showing character with closed eyes",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing the lower portion of a character's torso and clothing. The figure is wearing what appears to be a white collared shirt or uniform top with clean, defined lines. Below that is a dark-colored garment, likely a skirt or lower portion of clothing, rendered in solid black. The art style features typical manga line work with consistent medium-weight black lines defining the clothing folds and edges. The shading is minimal and clean, using solid blacks and whites rather than complex toning. There appears to be some screentone or hatching pattern visible in the background area on the left side. The composition shows the character from approximately chest level down, with the white shirt creating strong contrast against the black lower garment. No text is visible in this cropped portion.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

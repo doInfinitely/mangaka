@@ -1,0 +1,140 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A manga page showing an emotional scene with an armored character reflecting on loss, followed by a close-up of a blonde character looking distressed",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.376
+      ],
+      "description": "Top panel showing an armored character surrounded by light rays with speech bubbles",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.15,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "A large, imposing robotic or mechanical character dominates the upper panel, shown from a low angle perspective that emphasizes its massive scale. The character has a distinctive helmet or head piece with multiple circular sensors or eyes arranged in a pattern, creating an intimidating appearance. The design features heavy mechanical details with segmented armor plating and structural elements. The art style uses bold, thick black lines for the main contours with detailed mechanical crosshatching and screentone shading to create depth and dimensionality. The character appears to be positioned within or emerging from some kind of mechanical structure or corridor, with architectural elements visible in the background. Spanish text appears in the upper left corner reading 'EL D\u00cdA... \u00cd AMBAS, MA Y HU... NIDAD.' The overall composition creates a sense of scale disparity and mechanical monumentality typical of mecha manga aesthetics.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.1,
+            0.35,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with irregular, organic curved borders typical of manga dialogue. The bubble contains Spanish text in all capital letters reading 'AQUEL D\u00cdA... PERD\u00cd AMBAS, MI ALMA Y HUMANIDAD.' The text is arranged in four lines with clear spacing between words. The speech bubble is positioned against a background of diagonal hatching lines creating a crosshatch pattern, suggesting a somber or dramatic mood. The line work is clean and precise, with the bubble's border drawn in solid black lines of consistent weight. The overall composition creates a stark contrast between the white bubble interior and the heavily shaded background, emphasizing the gravity of the dialogue.",
+          "text": "AQUEL D\u00cdA... PERD\u00cd AMBAS, MI ALMA Y HUMANIDAD."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.05,
+            0.95,
+            0.25
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with rounded edges positioned in the right portion of the panel. The bubble contains black text reading 'NO ME QUEDA NADA' in a standard manga font. The speech bubble has a clean, bold black outline with consistent line weight. Behind the speech bubble, there are geometric structural elements including diagonal support beams or framework rendered with thin black lines and crosshatching patterns typical of manga backgrounds. The background shows industrial or architectural details with screen tone shading creating texture and depth. The speech bubble's placement and tail direction suggest it originates from a character positioned off-screen or outside this cropped section.",
+          "text": "NO ME QUEDA NADA AHORA."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel shows a dramatic scene with a mechanical or robotic figure at the center, featuring intricate details with heavy cross-hatching and screentone shading. The figure appears to be wearing some kind of helmet or mask with circular eye elements and geometric plating. Multiple linear elements, likely cables or mechanical appendages, radiate outward from the central figure creating a dynamic composition. The art style uses dense crosshatching for shadows and mechanical details, with screentones providing gradient shading in the background. Two speech bubbles contain Spanish text - the left one reads 'AQUEL D\u00cdA... PERD\u00cd AMBAS, MI ALMA Y HUMANIDAD.' and the right one says 'NO ME QUEDA NADA AHORA.' The lower portion shows what appears to be a close-up of a character's face or head in profile, rendered with cleaner line work and minimal shading, creating contrast with the heavily detailed mechanical figure above.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.376,
+        0.24,
+        1.0
+      ],
+      "description": "Narrow left panel with speech bubbles",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "This is a minimalist speech bubble rendered in classic manga style. The bubble appears as a simple curved outline with thin, clean black linework against a light gray halftone screentone background. The bubble's shape is organic and rounded, typical of standard dialogue balloons in manga. The interior of the speech bubble is left completely white/blank with no visible text or dialogue. The surrounding area features a subtle dot pattern screentone that creates texture and depth. The composition is very sparse and clean, with the speech bubble positioned in the lower portion of the frame. The line weight is consistent and delicate, maintaining the refined aesthetic common in professional manga artwork. The overall effect is one of emptiness or pause in dialogue, possibly indicating a moment of silence or contemplation in the narrative.",
+          "text": "CU\u00cdDATE..."
+        },
+        {
+          "bbox": [
+            0.1,
+            0.7,
+            0.9,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of a manga speech bubble rendered in classic black and white style. The bubble appears to be empty or contains minimal content, with clean, bold outlines typical of manga speech balloons. The composition shows heavy black shading or hair filling much of the left side of the frame, created with bold, jagged strokes that suggest spiky or disheveled hair texture. The contrast between the stark white speech bubble area and the intense black shading creates a dramatic visual effect. The line work demonstrates typical manga techniques with confident, sharp strokes and strong contrast between light and dark areas. The spatial relationship suggests this speech bubble is positioned near or overlapping with a character's head/hair area.",
+          "text": "MUCHO."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.24,
+        0.376,
+        1.0,
+        1.0
+      ],
+      "description": "Large right panel showing close-up of blonde character",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.95
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a young manga character with medium-length, flowing hair that frames their face in soft, layered strands. The character has large, expressive eyes with detailed pupils and subtle shading around the eye area. Their facial expression appears gentle and contemplative, with slightly parted lips. The character is wearing what appears to be a collared shirt or jacket with clean, angular lines. The art style features clean, precise black lineart with varying line weights - thicker lines for outer contours and finer lines for facial features and hair details. Minimal shading is used, primarily with screentone/halftone patterns visible in the background and some areas of the clothing. The composition focuses on the character's face and upper torso, creating an intimate, close-up view. There is text reading 'TUYO.' visible in the lower left corner of the image. The overall style is characteristic of contemporary manga with its clean lines, large eyes, and detailed hair rendering.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.05,
+            0.95,
+            0.25
+          ],
+          "type": "speech_bubble",
+          "description": "This cropped manga panel shows a close-up of a character's face in typical manga art style. The character has large, expressive eyes with detailed pupils and eyelashes, characteristic of manga character design. Their hair is drawn with flowing, dynamic lines that frame the face. The art style features clean, confident line work with varying line weights - thicker outlines for major forms and thinner lines for details like hair strands and facial features. The shading is minimal and selective, using solid black areas for contrast, particularly in the hair and eye details. There appears to be some small dots or marks near the character's face, possibly indicating emotion or a visual effect. The composition focuses on the upper portion of the face, creating an intimate, close-up view that's common in manga for emotional scenes. The overall style is clean and polished with a balance of detailed and simplified elements typical of professional manga artwork.",
+          "text": "PERO... TODO LO DEM\u00c1S."
+        },
+        {
+          "bbox": [
+            0.05,
+            0.82,
+            0.35,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble element showing the bottom curved border of what appears to be a standard manga dialogue bubble. The bubble has clean, consistent black line work with moderate line weight typical of manga art. Only the lower curved portion is visible in this cropped view, showing a smooth arc that would typically contain character dialogue. The interior appears to be white/blank space, and there's a small tail or pointer element visible that would normally indicate which character is speaking. The line art is precise and uniform, following traditional manga speech bubble conventions with no visible shading or special effects.",
+          "text": "ES TUYO."
+        }
+      ]
+    }
+  ]
+}

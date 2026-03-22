@@ -1,0 +1,129 @@
+{
+  "width": 943,
+  "height": 1400,
+  "description": "A dramatic manga page showing what appears to be a character in a hooded garment or mask with some kind of clock or gauge display, followed by scenes of destruction or collapse with debris and a silhouetted figure.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.35
+      ],
+      "description": "Close-up panel showing a character wearing a hood or mask with a circular display showing clock-like markings",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dramatic manga panel showing a character in a hooded garment lying or positioned horizontally across the frame. The character's face is partially visible beneath the hood, rendered with clean line art typical of manga style. The figure appears to be holding or positioned near what looks like a pole or staff. The artwork uses heavy cross-hatching and screen tones to create deep shadows and atmospheric lighting effects. The composition is split into two horizontal panels, with the upper panel showing the character from one angle and the lower panel providing a different perspective. The shading technique creates strong contrast between light and dark areas, with diagonal hatching patterns filling the shadowed regions. The overall tone is somber and dramatic, enhanced by the monochromatic grayscale palette and the character's obscured, mysterious appearance under the hood.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a dramatic architectural interior rendered in stark black and white contrast. The scene depicts what appears to be a large institutional or industrial space with heavy diagonal cross-hatching creating deep shadows and geometric patterns. Strong directional lighting streams in from above, creating bold white beams that cut through the dark space. The composition uses heavy line weights and dense cross-hatching typical of dramatic manga backgrounds, with sharp angular forms and deep tonal contrasts. The perspective suggests a vast, imposing interior space with structural elements like beams or supports visible. The overall atmosphere is moody and dramatic, using the interplay of light and shadow to create a sense of scale and institutional grandeur.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.35,
+        1.0,
+        0.65
+      ],
+      "description": "Panel showing destruction or collapse with white debris or explosion effects against dark angular shapes",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect depicts an explosive or destruction scene rendered in classic black and white manga style. The image shows fragmented, angular shapes suggesting broken or shattered material, with stark white areas contrasting against deep black backgrounds and gray halftoned regions. The composition uses dramatic angular lines and jagged edges to convey violent motion or impact. The upper panel shows larger fragmented shapes with crosshatching and screen tones, while the lower panel features more detailed debris with fine linework. The overall visual effect creates a sense of explosive force or structural collapse, typical of action manga scenes where buildings or large objects are being destroyed. The use of negative space (white areas) emphasizes the intensity of the destruction effect.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts a dramatic scene of destruction and collapse. The image is split into two horizontal panels showing what appears to be a crumbling or exploding structure. The art style uses high contrast black and white with heavy screentone/halftone patterns for shading. The top panel shows angular, geometric fragments breaking apart with jagged crack lines cutting through the composition. The bottom panel continues this destruction motif with more debris and rubble scattered across the frame. The linework is bold and dynamic, with varying line weights that emphasize the violent motion and impact. Dense crosshatching and stippling effects create texture and depth, while the stark white areas suggest bright flashes or exposed surfaces amid the chaos. The overall composition conveys intense kinetic energy and catastrophic destruction through its fractured, angular forms and dramatic tonal contrasts.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.65,
+        1.0,
+        1.0
+      ],
+      "description": "Wide panel showing a silhouetted figure standing in what appears to be a bright corridor or space with debris falling from above",
+      "elements": [
+        {
+          "bbox": [
+            0.45,
+            0.55,
+            0.65,
+            0.95
+          ],
+          "type": "character",
+          "description": "This is a heavily cropped manga panel fragment showing minimal character details. The visible elements consist of simple black line work against a white background, with what appears to be part of a character's outline or clothing rendered in clean, minimal strokes. The art style features thin, precise line weights typical of manga illustration. There are a few diagonal lines in the upper portion that could be part of hair, fabric, or motion lines. The composition is largely negative space with the character elements occupying only small portions of the frame. The stark black and white contrast and minimal detail suggest this may be from a dramatic or contemplative scene. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.6
+          ],
+          "type": "effect",
+          "description": "A dramatic manga effect panel showing a high-angle bird's eye view of a lone figure walking across what appears to be a concrete or tiled courtyard. The person is rendered in solid black silhouette against the light-toned ground surface. The composition creates a strong sense of isolation and scale, with the figure appearing very small within the geometric space. The ground is depicted with clean line work showing rectangular tile or concrete panel divisions. In the background/upper portion, there are partial views of other figures rendered in typical manga line art style with screentone shading. The overall effect uses high contrast between the solid black areas and white/light gray tones, with fine stippled/dotted shading effects (likely screentone) filling some areas to create atmospheric depth. The angular perspective and dramatic viewpoint emphasize themes of solitude or separation.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts a dramatic low-angle perspective of a solitary male figure walking up what appears to be a staircase or inclined surface. The character is rendered in silhouette with solid black hair and is wearing a light-colored jacket or shirt with dark pants. The composition uses stark contrasts between light and shadow, with the figure positioned against bright white surfaces that suggest strong overhead lighting. The background features heavy use of screentone (manga's characteristic dot pattern shading) in varying densities, creating atmospheric depth and texture. The left side shows dense black shadows transitioning to lighter screentone areas, while the right side remains predominantly white. The perspective creates a sense of isolation and contemplation, with the figure appearing small against the geometric, angular environment. The art style employs clean line work with minimal detail on the character, emphasizing the mood through composition and tonal contrast rather than intricate illustration.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.7,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element features a stark black and white composition with high contrast. The image shows what appears to be part of a silhouetted figure or object in solid black against a white background. The white areas contain distinctive manga-style screentone texturing - fine stippled dots and hatching patterns that create subtle gray tonal variations. The black silhouette has clean, bold edges typical of manga inking, creating a dramatic contrast. The composition suggests this might be part of a character's legs or clothing rendered as a strong graphic shape. The screentone work demonstrates traditional manga production techniques, with the dotted pattern providing atmospheric depth to the otherwise minimal background space.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "width": 924,
+  "height": 1400,
+  "description": "A manga page showing a tense conversation between characters, with one character appearing distressed and another trying to reassure them. The page includes close-up shots of characters and ends with a wider scene showing two figures.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.054,
+        0.0,
+        0.942,
+        0.32
+      ],
+      "description": "Close-up panel showing a character with light hair covering their face with their hands",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            1.0
+          ],
+          "type": "character",
+          "description": "A cropped view of a character's hair rendered in classic manga style. The hair appears to be light-colored or blonde, drawn with fine parallel lines and screentone shading to create texture and volume. The hair has a natural, slightly tousled appearance with individual strands flowing in different directions. The linework is clean and precise with varying line weights - thicker outer contours defining the hair's silhouette and thinner internal lines showing hair texture and flow. The shading utilizes traditional manga screentone patterns, creating depth and dimension. In the upper right corner, there are bold black vertical lines that appear to be speed lines or emphasis marks. The composition shows only the top portion of the character's head, focusing entirely on the hair detail. The background is minimal with some geometric panel borders visible at the bottom of the frame.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga illustration showing a human hand in a reaching or grasping gesture. The hand is drawn with clean, confident black lines of varying weights, displaying typical manga anatomical proportions with elongated, elegant fingers. The lineart is minimal yet expressive, using simple contours without heavy shading or screentone. In the upper left corner, there are several small diagonal motion lines suggesting movement or impact, along with a few small dark spots or debris particles scattered in the space around the hand. The bottom portion of the image shows partial angular lines that appear to be part of another panel or background element. The overall composition emphasizes the dramatic gesture of the outstretched hand against a clean white background, creating a sense of tension or urgency typical of manga visual storytelling.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.05,
+            0.5,
+            0.3
+          ],
+          "type": "sfx",
+          "description": "A bold, black sound effect (onomatopoeia) drawn with thick, confident brush strokes. The characters appear to be rendered in a dramatic, angular style typical of action manga, with varying line weights that create dynamic emphasis. The strokes are painted with solid black ink, showing some slight texture and irregularity that suggests traditional brush or marker technique. The composition is minimal against a white background, with the characters positioned in the upper portion of the frame. There's a small dot or period mark visible in the lower right area. The overall style emphasizes impact and movement through the bold, gestural quality of the brushwork.",
+          "text": "\u30b6"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.054,
+        0.365,
+        0.946,
+        0.595
+      ],
+      "description": "Panel showing hair strands and partial character view",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character's face in profile view, featuring long, flowing hair with dynamic strands that create movement across the frame. The character has a large, expressive eye with detailed eyelashes and appears to have a contemplative or slightly melancholic expression. The art style employs clean, flowing line work with varying line weights - thicker outlines for the main features and thinner, delicate lines for the hair strands. The panel uses minimal shading, relying primarily on line art with some subtle screentone/halftone shading in the background. There is Japanese text visible in the upper left portion of the panel that appears to read katakana characters. The composition creates a sense of intimacy and emotional depth through the close framing and the character's downward gaze.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.054,
+        0.625,
+        0.946,
+        0.845
+      ],
+      "description": "Panel showing a character's face with an emotional expression",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel featuring a character with light-colored, layered hair that falls across their face in typical anime/manga style. The character has large, expressive eyes with simple dot pupils and is drawn in a clean, minimalist art style characteristic of contemporary manga. The linework is smooth and consistent, with minimal shading used primarily for depth in the hair. The character appears to have a neutral or slightly concerned expression. The panel uses screentone/halftone shading in the background, and there is Spanish text in a speech bubble that reads 'SI BUSCAS EL BA\u00d1O, ES POR ESE LADO.' The composition focuses on the character's face and upper portion, with the hair framing creating a natural border within the panel frame.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.2,
+            0.3,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a close-up of what appears to be a character's torso and clothing. The figure is wearing what looks like a light-colored garment with flowing fabric and clean, defined lines. The art style features typical manga characteristics with bold, confident line work and minimal shading. There is hatched/screentone shading visible in the upper portion of the panel. The Spanish text 'TR\u00c9 LAS JAULAS.' appears in the left side of the panel in bold, sans-serif lettering. The composition focuses on the fabric details and body positioning, with the text integrated into the negative space of the panel layout.",
+          "text": "\u30cf\u30a1"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.054,
+        0.875,
+        0.442,
+        1.0
+      ],
+      "description": "Panel with character speaking about cages",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.3,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga panel shows a partial view of a character from roughly chest level down to mid-torso. The character appears to be wearing a light-colored garment, possibly a shirt or jacket, rendered with clean, confident lineart typical of manga style. The clothing has minimal detail with simple fold lines suggesting fabric drape. In the lower portion of the crop, there's a distinctive triangular or diamond-shaped area filled with screentone hatching - a dotted halftone pattern commonly used in manga for shading and texture. The lineart varies in weight, with thicker outer contours and thinner interior details. The overall composition is minimalist and focuses on the clothing's basic form rather than intricate details. No text is visible in this cropped section. The art style appears clean and modern, consistent with contemporary manga illustration techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.6,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing only the left border and a small portion of the bubble's interior. The bubble appears to be empty with clean white space inside. In the upper right corner, there are several flowing hair strands drawn with confident, curved black lines of varying thickness, suggesting dynamic movement. The hair strands have a typical manga style with smooth, sweeping curves and tapered ends. The speech bubble's border is a solid black line of consistent weight. The overall composition is minimal, showing mostly negative white space with the hair detail serving as the primary visual element in this cropped section.",
+          "text": "IR\u00c9 A LAS JAULAS."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.454,
+        0.875,
+        0.575,
+        1.0
+      ],
+      "description": "Narrow panel showing character movement",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a partial view of a character, featuring only the lower portion of their body and clothing. The character appears to be wearing dark-colored clothing, likely pants or a lower garment, rendered with clean, bold line work typical of manga art style. The shading uses cross-hatching and solid black fills to create depth and contrast. There is visible text reading 'MUE-VETE.' in a simple, clean font positioned in the upper portion of the panel. The composition shows the character positioned against what appears to be a geometric background with strong angular lines and panel borders. The art style demonstrates typical manga characteristics with crisp lineart, minimal but effective shading, and clear contrast between light and dark areas.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.7,
+            0.8,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing only a small corner section. The visible portion displays the characteristic thick black outline typical of manga speech bubbles, with clean, bold line work. The interior appears to be white or very light, suggesting this is a standard dialogue bubble rather than a thought bubble or special effect. The curved edge indicates this is likely from the upper or side portion of an oval or rounded rectangular speech bubble. The line weight is consistent and confident, drawn with the precise, clean style typical of professional manga artwork. No text is visible in this cropped section, and the bubble appears to be empty or the text falls outside the visible area.",
+          "text": "MU\u00c9-VETE."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.587,
+        0.875,
+        0.71,
+        1.0
+      ],
+      "description": "Panel with ellipsis indicating pause or hesitation",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel element shows a minimalist background composition featuring stark black and white contrasts. The left side contains a dense halftone dot pattern or screentone texture that creates a gray gradient effect, commonly used in manga for shading and atmospheric depth. This textured area is bordered by bold, clean black lines of varying weights - including thick vertical bars that create strong geometric framing. The right side transitions to pure white space, creating a dramatic contrast. The line work is precise and uses typical manga illustration techniques, with the heavy black borders suggesting architectural elements or panel divisions. The overall composition emphasizes negative space and geometric forms, characteristic of modern manga layout design.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.2,
+            0.7,
+            0.5
+          ],
+          "type": "sfx",
+          "description": "This appears to be a sound effect (sfx) element rendered in stark black vertical lines against a white background. The visual consists of bold, thick black strokes that appear to represent motion lines or impact effects typical in manga. The lines are drawn with heavy, solid black ink with clean edges and no shading or hatching. The composition shows several parallel vertical lines of varying lengths, creating a sense of downward movement or impact. The stark contrast between the pure black lines and white background is characteristic of manga's high-contrast visual style. No text is visible in this particular sound effect element.",
+          "text": "..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.622,
+        0.875,
+        0.946,
+        1.0
+      ],
+      "description": "Final panel showing two characters, with dialogue about the bathroom",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a minimalist interior scene with clean, geometric compositions. The left panel features stark white walls with bold black border lines and what appears to be an angular architectural detail or shadow creating a zigzag pattern. The right panel depicts a figure from behind wearing a patterned dress or apron with a dotted or small geometric print, rendered in detailed screentone hatching. The figure appears to be standing in a doorway or room entrance. The art style employs typical manga techniques with varied line weights - thick bold borders for panel divisions and architectural elements, contrasted with fine detailed linework for the clothing patterns. The shading is achieved through screentone application rather than hand-drawn hatching, creating smooth gradients and textures. The overall composition emphasizes negative space and geometric forms, creating a sense of domestic interior space with clean, modern aesthetics typical of contemporary manga backgrounds.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.3,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A cropped view showing the lower portion of a manga character, featuring legs wearing what appears to be a pleated skirt or dress with detailed cross-hatching and screentone patterns. The character is standing in a doorway or entrance, with clean black line art typical of manga style. The clothing shows careful attention to fabric folds and texture through traditional manga shading techniques. The composition shows the character from approximately waist-down, with the geometric patterns of the doorframe visible on either side. The line weight is consistent and bold, with areas of solid black contrast against the detailed screentone work on the garment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.7,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble element showing the characteristic pointed tail or connector that extends from the main bubble body toward a speaker. The bubble appears to have clean, bold black outlines typical of manga artwork. The visible portion shows the curved edge of what would be the main bubble area and the angular tail portion that points toward the character who is speaking. The line work is crisp and uses solid black lines without shading or hatching effects. The bubble's interior appears to be white/blank space, suggesting this may be an empty speech bubble or the text portion is cropped out of view. The overall style is consistent with traditional manga panel layouts where speech bubbles are integrated into the sequential art format.",
+          "text": "SI BUSCAS EL BA\u00d1O, ES POR ESE LADO."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "width": 946,
+  "height": 1400,
+  "description": "A story summary page with white text on a dark textured background, describing the plot of what appears to be an Evangelion-related narrative involving characters Shinji and Asuka",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full page text panel with story summary on dark background",
+      "elements": [
+        {
+          "bbox": [
+            0.11,
+            0.08,
+            0.35,
+            0.16
+          ],
+          "type": "object",
+          "description": "A text element displaying 'THE STOR' in bold, white, hand-drawn lettering against a dark textured background. The text appears to be cut off, likely reading 'THE STORY' when complete. The lettering has an irregular, sketchy quality typical of manga title text, with thick white strokes that stand out prominently against the dark, crosshatched or stippled background texture. The composition shows this as a partial title or header element, positioned in what appears to be the upper portion of a panel or page layout.",
+          "text": "THE STORY"
+        },
+        {
+          "bbox": [
+            0.11,
+            0.18,
+            0.69,
+            0.29
+          ],
+          "type": "object",
+          "description": "This appears to be a text box or narrative panel with white text on a dark, textured background. The text is written in all capital letters in a bold, sans-serif font typical of manga translations. The background has a rough, grainy texture with dark tones, possibly representing a somber or dramatic mood. The text discusses a character named Shinji being transported from 'the Sea of Red' to battle with Bardiel, mentioning his vow not to regret his actions and his relationship with Asluka, as well as referencing Rei's suicide and Shinji's efforts to reach a better conclusion. The formatting and style is characteristic of exposition or internal monologue panels commonly found in dramatic manga scenes.",
+          "text": "SHINJI IS TRANSPORTED FROM THE SEA OF RED TO THE BATTLE WITH BARDIEL, VOWING NOT TO REGRET HIS ACTIONS AGAIN. TO LIVE A MORE DYNAMIC LIFE, HE BECOMES CLOSE TO ASUKA. HOWEVER, HIS ACTIONS RESULT IN REI'S SUICIDE. IN SPITE OF HIS EFFORTS TO REACH A BETTER CONCLUSION, HE WAS ONLY ABLE TO ACHIEVE THE SAME RESULTS-"
+        },
+        {
+          "bbox": [
+            0.11,
+            0.31,
+            0.8,
+            0.41
+          ],
+          "type": "object",
+          "description": "A dark text box containing white narrative text in all capital letters. The text appears to be exposition or narration describing plot events involving characters named Asuka and Shinji. The background is a muted brown or sepia tone, creating contrast with the white lettering. The text is arranged in paragraph form with multiple lines, using a simple, clean font typical of manga translations. The text box appears to be overlaid on the manga panel as a narrative element, providing story context about pregnancy, marriage, an angel attack, and self-destruction of an Evangelion unit. The overall presentation suggests this is from a dramatic or climactic moment in the story.",
+          "text": "THE ONE WHO SAVES HIM FROM HIS DESPAIR IS ASUKA. HAVING BECOME PREGNANT WITH SHINJI'S CHILD, SHE RESOLVES TO STAY WITH HIM TILL THE END. THOUGH THEY WERE SOON TO BE MARRIED, AN ANGEL ATTACKS BEFORE THE CEREMONY. RECEIVING AN ATTACK MEANT FOR SHINJI, ASUKA SELF-DESTRUCTS HER EVANGELION."
+        },
+        {
+          "bbox": [
+            0.11,
+            0.43,
+            0.74,
+            0.47
+          ],
+          "type": "object",
+          "description": "This appears to be a text box or narrative caption from a manga panel, featuring white text on a dark background. The text reads 'AFTER A STAY AT THE HOSPITAL FOR SHOCK TREATMENT, SHINJI LEARNS THAT ASUKA IS STILL ALIVE. HE ALSO L[EARNS] THE REASON FOR HER SURVIVAL...' The text is rendered in a bold, all-caps font typical of manga translations. The background appears to be solid black or very dark, creating high contrast with the white lettering. This type of exposition text box is commonly used in manga to provide narrative information or context between scenes. The text appears to be cut off at the bottom, suggesting this is a cropped portion of a larger panel or page.",
+          "text": "AFTER A STAY AT THE HOSPITAL FOR SHOCK TREATMENT, SHINJI LEARNS THAT ASUKA IS STILL ALIVE. HE ALSO LEARNS THE REASON FOR HER SURVIVAL."
+        },
+        {
+          "bbox": [
+            0.11,
+            0.49,
+            0.42,
+            0.51
+          ],
+          "type": "object",
+          "description": "A text element displaying partial dialogue in white capital letters against a dark background. The visible text reads 'THEIR CHILD WAS AN ANG' with the word appearing to be cut off mid-sentence, likely continuing as 'ANGEL'. The lettering uses a bold, sans-serif manga font typical of dramatic dialogue or narration. The text appears to be positioned in the upper portion of what would be a manga panel, with the dark background suggesting either a night scene or dramatic shadowing effect commonly used in manga for emotional emphasis.",
+          "text": "\"THEIR CHILD WAS AN ANGEL.\""
+        },
+        {
+          "bbox": [
+            0.11,
+            0.53,
+            0.76,
+            0.55
+          ],
+          "type": "object",
+          "description": "This appears to be a text bubble or caption box from a manga panel with white text on a dark background. The text reads 'THAT MEANS THAT SHINJI IS ALSO AN ANGEL. IF HE WERE TRULY AWAKEN, THE WORLD WOULD COME TO AN END.' The lettering is in a standard manga font style, appearing bold and clear against what seems to be a dark brown or sepia-toned background. The text is arranged in multiple lines and appears to be dialogue or narration providing exposition about a character named Shinji and their potential as an 'Angel' with world-ending capabilities. The overall composition suggests this is likely from a dramatic or climactic scene given the ominous nature of the text content.",
+          "text": "THAT MEANS THAT SHINJI IS ALSO AN ANGEL. IF HE WERE TO TRULY AWAKEN, THE WORLD WOULD COME TO AN END."
+        },
+        {
+          "bbox": [
+            0.11,
+            0.57,
+            0.47,
+            0.59
+          ],
+          "type": "object",
+          "description": "This appears to be a text header or title banner in white text against a dark background. The text reads 'THE JSSDF AND MASS-PRODUC' (appears to be cut off, likely continuing with 'PRODUCTION' or similar). The lettering has a bold, sans-serif style typical of manga informational headers or chapter titles. The text appears to be rendered in a clean, high-contrast white against what looks like a dark gray or black rectangular background. The cropping suggests this is part of a larger informational panel or title card, possibly introducing a topic about the JSSDF (Japan Strategic Self-Defense Force) and mass production of something, which is common in military or mecha-themed manga for providing exposition or context.",
+          "text": "THE JSSDF AND MASS-PRODUCED EVAS ATTACK NERV."
+        },
+        {
+          "bbox": [
+            0.11,
+            0.61,
+            0.8,
+            0.63
+          ],
+          "type": "object",
+          "description": "A black text banner or caption box with white text in a bold, condensed font style typical of manga translations. The text appears to be mid-sentence, reading 'STANDING IN FRONT OF ASUKA, WHO RECEIVED LIFE IN EXCHA' with the text cut off at 'FOR HER MIND. SHINJI MAKES A DECISION.' The background is solid black, creating high contrast with the white lettering. The text layout suggests this is likely a narrative caption or internal monologue description rather than dialogue. The cropping shows this is part of a larger panel, with the text positioned horizontally across what appears to be the bottom or middle portion of the original manga page.",
+          "text": "STANDING IN FRONT OF ASUKA, WHO RECEIVED LIFE IN EXCHANGE FOR HER MIND, SHINJI MAKES A DECISION."
+        },
+        {
+          "bbox": [
+            0.11,
+            0.65,
+            0.78,
+            0.68
+          ],
+          "type": "object",
+          "description": "This appears to be a text overlay or caption box from a manga panel, featuring white text on a dark, textured background. The text reads 'PROTECTING HUMANITY - PROTECTING MANKIND - MEANS HI' followed by 'AT THE END OF THAT PATH, THERE IS NO FUTURE FOR HIM.' The typography uses a bold, condensed font style typical of manga dialogue or narrative text. The background has a rough, weathered texture with dark tones and subtle grain, creating a somber or ominous atmosphere. The text appears to be part of a philosophical or dramatic statement about sacrifice and the consequences of protecting humanity, cut off mid-sentence in this cropped view.",
+          "text": "PROTECTING HUMANITY - PROTECTING MANKIND - MEANS HIS DEATH. AT THE END OF THAT PATH, THERE IS NO FUTURE FOR HIM. STILL-"
+        },
+        {
+          "bbox": [
+            0.11,
+            0.7,
+            0.23,
+            0.71
+          ],
+          "type": "object",
+          "description": "This appears to be a cropped portion of manga text, showing white or light-colored lettering against a dark background. The visible characters appear to be part of a larger title or heading, with bold, clean typography typical of manga title text. The letters have a solid, geometric appearance with clear edges and no decorative flourishes. The contrast between the light text and dark background creates strong readability. The cropping shows only a partial view of what seems to be a longer text element, making it difficult to determine the complete word or phrase.",
+          "text": "HE PILOTS UNIT 01."
+        },
+        {
+          "bbox": [
+            0.11,
+            0.73,
+            0.58,
+            0.75
+          ],
+          "type": "object",
+          "description": "A horizontal text banner displaying white text against a dark, textured background. The text reads 'THAT IS THE BATTLE HE HAS DISCOVERED' in a bold, slightly stylized font typical of manga dialogue or narration. The background appears to have a rough, possibly stone or concrete-like texture with subtle shading and grain. The text is positioned centrally within the banner, creating a dramatic proclamation or revelation typical of manga storytelling moments. The overall presentation suggests this is either a narrative caption or dramatic dialogue emphasis within the manga panel structure.",
+          "text": "THAT IS THE BATTLE HE HAS DISCOVERED FOR HIMSELF."
+        },
+        {
+          "bbox": [
+            0.9,
+            0.95,
+            0.95,
+            0.97
+          ],
+          "type": "object",
+          "description": "A dark, textured rectangular object or surface rendered with dense cross-hatching and stippling techniques. The shading consists of closely packed diagonal lines creating a deep black or very dark gray tone. The hatching lines vary in density, with some areas showing more concentrated cross-hatching that creates an almost solid black appearance. The texture suggests this could be part of a shadow, a dark fabric, or a solid object like wood or metal. The edges are clearly defined against what appears to be a lighter background. The art style is typical of traditional manga illustration techniques, using pen and ink cross-hatching rather than screentone for creating dark values.",
+          "text": "3"
+        }
+      ]
+    }
+  ]
+}

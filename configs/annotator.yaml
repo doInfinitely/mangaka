@@ -6,7 +6,7 @@
 # Manga source (5,574 manga page JPGs)
 manga_dir: /home/ubuntu/Code/manga_translate/manga_translate/yolo/images
 
-provider: claude  # claude | openai | gemini
+provider: llama   # llama | claude | openai | gemini
 
 # Rate limiting
 max_concurrency: 5

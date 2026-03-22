@@ -1,0 +1,85 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A manga page showing characters in what appears to be a cave or underground setting with large crystalline or rocky formations. Two characters are present - one in a form-fitting suit and another figure, with dialogue between them.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full page panel showing two characters in a cave-like environment with large crystalline formations and rocky terrain",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.6,
+            0.7
+          ],
+          "type": "background",
+          "description": "This manga panel depicts a dramatic scene with a small human character standing amid the massive skeletal remains of what appears to be a giant creature or monster. The character, drawn in typical manga style with light-colored hair and wearing what looks like a fitted uniform or bodysuit with circular emblems, stands dwarfed by enormous ribcages and bone structures that tower above them. The art employs clean black lineart with screentone shading for depth and texture on the bones and clothing. Cross-hatching and\u7ec6line work detail the rocky ground scattered with debris and smaller bone fragments. The composition emphasizes scale through dramatic perspective, showing the character from a slightly elevated viewpoint that captures both their small stature against the colossal skeletal architecture. A speech bubble contains the text 'THANK YOU.' in simple black lettering. The overall style is characteristic of seinen or shonen manga with its detailed environmental artwork and sense of epic scale.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.35,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "A young character with short, light-colored hair styled in a messy, layered cut stands in a three-quarter pose on what appears to be rocky or debris-filled terrain. They wear a form-fitting, full-body suit or pilot outfit with distinctive circular emblems or patches on the chest area. The suit appears to have panel lines and technical details typical of mecha or sci-fi designs. The character's expression is somewhat downcast or contemplative, with their gaze directed downward. The art style features clean, precise linework with moderate line weights, and uses screentone shading techniques to create depth and texture. Cross-hatching and parallel lines are employed for shadows and dimensional effects on both the character and the rocky background. The composition places the character centrally within the frame, with angular rock formations and debris creating dynamic background elements that frame the figure. No visible text appears in this cropped panel section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.3,
+            0.75,
+            0.8
+          ],
+          "type": "character",
+          "description": "A dynamic manga character shown in a running or leaping pose, viewed from behind and slightly to the side. The figure has light-colored hair tied up and wears a dark gray sleeveless tunic or vest over lighter colored clothing, with dark leggings or tight pants and light-colored shoes. The character appears to be in motion across what looks like a tiled or paved surface with geometric patterns. The art style uses clean black linework with screentone shading for the clothing, creating contrast between the dark garment and lighter elements. Diagonal hatching lines in the background suggest movement and speed. The composition emphasizes the character's dynamic forward momentum, with the body angled diagonally across the frame. The drawing technique is typical of manga illustration with bold outlines, selective use of screentones for shading, and minimal but effective detail work.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.48,
+            0.15,
+            0.65,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A white oval speech bubble containing the text 'THANK YOU.' in bold, uppercase black letters. The bubble has a clean, simple outline with a small tail pointing downward and to the right, indicating the speaker is positioned below and slightly to the right of the bubble. The background shows partial manga artwork with characteristic screentone/halftone shading patterns creating gray tonal areas. There are black ink lines suggesting hair or fabric with dynamic, flowing strokes typical of manga art style. The contrast between the clean white speech bubble and the textured background creates clear visual hierarchy for the dialogue.",
+          "text": "THANK YOU."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.7,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts a dramatic scene of destruction with scattered concrete or stone debris across the ground. The debris consists of large, angular chunks and blocks rendered with clean, precise linework typical of manga illustration. The shading employs crosshatching and solid gray tones to create depth and texture on the broken surfaces. A pair of legs in dark pants and shoes is visible walking through the rubble, shown from approximately knee-down, suggesting the scale of the destruction. The composition uses a low angle perspective that emphasizes the scattered nature of the debris field. The linework varies in weight, with thicker outlines defining the major shapes and finer detail lines adding texture to the broken surfaces. Small particles and dust effects are suggested through minimal line details scattered throughout the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A dramatic manga background scene rendered in black and white with detailed cross-hatching and line work. The composition shows a rocky, mountainous terrain with jagged cliff faces and scattered boulders. A small human figure, drawn in silhouette style, stands among the rocky landscape wearing what appears to be a sleeveless tunic or vest and tall boots. The figure has light-colored hair and is positioned to show scale against the imposing geological formations. The art style employs heavy use of parallel line shading and cross-hatching to create depth and texture in the rock surfaces. The linework varies from bold, thick strokes for major structural elements to fine hatching for textural details. The overall composition creates a sense of vastness and isolation, with the small human figure dwarfed by the dramatic rocky environment. No text is visible in this background element.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

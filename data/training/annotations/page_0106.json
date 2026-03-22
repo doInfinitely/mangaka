@@ -1,0 +1,162 @@
+{
+  "width": 936,
+  "height": 1400,
+  "description": "A manga page showing a conversation between characters about their intentions and power, with architectural backgrounds and character close-ups",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.43
+      ],
+      "description": "Two-part panel showing character dialogue with close-up faces",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.55,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character with long, flowing hair styled in twin tails, drawn in classic black and white manga style. The character has large, expressive eyes with a somewhat distressed or emotional expression, mouth slightly open. They are wearing what appears to be a dark-colored outfit with light trim or collar details. The art style features clean line work with varying line weights - thicker outlines for the character and finer details for hair strands and facial features. Screen tone/halftone shading is used for the hair and clothing to create depth and texture. Spanish text appears in speech bubbles: 'S\u00d3LO QUIEREN IR Y MORIR' on the left, 'NO LOS NECESITO' on the upper right, and 'ESE IDIOTA Y LA PRIMERA, AMBOS' on the lower right. The character appears to be in an emotional state, possibly crying or distressed, with the composition focusing on their upper body and face against a dark background.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.55,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character in profile view, head tilted downward in a contemplative or melancholic pose. The character has light-colored hair with layered, swept bangs that partially obscure their eyes, creating dramatic shadows across their face. They appear to be wearing dark clothing with what looks like straps or buckles visible. The art style employs clean, bold line work with minimal shading, typical of manga illustration. Screen tones and hatching are used sparingly to create depth and shadow. Below this main panel is a smaller panel showing what appears to be a checkered or grid pattern surface, with Spanish text in speech bubbles reading 'AS\u00cd QUE... AUNQUE TUVIESE' and 'EL PODER PARA HACERLO, NO PODR\u00cdA SAL-'. The composition emphasizes the character's downward gaze and creates a sense of introspection or sadness through the angled perspective and shadow placement.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.25,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing the text 'SOLO' in gray lettering. The bubble has a classic rounded rectangular shape with clean, bold black outlines typical of manga speech bubbles. The bubble appears to be positioned in the lower portion of the frame. In the background, there are glimpses of a manga character with light-colored hair rendered in typical manga style with fine line work and screentone shading. The overall composition uses high contrast black and white with halftone patterns, characteristic of traditional manga artwork. The speech bubble's placement and the partial character visibility suggest this is part of a dialogue scene, with the bubble likely containing spoken text from the visible character or another character in the scene.",
+          "text": "S\u00d3LO QUIEREN IR Y MORIR"
+        },
+        {
+          "bbox": [
+            0.25,
+            0.15,
+            0.5,
+            0.55
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel shows a close-up of a character's face in profile, tilted upward with an emotional expression. The character has flowing hair with detailed linework and appears to be in distress or anguish. The art style uses clean, bold line weights typical of manga with minimal shading and crosshatching effects. Two speech bubbles are visible - one containing Spanish text 'ESE IDIOTA Y LA PRIMERA.' and another partially visible bubble with 'NO LOS NECE... STO'. The composition focuses on the dramatic angle of the character's face against a white background, with the speech bubbles positioned to the right side of the panel. The overall style suggests this is from a dramatic or emotional scene in the manga.",
+          "text": "ESE IDIOTA Y LA PRIMERA, AMBOS"
+        },
+        {
+          "bbox": [
+            0.6,
+            0.15,
+            0.85,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "This manga element shows a speech bubble with a dynamic, angular design characteristic of action or intense dialogue scenes. The bubble has sharp, jagged edges rather than the typical rounded form, suggesting emphatic or explosive speech. The interior of the bubble appears to be filled with speed lines or motion lines radiating outward, creating a sense of energy and movement. The line work uses bold, black strokes with varying weights - thicker lines define the bubble's outer edges while thinner lines create the internal radiating pattern. The shading technique employs screentone or halftone dots in the background, giving it a classic manga aesthetic. The overall composition suggests this bubble contains dialogue delivered with great force or emotion, though no readable text is visible in this cropped section.",
+          "text": "NO LOS NECESITO"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.43,
+        1.0,
+        0.7
+      ],
+      "description": "Wide panel showing architectural exterior with buildings and geometric patterns",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows architectural interior details rendered in typical black and white manga style. The upper portion depicts geometric structural elements like beams, panels, and angular surfaces with clean line work and screentone shading. The lower section shows what appears to be flowing fabric or curtain-like drapery with vertical folds and highlights, creating contrast against the harder architectural elements above. The art style uses varied line weights - thicker outlines for major structural elements and finer lines for detail work. Screentone patterns provide texture and depth, particularly visible in the upper architectural areas. The composition creates a sense of vertical space and layered depth through the juxtaposition of rigid geometric forms above and soft, flowing organic shapes below.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.15,
+            0.95,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial speech bubble from a manga panel showing only the beginning of text that reads 'EN-'. The speech bubble appears to be cut off at the right edge of the cropped image. The bubble has clean, bold black outlines typical of manga speech bubbles. Behind the speech bubble, there are partial views of what appears to be hair or flowing fabric rendered with curved lines and light screentone shading. The art style features clean linework with moderate line weight, and the shading uses subtle screentones rather than heavy black fills. The composition suggests this is part of a larger dialogue scene, with the speech bubble positioned in the lower portion of the visible area.",
+          "text": "AS\u00cd QUE... AUNQUE TUVIESE EL PODER PARA HACERLO, NO PODR\u00cdA SALVARLOS"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.7,
+        1.0,
+        1.0
+      ],
+      "description": "Panel showing a character in profile speaking to another character",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.6,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view facing right, with distinctive spiky hair rendered in clean black lines with screentone shading. The character has a calm, contemplative expression with eyes that appear closed or nearly closed. The art style features crisp, confident linework with varying line weights - thicker outlines for the main silhouette and finer lines for facial details. Screentone (halftone dot patterns) is used extensively for shading the hair and background areas. A speech bubble positioned to the right contains Spanish text that reads 'ACT\u00daAS DE LA MISMA FORMA EN QUE SHINJI LO HIZO EN AQUEL MOMENTO.' The composition places the character's head in the left portion of the frame, with the speech bubble balancing the right side. The overall style is typical of shounen manga with its clean lineart and strategic use of screentones for depth and texture.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character drawn in a typical black and white style, showing a young person with long, straight hair that falls past their shoulders. They are wearing what appears to be a Victorian or gothic-style dress with puffy sleeves, ruffled details, and a dark bow or ribbon at the chest/collar area. The character has a gentle, slightly smiling expression with simple dot eyes characteristic of manga art. The dress extends down in a long, flowing silhouette. The art uses screentone (dotted shading pattern) for the dress fabric, creating texture and depth. Line weights vary from thin for facial features to thicker for clothing outlines. There is Japanese text visible on the right side of the image running vertically. The overall composition shows the character from roughly chest-up to full length, positioned slightly to the left side of the frame.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.4,
+            0.55,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble containing Spanish text 'AQUEL MOMENTO.' (meaning 'that moment'). The bubble has clean, bold black outlines typical of manga style. The text is rendered in standard manga lettering - clear, sans-serif capital letters. The bubble appears to be cut off at the edges of the crop, showing only the right portion. There are some cross-hatching or screentone patterns visible on the right edge, likely indicating shading or background elements. The overall line work is crisp and consistent with professional manga production standards.",
+          "text": "ACT\u00daAS DE LA MISMA FORMA EN QUE SHINJI LO HIZO EN AQUEL MOMENTO"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.95,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble element with clean, bold black outlines typical of manga style. The bubble has a smooth, rounded rectangular shape with a small tail pointing toward the speaker. The interior is filled with white/light tone, creating strong contrast against the black border. The line weight is consistent and moderately thick, giving the bubble a solid, defined appearance. The bubble appears to be empty of text in this cropped view, showing just the clean geometric form. The style is characteristic of modern manga with crisp, digital-quality lineart and no additional shading or texture effects on the bubble itself.",
+          "text": "ENTONCES"
+        }
+      ]
+    }
+  ]
+}

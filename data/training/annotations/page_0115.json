@@ -1,0 +1,162 @@
+{
+  "width": 939,
+  "height": 1400,
+  "description": "A manga page showing a character in what appears to be a futuristic or sci-fi setting, with close-up emotional shots and a final panel showing a photograph or document.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.06,
+        0.0,
+        0.58,
+        0.42
+      ],
+      "description": "Wide panel showing a futuristic interior space with a character and mechanical structures",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.25,
+            0.8
+          ],
+          "type": "character",
+          "description": "A manga character shown from behind in a vertical panel composition. The figure has long, flowing hair that cascades down their back with dynamic movement lines suggesting motion or wind. They appear to be wearing light-colored clothing, possibly a dress or long garment. The character is positioned near what appears to be a doorway or entrance, with architectural elements like a door frame and steps visible in the background. The art style uses clean line work with minimal shading, typical of manga illustration. Screen tones and hatching patterns are used sparingly to create depth and texture. The composition emphasizes the graceful silhouette of the character against the geometric background elements. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.15,
+            1.0,
+            0.85
+          ],
+          "type": "background",
+          "description": "This manga panel shows an industrial or institutional interior background with stark, geometric architecture. The scene features a raised platform or walkway with metal railings, accessed by stairs. Behind this are large cylindrical structures with distinctive black and white diagonal striped patterns, possibly industrial equipment or storage tanks. The art style employs clean, precise linework with minimal shading, using halftone/screentone patterns for texture on surfaces like floors and walls. The composition creates depth through the angular perspective of the railings and architectural elements. In the lower portion of the cropped image, there's a partial view of what appears to be a character's hair rendered with flowing, dynamic lines typical of manga character art. The overall aesthetic is clean and minimalist, emphasizing the geometric, institutional nature of the setting through stark contrasts and precise architectural details.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.58,
+        0.0,
+        1.0,
+        0.42
+      ],
+      "description": "Close-up panel of a character's face in profile",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel features a close-up of a young character with tousled, layered hair rendered in typical manga style with detailed individual strands and dynamic flow. The character has large, expressive eyes characteristic of manga art, with detailed pupils and subtle shading. Their facial expression appears contemplative or slightly melancholic, with soft features and a gentle mouth. The art style employs clean, confident line work with varying line weights - thicker outlines for the main forms and finer lines for hair details and facial features. The shading is minimal and selective, using subtle grey tones and crosshatching patterns. In the lower portion of the panel, there's a smaller full-body view of what appears to be the same character in a school uniform or similar outfit, shown from a distance with simplified details. The composition creates a intimate close-up contrasted with the wider establishing shot below. There appears to be some Japanese text visible in the lower section, rendered in typical manga font styling.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.06,
+        0.42,
+        0.52,
+        0.72
+      ],
+      "description": "Close-up panel focusing on the character's eye and partial face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing the lower portion of a character's face in profile view. The character appears to be drawn in a clean, minimalist manga style with simple line art. Only the nose, mouth, and jawline are visible, rendered with thin, precise black lines. The character's expression appears neutral or contemplative. The background features diagonal screentone patterns and geometric shapes, including what appears to be architectural elements or abstract forms. The panel uses typical manga visual techniques including screentones for shading and clean line work. The composition is divided by panel borders, with the character positioned in the upper portion against a white background, while the lower section contains more complex geometric patterns and tonal work.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.52,
+        0.42,
+        1.0,
+        0.72
+      ],
+      "description": "Panel showing a character in what appears to be a mechanical suit or armor",
+      "elements": [
+        {
+          "bbox": [
+            0.35,
+            0.15,
+            0.85,
+            0.85
+          ],
+          "type": "character",
+          "description": "This manga panel shows a partial view of a character in formal business attire. The visible portion includes a dark suit jacket or blazer with crosshatch shading and screentone patterns typical of manga art. The character appears to be in a seated or leaning position, with the jacket's lapels and collar clearly defined by bold, clean line work. The shading uses a combination of screentone dots and diagonal hatching lines to create depth and texture on the dark fabric. The composition shows only the torso area, cropped at both the top and bottom, creating a focused view on the formal clothing details. The art style is consistent with contemporary manga, featuring precise linework and professional screentone application for shading effects.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.2,
+            0.35,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a portion of a speech bubble or dialogue balloon from a manga panel. The visible element shows clean, bold black outlines typical of manga speech bubbles, with what appears to be part of the curved border that defines the bubble's shape. The interior is white/blank, suggesting this may be an empty speech bubble or the text portion is not visible in this cropped section. The line work is consistent with standard manga paneling techniques, using solid black lines of medium weight to create clear boundaries. The composition shows only a fragment of what would be a larger speech bubble element within the panel layout.",
+          "text": "\u30cf\u30af\u30c8 \u3069\u3053\u3078 \u884c\u304f \u3093\u3060?"
+        },
+        {
+          "bbox": [
+            0.85,
+            0.3,
+            1.0,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A minimal speech bubble element consisting of a single thin black horizontal line against a white background. The line appears to be drawn with consistent line weight, typical of manga panel borders or speech bubble dividers. The stark contrast between the black line and white space creates a clean, geometric composition. No text, characters, or additional visual elements are present in this cropped section. The line's placement and isolation suggests it may be part of a larger speech bubble structure that has been cropped, possibly serving as a dividing element or border within the dialogue area.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.06,
+        0.72,
+        1.0,
+        1.0
+      ],
+      "description": "Large bottom panel showing a photograph or document on a surface",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.25,
+            0.9,
+            0.9
+          ],
+          "type": "object",
+          "description": "A manga-style illustration showing what appears to be a document or paper lying at an angle on a surface. The document contains Japanese text arranged in multiple columns and paragraphs, with some sections appearing to be structured like a form or report. In the upper portion of the document, there are manga-style character illustrations rendered with typical screentone/halftone shading patterns. The artwork uses clean, precise line work characteristic of manga illustration, with the characters depicted in the distinctive black and white manga art style with dot-pattern shading (screentones) for depth and texture. The document itself is drawn with perspective, showing it laid flat but viewed from an angled viewpoint, creating depth in the composition. The text appears dense and formal, suggesting this might be an official document, report, or detailed information sheet within the manga's narrative context.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.4
+          ],
+          "type": "background",
+          "description": "This manga background element shows a tiled floor surface rendered in classic black and white manga style. The tiles are depicted with clean, geometric line work creating a diagonal perspective grid pattern that recedes into the distance. The lineart uses consistent medium-weight strokes to define the tile edges and joints. Screen tone (halftone dot pattern) is applied to create subtle shading and depth across the floor surface, giving it dimensional form. In the upper right portion, there appears to be part of a character's leg or lower body visible, wearing what looks like dark clothing or stockings, rendered with screen tone shading. Some Japanese text characters are visible in the lower left area of the frame, appearing to be dialogue or narrative text typical of manga layouts. The overall composition creates a sense of perspective and spatial depth through the diagonal tile pattern leading the eye into the background.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

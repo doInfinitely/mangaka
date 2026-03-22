@@ -1,0 +1,107 @@
+{
+  "width": 911,
+  "height": 1400,
+  "description": "A two-panel manga page showing an intimate scene between two characters, with the first panel showing them embracing and the second panel showing a close-up of one character's face with an emotional expression.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.65
+      ],
+      "description": "A character with light hair wearing what appears to be a maid outfit is embracing or holding another person against what looks like a radiator or heater in a tiled room",
+      "elements": [
+        {
+          "bbox": [
+            0.35,
+            0.1,
+            0.85,
+            0.95
+          ],
+          "type": "character",
+          "description": "A manga-style character illustration showing two figures in an intimate embrace. The character on the left has messy, light-colored hair with bangs covering their eyes, wearing a dark sleeveless vest or top over a light-colored shirt. They are holding or embracing another character with long, flowing hair who appears to be wearing lighter clothing. The art style features clean, delicate linework typical of shoujo or romance manga, with minimal shading and gentle curves. The composition is vertical and intimate, showing the characters from roughly chest-up in what appears to be a tender moment. The background is minimal with simple geometric shapes suggesting an interior space. No visible text is present in this cropped panel element. The overall tone is soft and emotional, rendered in black and white with screentone effects for depth and atmosphere.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.4
+          ],
+          "type": "background",
+          "description": "This manga panel shows a character with short, tousled light-colored hair in a contemplative or possibly troubled pose, with their hand raised to their face in a gesture suggesting deep thought or distress. The character is wearing what appears to be a dark-colored sleeveless top or vest over a lighter garment. The art style employs clean, precise linework typical of manga, with subtle screen tone shading creating depth and atmosphere. The background features geometric ceiling tiles or panels rendered with crosshatched shading, giving the scene an indoor, institutional feel - possibly a classroom, office, or similar enclosed space. The composition places the character centrally, with the geometric ceiling pattern creating leading lines that frame the figure. The overall tone is monochromatic, using typical manga black and white palette with various gray tones achieved through screen toning techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.4,
+            0.4,
+            0.95
+          ],
+          "type": "object",
+          "description": "This manga panel shows a radiator or heating unit rendered in a clean, minimalist line art style typical of slice-of-life manga. The radiator features vertical fins or slats drawn with consistent, medium-weight black lines against white space. The upper panel shows the radiator in an unshaded, purely linear style with geometric precision. Below, a second panel depicts the same or similar radiator with added screentone shading - a diagonal crosshatch pattern in gray that creates shadow and depth. The composition emphasizes the mundane, everyday nature of the object through its straightforward presentation. The contrast between the clean line work above and the toned shading below suggests a shift in lighting or mood within the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.4,
+            0.95,
+            0.7
+          ],
+          "type": "background",
+          "description": "This manga background element shows a minimalist composition with clean, simple lineart. The image features part of a character's profile view on the left side, showing the lower portion of their face including the chin and neck area, rendered with thin, confident black lines. The character appears to be wearing what looks like a collared garment or shirt, indicated by simple geometric line work suggesting fabric folds and clothing structure. The majority of the frame is dominated by empty white space with subtle screentone or halftone dot pattern texture in the upper portion, creating a soft, atmospheric background effect typical of manga layouts. The art style employs minimal line weight variation, with consistent thin strokes that emphasize the clean, modern manga aesthetic. No text is visible in this cropped section. The composition uses negative space effectively, with the character element positioned in the left third of the frame, creating an open, airy feeling typical of contemplative or transitional manga panels.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.65,
+        1.0,
+        1.0
+      ],
+      "description": "Close-up of a character's face with closed eyes and an emotional expression, with sound effects",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.1,
+            0.85,
+            0.9
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a manga character with their eyes closed in a peaceful, serene expression. The character has flowing, layered hair with dynamic strands that frame their face, drawn with varying line weights from thin to bold strokes. The hair appears to be light-colored or white, rendered with clean lineart and minimal shading. The facial features are delicately drawn with soft lines - closed eyes depicted as gentle curves with subtle eyelashes, a small nose indicated by a simple mark, and relaxed lips. The character appears to be wearing dark clothing visible at the bottom of the frame, rendered with screentone/halftone shading. The overall art style is clean and minimalist, typical of modern manga, with strong contrast between the white/light areas and the darker shaded regions. The composition focuses entirely on the character's peaceful facial expression, creating an intimate, contemplative mood.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.6,
+            0.2,
+            0.85
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows the lower portion of a character's body, featuring legs in what appears to be a standing pose. The art style employs clean, confident black linework with varying line weights - thicker outlines defining the main forms and thinner lines for internal details. The character appears to be wearing fitted pants or trousers that end above the ankles. At the bottom of the frame, there are solid black triangular shapes that likely represent the character's feet or shoes, rendered as simple geometric forms. The shading is minimal and strategic, with some areas left completely white while others use solid black fills. The composition crops the figure from approximately mid-thigh down, creating a sense of the character's stance and ground contact. The overall style is typical of modern manga with its emphasis on clean linework and selective use of solid blacks for contrast and depth.",
+          "text": "UAAAAH..."
+        },
+        {
+          "bbox": [
+            0.82,
+            0.15,
+            0.98,
+            0.35
+          ],
+          "type": "sfx",
+          "description": "This manga element shows minimal line art consisting of simple black curved and straight lines on a white background. The lines appear to be part of a sound effect (sfx) element, rendered in a clean, minimalist style with consistent medium line weight. The composition features several curved lines that flow organically, possibly representing motion or impact lines typical of manga sound effects. There are no visible text characters, shading, or hatching techniques - just pure linear elements. The spatial arrangement suggests these lines may be emanating from or connecting to other parts of the panel that are cropped out of view. The art style is characteristic of modern manga with its crisp, clean linework and stark black-and-white contrast.",
+          "text": "SHINJIII"
+        }
+      ]
+    }
+  ]
+}

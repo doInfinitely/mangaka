@@ -1,0 +1,173 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A manga page showing a naval battle scene with a battleship and pilots in combat, depicting intense action with dialogue about synchronization rates and AT fields",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.548
+      ],
+      "description": "Wide panel showing a large battleship at an angle with smoke and various speech bubbles",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background depicts a detailed mechanical structure, likely part of a large mecha or robot's torso/chest area. The drawing shows industrial-style paneling with riveted metal plates, geometric angular surfaces, and cylindrical components. The art style features clean, precise linework typical of mecha manga, with screen tones used for shading and depth. Cross-hatching and mechanical details like bolts, seams, and panel lines are meticulously rendered. The composition shows the structure from a low angle perspective, emphasizing its massive scale. There are geometric patterns and technical elements that suggest advanced machinery or weaponry. The overall aesthetic is highly detailed and technical, characteristic of hard science fiction mecha designs in manga.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.15,
+            0.35,
+            0.55
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with black text positioned in the upper portion of the panel. The bubble has a clean, rounded rectangular shape with a pointed tail extending downward to indicate the speaker. The text reads 'THE AT FIELD'S OUTPUT HAS BECOME SO HIGH THAT THE ENTRY PLUG'S CAMERA HAS BEEN SCRAMBLED!!' in bold, all-caps lettering typical of manga dialogue. The speech bubble is set against a background with dark tonal areas and some screentone/halftone patterns. There appears to be another partial speech bubble visible in the upper right corner with fragmentary text beginning with 'WI', 'THE', 'GOIN', 'IN TH'. The overall composition uses high contrast between the white bubble and darker background elements, with clean line work characteristic of professional manga production.",
+          "text": "THE AT FIELD'S OUTPUT HAS BECOME SO HIGH THAT THE ENTRY PLUG'S CAMERA HAS BEEN SCRAMBLED!!"
+        },
+        {
+          "bbox": [
+            0.35,
+            0.05,
+            0.65,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'WHAT THE HELL'S GOING ON IN THERE?!' in bold, capitalized letters. The bubble has a traditional rounded rectangular shape with a pointed tail indicating the speaker's direction. The text appears to be hand-lettered in a typical manga font style. In the background, there are partial views of what appears to be architectural elements - possibly a brick or stone wall structure with vertical lines suggesting pillars or columns, rendered with screentone/halftone shading patterns typical of manga artwork. The overall composition uses high contrast black and white with detailed crosshatching and screentone effects to create texture and depth.",
+          "text": "WHAT THE HELL'S GOING ON IN THERE?!"
+        },
+        {
+          "bbox": [
+            0.65,
+            0.15,
+            1.0,
+            0.55
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing technical dialogue text. The bubble appears on the right side of the panel with clean, bold black text that reads 'UNIT 01'S SYNCHRO RATE IS AT... 120%... 130%... CONTINUING TO RISE!!' The text is arranged in a stacked format with ellipses creating dramatic pauses. The speech bubble has typical manga styling with clean white background and black border. On the left side of the panel, there's a detailed technical/mechanical structure drawn with fine line work, cross-hatching, and screentone patterns, appearing to be some kind of industrial or mecha-related equipment with cylindrical and angular components. The art style features precise technical lineart typical of mecha manga, with careful attention to mechanical details and structural elements.",
+          "text": "UNIT 01'S SYNCHRO RATE IS AT... 120%... 130%... CONTINUING TO RISE!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.548,
+        1.0,
+        0.855
+      ],
+      "description": "Panel showing two pilots in cockpits reacting with shock",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.0,
+            0.55,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character viewed from above, lying on what appears to be a geometric patterned surface with bold black and white diagonal stripes and chevron designs. The character has spiky dark hair and is wearing what looks like a light-colored outfit or uniform. Their face is partially visible, showing typical manga-style features with defined eyes and facial structure. The art style uses clean, bold line work with solid black areas contrasting against white spaces. There's screentone/halftone shading visible on parts of the character and background elements. Text appears in the upper portion reading 'FROM CENTRAL DOGMA...!!' and 'THIS' in the lower area. The composition creates a dynamic diagonal layout with the geometric floor pattern providing strong visual contrast against the character's form.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.55,
+            0.0,
+            0.9,
+            1.0
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character shown from approximately chest level down, wearing what appears to be a form-fitting bodysuit or armor with geometric paneling and segmented design. The character has a robust, muscular build with defined torso contours. The art style features bold, clean line work with moderate line weight and extensive use of screentone/hatching patterns for shading and texture. The character appears to be in motion or positioned at an angle, creating dynamic diagonal composition lines. Below the character figure is a speech bubble containing the text 'IT'S CUTTING THROUGH ALL THE BARRIERS LIKE NOTHING!!' in standard manga lettering style. The overall aesthetic is consistent with action manga, emphasizing the character's physical presence and the dramatic nature of the scene through the visual composition and dialogue.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.05,
+            0.4,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A blank white speech bubble with clean black outline, positioned in the upper left portion of the panel. The bubble has a simple, rounded rectangular shape with a small tail pointing downward and to the right, indicating the speaker is located below and to the right of the bubble. The speech bubble contains no text and appears empty, suggesting either an unfinished translation or a moment of silence. The bubble's outline uses consistent medium-weight black lines typical of manga art style. Below the speech bubble, there are geometric architectural elements showing what appears to be a striped or slatted structure (possibly stairs, ceiling beams, or building materials) rendered with bold black and white contrast, and diagonal hatching patterns for shading and depth.",
+          "text": "AN INCREDIBLY FAST FLYING OBJECT ORIGINATING FROM CENTRAL DOGMA...!!"
+        },
+        {
+          "bbox": [
+            0.6,
+            0.15,
+            0.95,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble element showing a partial view of a character with spiky, light-colored hair. The character appears to be wearing what looks like a headband or cap with small circular details or studs. The art style features clean line work with halftone/screentone shading patterns typical of manga. The speech bubble itself is cropped, showing mainly the white negative space with black border lines. The shading uses dot patterns and gradients to create depth and dimension. The composition shows the character from a side or three-quarter angle, with the hair rendered in a typical manga style with defined spikes and volume. No visible text appears in this cropped portion of the speech bubble.",
+          "text": "NOW WHAT?!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.855,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom panel showing geometric patterns and a character",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.7,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element features dynamic geometric patterns with bold, angular black and white designs. The composition includes sharp zigzag and chevron patterns that create a sense of movement and intensity. There are diagonal striped elements with varying line weights, from thick bold strokes to finer parallel lines. The art style employs high contrast black ink work with dramatic speed lines and geometric shapes that suggest motion or impact. Visible text includes 'THIS IS...' in a speech bubble on the left side, and partial text reading 'LIKE NOTHING' in the upper right corner. The overall composition uses typical manga visual effects with strong directional lines and stark tonal contrasts to create visual tension and energy in the background space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A cropped view of a manga character shown from approximately chest level, featuring a figure in what appears to be a light-colored garment or shirt. The character's pose shows their torso and part of their arm/hand area. The art style employs classic manga techniques with bold, confident line work of varying weights - thicker outlines defining the main forms and thinner lines for interior details. The shading is accomplished through solid black areas and geometric hatching patterns, creating strong contrast against the white/light areas. In the background, there are distinctive diagonal speed lines or motion lines rendered as parallel white streaks against a solid black background, suggesting movement or dramatic tension. The composition uses high contrast black and white tones typical of manga artwork, with clean, precise linework characteristic of professional manga illustration. Some text appears to be partially visible in the upper left corner but is cropped and unclear in this fragment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.3,
+            0.25,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of a manga speech bubble showing clean, bold black outlines typical of manga panel borders. The bubble appears to be cut off at the edges of the crop, showing only curved black lines that form part of the speech bubble's boundary. The lines are drawn with consistent, confident strokes using solid black ink with no variation in line weight. The background within the visible portion appears to be white/blank, suggesting this is an empty speech bubble or the text portion is not visible in this cropped section. The art style follows traditional manga conventions with sharp, clean lineart and high contrast between the black borders and white interior space.",
+          "text": "THIS IS..."
+        },
+        {
+          "bbox": [
+            0.5,
+            0.1,
+            0.95,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with clean, bold black outlines typical of manga style. The bubble appears to be empty or contains minimal text that is not clearly visible in this cropped section. The speech bubble has a classic rounded rectangular shape with a small tail or pointer extending from it, indicating the speaker's direction. The background shows high contrast black and white areas with bold, angular line work characteristic of dramatic manga art style. The composition suggests this is part of a larger panel with dynamic visual elements, including what appears to be architectural or geometric shapes rendered in stark black and white contrast.",
+          "text": "IT'S CUTTING THROUGH ALL THE BARRIERS LIKE NOTHING!!"
+        }
+      ]
+    }
+  ]
+}

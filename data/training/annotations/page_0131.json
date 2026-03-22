@@ -1,0 +1,151 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A manga page showing a spacecraft or mechanical structure in the top panel, followed by characters reacting to some kind of high-speed movement or phenomenon in the bottom panels.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.567
+      ],
+      "description": "Large panel showing a detailed mechanical structure or spacecraft with multiple speech bubbles containing technical dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background depicts a massive mechanical structure or mecha rendered in detailed manga style with heavy industrial design elements. The structure features angular, geometric forms with numerous panels, rivets, and mechanical details typical of hard science fiction mecha design. The artwork uses clean, precise line work with varied line weights to define the mechanical surfaces and structural elements. Shading is achieved through screentones and cross-hatching, creating depth and dimension across the metallic surfaces. The composition shows the structure from a low angle, emphasizing its imposing scale and mechanical complexity. Various panels and components are visible with technical detailing including what appears to be entry ports, sensor arrays, and armored plating. The background has a stark black area at the top, creating dramatic contrast with the detailed mechanical forms below. The overall art style is characteristic of detailed mecha manga with precise technical illustration merged with dynamic comic storytelling visuals.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.15,
+            0.35,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with black text in Spanish reading 'LA POTENCIA DEL CAMPO AT SE HA VUELTO TAN ALTA QUE EL VISOR DEL ENTRY PLUG SE HA DESTRUIDO !!' The bubble has a distinctive irregular, jagged shape typical of manga speech bubbles conveying urgency or alarm. The text is arranged in multiple lines with consistent spacing and appears to be hand-lettered in a bold, sans-serif style. The bubble is set against a high-contrast black and white background with screentone/halftone patterns visible. There's partial text visible in the upper right corner reading 'QUE F NIOS OCUR DO DEN !!' which appears to be part of another speech element. The overall composition suggests this is from an action or mecha manga scene with dramatic dialogue about some kind of technical malfunction or damage to an 'Entry Plug' visor due to high AT field power.",
+          "text": "LA POTENCIA DEL CAMPO AT SE HA VUELTO TAN ALTA QUE EL VISOR DEL ENTRY PLUG SE HA DESTRUIDO !!"
+        },
+        {
+          "bbox": [
+            0.35,
+            0.1,
+            0.6,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing Spanish text that reads 'JE DEMO-COS EST\u00c1 CCURRIEN-DO ALL\u00cd DENTRO TIEN??' The bubble has a typical manga speech bubble shape with clean black outlines. Below the speech bubble, there is a partial view of what appears to be a character's clothing - showing detailed fabric with cross-hatching shading techniques typical of manga art. The clothing appears to have some kind of textured or patterned material, rendered with fine parallel lines and cross-hatching for depth and shadow. The art style uses clean black line work with varying line weights, and the shading employs traditional manga techniques including screentones and hatching patterns.",
+          "text": "QUE DEMONIOS EST\u00c1 OCURRIENDO ALL\u00cd DENTRO !!??"
+        },
+        {
+          "bbox": [
+            0.65,
+            0.15,
+            0.98,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A rectangular speech bubble with clean black border lines containing Spanish text in all capital letters. The text reads 'EL RANGO DE SINCRONIZACI\u00d3N DE LA UNIDAD 01 EST\u00c1 A... 120%... 130%... CONTIN\u00daA ELEV\u00c1NDOSE!!!' The speech bubble has a stark white background with bold, sans-serif lettering arranged in multiple lines. The text appears to be expressing escalating technical readings or measurements with increasing urgency, indicated by the ellipses and exclamation marks. The bubble is positioned on the right side of the panel and uses standard manga speech bubble conventions with sharp, angular corners rather than rounded edges.",
+          "text": "EL RANGO DE SINCRONIZACI\u00d3N DE LA UNIDAD 01 EST\u00c1 A... 120%.... 130%.... CONTIN\u00daA ELEV\u00c1NDOSE!!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.567,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom section with multiple smaller panels showing characters reacting to a high-speed phenomenon",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.48,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dramatic manga panel showing a character in an intense moment. The character appears to be falling or in motion, with their body positioned diagonally across the frame. They are wearing what appears to be a uniform or formal clothing with clean, angular lines. The art style features bold, confident line work with strong contrast between black and white areas. There's prominent use of geometric patterns, particularly diagonal striping that creates a sense of movement and disorientation. The shading technique includes both solid black fills and screentone/halftone patterns for mid-tones. Two speech bubbles are visible - one containing 'CENTRAL...!!' at the top and another with 'ESTO ES...' at the bottom left. The composition creates a dynamic, vertigo-inducing effect through the use of diagonal elements and contrasting patterns, emphasizing the character's apparent state of distress or shock.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.48,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dynamic manga panel showing a character in dark clothing with distinctive cross-hatched shading and screentone effects. The figure appears to be in motion, positioned at an angular perspective that creates a sense of speed and urgency. The character is rendered with bold, confident line work typical of action manga, with strong contrast between black and white areas. Heavy shadows and dramatic angles dominate the composition. Spanish text appears in a speech bubble reading 'EST\u00c1 ATRAVESANDO TODAS LAS BARRERAS COMO SI NADA !!' The panel uses geometric shapes and speed lines to emphasize movement and impact. The art style features thick outlines, detailed cross-hatching for shadows, and screentone patterns that create depth and texture throughout the composition.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.15,
+            0.35,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows a speech bubble with bold black and white diagonal striping or hatching pattern filling most of its interior space. The speech bubble has the typical rounded rectangular shape with a small tail or pointer extending from it. The diagonal lines create a strong geometric pattern, alternating between thick black stripes and white spaces. The line work is clean and precise with consistent spacing between the diagonal elements. The overall composition suggests this might be representing sound effects, emphasis, or a stylized visual element rather than containing readable text. The art style uses high contrast black and white with no gray tones, typical of traditional manga screening techniques.",
+          "text": "OBJETO VOLANDO A INCRE\u00cdBLE VELOCIDAD, PROVENIENTE DEL DOGMA CENTRAL...!!"
+        },
+        {
+          "bbox": [
+            0.7,
+            0.15,
+            0.98,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "This is a white speech bubble with a clean, rounded rectangular shape typical of manga dialogue balloons. The bubble has a thin black outline and contains no visible text. It's positioned over what appears to be part of a character or object rendered in grayscale manga style with screentone/halftone patterns. The background elements show typical manga line art with varying line weights - some bold black strokes and finer detail lines. There are areas of screentone shading creating texture and depth. The composition suggests this speech bubble is meant to contain dialogue or thoughts from a character, though the text is not visible in this cropped segment. The clean, minimalist style of the speech bubble contrasts with the more detailed screentoned artwork beneath it.",
+          "text": "AHORA QUE DEMONIOS!!?"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This background element shows a dramatic architectural or structural environment with strong geometric patterns. The composition features intersecting beams, girders, or structural supports rendered in bold black and white contrasts. There are diagonal lines creating dynamic angular patterns, with heavy black shadows and white highlights emphasizing the industrial or construction-like setting. The art style uses thick, confident line work typical of action manga, with stark contrasts between black and white areas rather than detailed shading or hatching. Speed lines and motion effects are visible, suggesting movement or impact. Spanish text is visible reading 'ESTO ES...' (This is...) and 'TODAS LAS BARRERAS COMO SI NADA!!' (All barriers like nothing!!), indicating this is likely from a Spanish translation. The overall composition creates a sense of scale and power, with the geometric structural elements filling the frame in a way that suggests the character is moving through or interacting with a large architectural space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.65,
+            0.25,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the Spanish text 'ESTO ES...' in bold, black capital letters. The bubble has a clean white interior with a standard rounded rectangular shape and a small tail pointing toward the speaker. The text is positioned in the upper portion of the bubble, leaving white space below. The bubble is set against dramatic black angular shapes that appear to be hair or clothing rendered in solid black ink with sharp, jagged edges. The art style uses high contrast between the pure white of the speech bubble and the deep black surrounding elements, typical of manga's bold graphic approach. The lettering has a clear, readable font with consistent spacing between characters, and the ellipsis suggests an incomplete thought or dramatic pause in the dialogue.",
+          "text": "ESTO ES..."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.65,
+            0.98,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "This manga element shows a partial speech bubble with stark black and white contrast typical of manga art style. The bubble appears to be cropped, showing only a portion of what would be a larger speech element. The image features bold, heavy black ink areas with clean white spaces, demonstrating the characteristic high-contrast aesthetic of manga artwork. There are several diagonal black marks or lines visible on the left side, which could be speed lines, emphasis marks, or part of the speech bubble's tail or border. The composition uses strong geometric shapes with sharp, clean edges created by thick line weights. The overall style suggests this is from a dramatic or action-oriented manga sequence, given the bold visual treatment and dynamic line work.",
+          "text": "ESTA ATRAVESANDO TODAS LAS BARRERAS COMO SI NADA !!"
+        }
+      ]
+    }
+  ]
+}

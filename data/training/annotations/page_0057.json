@@ -1,0 +1,162 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A dramatic manga page showing emotional interactions between characters, with one character appearing distressed and another making promises. The page uses vertical panel layouts to create tension and focus on character expressions.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.5,
+        1.0
+      ],
+      "description": "Large left panel showing a close-up of a character with light hair looking emotional/distressed",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.8
+          ],
+          "type": "character",
+          "description": "A close-up portrait of an anime/manga character with silver-white hair and large, expressive eyes. The character has a melancholic or pensive expression, with slightly downturned eyes and a subtle frown. The hair is drawn with flowing, dynamic lines and screentone shading to create depth and texture. The art style uses clean, precise linework with varied line weights - thicker outlines for the main features and finer details for hair strands. The shading employs screentones and hatching techniques typical of manga artwork. In the background, there's a smaller full-body figure of what appears to be the same character wearing a dark coat or uniform, shown from behind in a standing pose. Spanish text appears in speech bubbles, including 'PORQUE LA PERSONA M\u00c1S PRECIADA PARA IKARI-KUN' and 'ME LO PIDI\u00d3...!!'. The composition creates an emotional contrast between the intimate close-up and the distant figure, emphasizing feelings of isolation or longing.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.05,
+            0.7,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble positioned in the upper right portion of the panel, containing Spanish text that reads 'PORQUE LA PERSONA M\u00c1S PRECIADA PARA IKARI-KUN' (Because the most precious person to Ikari-kun). The bubble has a clean white fill with a black outline and a tail pointing downward toward what appears to be a character's hair rendered in typical manga style with flowing strands. The background shows part of a character's light-colored hair drawn with fine black linework and subtle screentone shading. The overall art style is characteristic of shoujo or josei manga with delicate line weights and soft rendering techniques.",
+          "text": "PORQUE LA PERSONA M\u00c1S PRECIADA PARA IKARI-KUN"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.75,
+            0.6,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with bold black outline containing the Spanish text 'ME LO PIDI\u00d3...!!' in uppercase letters. The bubble has a typical manga speech bubble shape with a curved tail pointing downward toward the speaker. Below the speech bubble, there are abstract curved shapes rendered in different tones - some areas are white, others filled with screentone patterns of varying densities creating gray gradients. The art style uses clean black lines for the bubble outline and geometric screentone patterns typical of manga illustration techniques. The composition suggests this is part of a larger panel showing a character speaking, with the bubble positioned in the upper portion of the cropped area.",
+          "text": "ME LO PIDI\u00d3...!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.5,
+        0.08,
+        0.66,
+        0.92
+      ],
+      "description": "Narrow vertical panel showing a full-body view of a character walking",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.3,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "A cropped vertical manga panel showing a character in dark clothing, likely a jacket or coat, rendered in typical manga black and white style. The figure is positioned in profile or three-quarter view, with heavy black shading and crosshatching used to define the clothing's folds and shadows. The art style features clean, confident line work with varying line weights - thicker outlines for the main forms and finer lines for details. At the bottom of the panel, there's a white speech bubble containing the text 'POR M\u00cd.' in bold, sans-serif lettering. The overall composition uses strong contrast between the dark figure and white background, with detailed crosshatching patterns adding texture and depth to the character's clothing. The cropped nature of the panel focuses attention on the torso and clothing details rather than facial features.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.15,
+            0.6,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a vertical speech bubble or panel element with a distinctive manga art style. The element features heavy black ink areas contrasted against white space, with characteristic cross-hatching and screentone patterns typical of manga artwork. The composition shows strong vertical lines and geometric shapes, with dense black silhouettes creating dramatic contrast. The shading technique uses traditional manga screentones - fine dot patterns that create graduated gray tones. The line work appears bold and confident, with thick black strokes defining the main shapes. The overall aesthetic is clean and minimalist, focusing on the interplay between positive and negative space. No readable text is visible in this cropped section.",
+          "text": "POR-QUE YO"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.7,
+            0.7,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A vertical speech bubble with a distinctive elongated oval shape. The bubble has thick black borders with heavy crosshatching and shading around the edges, creating a dramatic shadow effect typical of manga art. The interior is clean white space containing the text 'POR M\u00cd.' in bold, sans-serif lettering positioned in the upper portion of the bubble. The bubble appears to be part of a larger panel composition, with its vertical orientation suggesting it may be positioned alongside a character or integrated into a dramatic scene layout. The heavy black shading and crosshatching technique gives the speech bubble weight and emphasizes the importance of the dialogue.",
+          "text": "HICE UNA PROMESA..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.66,
+        0.08,
+        0.82,
+        0.92
+      ],
+      "description": "Narrow vertical panel showing hands and dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.4,
+            0.9,
+            0.9
+          ],
+          "type": "object",
+          "description": "A vertical manga panel showing what appears to be clothing or fabric elements in black and white. The image features stark contrasts with solid black areas against white/light gray backgrounds. There are curved lines suggesting fabric folds or clothing contours, with some areas showing crosshatching or screentone patterns typical of manga art. The composition is vertically oriented with clean panel borders. The linework appears bold and confident with varying line weights, creating depth through the contrast between the dark and light areas. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.05,
+            0.95,
+            0.3
+          ],
+          "type": "speech_bubble",
+          "description": "This is a vertical speech bubble with a stark black and white contrast typical of manga art. The bubble appears to be empty or contains minimal text that is not clearly visible in this cropped section. The bubble has clean, bold outlines with varying line weights - thicker outer borders and thinner internal elements. The left side shows solid black areas with white speed lines or motion effects radiating outward, creating a sense of movement or impact. The right portion displays characteristic manga screentone (halftone dot patterns) creating gray tonal values. The composition suggests this bubble is part of a dramatic moment, with the high contrast and dynamic visual elements typical of action or emotional scenes in manga storytelling.",
+          "text": "REI... CUIDA A ESE IDIOTA"
+        },
+        {
+          "bbox": [
+            0.05,
+            0.75,
+            0.4,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a cropped section of a manga speech bubble showing the characteristic curved border edge. The image shows a stark contrast between areas of different tonal values - one side features dense dot-matrix halftone screening (Ben-Day dots) creating a dark gray tone, while the other side is clean white, typical of speech bubble interiors. The curved border line is clean and precise with consistent line weight, following standard manga panel construction techniques. The halftone pattern uses evenly spaced dots in a regular grid formation, which is a common manga screening technique for creating mid-tone grays. No text is visible in this cropped portion, showing only the structural elements of the speech bubble's edge and the tonal contrast between the bubble's interior space and the screened background area.",
+          "text": "POR M\u00cd."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.82,
+        0.08,
+        1.0,
+        1.0
+      ],
+      "description": "Right panel showing another character with light hair in what appears to be a plugsuit",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.2,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in a vertical crop, depicting a young person with spiky, windswept hair rendered in typical manga style with sharp, angular strands. The character has large, expressive eyes with detailed pupils and is wearing what appears to be a dark-colored jacket or coat with visible buttons and collar details. The art style features clean, bold line work with varying line weights - thicker outlines for the character's silhouette and finer lines for facial features and hair details. Shading is accomplished through screentone/halftone patterns, particularly visible on the clothing, creating depth and texture. The character appears to be positioned at a slight angle, with the composition cropped to show primarily the upper torso and head. The overall aesthetic is consistent with modern manga illustration techniques, featuring high contrast between black and white areas with grey screentone work for mid-tones.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

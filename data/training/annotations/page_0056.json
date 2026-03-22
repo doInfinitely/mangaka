@@ -1,0 +1,162 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A dramatic manga page showing an emotional conversation between characters, with one character making a promise and another expressing concern about someone precious to them.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.49,
+        1.0
+      ],
+      "description": "Large panel showing a close-up of a character with light hair and an emotional expression",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up portrait of a character with medium-length hair that partially covers one eye, drawn in typical manga style with clean, flowing lines. The character has a gentle, somewhat melancholic expression with soft facial features. The art style uses minimal shading with screentone patterns, particularly visible in the hair which has delicate cross-hatching and tone work to create depth and texture. In the background, there's a smaller full-body figure of what appears to be another character standing in the distance, rendered in lighter tones. The composition places the main character's face prominently in the foreground, creating a sense of emotional intimacy. Speech bubbles contain dialogue including 'BECAUSE THE PERSON MOST PRECIOUS TO IKARI-KUN', 'ASKED ME...!!', and 'MADE A PROMISE...', indicating this is likely an emotionally charged scene. The line work is precise and delicate, characteristic of shoujo or seinen manga art styles, with particular attention paid to the character's expressive eyes and hair detail.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.05,
+            0.8,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'BECAUSE THE PERSON MOST PRECIOUS TO IKARI-KUN' in bold, black lettering. The bubble has a clean, rounded rectangular shape with a tail pointing downward and to the left, indicating the speaker is positioned below and to the right of the bubble. The speech bubble is rendered in solid white with black outlines, creating strong contrast against the screentoned background. Below the bubble, portions of what appears to be flowing hair or fabric are visible, rendered with screentone shading and clean line art typical of manga style. The overall composition uses high contrast between the white speech bubble and the grayscale screentoned elements, with precise, confident line weights that create clear visual hierarchy.",
+          "text": "BECAUSE THE PERSON MOST PRECIOUS TO IKARI-KUN"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.8,
+            0.4,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing the text 'ME...!!' in bold, stylized lettering with multiple exclamation marks indicating shock or surprise. The bubble has a classic oval shape with a pointed tail extending downward toward the speaker. Below the speech bubble is a partial view of a character showing the neck and upper chest area, rendered in typical manga style with clean line work. The character appears to be wearing what looks like a light-colored garment or uniform with darker trim or edging. The art style features standard manga techniques including screen tone/halftone patterns for shading on the clothing, creating texture and depth. The line weight varies from thin to medium, with crisp, clean strokes characteristic of professional manga artwork. The composition focuses on the emotional impact of the dialogue while providing just enough character detail to establish the speaker's presence.",
+          "text": "ASKED ME...!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.49,
+        0.09,
+        0.67,
+        1.0
+      ],
+      "description": "Tall narrow panel showing a character from behind walking away",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.2,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "A vertically cropped manga panel showing a character in profile view, drawn in classic black and white manga style. The character appears to be wearing dark clothing with detailed shading and cross-hatching techniques. The art uses heavy black ink work with white highlights, creating strong contrast. There's a speech bubble containing the text 'FOR ME.' positioned in the lower portion of the panel. The composition is vertical and narrow, suggesting this is likely a side panel or margin element. The shading technique employs screentone or halftone patterns typical of manga artwork, with areas of solid black contrasted against lighter toned regions. The line work appears confident with varied line weights, heavier for outlines and lighter for internal details.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.5,
+            0.25
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a speech bubble element showing only the right edge/border. The bubble appears to have a clean, black outline with consistent line weight typical of manga speech bubbles. The interior is filled with a light screentone or halftone pattern, creating a subtle gray texture rather than solid white. The curved edge suggests this is part of a rounded or oval speech bubble. The cropped nature of the image shows only a vertical strip of the bubble's border and interior, with no visible text or other content within the frame.",
+          "text": "BE-CAUSE I"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.75,
+            0.6,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble containing the text 'ME.' in bold, black lettering. The bubble appears to be cut off at the edges of the crop, showing only a white speech bubble background with black text. To the left side of the image, there are heavy black cross-hatching patterns and solid black areas that appear to be part of a character's hair or clothing. The art style uses traditional manga techniques with stark black and white contrasts, dense cross-hatching for shadows, and clean line work. The composition shows the speech bubble positioned against these darker artistic elements, creating visual contrast between the white bubble and the heavily shaded background elements.",
+          "text": "MADE A PROMISE"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.67,
+        0.09,
+        0.85,
+        1.0
+      ],
+      "description": "Another tall narrow panel showing a close-up of what appears to be a hand or gesture",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view from the side, with spiky light-colored hair and large expressive eyes characteristic of manga art style. The character appears to be wearing dark clothing, possibly a jacket or uniform. The art employs typical manga techniques with clean black ink lines of varying weights - thicker outlines for the character silhouette and finer lines for facial features and hair detail. The shading uses screentone/halftone patterns and solid black areas to create depth and contrast. The character's expression appears concerned or serious. There is partial dialogue text visible in the upper portion reading fragments like 'REI...' and 'KE CARE' and 'F THAT' and 'IDIOT', suggesting this is part of a conversation. The composition shows the character positioned vertically within what appears to be a narrow panel format, with the figure cropped to show mainly the head, neck and upper torso area.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A partial manga panel showing the edge of a speech bubble with clean, bold black outlines. The bubble appears to be cut off at the left edge of the frame. Behind it, there are glimpses of a character with light-colored hair rendered in typical manga style with clean linework. The hair shows fine parallel hatching lines for shading and texture. The art style features crisp, confident line weights with the speech bubble outline being notably thick and solid. The composition suggests this is part of a dialogue scene, with the bubble positioned in the foreground. No text is visible in this cropped portion of the speech bubble.",
+          "text": "REI... TAKE CARE OF THAT IDIOT"
+        },
+        {
+          "bbox": [
+            0.2,
+            0.7,
+            0.8,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows a partial speech bubble with minimal visual content. The image features clean, bold black lineart with typical manga styling. There appears to be part of a character's profile or silhouette visible on the right side, rendered with simple but confident line work. The background has a subtle screentone or halftone pattern texture, which is a common manga technique for adding visual interest to backgrounds. The speech bubble itself appears to be mostly empty or cropped, showing primarily the curved border lines that define the bubble's shape. The overall composition uses high contrast between the white speech bubble area and the textured background, with consistent line weights throughout. No readable text is visible in this cropped portion of the panel.",
+          "text": "FOR ME."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.85,
+        0.09,
+        1.0,
+        1.0
+      ],
+      "description": "Final narrow panel showing another character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.2,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A vertical manga panel showing a young male character in profile view, positioned on the right side of the frame. He has tousled, layered hair with dynamic strands falling across his forehead, rendered with confident black ink lines of varying weights. His expression appears contemplative or slightly troubled, with visible eye detail showing a gentle gaze. He's wearing what appears to be a school uniform or formal jacket with a high collar and visible buttons, depicted with clean geometric shapes and subtle screen tone shading. The character's pose suggests he's looking off to the left side of the panel. The art style features typical manga characteristics with clean line work, strategic use of screen tones for shading on the clothing, and minimal background detail focusing attention on the character. The composition uses the tall, narrow format effectively to create an intimate character study with strong vertical emphasis.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

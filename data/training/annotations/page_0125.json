@@ -1,0 +1,173 @@
+{
+  "width": 1280,
+  "height": 926,
+  "description": "A two-page manga spread showing characters discussing deployment at field and full speed, with various character close-ups and action scenes",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.344,
+        1.0
+      ],
+      "description": "Left panel showing close-up of blonde character and dark-haired character",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.6
+          ],
+          "type": "character",
+          "description": "This manga panel shows two characters in a split composition. On the left is a character with long, flowing light-colored hair and large eyes with a concerned or surprised expression, saying 'DEPLOYING AT FIELD.' The art style features clean, delicate line work typical of manga, with the hair rendered in flowing strokes and subtle shading. On the right panel shows a dark-haired character with a more serious expression, responding with 'AH...' The right character appears to be wearing what looks like a uniform or formal clothing with dotted/halftone shading patterns. The panels are divided by a clean vertical border, and there's atmospheric shading and tone work in the background. The line weights vary from thin detail lines for facial features to bolder outlines for the main character silhouettes. The overall composition creates a dialogue scene with contrasting character designs and emotional tones.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.58,
+            0.15,
+            1.0,
+            0.75
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view, featuring a young person with messy, spiky dark hair covering part of their face. The character has large, expressive eyes typical of manga style and appears to be wearing a collared shirt or uniform. The art style uses clean, bold black lines for outlines with minimal shading, creating a high contrast black and white aesthetic. The character's expression appears contemplative or slightly melancholic. There are screentone patterns visible in the background and clothing areas, creating texture through halftone dots. Some Japanese text characters are visible in the upper portion of the panel. The composition shows the character from roughly chest-up in a vertical panel layout, with the figure positioned toward the left side of the frame against a textured background that includes both screentone patterns and solid black areas.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.12,
+            0.65,
+            0.25
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with bold black text reading 'LOYING FIELD.' The bubble has a clean white background with a standard rounded rectangular shape and a small tail pointing toward the speaker. The text uses a typical manga font style with strong, thick lettering. The bubble is positioned in the upper left portion of the frame. Part of a character's dark hair is visible at the edge, rendered with solid black fill and clean line work typical of manga art style. The overall composition suggests this is mid-dialogue in a conversation scene.",
+          "text": "DEPLOYING AT FIELD."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.08,
+            0.95,
+            0.18
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with clean, simple black outlines containing Japanese text that appears to read 'AH' or similar characters. The bubble has a typical oval/rounded shape with a small tail pointing downward, indicating the speaker is likely positioned below or to the side. The text inside is rendered in standard manga font style. The background shows dotted/screentone shading effects typical of manga printing techniques, creating a textured gray area. The overall composition suggests this is a reaction or exclamation from a character, with the bubble positioned in the upper portion of the panel against the screentoned background.",
+          "text": "AH..."
+        },
+        {
+          "bbox": [
+            0.05,
+            0.75,
+            0.4,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A clean, oval-shaped speech bubble with a simple black outline and white fill. The bubble contains black text that reads 'LET'S TAKE THIS AT FULL SPEED.' in a standard manga font. The speech bubble has a typical pointed tail extending toward the bottom right, indicating the speaker's direction. The line work is consistent with typical manga style - clean, uniform black lines with no shading or special effects. The bubble appears to be floating against a white background, suggesting this is cropped from a larger panel. The text is left-aligned within the bubble and takes up roughly the center portion of the speech bubble's interior space.",
+          "text": "LET'S TAKE THIS AT FULL SPEED."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.344,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Right panel showing action scene with multiple characters in what appears to be a vehicle or cockpit",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.4
+          ],
+          "type": "background",
+          "description": "This manga panel element shows a dramatic architectural background with stark geometric contrasts. The composition features bold black angular shapes - likely beams or structural elements - creating strong diagonal lines against a predominantly white background. The black areas are rendered with solid fills and subtle screen tones/hatching patterns that add texture and depth. In the lower right portion, flowing hair or fabric elements are visible, drawn with delicate curved lines that create organic movement against the rigid architectural forms. The art style employs high contrast between pure white and deep black areas, with minimal gray tones, creating a dramatic and dynamic visual effect typical of modern manga aesthetics. The composition uses negative space effectively, with the white areas forming as important a visual element as the black structural components. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.25,
+            0.9,
+            0.85
+          ],
+          "type": "character",
+          "description": "This manga panel depicts two characters in an intimate, close composition rendered in black and white. The left character has long, flowing light-colored hair with twin-tails that cascade dynamically, wearing what appears to be a sailor-style uniform or school outfit with distinctive collar details. Their expression appears gentle or contemplative. The right character has shorter, dark hair and wears what looks like a cap or hat, with a more surprised or concerned facial expression, mouth slightly open. The art style employs clean, confident line work with varying weights - thicker outlines for character definition and finer lines for detail work. Shading is achieved through careful use of solid blacks and screen tones, creating depth and contrast. The composition brings the two characters very close together, suggesting an emotional or dramatic moment. The spatial arrangement shows them at slightly different heights, with the long-haired character positioned slightly behind or above. The overall rendering style is characteristic of modern manga with polished, professional lineart and effective use of negative space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.45,
+            0.95,
+            0.75
+          ],
+          "type": "character",
+          "description": "A close-up view of a young male manga character shown from approximately chest level up. He has dark, messy hair with bangs framing his face and large, expressive eyes with a surprised or concerned expression. His mouth is slightly open, suggesting he's speaking or reacting to something. He's wearing what appears to be a light-colored jacket or shirt with darker trim or collar details. The art style features clean, bold line work typical of manga, with selective use of screentones for shading on the clothing. The shading creates depth and dimension, particularly on the fabric folds. The character appears to be positioned at an angle, creating a dynamic composition. The background is minimal, focusing attention on the character's facial expression and upper body. The overall aesthetic is characteristic of shounen or seinen manga style with detailed facial features and expressive linework.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.7,
+            0.6,
+            1.0
+          ],
+          "type": "object",
+          "description": "This manga panel shows two large mechanical or armored objects, likely parts of mecha or robotic suits, rendered in a dramatic low-angle perspective. The objects feature heavy angular plating with geometric panel lines and segmented armor sections. The art style employs bold, confident linework with varied line weights - thicker outlines define the main forms while thinner lines detail panel separations and surface features. Shading is achieved through screentone application, creating mid-tone grays that give volume and depth to the metallic surfaces. The composition uses strong diagonal elements and foreshortening to create a sense of imposing scale and weight. Dynamic motion lines streak across the background, suggesting movement or impact. Page numbers '104' and '105' are visible in the lower corners, indicating this spans across a two-page spread. The overall aesthetic is characteristic of mecha manga, with clean technical linework and dramatic angular compositions typical of the genre.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.45,
+            0.25,
+            0.65
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a dramatic sound effect (sfx) rendered in bold black shapes against a white background. The sfx appears to be abstract geometric forms - angular, jagged black silhouettes that create a strong visual impact. The shapes are solid black with clean, sharp edges and no internal detail or shading. The composition uses high contrast between the pure black forms and white negative space. There are some small linear elements - thin black lines that appear to be motion lines or impact indicators scattered around the main shapes. The overall style is typical of manga sound effects, using bold graphic shapes rather than traditional lettering to convey explosive or impactful sounds. The angular, fragmented nature of the black forms suggests violence, destruction, or sudden movement. No readable text is visible - this is purely a visual sound effect representation.",
+          "text": "!!!"
+        },
+        {
+          "bbox": [
+            0.4,
+            0.55,
+            0.6,
+            0.75
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (sfx) rendered in bold, angular white lettering against a dynamic background. The text appears to be integrated into an action scene with dramatic diagonal composition lines and heavy contrast between black and white areas. The lettering style is characteristic of manga sound effects with sharp, pointed edges and varying line weights that create visual impact. The background features geometric shapes and motion lines typical of action sequences, with areas of solid black contrasting against white space. The overall composition suggests movement or impact, with the sfx text positioned to complement the dramatic flow of the scene.",
+          "text": "!!!"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.95,
+            0.85,
+            1.0
+          ],
+          "type": "object",
+          "description": "A minimalist manga art element showing two thin, dark diagonal lines against a light gray or off-white background. The lines appear to be drawn with consistent, fine line weight and extend from the upper left toward the lower right of the frame. The lines are parallel to each other and spaced evenly apart. The background has a subtle texture or tone, typical of manga paper. The composition is stark and geometric, with clean linework characteristic of professional manga illustration. No text is visible in this cropped element. The lines could represent architectural elements, movement lines, or abstract compositional elements within a larger panel.",
+          "text": "104"
+        },
+        {
+          "bbox": [
+            0.85,
+            0.95,
+            0.95,
+            1.0
+          ],
+          "type": "object",
+          "description": "A minimalist manga panel element showing a plain light gray or off-white background with subtle texture. The surface appears to have a very faint paper-like grain or slight mottled texture typical of manga backgrounds. The coloring is nearly monochromatic, using light neutral tones. There are no visible characters, objects, text, or detailed artwork - this appears to be either negative space, sky, or a simple background element used to create visual breathing room in the panel composition. The art style is clean and unadorned, with no visible line work, shading, or hatching techniques applied to this particular element.",
+          "text": "105"
+        }
+      ]
+    }
+  ]
+}

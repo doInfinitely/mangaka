@@ -1,0 +1,195 @@
+{
+  "width": 944,
+  "height": 1400,
+  "description": "A manga page showing a confrontation scene with a close-up of a scarred hand, followed by dialogue between characters about defeat and evidence, ending with multiple panels showing characters in what appears to be an indoor setting.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.64
+      ],
+      "description": "Large panel showing a close-up of an outstretched hand with visible scars and wrinkles against a white background",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.0,
+            0.85,
+            0.95
+          ],
+          "type": "object",
+          "description": "The image shows two panels featuring detailed drawings of hands in classic manga style. The top panel displays a close-up of an open palm viewed from the front, with all five fingers extended and spread apart. The hand shows intricate line work with fine hatching and cross-hatching to indicate skin texture, wrinkles, and dimensional form. The fingers have carefully drawn joint lines and natural creases, with clean black outlines of varying thickness. The bottom panel shows a similar hand from a different angle, positioned against a screentoned background with halftone dots. In this panel, there's also a partial view of a male character with dark hair and serious expression wearing what appears to be a collared shirt or jacket. Spanish text 'DE MI DERROTA.' is visible in the lower left. The art style is typical of seinen manga with realistic proportions, detailed anatomy, and professional use of screentones and line weights to create depth and texture.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.85,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a minimalist composition with strong contrasts between black and white areas. The upper portion features smooth white space with subtle screentone/halftone dotted shading creating atmospheric depth. There are bold black silhouetted shapes that appear to be partial figures or objects, including what looks like curved lines suggesting clothing or fabric. The art style employs clean, confident linework with stark tonal separation typical of manga illustration. The composition uses negative space effectively, with the black elements creating dramatic contrast against the lighter screentoned areas. The overall aesthetic is sophisticated and minimalist, focusing on shape and form rather than detailed rendering.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.64,
+        1.0,
+        0.92
+      ],
+      "description": "Horizontal panel showing two characters in conversation, with speech bubbles",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.45,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view, facing left. The character has dark, messy hair with distinctive spiky strands and appears to be wearing a light-colored collared shirt or jacket. The art style features clean, bold line work typical of manga illustration, with solid black areas used for the hair and strategic shading. The character is positioned in the right portion of the panel, creating a strong compositional balance. The drawing uses minimal but effective hatching and tone work, with the character's hair rendered in deep black contrasting against the lighter clothing. The overall style is consistent with contemporary manga aesthetics, emphasizing clean lines and dramatic contrast between light and dark areas.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows two male characters in what appears to be a tense confrontational scene. The character on the left has dark hair partially covering his face and is shown in profile/three-quarter view with a serious, somewhat troubled expression. The character on the right appears to be pinned down or restrained, with light-colored hair and what looks like stitching or scars across his face, giving him a damaged or battle-worn appearance. The art style uses clean, bold line work typical of manga with strategic use of screentone shading and dramatic black and white contrast. The composition creates tension through the close proximity of the characters and their opposing positions. Spanish text bubbles are visible containing dialogue including 'ENTONCES... \u00bfPORQUE ESTAS AQUI?' and 'INCLUSO SI NO TE LA HUBIESE LLEVADO,' and 'CON ADAN FUERA' and 'NO HAY NADA QUE REI PUDIESE HABER HECHO.' The panel uses dramatic angles and close-up framing to emphasize the emotional intensity of the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.25,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing Spanish text that reads 'LUGAR EST\u00c1 LLAMADO UNA RUTA DIRECTA HACIA AQU\u00cd... EXISTE'. The text is displayed in standard manga lettering style with bold, clear characters. The speech bubble appears to be positioned in the upper right portion of the panel, with its characteristic rounded outline and tail pointing toward the speaker. The background shows part of what appears to be a mechanical or technological structure with detailed cross-hatching and shading typical of manga art. There's also what looks like a numbered element '18' visible in the background mechanical details. The overall art style demonstrates precise line work with varied line weights and detailed mechanical rendering characteristic of science fiction or mecha manga.",
+          "text": "DE MI DERROTA."
+        },
+        {
+          "bbox": [
+            0.7,
+            0.1,
+            0.95,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the Spanish text 'CON ADAN FUERA,' positioned in the upper right portion of the panel. The bubble has a clean white background with bold, black lettering in a standard manga font. The speech bubble has a rounded rectangular shape with a small tail pointing toward a character below. The character visible in the frame wears what appears to be a hooded garment or mask with a distinctive cross-hatched or grid pattern covering their face. The art style features heavy black ink work with screentone shading typical of manga, creating strong contrast between light and dark areas. The linework is bold and confident, with thick outlines defining the character's silhouette against the white background.",
+          "text": "ESTA ES LA EVIDENCIA"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.92,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom section with multiple smaller panels showing characters and dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.25,
+            1.0
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing the lower portion of a character's face and upper torso. The character appears to be wearing a light-colored garment with a collar or neckline visible. The art style features clean, confident line work with moderate line weight typical of manga illustration. The character's chin and jawline are visible, drawn with smooth curves. There is a speech bubble containing the text 'DO.' positioned in the upper portion of the crop. The overall composition uses minimal shading, relying primarily on clean lineart. The background is plain white, focusing attention on the character elements. The drawing style appears to be from a contemporary manga with polished, professional execution.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.1,
+            0.22,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble rendered in typical manga style with clean, bold black outlines. The bubble has a curved, organic shape with smooth edges and appears to be cut off at the bottom and right edges of the frame. The interior is white/blank space. There is text visible that reads 'DO.' in what appears to be standard manga lettering - likely part of a longer word or sentence that extends beyond the cropped area. The line weight is consistent and moderate, creating a clear contrast against the white background. The bubble's tail or pointer is partially visible extending toward the right, suggesting it's pointing to a character outside the frame.",
+          "text": "A PESAR DE QUE ESTE LUGAR EST\u00c1 SELLADO, UNA RUTA DIRECTA HASTA AQU\u00cd EXISTE.\n\nREI PODR\u00cdA HABER VENIDO A ESTE LUGAR SI LO HUBIESE DESEADO."
+        },
+        {
+          "bbox": [
+            0.25,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "A cropped manga character element showing a partial view of a figure with black hair. The character appears to be positioned in the upper portion of what would be a manga panel, with only the top/back of their head visible. The hair is rendered with solid black fill and clean line work typical of manga art style. The character seems to be viewed from behind or at an angle where facial features are not visible. The line weight is consistent and bold, with sharp, clean edges defining the hair silhouette. The composition suggests this is part of a larger panel layout, as evidenced by the visible panel borders at the top of the frame. No text is visible in this cropped element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.45,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a cropped portion of a black speech bubble or dialogue balloon from a manga panel. The element shows stark black coloring with clean, solid fills typical of manga speech bubbles. The visible portion has smooth, curved edges characteristic of speech balloon borders. The art style uses bold, solid black areas without visible line weight variations or shading techniques like screentones or hatching within this particular element. No text is visible in this cropped section, suggesting this may be from the tail or edge portion of a larger speech bubble. The composition shows high contrast between the black bubble area and what appears to be white space, following standard manga visual conventions for dialogue presentation.",
+          "text": "ENTONCES... PORQUE EST\u00c1S AQU\u00cd?"
+        },
+        {
+          "bbox": [
+            0.5,
+            0.0,
+            0.75,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga panel shows a close-up of a character's lower face and neck area. The character appears to have their head tilted or turned, with flowing hair visible at the edge of the frame. The art style features clean, confident line work with varying line weights - thicker outlines for major forms and thinner lines for details. The shading is minimal and relies primarily on clean lineart rather than heavy tonal work. The composition focuses on the graceful curve of the neck and jawline, with the hair rendered in flowing, dynamic strokes that suggest movement. The background includes simple geometric panel borders typical of manga layout. No text is visible in this cropped section. The overall style is characteristic of shoujo or josei manga with its emphasis on elegant, refined linework and subtle emotional expression conveyed through body language and positioning.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.52,
+            0.1,
+            0.72,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble visible in the upper portion of the frame, rendered in clean black lineart typical of manga style. The bubble shows curved edges with consistent line weight, appearing to be cut off by the panel border. Below it, there are minimal character elements visible - what appears to be part of a figure or clothing rendered with simple, clean lines. The art style is minimalist with no shading or screentones visible in this cropped section. The composition suggests this is likely from a dialogue scene, with the speech bubble positioned above the speaking character. No text is visible within the partial bubble shown.",
+          "text": "INCLUSO SI NO TE LA HUBIESES LLEVADO,\n\nNO HAY NADA QUE REI PUDIESE HABER HECHO."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing part of a character's torso and clothing. The character appears to be wearing a gray or light-colored garment, possibly a shirt or jacket, rendered with fine crosshatching and screentone patterns typical of manga art. There's a black section visible, likely part of the clothing or an accessory. In the upper left corner, there are flowing white lines that appear to be hair strands rendered in a dynamic, swept motion. The art style uses clean, precise linework with varying weights - thinner lines for details and hair, thicker lines for clothing contours. The shading is achieved through traditional manga techniques including screentones and crosshatching patterns. The composition is fragmentary, showing only a portion of the character's body from roughly the chest/shoulder area.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.77,
+            0.1,
+            0.95,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing only the bottom right corner and tail portion. The speech bubble appears to have clean, bold black outlines typical of manga art style. The visible portion shows smooth curved lines forming the bubble's border, with a pointed tail or connector extending downward, indicating the direction of speech toward a character below. The interior of the bubble appears white/blank in this cropped section. The line work is consistent with professional manga standards, featuring solid black strokes of medium weight. No text is visible in this particular cropped portion of the speech bubble.",
+          "text": "CON AD\u00c1N FUERA,"
+        }
+      ]
+    }
+  ]
+}

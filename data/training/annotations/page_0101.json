@@ -1,0 +1,74 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A full-page manga panel showing a young girl with twin-tails standing in what appears to be a futuristic or mechanical setting with stairs and architectural elements",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "A single large panel depicting a girl in a dress standing in an industrial or sci-fi interior space",
+      "elements": [
+        {
+          "bbox": [
+            0.25,
+            0.15,
+            0.75,
+            0.95
+          ],
+          "type": "character",
+          "description": "A young manga girl character with extremely long, straight hair styled in twin tails that extend well past her waist. She has large, expressive eyes with a gentle, slightly melancholic expression and appears to be looking directly at the viewer. She's wearing a Victorian-style long dress that reaches mid-calf, featuring puffy short sleeves, a white lace collar with a dark bow tie, and decorative lace trim at the bottom hem. Her feet are clad in simple black Mary Jane shoes. The character is positioned centrally in the frame, standing on what appears to be stairs or steps in an indoor setting. The art style uses clean, precise linework with minimal shading, relying primarily on screentone patterns for texture and depth. The background shows architectural elements including railings and geometric patterns rendered in typical manga halftone screening. The overall composition emphasizes the character's delicate, doll-like appearance against the structured interior environment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.4
+          ],
+          "type": "background",
+          "description": "This manga panel depicts an industrial or institutional interior background with distinctive architectural features. The scene shows a large room with high ceilings and structural columns featuring black and white diagonal striping patterns that create a bold geometric contrast. The ceiling displays exposed beams and industrial framework rendered with fine line work and cross-hatching. The floor appears to be tiled or patterned, drawn with consistent parallel lines creating a sense of depth and perspective. Various architectural elements like doorways, support structures, and wall fixtures are visible throughout the background, all executed in typical manga style with clean line weights and detailed cross-hatching for shadows and depth. The overall composition creates a sense of scale and institutional atmosphere, possibly suggesting a school, factory, or similar large building interior. The background is rendered entirely in black and white with extensive use of screentone patterns for shading and texture.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.4,
+            0.4,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel shows a minimalist background composition featuring flowing hair or fabric elements in the upper portion. The hair/fabric is rendered with clean, sweeping black lines that create dynamic curved shapes suggesting movement or wind. Below this, there are horizontal ruled lines typical of notebook paper or writing paper, creating a structured contrast to the organic flowing elements above. The art style uses simple black line work without heavy shading or screentone, emphasizing clean lineart. At the bottom edge, there appears to be a partial view of what might be a character's head or face rendered in darker tones with some screentone shading. The overall composition creates a sense of vertical movement from the flowing elements at top transitioning to the geometric horizontal lines below, suggesting this might be a transitional or atmospheric panel in the manga sequence.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.6,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A minimalist manga background showing the lower portion of a character in a school or office setting. The scene depicts a person wearing a pleated skirt with dotted/screentone shading and black Mary Jane shoes with ankle straps. The character is positioned near what appears to be modern furniture - likely a desk or table with clean geometric lines and a ladder-back chair visible in the composition. The art style employs clean, precise linework with minimal shading, using screentones for texture on the skirt fabric. The background elements are rendered with simple line art, creating a stark contrast against the white space. The composition is cropped to focus on the lower body and immediate surroundings, creating an intimate, close-up perspective typical of manga storytelling techniques. No text is visible in this panel element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.85,
+            0.15,
+            1.0
+          ],
+          "type": "object",
+          "description": "This manga panel element shows a cropped portion of what appears to be a rounded, curved object or form rendered in typical manga style. The object has a smooth, organic shape with clean black outlines of medium weight. The interior is filled with fine dot-pattern screentone (halftone shading), creating a gray tone that gives the form dimensional depth and volume. There's a small white highlight or reflection mark on the curved surface, suggesting a glossy or smooth texture. The composition shows only a partial view of this object, with clean white negative space surrounding it. The art style is characteristic of professional manga illustration with precise linework and traditional screentone application for shading effects.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

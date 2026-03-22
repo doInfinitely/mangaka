@@ -1,0 +1,184 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A manga page showing three panels depicting a tense scene with characters in what appears to be a technological facility or laboratory setting",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.077,
+        0.0,
+        0.851,
+        0.322
+      ],
+      "description": "Top panel showing a character in a plugsuit/bodysuit standing against geometric background elements",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.6,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element features a dramatic composition of angular, fragmented shapes creating a dynamic visual impact. The image is divided into distinct sections with varying tonal treatments: a solid black triangular area dominates the upper portion, contrasted against white and dotted halftone areas. The dotted regions use fine screentone patterns typical of manga production - one area has small uniform dots while another section displays a crosshatch dot pattern in gray tones. Sharp, jagged line work defines the boundaries between these sections, suggesting broken or shattered surfaces. The composition creates strong diagonal movement across the frame. In the upper right corner, there appears to be text reading 'AAAA' followed by ellipses ('....'), rendered in a standard manga font. The overall effect suggests destruction, impact, or explosive force through the fractured geometric design and high contrast between the solid black and white areas.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.15,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character with shoulder-length light-colored hair partially covering their face, creating a melancholic or distressed expression. The character appears to be wearing what looks like a school uniform or formal outfit with a vest or jacket. The art style employs typical manga techniques with clean line work of varying weights - thicker outlines for the character and finer lines for details. Screen tones (dot patterns) are used for shading, particularly visible on the clothing and background elements. The composition is divided into two sections by a horizontal panel border. In the upper portion, there's a speech bubble containing 'AAAAH' followed by ellipses, suggesting a cry of distress or frustration. The character's pose and the overall visual treatment conveys emotional turmoil or anguish, with the hair partially obscuring the face being a common manga visual metaphor for inner conflict or sadness.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.35,
+            0.6,
+            0.55
+          ],
+          "type": "sfx",
+          "description": "This cropped manga panel element shows a sound effect (sfx) text rendered in bold, stylized lettering that reads 'AAA'. The text appears to be positioned in the upper portion of the frame against a white background. Below the text, there are several diagonal hatching lines creating a subtle shading effect. A curved black line extends downward from the lower portion of the frame, likely part of a character outline or object boundary. The art style features clean, confident linework typical of manga illustration, with the sound effect text drawn in a bold, impactful style to convey auditory emphasis or exclamation.",
+          "text": "AAAAAH ...."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.077,
+        0.35,
+        0.851,
+        0.644
+      ],
+      "description": "Middle panel showing a close-up of a character's face with distressed expression",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows an interior architectural space with clean, minimalist line work. The top portion depicts what appears to be a doorway or entrance with simple geometric shapes - vertical panels on either sides rendered with fine crosshatching/screentone, and a central white opening where the sound effect 'AAAAAH' is positioned in bold black letters. Below is a corridor or hallway scene with polished floors indicated by horizontal lines and reflective qualities. The walls feature regularly spaced vertical panels or doors with small circular elements (likely handles or fixtures) positioned symmetrically. The right side shows a partial view of a character - a young person with messy hair wearing what appears to be a school uniform or casual clothing, positioned in the lower right corner. The overall art style uses clean line weights with minimal shading, relying on screentone patterns for depth and texture. The composition emphasizes perspective and architectural precision typical of manga backgrounds, creating a sense of institutional or school-like environment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up view of a manga character's face and upper body positioned in the upper right portion of the panel. The character has light-colored, messy hair with jagged bangs partially covering their forehead. Their eye is drawn in typical manga style with a serious or contemplative expression, featuring clean linework and subtle shading. The character appears to be wearing dark clothing, possibly a high-collared shirt or jacket. The art style employs fine line weights with screentone shading creating depth and texture. The character's positioning creates a sense of them looking down or across at something, with their face taking up a significant portion of the frame. The overall composition suggests this is likely a reaction shot or moment of contemplation within the narrative.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.3,
+            0.35,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "This manga element shows a sound effect (sfx) rendered in a minimalist black and white style. The image consists of two horizontal panels separated by a thin black line. The top panel features a white background with a distinctive curved black line that creates an angular, jagged shape resembling a crack or break. The bottom panel shows a dotted/screentone background with what appears to be small black marks or dots scattered across it, along with some thin horizontal lines. The art style uses clean, precise linework with contrasting areas of solid white, screentone patterns, and black elements. The composition suggests this represents some kind of impact, breaking, or splitting sound effect typical in manga visual storytelling.",
+          "text": "AAAAAH"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.077,
+        0.672,
+        0.851,
+        1.0
+      ],
+      "description": "Large bottom panel showing an interior laboratory/facility scene with multiple characters and equipment",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background depicts a medical or laboratory setting with detailed architectural elements. The scene shows a tiled floor with large square panels and institutional lighting fixtures mounted on the ceiling. On the left side, there's detailed technical equipment including what appears to be monitoring devices or computers with screens and control panels, rendered with fine cross-hatching and precise linework. The right side shows a person in medical attire sitting on what appears to be an examination table or bed. The background includes Spanish text in speech bubbles reading 'SI LA SITUACI\u00d3N CONTIN\u00daA A COMO EST\u00c1 AHORA...!!' The art style uses clean, precise linework with selective cross-hatching for shadows and texture. The perspective creates depth through the tiled floor pattern and the positioning of equipment and furniture throughout the sterile, clinical environment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.25,
+            0.25,
+            0.8
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a character from roughly chest/torso level down, depicted in a three-quarter view. The character is wearing what appears to be a light-colored, loose-fitting garment with vertical pleating or fold lines running down the length. The clothing has a flowing, possibly traditional or casual style. The art style employs clean, confident line work with moderate line weights for the garment outlines. Vertical hatching and parallel lines are used to indicate the fabric's texture and natural draping folds. The shading is minimal and subtle, focusing on defining the garment's structure rather than dramatic lighting effects. Spanish text is visible in the upper portion, reading 'SI LA SITUACION CONTINUA A COMO ESTA AHORA...' The composition shows the character positioned toward the right side of the frame, with the text occupying the left portion, creating a balanced layout typical of manga paneling.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.4,
+            0.55,
+            0.7
+          ],
+          "type": "character",
+          "description": "This manga panel fragment shows a character rendered in a minimalist line art style. The figure appears to be drawn with clean, thin black lines against a white background with subtle halftone dot patterns. The character seems to be in a bent or crouched position, with their form simplified to basic curved contours. The line weight is consistent and delicate, typical of manga's clean aesthetic. There's minimal detail in the character's features, focusing more on the overall silhouette and pose. The composition shows only a partial view of the character, suggesting they are part of a larger panel that has been cropped. The halftone screening in the background adds texture and depth to the otherwise stark black and white illustration. No text is visible in this particular fragment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.85,
+            0.45,
+            1.0
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character showing the lower portion of their face and upper torso. The character appears to be wearing a light-colored garment, possibly a shirt or jacket. The art style features clean, confident line work with varied line weights - thicker outlines for the main forms and thinner lines for details. The shading is accomplished through traditional manga techniques including screentone dots visible in the background and cross-hatching patterns. The character's pose suggests they are positioned at an angle, with their body turned slightly. The composition shows them in what appears to be an indoor setting, with architectural elements like walls or panels visible in the background. The overall style is typical of shounen or seinen manga with its detailed linework and realistic proportions.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.05,
+            0.6,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "This manga element shows a partial view of a character's legs and lower torso in a minimalist art style. The figure appears to be wearing fitted pants or leggings with cross-hatching shading technique used to define the form and add dimension. The line work is clean and precise with medium line weight, typical of manga illustration. The background is predominantly white/blank space with some simple architectural lines suggesting an indoor setting, possibly near furniture or structural elements. The composition is cropped to focus on the lower body portion, creating a sense of partial view or intimate framing. No visible text appears in this speech bubble element, suggesting it may be an empty dialogue balloon or background element within a larger panel sequence.",
+          "text": "LA SINCRONIZACI\u00d3N DE LA UNIDAD 01 EST\u00c1 APENAS SOBRE EL L\u00cdMITE!!"
+        },
+        {
+          "bbox": [
+            0.65,
+            0.2,
+            0.95,
+            0.55
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with a curved, organic outline typical of manga dialogue balloons. The bubble appears empty with no visible text inside. The bubble has clean, medium-weight black lines forming its border against a white interior. It's positioned in the upper portion of the panel, floating above what appears to be an interior scene. The speech bubble's tail or pointer is not clearly visible in this cropped section, but the overall shape suggests it's meant to contain dialogue or thoughts from a character in the scene below.",
+          "text": "DONDE EST\u00c1 EL FUEGO DE PROTECCI\u00d3N? QUE DEMONIOS EST\u00c1 SUCEDIENDO!?"
+        },
+        {
+          "bbox": [
+            0.02,
+            0.55,
+            0.28,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel shows a speech bubble with a distinctive angular, geometric shape that appears to be integrated into an architectural setting. The speech bubble has sharp, angular edges rather than the typical rounded form, creating a more dynamic and dramatic visual effect. The bubble appears empty of text in this cropped view. The art style features clean, precise line work with consistent line weights throughout. The background shows detailed architectural elements including what appears to be wooden structures or buildings with vertical line patterns suggesting wood grain or siding. There's subtle cross-hatching and tone work used to create depth and texture in the architectural elements. The composition places the speech bubble prominently against the structured background, creating a strong contrast between the geometric speech bubble form and the more organic architectural textures.",
+          "text": "SI LA SITUACI\u00d3N CONTIN\u00daA A COMO EST\u00c1 AHORA...!!"
+        }
+      ]
+    }
+  ]
+}

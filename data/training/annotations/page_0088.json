@@ -1,0 +1,162 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A dramatic manga sequence showing intimate moments between two characters, followed by a scene transition to what appears to be a building exterior and finally someone lying on a floor",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.63,
+        0.57
+      ],
+      "description": "Large panel showing two characters in an intimate embrace, with one character having blonde hair and the other with dark hair",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character depicted in close-up, lying down with spiky, light-colored hair and an intense or strained facial expression. The character appears to be breathing heavily or in distress, with one eye visible and mouth slightly open. The art style features clean, bold line work typical of manga, with minimal shading and high contrast between black and white areas. The character's positioning suggests they are horizontal, possibly resting or recovering. Below this main panel is a smaller panel showing what appears to be an interior architectural space with geometric patterns, diagonal hatching for shading, and structural elements like beams or corridors rendered in a detailed technical style. The overall composition uses stark black and white contrast with no gray tones, emphasizing the dramatic nature of the scene.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.63,
+        0.0,
+        1.0,
+        0.28
+      ],
+      "description": "Small panel showing a close-up of a character's face in profile with eyes closed",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in a resting or sleeping position, depicted in typical manga art style with clean black ink lines on white background. The character appears to be lying down with their head tilted, showing spiky or messy hair rendered with bold black strokes. The facial features are minimally detailed, consistent with manga's economical line art approach. There's a Japanese sound effect '\u30b9...' (su...) visible in the upper left, suggesting a soft breathing or sleeping sound. The composition uses negative white space effectively, with the character taking up most of the upper panel. Below is a second smaller panel showing what appears to be flowing or spiky hair details with screentone (halftone dot pattern) shading in the background. The line weights vary from thin for facial contours to bold for hair definition and panel borders, creating visual hierarchy typical of manga illustration techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.3,
+            0.5
+          ],
+          "type": "sfx",
+          "description": "A partial sound effect (sfx) element showing bold, angular black strokes that appear to be part of a larger onomatopoeia. The visible portion consists of sharp, dynamic line work with varying thickness - thick bold strokes contrasted with thinner connecting lines. The art style is typical of manga with clean, confident lineart and no shading or hatching. The strokes have a jagged, energetic quality suggesting movement or impact. Only a fragment of what appears to be a larger sound effect is visible in this cropped section, positioned in the upper portion of the frame with white negative space around it.",
+          "text": "\u30b9..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.63,
+        0.28,
+        1.0,
+        0.57
+      ],
+      "description": "Panel showing a character's face with eyes closed and peaceful expression",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga element shows a partial view of a character in profile, depicted in classic black and white manga style. The image captures the character from roughly chest level up, showing them in a side view facing left. The character appears to be wearing what looks like a light-colored shirt or jacket with clean, simple line work. The art style features bold, confident line weights with minimal but effective shading achieved through screentone/halftone patterns visible in the background areas. The character's hair is drawn with flowing, organic lines typical of manga character design. The composition is intimate and close-up, creating a sense of quiet contemplation or introspection. The background uses dotted screentone patterns to create depth and atmosphere. The overall aesthetic is clean and minimalist, focusing attention on the character's silhouette and form rather than intricate details. No text is visible in this cropped element.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.09,
+        0.59,
+        0.91,
+        0.81
+      ],
+      "description": "Wide panel showing the exterior of a building with construction barriers",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element features a minimalist interior space with clean, geometric lines. The composition shows what appears to be a corner of a room with white or light-colored walls meeting at right angles. The art style employs very thin, precise line work with minimal shading, creating a stark, empty atmosphere. There are some Japanese sound effect characters (katakana) visible in the lower left portion that appear to read \"\u30ac\u30c3\" or similar, rendered in bold black brushstrokes that contrast sharply with the otherwise clean lineart. The background uses negative space effectively, with most of the panel being white/empty space, emphasizing the sparse, possibly tense or contemplative mood typical of dramatic manga scenes. The line weight is consistently thin throughout the architectural elements, suggesting this is likely a establishing shot or transition panel meant to convey atmosphere rather than detailed environmental information.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.3,
+            0.4,
+            0.7
+          ],
+          "type": "object",
+          "description": "A small, dark silhouette or shadow element positioned in the lower left portion of what appears to be a mostly white or blank panel space. The object appears as a simple black shape with minimal detail, likely representing either a distant figure, an object casting a shadow, or a background element. The art style is minimalistic with clean, solid black coloring against the white background. No text is visible in this cropped section, and the spatial composition suggests this is a minor background or atmospheric element rather than a focal point of the panel.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.09,
+        0.83,
+        0.91,
+        1.0
+      ],
+      "description": "Panel showing a person lying on the floor in what appears to be an empty room or hallway",
+      "elements": [
+        {
+          "bbox": [
+            0.6,
+            0.4,
+            1.0,
+            0.9
+          ],
+          "type": "character",
+          "description": "A character depicted in dramatic perspective lying or falling backwards, rendered in classic manga style with bold black ink and heavy contrast. The figure appears to be wearing dark clothing with detailed cross-hatching and screen tone shading. The character's pose suggests movement or impact, with limbs positioned dynamically. The art style features thick, confident line work with areas of solid black shadows and fine hatching details typical of action manga. The composition uses strong diagonal lines and foreshortening to create a sense of motion and dramatic tension. The background elements include speed lines and environmental details that frame the character's position in the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A stark black and white manga background element showing a figure lying prone on what appears to be a tiled or paved floor. The character is wearing dark clothing and appears to be in a defeated or unconscious state, positioned horizontally across the frame. The art style uses clean, bold line work with minimal shading, employing selective screen tones for depth. The floor is rendered with geometric tile patterns and perspective lines that create depth. On the left side, there are dynamic motion lines or impact marks rendered as bold black strokes, suggesting recent action or violence. The composition emphasizes the horizontal placement of the fallen figure against the angular geometry of the floor tiles, creating a sense of finality or conclusion to whatever confrontation preceded this moment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.1,
+            0.25,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "A minimalist sound effect element rendered in stark black ink against a white background. The sfx consists of several dynamic diagonal lines of varying lengths and thicknesses, creating a sense of sharp movement or impact. The lines are positioned at different angles, with some appearing as solid bold strokes and others as shorter, more delicate marks. The composition suggests a slashing or cutting motion, with the lines arranged in a scattered but purposeful pattern that conveys kinetic energy. The art style is clean and precise, using only black ink with no shading or gradation, creating a high contrast effect typical of manga sound effects. The spatial arrangement flows from upper left toward the lower right, giving directional emphasis to the implied action.",
+          "text": "\u30d6\u30b9\u30fc"
+        }
+      ]
+    }
+  ]
+}

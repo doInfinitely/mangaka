@@ -1,0 +1,162 @@
+{
+  "width": 897,
+  "height": 1400,
+  "description": "A manga page showing multiple panels with characters in what appears to be an intense situation involving AT field generation and pattern recognition",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.46,
+        0.75
+      ],
+      "description": "Left panel showing a character with spiky dark hair looking concerned, with dramatic sound effects in the background",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This is a dynamic sound effect (sfx) rendered in bold, angular katakana characters against a stark black and white background. The text appears to be stylized with thick, geometric letterforms that create a sense of impact or explosion. The characters are white against black angular shapes, with dramatic diagonal lines and sharp edges cutting through the composition. The art style employs high contrast with no gradients or gray tones, using only solid black and white areas. The lettering has a blocky, constructed quality typical of manga sound effects, with clean edges and bold line weights. The overall composition suggests movement and force, with the angular black shapes creating dynamic negative space around the white text. The sfx dominates the frame with its bold presence, likely representing a loud sound or impact in the story.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.45,
+            0.9,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view from the left side, with spiky, messy hair rendered in bold black strokes. The character appears to be looking upward or to the side with a determined or intense expression. The art style features strong, dynamic line work typical of action manga, with heavy black shading and high contrast between black and white areas. The character's face shows sharp, angular features with defined jawline and nose. There are dramatic speed lines and motion effects in the background, creating a sense of movement or impact. Partial text is visible in the upper right corner reading 'A ST', 'AT H', 'IS GEN', 'PRO', 'SIXTH' in a typical manga font style. The overall composition uses bold, expressive linework with areas of solid black creating dramatic shadows and contrast.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.46,
+        0.0,
+        1.0,
+        0.6
+      ],
+      "description": "Upper right panel showing a character with light-colored hair and large eyes",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character with long, flowing hair rendered in typical manga style with clean black lineart and screentone shading. The character appears to be speaking, with a white speech bubble containing the text 'I'M GOD.' positioned above their head. The character's face is partially visible, showing one large eye with detailed shading and what appears to be fanged teeth or an open mouth. The hair is drawn with dynamic flowing lines and filled with gray screentone, creating depth and movement. The composition is cropped tightly on the character's head and upper body area. The art style uses bold black outlines with minimal hatching, relying primarily on screentone for shading effects. There are some sound effects or action lines visible on the left side of the panel, rendered in typical manga onomatopoeia style.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.15,
+            0.5,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing the characteristic curved border typical of dialogue balloons. The bubble has a clean, bold black outline with consistent line weight. The interior is filled with a light halftone dot pattern or screentone, creating a subtle gray texture against the white background. The visible portion shows the rounded edge and partial tail or pointer of the speech bubble, which would typically direct toward the speaking character. The art style is clean and minimalist, consistent with modern manga conventions, with no visible text in this cropped section. The composition shows the bubble against a stark white background, creating strong contrast typical of manga panel layouts.",
+          "text": "I'M GOD."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.46,
+        0.6,
+        1.0,
+        0.75
+      ],
+      "description": "Small panel with dialogue about AT field generation",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel fragment shows part of a speech bubble with bold, dramatic text that appears to read 'RONG FIELD ERATING M THE CAGE!!' (likely a partial view of a longer exclamation). The speech bubble has the characteristic rounded, organic shape typical of manga dialogue balloons with clean black outlines. The visible portion shows strong, thick lettering in all caps, suggesting an intense or urgent delivery. The panel features typical manga line art with clean black ink work and halftone dot screening (screentone) visible in the background areas. The composition appears to be cropped from a larger action scene, with curved structural elements or machinery visible at the edges, rendered with bold black lines and white highlights that create strong contrast typical of manga's high-contrast aesthetic.",
+          "text": "A STRONG AT FIELD IS GENERATING FROM THE SIXTH CAGE!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.75,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom panel showing characters and a pixelated pattern display",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's face in profile, rendered in black and white with heavy contrast. The character appears distressed or shocked, with their mouth open as if gasping or crying out. The dialogue 'ORANGE... NO...' is positioned in the upper left portion of the panel. The art style features bold, thick line weights with heavy use of screentone and solid black areas creating dramatic shadows. The character's hair and facial features are defined by strong, angular linework typical of action manga. The composition is tightly cropped, focusing intensely on the emotional expression. The background contains geometric shapes and panels that appear fragmented or broken, suggesting destruction or chaos, with various tones of gray screentone creating depth and texture throughout the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.2,
+            0.7,
+            0.9
+          ],
+          "type": "object",
+          "description": "This manga panel element shows a close-up view of clothing, specifically what appears to be a jacket or coat with a dotted or polka-dot pattern. The garment is rendered in typical manga style with clean black linework and screentone shading. There's a speech bubble containing the text 'PATTERN BLUE...' in bold, capitalized letters. The clothing appears to have lapels or collar details, and the screentone pattern creates texture and depth. The composition focuses on the upper torso area of the garment, with strong vertical panel borders visible on the left side. The art style uses standard manga techniques with varying line weights - thicker lines for main contours and finer lines for details and pattern elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.6,
+            0.25,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial speech bubble element rendered in classic manga style. The visible portion shows the characteristic curved outline of a speech bubble, drawn with clean, consistent black linework of medium weight. The interior of the bubble appears to be white/blank, suggesting this may be an empty speech bubble or the text portion is cropped out of view. The background shows subtle crosshatch shading patterns typical of manga artwork, created with fine parallel lines that create tonal variation. The overall composition suggests this bubble is positioned in the upper portion of a panel, with the curved edge creating a natural flow that would typically point toward a speaking character. The art style demonstrates traditional manga techniques with precise linework and careful attention to the bubble's smooth, organic curves.",
+          "text": "ORANGE... NO..."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.6,
+            0.95,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial speech bubble element showing the characteristic pointed tail or connector that extends from the main bubble body toward a speaker. The visible portion displays clean, bold black lineart typical of manga style, with solid black fill in some areas and white negative space. The angular, geometric construction of the speech bubble tail creates sharp, defined edges rendered with consistent line weight. The composition shows strong contrast between the solid black areas and white background, demonstrating the high-contrast aesthetic common in manga artwork. No text is visible in this cropped portion of the speech bubble.",
+          "text": "PATTERN BLUE..."
+        },
+        {
+          "bbox": [
+            0.7,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga element shows a close-up detail of a character's clothing, specifically focusing on what appears to be a jacket or coat collar area. The garment features distinctive studded or riveted detailing along the edges, with multiple small circular metal studs creating decorative lines. The art style employs clean, confident line work with varying line weights - thicker outlines define the main shapes while thinner lines indicate fabric folds and structural details. The shading technique uses screentone (halftone patterns) to create depth and dimension, particularly visible in the darker fabric areas. The composition shows flowing fabric with natural wrinkles and creases, suggesting movement or a relaxed drape. The overall aesthetic is typical of modern manga styling with its precise lineart and selective use of tonal shading. No text is visible in this cropped portion.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

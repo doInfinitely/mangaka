@@ -1,0 +1,107 @@
+{
+  "width": 911,
+  "height": 1400,
+  "description": "A manga page showing an emotional scene between two characters, with one character appearing distressed while the other comforts them. The page consists of two panels showing different perspectives of their interaction.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.68
+      ],
+      "description": "A wide panel showing a character in distress being comforted by another character in what appears to be an indoor setting",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A two-panel manga page rendered in black and white with detailed screentone shading. The top panel shows a character with messy, layered hair in what appears to be a maid outfit with puffy sleeves and an apron, positioned near what looks like a radiator or heating unit against a tiled wall background. The character appears to be in a contemplative or downcast pose. The bottom panel shows a close-up detail of flowing fabric, likely the character's dress or skirt, with the text 'SHINJI' visible in the lower right corner. The art style features clean linework with varied line weights, extensive use of screentones for shading and texture, particularly on the tiled ceiling and wall surfaces. The composition uses typical manga panel layouts with clear panel borders and effective use of negative space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.1,
+            0.85,
+            0.95
+          ],
+          "type": "character",
+          "description": "A manga character shown in two vertically stacked panels. In the upper panel, a young person with short, messy light-colored hair sits with their eyes closed in a peaceful expression, wearing what appears to be a maid outfit with puffy sleeves, a dark vest or bodice, and a light-colored skirt with ruffles. Their pose suggests they are seated, with one hand positioned near their torso. The art style features clean, precise linework with screentone shading creating depth and texture, particularly visible in the clothing folds and background elements. The lower panel shows a close-up detail of fabric or clothing with flowing, curved lines suggesting movement or draping. The overall composition uses typical manga visual language with white space, screentones, and varied line weights to create depth and focus.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.3,
+            0.95,
+            0.85
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing the lower portion of a character in traditional Japanese clothing, likely a kimono or hakama. The figure is seated in a formal seiza position with legs folded beneath them. The clothing features flowing, draped fabric with clean, confident line work typical of manga art. The character's hand is visible, positioned naturally at their side. The art style employs minimal shading with some subtle screentone effects in the background. The line weight varies from thin detail lines for fabric folds to slightly bolder outlines defining the main forms. The composition is cropped to focus on the lower torso and sitting posture, creating an intimate, grounded perspective. The overall aesthetic is clean and minimalist, emphasizing the elegant draping of the traditional garments through careful attention to fabric physics and fold patterns.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.45,
+            0.25,
+            0.85
+          ],
+          "type": "object",
+          "description": "This manga panel element shows a minimalist architectural detail featuring vertical structural elements, likely pipes or columns, rendered with clean, precise line work typical of manga backgrounds. The lines are thin and consistent in weight, creating a technical, architectural feel. The vertical elements appear to be cylindrical and are drawn with simple parallel lines to indicate their three-dimensional form. At the bottom of the frame, there's a distinctive diagonal section filled with dense cross-hatching or screentone pattern, creating a stark contrast against the predominantly white background. The composition is geometric and creates a sense of industrial or urban environment. The overall style is clean and minimalist, focusing on structural details rather than organic forms, which is characteristic of manga background illustration techniques.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.68,
+        1.0,
+        1.0
+      ],
+      "description": "A close-up panel showing a character's face with tears, expressing emotional pain",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character with long, flowing hair in an intimate or emotional moment. The character's eyes are closed with a serene, peaceful expression, and their head is tilted slightly. The art style features clean, flowing line work typical of manga, with the hair rendered in smooth, curved strokes that create a sense of movement and softness. The character appears to be leaning against or close to another figure, suggested by the darker shaded areas in the lower portion of the panel. The composition uses minimal shading with selective gray tones, creating contrast between the light hair and darker clothing elements. There is a speech bubble containing the text 'WAAAH.....' positioned in the upper left area of the panel. The overall style emphasizes delicate linework and emotional intimacy through the character's peaceful facial expression and body language.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.3,
+            0.2,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (SFX) rendered in bold, black lettering that reads 'WAAAH' followed by four dots below it. The text appears to be hand-lettered in a typical manga style font, with slightly irregular, expressive characters that convey emotion or vocalization. The sound effect is positioned within what appears to be a speech bubble or panel space with clean, black line art borders. The background is white/blank, creating strong contrast with the black text and panel lines. The linework is consistent and clean, typical of professional manga art style, with solid black lines of medium weight forming the panel boundaries around the text element.",
+          "text": "WAAAH....."
+        },
+        {
+          "bbox": [
+            0.82,
+            0.05,
+            0.98,
+            0.25
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows minimalist line art featuring clean, thin black lines on a white background. The composition consists of several curved and straight line segments that appear to be parts of a larger illustration - possibly fragments of clothing, hair, or body contours. The lines have consistent thin weight with no shading, hatching, or tonal variation, creating a stark, high-contrast appearance typical of manga line art. The spatial arrangement shows disconnected line segments positioned across the frame, suggesting this is either a cropped portion of a larger panel or represents motion lines/speed lines (sfx elements). No text is visible in this particular fragment. The style is characteristic of clean, professional manga artwork with precise linework and minimal visual noise.",
+          "text": "SHINJI"
+        }
+      ]
+    }
+  ]
+}

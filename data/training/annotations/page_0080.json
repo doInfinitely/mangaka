@@ -1,0 +1,173 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A manga page showing a conversation between two characters followed by a dramatic scene of someone crucified",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.505
+      ],
+      "description": "Two characters in conversation - a light-haired character on the left and a dark-haired bearded character on the right",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.53,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel featuring a character with long, flowing hair and intense facial expression. The character is shown from roughly chest-up, with their head tilted slightly and eyes that appear focused or concerned. The art style uses clean, bold line work typical of manga, with minimal shading achieved through screentones and hatching. The character appears to be wearing what looks like a uniform or formal clothing with visible collar details. There are two speech bubbles containing Spanish text: 'ES ESO?' in the lower left and 'UN ALMA DISTIN-TA HABITA LA UNIDAD 01....' in the upper right. The composition uses dramatic close-up framing to emphasize the character's emotional state, with the background kept minimal and dark to focus attention on the character's expression.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.53,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up profile view of a male manga character with distinctive spiky black hair and facial stubble/beard. He wears rectangular glasses and has a serious, contemplative expression while looking to the left. The character appears to be wearing dark clothing around his neck/collar area. The art style features clean, bold line work with solid black areas for the hair and selective cross-hatching for shading on the face and neck. Two speech bubbles contain Spanish text: 'PUES TO QUE...' in the upper bubble and 'YUI SE HA IDO AHORA.' in the lower bubble. The composition shows the character from roughly chest-up in a three-quarter profile angle, with the background rendered in screentone/halftone pattern typical of manga artwork.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.26,
+            0.15,
+            0.48,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing Spanish text that reads 'UN ALMA DISTINTA A HABITA... LA UNIDAD 01....' The bubble has a clean, rounded rectangular shape with a tail pointing toward a partially visible character. The character shown has long, flowing hair rendered with clean, precise line work typical of manga style. The hair is drawn with varied line weights - thicker outer contours and thinner interior detail lines that follow the hair's natural flow and volume. The art style features minimal shading, relying primarily on clean linework rather than heavy hatching or toning. The composition shows only the lower portion of the character's face and hair, creating a sense of mystery while the speech bubble dominates the upper portion of the frame. The text appears in a standard manga font, clearly legible against the white interior of the speech bubble.",
+          "text": "UN ALMA DISTINTA HABITA LA UNIDAD 01..."
+        },
+        {
+          "bbox": [
+            0.02,
+            0.72,
+            0.15,
+            0.88
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing only the upper portion. The visible element displays a classic triangular pointer or tail at the top, rendered with clean black lines against a white background. The speech bubble appears to use standard manga conventions with solid black lineart of medium weight. Below the pointer, there's a section with screentone or halftone pattern creating a textured gray area, which is a common manga technique for adding visual interest or indicating different speech types. The composition suggests this is the upper section of a larger speech bubble that extends beyond the cropped frame. The art style is typical of manga with its clean, precise linework and use of mechanical tones for shading effects.",
+          "text": "ES ESO?"
+        },
+        {
+          "bbox": [
+            0.66,
+            0.08,
+            0.85,
+            0.25
+          ],
+          "type": "speech_bubble",
+          "description": "A black speech bubble with jagged, spiky edges characteristic of aggressive or intense dialogue in manga. The bubble appears to be empty or contains very minimal text that is not clearly visible in this cropped portion. The bubble's shape has sharp, angular protrusions extending outward, created with bold black ink and clean line work. The background shows typical manga halftone dot screening pattern. The overall composition suggests this is part of a dramatic or emotional scene, with the aggressive bubble shape indicating shouting, anger, or intense emotion from the speaker.",
+          "text": "PUES... LO QUE..."
+        },
+        {
+          "bbox": [
+            0.66,
+            0.65,
+            0.88,
+            0.88
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with clean, bold black outlines typical of manga style. The bubble has a smooth, rounded rectangular shape with a small tail or pointer extending from it, indicating the speaker's direction. The interior of the bubble is white/blank, suggesting this may be an empty speech bubble or one where text has been removed. The bubble is positioned against a background showing partial character elements including spiky black hair rendered with solid black fills and some screentone/halftone shading patterns. The line work is crisp and confident, characteristic of professional manga artwork, with strong contrast between the pure white speech bubble and the darker background elements.",
+          "text": "YUI SE HA IDO AHORA."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.505,
+        1.0,
+        0.765
+      ],
+      "description": "Close-up panel showing glasses and part of a character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A shirtless male character is depicted in a crucifixion-like pose with arms stretched wide horizontally, appearing to be restrained or bound. The character has dark hair and is drawn with strong, confident linework typical of manga art. The torso shows detailed musculature with clean line definition. The background features horizontal black and gray striped patterns with screen tone textures. Cross-hatching and solid black areas create dramatic contrast and shadows. Two speech bubbles contain Spanish text - one on the left reads 'PUDO HABERLO HECHO' and another on the right reads 'NO S\u00c9 QUI\u00c9N DISE\u00d1\u00d3 ESTE ESCENARIO, O POR QU\u00c9 MOTIVO.' The composition emphasizes the character's vulnerability and tension through the stark pose against the geometric background pattern.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.765,
+        1.0,
+        1.0
+      ],
+      "description": "Dark scene showing a crucified figure",
+      "elements": [
+        {
+          "bbox": [
+            0.18,
+            0.0,
+            0.82,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dramatically rendered character shown from behind in an upside-down position, creating a striking vertical composition. The figure appears to be suspended or falling, with their body inverted and hair flowing downward due to gravity. The character is wearing dark clothing that contrasts against the lighter background. The art style employs bold, confident linework with varying line weights - thicker outlines define the main silhouette while thinner lines detail clothing folds and hair strands. Heavy black shading creates dramatic contrast, particularly in the background areas which fade to solid black on the left and right sides. Screen tone/halftone patterns are visible in the central vertical band where the character is positioned. The hair is rendered with flowing, organic lines that emphasize the downward movement. Spanish text appears in speech bubbles - 'BERLO HECHO....' on the upper left and 'S\u00d3LO LA MANO DE DIOS' on the right side. The overall composition creates a sense of dramatic tension and movement through the inverted pose and strong vertical orientation.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A dramatic manga background featuring a stark contrast between deep black areas and white speech bubbles. The composition shows what appears to be a damaged or melting tree or organic structure in the center, rendered in white against a gray halftone background. The organic form has irregular, dripping edges suggesting decay or transformation. The black areas use heavy solid fills with some subtle texture/stippling effects at the bottom edges. Two white speech bubbles contain Spanish text - 'BERLO HECHO....' on the left and 'S\u00d3LO LA MANO DE DIOS' on the right. The overall composition creates a sense of ominous atmosphere through the high contrast and organic, unsettling central element. The art style employs clean line work for the speech bubbles contrasted with more textural, atmospheric rendering for the background elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.25,
+            0.25,
+            0.55
+          ],
+          "type": "speech_bubble",
+          "description": "A black speech bubble element with a curved, organic shape typical of manga dialogue balloons. The bubble appears to be partially cropped, showing a smooth, flowing outline with what seems to be a tail or pointer extending toward the bottom. The fill is solid black, creating a stark contrast against the white background. The shape suggests this is likely an empty speech bubble or one that has been edited to remove text, with clean, smooth edges characteristic of digital manga production. The curvature and proportions indicate this would typically contain dialogue or internal monologue text.",
+          "text": "PUDO HABERLO HECHO..."
+        },
+        {
+          "bbox": [
+            0.65,
+            0.08,
+            0.98,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A cropped speech bubble with stark black and white contrast typical of manga artwork. The bubble appears to be part of a larger panel, showing curved white edges against a deep black background. The line work is clean and bold with sharp, defined edges. Spanish text is visible reading 'S\u00d3LO LA MANO DE' in dark lettering within the white speech bubble area. The composition shows strong negative space usage with dramatic contrast between the black and white areas. The bubble's curved edges suggest it's positioned at an angle or partially cut off from the main panel view. The art style demonstrates traditional manga aesthetic with clean, precise linework and high contrast shading techniques.",
+          "text": "NO SE QUIEN... DISE\u00d1\u00d3 ESTE ESCENARIO, O POR QUE MOTIVO."
+        },
+        {
+          "bbox": [
+            0.65,
+            0.65,
+            0.88,
+            0.88
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble against a black background with fine crosshatched shading texture. The speech bubble has a clean, rounded rectangular shape with smooth curved edges typical of manga dialogue balloons. The interior is pure white/blank with no visible text. The surrounding black area shows detailed crosshatching technique with thin, closely spaced parallel lines creating texture and depth. The contrast between the stark white bubble and the heavily textured black background is striking, and the bubble appears to be positioned in the lower portion of the cropped panel area.",
+          "text": "S\u00d3LO LA MANO DE DIOS"
+        }
+      ]
+    }
+  ]
+}

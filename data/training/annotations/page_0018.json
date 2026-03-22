@@ -1,0 +1,140 @@
+{
+  "width": 895,
+  "height": 1400,
+  "description": "A manga page showing a scene with skeletal remains at the top, a character in what appears to be a large cylindrical chamber or structure, and close-up panels of characters with glasses at the bottom.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.086,
+        0.0,
+        0.914,
+        0.363
+      ],
+      "description": "Top panel showing skeletal remains or fossils arranged in what appears to be a display or archaeological site",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This background element depicts an ornate architectural interior, likely a grand hall or ceremonial space. The upper panel shows an elaborate decorative ceiling with flowing, curved ornamental elements that cascade downward in sweeping patterns. These decorative elements appear to be fabric draping, garlands, or architectural molding rendered with fine crosshatching and screentone shading. Multiple curved forms create a sense of luxurious opulence, with chains or hanging elements visible between the main decorative swags. The lower panel shows a stark contrast with clean, geometric architectural elements - what appears to be a cylindrical column or pillar rendered in simple white against the dark background. The art style uses classic manga techniques with bold black areas contrasted against detailed white linework, screentones for mid-tones, and precise architectural rendering that emphasizes the grandeur and scale of the space.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.086,
+        0.374,
+        0.914,
+        0.726
+      ],
+      "description": "Wide panel showing a silhouetted figure standing in what appears to be a large cylindrical chamber or structure with windows showing snowy landscape",
+      "elements": [
+        {
+          "bbox": [
+            0.45,
+            0.4,
+            0.55,
+            0.8
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a partial view of a character's torso and clothing. The image displays clean, precise lineart typical of manga style with moderate line weights. The character appears to be wearing what looks like a light-colored garment, possibly a shirt or jacket, rendered with minimal detail and clean white fill. The composition shows diagonal lines and angular shapes that suggest the character's pose or movement. The shading technique uses subtle tonal variations rather than heavy crosshatching, creating a clean, modern manga aesthetic. The cropped nature of the panel focuses attention on the clothing details and body positioning, with the diagonal composition creating visual interest within the limited frame.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A panoramic background scene showing a solitary figure in silhouette standing at what appears to be a large observation window or viewing platform. The figure is rendered as a dark silhouette against bright white light streaming through the window. Beyond the window stretches a vast, desolate landscape of rolling hills or mountains rendered in detailed crosshatching and screentone. The landscape appears barren and windswept, with careful attention to topographical details through varied line weights and shading techniques. The composition creates a sense of isolation and contemplation, with the lone figure dwarfed by the expansive vista. The contrast between the dark interior space and the bright exterior landscape is emphasized through the stark black and white treatment typical of manga art. The scene conveys a mood of solitude and perhaps melancholy through its minimalist composition and the figure's contemplative pose facing the empty landscape.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.086,
+        0.737,
+        0.377,
+        1.0
+      ],
+      "description": "Left bottom panel showing close-up of a character with glasses and dark hair",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up profile view of a character's face and upper torso. The character has long, flowing black hair with jagged, feathery strands that create dramatic movement and texture. The hair is rendered with bold, thick black ink strokes that vary in weight, giving it a wild, windswept appearance. The character's facial features are minimally detailed but suggest a serious or contemplative expression, drawn with clean, thin lines. The character appears to be wearing dark clothing, indicated by black shading and screentone patterns on what looks like a collar or upper garment. The composition is cropped tightly, focusing on the dramatic hair and partial face. The art style uses high contrast between the solid black hair and white background, with selective use of screentones for mid-tone areas. The linework is confident and expressive, typical of shounen or seinen manga aesthetics. No text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.388,
+        0.737,
+        0.645,
+        1.0
+      ],
+      "description": "Middle bottom panel showing two characters - one with light hair and one with dark hair",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            0.8,
+            0.7
+          ],
+          "type": "character",
+          "description": "A manga character drawn in a typical shounen/seinen style, showing a young person with spiky, tousled hair that appears light-colored or blonde. The character has large, expressive eyes with a surprised or concerned expression, eyebrows slightly raised. They appear to be shirtless or wearing very minimal clothing, with only the upper torso and shoulders visible. The art style uses clean, bold line work with minimal shading - mostly relying on solid blacks and whites with some subtle gray tones. The lineart is consistent in weight throughout, creating a crisp, polished appearance typical of professional manga. The character is positioned at a slight three-quarter angle, looking slightly upward and to the side. The background is simple and light, focusing attention on the character. No visible text appears in this cropped section. The overall composition suggests this is likely from a dramatic or emotional scene given the character's expression.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.6,
+            0.9,
+            1.0
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character showing primarily the torso and shoulder area. The character appears to be wearing a light-colored, possibly white or pale garment with simple, clean lines. The art style features thin, delicate line work typical of manga illustration, with minimal shading and a clean, minimalist approach. The character's form is rendered with smooth, flowing contours and the clothing appears to have a loose, comfortable fit. The composition shows the figure from what seems to be a side or three-quarter angle, with the panel cropped to focus on this specific body section. The background is mostly white/blank space, creating a stark contrast with the character's outlined form. The overall aesthetic is typical of contemporary manga style with its emphasis on clean lineart and selective use of detail.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.656,
+        0.737,
+        0.914,
+        1.0
+      ],
+      "description": "Right bottom panel showing another close-up of a character with glasses",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a dramatic close-up of a character's torso and flowing hair rendered in stark black and white contrast. The character appears to be wearing dark clothing with detailed cross-hatching and screentone shading that creates rich textural depth. Long, flowing dark hair cascades dramatically across the frame, drawn with bold, confident brush strokes that suggest movement and volume. The composition is split by a vertical panel border on the left, creating a dynamic layout. The art style employs traditional manga techniques with heavy use of screentones for midtones and shadows, contrasted against clean white spaces. The line work varies from thick, expressive strokes for the hair to more delicate linework for clothing details. The overall mood is dramatic and atmospheric, typical of mature manga storytelling.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

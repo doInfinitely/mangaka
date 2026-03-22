@@ -1,0 +1,184 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A manga page showing a conversation between two characters, followed by an explosive action scene. The page depicts someone contemplating consequences, another character in distress, and ends with a dramatic explosion or impact.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.475
+      ],
+      "description": "Top panel showing a spiky-haired character speaking with two speech bubbles",
+      "elements": [
+        {
+          "bbox": [
+            0.25,
+            0.0,
+            0.85,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows two character shots in black and white. The top panel features a young male character with spiky, tousled hair rendered in screentone shading. He has a concerned or worried expression with slightly furrowed brows and appears to be wearing a high-collared uniform or jacket with visible collar details. A speech bubble on the right contains partially visible text starting with 'SI' and 'QU'. The bottom panel shows a different character with light-colored messy hair, depicted with their hand covering part of their face in what appears to be a gesture of distress or contemplation. This character is wearing darker clothing. The art style uses clean line work with moderate line weight, screentone shading for hair and shadows, and minimal background details. The composition creates a sense of emotional tension between the two character moments, with the panels separated by a clear horizontal divide.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.35,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "A large, irregular oval-shaped speech bubble with a clean black outline of medium line weight. The bubble contains Spanish text that reads 'ENTONCES TENDR\u00c1S QUE HACERLO SOBRE MI CAD\u00c1VER.' in bold, uppercase black lettering arranged in seven lines. The text is center-aligned within the bubble. The speech bubble has a small tail pointing downward and to the right, indicating the speaker is below and slightly to the right of the bubble. The background is white/blank, and there appears to be part of a character or object with cross-hatched shading visible at the bottom right edge of the frame. The overall art style is typical of manga with clean linework and minimal shading on the speech bubble itself.",
+          "text": "ENTONCES TENDR\u00c1S QUE HACERLO SOBRE MI CAD\u00c1VER."
+        },
+        {
+          "bbox": [
+            0.65,
+            0.1,
+            0.95,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with a classic oval shape and pointed tail extending downward and to the right, indicating the speaker is positioned below and to the right of the bubble. The bubble has clean, consistent black line work with medium line weight. The interior is pure white with no shading or texture. The text inside reads 'SI LO QUE DESEAS ES IR A LAS JAULAS,' in black, all-caps lettering arranged in multiple lines with consistent spacing. The text appears to be in Spanish and is centered within the bubble. The speech bubble's tail has a smooth curved connection to the main oval body, following traditional manga speech bubble conventions. The overall style is clean and minimalist, typical of professional manga artwork.",
+          "text": "SI LO QUE DESEAS ES IR A LAS JAULAS,"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.475,
+        1.0,
+        0.825
+      ],
+      "description": "Middle panel showing a blonde character sitting against a wall looking distressed",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.2,
+            0.75,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a dramatic action sequence with a large onomatopoeia 'CRACK' dominating the lower portion in bold, jagged white letters against a black background. The sound effect has dynamic, splintered edges suggesting explosive force or breaking. Above this, there's a partial view of a character wearing what appears to be a light-colored jacket or coat with detailed line work showing fabric folds and creases. The character's torso and lower body are visible but cropped. The art style features clean, confident linework with screentone/halftone shading on the clothing. The composition creates strong visual impact through the contrast between the detailed upper portion and the bold graphic sound effect below, with white speed lines radiating outward to emphasize the explosive action taking place.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.35,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element consists of three distinct panel sections with varying tonal treatments. The top section features a light gray halftone dot pattern background with white negative space, creating a soft atmospheric effect. The middle section is rendered in solid black, creating stark contrast and dramatic emphasis. The bottom section returns to white space with minimal linear elements. The composition uses high contrast between pure white, solid black, and screentone patterns typical of manga production techniques. The spatial arrangement suggests a vertical reading flow with each section serving different narrative or emotional purposes through their distinct visual treatments. No readable text is visible in this cropped background element, though there appear to be some abstract linear marks and partial character silhouettes at the edges.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.35,
+            0.95,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a manga speech bubble or panel element. The image shows clean, black line art typical of manga style with varying line weights - thicker outlines defining the main shapes and thinner lines for details. The top portion contains what appears to be part of a character or object rendered in simple black linework against a white background. Below this is a solid black rectangular section that could be part of a speech bubble tail, text area, or panel border. The bottom shows a thin white strip, possibly indicating panel separation or another speech bubble element. The overall composition is minimal and uses high contrast between black and white areas, consistent with traditional manga artwork. No text is visible in this cropped section.",
+          "text": "..."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.4,
+            0.15,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "A minimalist sound effect element featuring stark black and white contrast. The composition shows a solid black rectangular shape against a white background, with a thin diagonal line extending from the upper left area. The art style is extremely clean and geometric, using bold, solid black fills with no gradients or texture. The line work is precise and uniform in weight. The spatial arrangement creates a strong visual impact through the high contrast between the pure black form and the negative white space. No text is visible in this cropped section. The overall aesthetic is very modern and minimalist, typical of contemporary manga's approach to abstract sound effect visualization.",
+          "text": "\u30d5\u30c3"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.825,
+        1.0,
+        0.885
+      ],
+      "description": "Thin black transition panel",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a dramatic sky scene rendered in classic black and white manga style. The composition features bold, dynamic cloud formations created through varied line weights and cross-hatching techniques. The clouds are depicted with thick, confident strokes that create strong contrast against areas of white space. The hatching patterns vary in density to suggest depth and atmospheric perspective, with some areas showing fine parallel lines while others use broader, more gestural marks. In the lower portion, there appears to be some architectural elements or structures suggested through geometric line work, including what looks like parts of buildings or mechanical objects rendered with precise, technical line work contrasting the organic flow of the clouds above. The overall composition creates a sense of movement and drama typical of action manga backgrounds, with the sky dominating the frame and suggesting an epic or climactic moment in the narrative.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.885,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom action panel showing an explosive impact or crash",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            1.0
+          ],
+          "type": "object",
+          "description": "A sleek speedboat or motorboat rendered in classic manga style, positioned at what appears to be a dock or marina. The boat features clean, angular lines with a distinctive pointed bow and streamlined hull design. The artwork employs bold, confident line work with varied line weights - thicker outlines define the boat's main structure while thinner lines detail surface features and paneling. Cross-hatching and screen tones create depth and shadow, particularly visible on the boat's hull and surrounding water surface. The composition shows the boat from a slightly elevated angle, emphasizing its aerodynamic profile. Water effects are rendered with flowing curved lines and bubble patterns, suggesting movement or wake. The background includes structural elements like dock railings with vertical slats, and there appears to be some architectural detail in the upper portion. The overall aesthetic is clean and dynamic, typical of action or sports manga, with strong contrast between black ink and white spaces.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.1,
+            0.75,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows dynamic sound effect (SFX) lineart rendered in classic manga style. The image features bold, sweeping motion lines and speed lines that create a sense of rapid movement or impact. The linework consists of varying weights - thick black strokes for emphasis and thinner lines for detail work. There's extensive use of hatching and cross-hatching techniques to create depth and texture. The composition shows diagonal movement patterns with explosive or burst-like effects, typical of action sequences. Screen tones (halftone patterns) are visible in some areas, creating gray values and texture. The overall style is characteristic of traditional manga artwork with high contrast black and white rendering. No readable text is clearly visible in this cropped SFX element, though there may be stylized sound effect characters integrated into the dynamic linework design.",
+          "text": "CRAKKOOM"
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect element depicts an explosive impact or destruction scene rendered in classic black and white manga style. The composition shows fragmented debris and geometric shapes scattered across the frame, with varying sizes of angular chunks and particles. The art employs heavy use of screentone (halftone dots) in the darker areas, creating depth and atmospheric effects. Dynamic speed lines and motion blur effects radiate outward, suggesting violent force or explosion. The linework varies from bold, solid black areas to fine detailed fragments. White space is used effectively to create contrast and emphasize the chaotic energy of the destruction. The overall composition creates a sense of explosive movement from left to right across the frame, with debris appearing to be blasted away from an impact point outside the visible area.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.7,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This background element depicts a desolate landscape rendered in black and white manga style. The scene shows what appears to be a barren, rocky terrain with scattered debris or wreckage in the foreground. The ground is heavily textured with cross-hatching and stippling techniques to create a sense of roughness and desolation. In the background, there are angular, geometric shapes that could be mountains or architectural ruins, drawn with bold, dark lines. The composition uses strong contrast between light and dark areas, with the sky appearing lighter through the use of screen tones or halftone patterns. The overall artistic style employs heavy line weights for the major structural elements while using finer detail work for texture and surface variation. The perspective creates depth, drawing the eye from the detailed foreground debris toward the more simplified background elements. No visible text appears in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

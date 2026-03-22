@@ -1,0 +1,195 @@
+{
+  "width": 942,
+  "height": 1400,
+  "description": "A manga page showing characters discussing a destroyed EVA unit and the impossibility of quickly preparing a positron rifle, followed by scenes of mechanical/technological preparations.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.54
+      ],
+      "description": "Wide panel showing two characters in conversation, with one shouting and another responding",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.25,
+            0.35,
+            0.9
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view with dark, tousled hair and glasses. The character appears shocked or distressed, with their mouth open in surprise. They are wearing what appears to be a light-colored shirt or uniform. The art style features clean black line work with minimal shading, typical of manga illustration. Screen tone/halftone patterns are used for shading effects on the character's face and clothing. The character is positioned against a white background with speech bubbles containing text that reads 'ONE OF THE EVAS HAS BEEN DESTROYED!' in the upper panel and 'COULD IT BE... HE KNEW THIS WOULD HAPPEN?' in the lower panel. The composition emphasizes the character's emotional reaction through the dramatic profile angle and open-mouthed expression.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.15,
+            0.75,
+            0.85
+          ],
+          "type": "character",
+          "description": "A manga-style illustration showing a female character in military or pilot-style clothing. She has shoulder-length dark hair with bangs and is wearing what appears to be a flight jacket or military uniform with a high collar, belt at the waist, and visible patches or insignia including a cross symbol. Her expression appears contemplative or slightly melancholic, with downcast eyes. The art style features clean black linework with screentone/halftone shading creating gray tones throughout. The composition is split into two panels - the upper panel shows her full upper body in a three-quarter view, while the lower panel provides a closer profile view of her face. The background uses dotted screentone patterns typical of manga artwork. The line weights vary from thin detail lines to bolder outlines, creating depth and definition in the character design.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.4,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'ONE OF THE EVAS HAS BEEN DESTROYED!' in bold, uppercase lettering. The bubble has a clean white interior with a black outline and a pointed tail extending toward the bottom right, indicating the speaker is located off-panel in that direction. Below the speech bubble, part of a character's head is visible, showing black hair rendered with bold, angular strokes and dramatic shadowing. The hair appears spiky or disheveled, drawn in a typical manga style with strong contrast between the solid black areas and white highlights. The overall composition uses high contrast black and white artwork with screentone/halftone patterns visible in the background, creating a sense of urgency and drama typical of action manga scenes.",
+          "text": "ONE OF THE EVAS HAS BEEN DESTROYED!"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.95,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with a clean white interior containing bold, capitalized text that reads 'IT'S HIT SQUARELY!!' The text is rendered in a typical manga font style with strong, black lettering. The speech bubble has a standard oval/rounded shape with a black outline. The background shows screentone/halftone dotting pattern typical of manga artwork, creating a gray textured effect. The composition is simple and focused, with the speech bubble positioned centrally in the cropped panel area. The line work is clean and consistent with traditional manga styling.",
+          "text": "IT'S HIT SQUARELY!!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.54,
+        1.0,
+        0.79
+      ],
+      "description": "Panel focusing on the long-haired character's face with contemplative expression",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "A manga character is shown in profile view within an architectural interior setting. The character appears to be positioned in the lower right portion of the panel, with their head and upper body visible. The art style employs clean, confident line work typical of manga illustration, with selective use of screentone (halftone dots) for shading and depth. The character is rendered with minimal but effective line weight variation, creating a sense of dimensional form. The surrounding environment shows detailed architectural elements including walls, structural beams, and geometric interior spaces rendered with precise perspective lines. The composition uses negative space effectively, with the character integrated naturally into the architectural setting. The overall aesthetic demonstrates classic manga visual storytelling techniques with emphasis on clean lineart and strategic tonal contrasts.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.35,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with a clean, rounded rectangular shape and a small tail pointing downward to indicate the speaker. The bubble contains the text 'CAN... NOTHING BE DONE?' in bold, uppercase letters arranged on three lines. The text uses a standard manga font with thick, black lettering. The speech bubble has a white fill with thin black outlines, following typical manga conventions. The bubble is positioned in the lower left portion of the frame, overlaying what appears to be geometric architectural elements including diagonal striped patterns and rectangular shapes with screentone shading in the background.",
+          "text": "COULD IT BE... HE KNEW THIS WOULD HAPPEN?"
+        },
+        {
+          "bbox": [
+            0.65,
+            0.1,
+            0.95,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A large, rounded speech bubble with clean, bold black outlines positioned in the right panel. The bubble has a smooth, organic shape typical of manga dialogue bubbles, with a small tail or pointer extending downward to indicate the speaker. The interior is completely white/blank with no visible text or dialogue. The bubble takes up a significant portion of the panel space and appears to be the main focal point. The line work is consistent with typical manga style - clean, confident strokes with uniform weight. The bubble's placement suggests it's meant to contain dialogue from a character, likely positioned below or to the side of the speaking character in the scene.",
+          "text": "THERE'S NO WAY SOMETHING LIKE A POSITRON RIFLE COULD HAVE BEEN PREPARED SO QUICKLY--"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.79,
+        0.33,
+        1.0
+      ],
+      "description": "Small panel showing mechanical equipment with character asking about options",
+      "elements": [
+        {
+          "bbox": [
+            0.4,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "object",
+          "description": "A detailed manga illustration showing a character's lower body and legs in a crouched or seated position. The figure is wearing what appears to be a checkered or grid-patterned garment, possibly pants or a skirt, rendered with precise crosshatching lines creating a plaid texture. The character is also wearing what look like dark shoes or boots with solid black fill. The art style features clean, confident line work with varied line weights - thicker contour lines defining the main shapes and finer hatching for texture and shading. The crosshatched pattern on the clothing is meticulously drawn with intersecting diagonal lines. Some Japanese text characters are partially visible at the edges of the cropped image. The composition shows the figure positioned at an angle, creating dynamic spatial relationships within the frame. The shading technique uses traditional manga screentone effects and hatching patterns rather than solid grays, giving it an authentic hand-drawn manga aesthetic.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.3,
+            0.4,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with clean black outlines and white fill, positioned in the upper portion of the frame. The bubble has a typical manga-style rounded rectangular shape with a small tail pointing downward, indicating the speaker is below. Inside the bubble, the text 'THIS HAD TO HAPPEN.' is written in bold, capital letters using a standard manga font. The lettering is solid black with consistent weight and spacing. The speech bubble's line art is crisp and uniform, typical of digital manga production, with no visible shading or tone effects on the bubble itself.",
+          "text": "CAN... NOTHING BE DONE?"
+        },
+        {
+          "bbox": [
+            0.05,
+            0.7,
+            0.4,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A minimal speech bubble fragment showing only a thin black border line at the top edge. The bubble appears to be mostly cropped out, revealing just the upper boundary with clean, consistent line weight typical of manga speech bubbles. The interior is white/blank with no visible text or content. The line style is smooth and uniform, characteristic of digital manga production. Due to the heavy cropping, no other visual elements, characters, or spatial context are visible in this fragment.",
+          "text": "THIS HAD TO HAPPEN."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.33,
+        0.79,
+        0.66,
+        1.0
+      ],
+      "description": "Panel showing large mechanical structure or facility from distance",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "background",
+          "description": "This manga background element depicts an urban architectural scene rendered in black and white with detailed crosshatching and screentone techniques. The image shows a concrete or paved ground surface in the foreground, created with dense dot patterns (screentone) that transitions from lighter tones at the top to darker, more saturated areas toward the bottom. In the background, there are geometric architectural structures including what appears to be stairs or steps with railings, and angular building elements. The linework is clean and precise with varying line weights - thicker lines define the major structural elements while thinner lines provide detail work. The shading technique combines screentone dots with traditional hatching patterns, creating depth and atmospheric perspective. The composition emphasizes the stark, urban environment typical of manga backgrounds, with strong contrast between light and shadow areas. No text is visible in this cropped element.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.66,
+        0.79,
+        1.0,
+        1.0
+      ],
+      "description": "Panel showing close-up of mechanical components or equipment",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "object",
+          "description": "This manga panel shows a mechanical or robotic object with a distinctive rounded, helmet-like or dome-shaped head featuring what appears to be a simple face design with two dots for eyes and a curved line for a mouth, giving it a minimalist, somewhat cheerful expression. The object appears to be positioned within or emerging from some kind of mechanical structure or doorway with angular, industrial-looking architectural elements. The art style employs heavy use of screentone (halftone dots) for shading and texture, creating depth and shadow. The linework is clean and precise with varying line weights - thicker outlines for the main forms and thinner lines for details. The composition shows strong geometric shapes and angular perspectives typical of mechanical or sci-fi manga settings. The contrast between the organic, face-like features of the central object and the harsh, industrial environment creates visual interest. No visible text appears in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

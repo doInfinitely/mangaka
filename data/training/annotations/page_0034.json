@@ -1,0 +1,162 @@
+{
+  "width": 935,
+  "height": 1400,
+  "description": "A manga page showing a tense scene with a character with spiky black hair, someone handling what appears to be a gun, and dialogue about pilots being protected in a secure location",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.062,
+        0.0,
+        0.895,
+        0.415
+      ],
+      "description": "Large panel showing the back of a character with spiky black hair and a speech bubble",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.7,
+            1.0
+          ],
+          "type": "character",
+          "description": "A back view of a male character with distinctive spiky black hair rendered in stark black and white contrast. The hair has jagged, flame-like points creating a dramatic silhouette against the halftone screentone background. The character wears what appears to be a dark collared shirt or jacket. The art style features bold, clean line work with solid black fills for the hair and clothing, contrasted against detailed screentone patterns in the background. The composition is split across two panels - the upper panel shows the full back of the head and neck, while the lower panel shows a closer crop focusing on the shoulder and hair area. The lineart is confident with varying weights, and the shading relies primarily on solid blacks rather than gradual tones, creating a high-contrast aesthetic typical of manga illustration.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.25,
+            0.95,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partially visible speech bubble cropped at the edge of the panel. Only a curved black outline is visible, showing the characteristic rounded border typical of manga speech bubbles. The line weight is consistent and medium thickness, drawn with clean, smooth curves. The bubble appears to be cut off by the panel border, with most of its content area not visible in this crop. There is no visible text or other content within the visible portion. The style is typical of standard manga speech bubble design with simple, clean lineart and no additional decorative elements or special effects.",
+          "text": "ELLA NO VENDR\u00c1"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.062,
+        0.449,
+        0.441,
+        0.772
+      ],
+      "description": "Panel showing hands holding what appears to be a gun",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "object",
+          "description": "A manga panel showing a character in business attire - wearing a white dress shirt and dark pants or skirt - standing in what appears to be an indoor setting with architectural elements like stairs or railings visible in the background. The character has medium-length dark hair and appears to be in a casual standing pose. The art style features clean black and white linework typical of manga, with screentone shading used for backgrounds and depth. There's a speech bubble containing a question mark ('?') indicating confusion or questioning. The composition places the character centrally in the frame with geometric architectural elements providing structure to the background. The line weights vary from thin detail lines to bolder outlines, creating visual hierarchy and depth in the scene.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.116,
+        0.829,
+        0.526,
+        1.0
+      ],
+      "description": "Panel showing two figures on stairs with a question mark",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.9,
+            0.7
+          ],
+          "type": "character",
+          "description": "A partial view of a character shown from approximately waist down, depicted in classic black and white manga style. The figure is wearing dark clothing - appears to be a long coat or jacket and dark pants/trousers. The character is positioned in what seems to be an interior space, with geometric architectural elements visible in the background including what appears to be stairs or stepped surfaces. The art style features clean, confident line work with solid black fills for the clothing and subtle screentone/halftone patterns used for shading and background elements. The composition shows the character from a low angle perspective, with the figure positioned toward the left side of the frame. The lineart is precise with varied line weights - thicker lines define the main contours of the clothing while finer lines detail the background elements. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.6,
+            0.4,
+            1.0
+          ],
+          "type": "character",
+          "description": "This appears to be a minimal cropped section showing only the edge or corner of what seems to be a panel border or frame element. The visible portion consists of clean, bold black lines forming what looks like a rectangular corner or border edge against a white background. The line work is consistent with typical manga panel framing - solid, uniform black lines with sharp, clean edges. No character details, clothing, expressions, or text are visible in this extremely limited crop. The composition shows only geometric lineart typical of manga panel construction rather than any character or story elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.3,
+            0.3
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a minimal speech bubble element with very sparse visual content. The image shows mostly white/blank space with some thin black lines that likely represent the outline or tail of a speech bubble. There are a few small black marks or partial shapes visible in the upper portion, possibly parts of character silhouettes or background elements, but they are too cropped and minimal to discern specific details. The line work appears to be clean and simple, consistent with typical manga art style using consistent line weights. The overall composition is very sparse and minimalist, dominated by negative white space.",
+          "text": "?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.485,
+        0.449,
+        0.564,
+        1.0
+      ],
+      "description": "Narrow vertical panel showing partial character view",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a partial view of a character rendered in stark black and white contrast. The character appears to be positioned vertically along the left edge of the panel, with dramatic angular black shapes creating a silhouette effect. The art style employs bold, clean line work with sharp contrasts between pure black and white areas, creating a dramatic chiaroscuro effect. The character's form is partially obscured by these angular black shapes that could represent shadows, clothing, or stylized visual effects. The composition uses negative space effectively, with the white areas creating definition against the black silhouette. The line weight varies from thick, bold outlines to finer details, typical of manga illustration techniques. The overall effect is dynamic and creates a sense of movement or tension within the confined vertical space of this panel element.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.574,
+        0.449,
+        0.895,
+        1.0
+      ],
+      "description": "Panel showing a character walking and a speech bubble with text about pilots",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.15,
+            0.8,
+            0.85
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character showing primarily the back/side profile of their head and upper body. The character has dark, voluminous hair rendered with solid black ink and fine detail lines to show texture and movement. They appear to be wearing dark clothing, likely a jacket or coat, also filled with solid black. The character is positioned in the right portion of the panel, creating a strong contrast against the lighter background elements. The art style uses clean, precise linework with minimal screentone, emphasizing bold black and white contrasts typical of manga illustration. A speech bubble contains Spanish text reading 'LOS PILOTOS EST\u00c1N PROTEGIDOS EN UNA LOCALIZACI\u00d3N SEGURA.' The composition suggests this is part of a dialogue scene, with the character possibly speaking or being addressed.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.75,
+            0.7,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "This is a cropped portion of a manga speech bubble showing the bottom edge and corner. The bubble appears to be empty of text in this cropped view. The line work is clean and precise with consistent black ink strokes forming the bubble's border. There is detailed screentone (dot pattern) shading visible in the background areas outside the speech bubble, creating texture and depth. The composition shows strong contrast between the white interior space of the bubble and the heavily textured screentone areas. The line weight is uniform and confident, typical of professional manga artwork. The spatial relationship suggests this bubble is positioned over or adjacent to detailed background elements that have been rendered with traditional manga screening techniques.",
+          "text": "LOS PILOTOS EST\u00c1N PROTEGIDOS EN UNA LOCALIZACI\u00d3N SEGURA."
+        }
+      ]
+    }
+  ]
+}

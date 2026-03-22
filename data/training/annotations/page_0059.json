@@ -1,0 +1,151 @@
+{
+  "width": 933,
+  "height": 1400,
+  "description": "A manga page showing an action sequence with a character in distress and what appears to be mecha or robot combat, with dramatic close-ups and dynamic action panels.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.37
+      ],
+      "description": "Top panel showing dramatic Japanese text effect and close-up of character's shocked face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.48
+          ],
+          "type": "sfx",
+          "description": "A dramatic sound effect (SFX) rendered in bold, angular white Japanese characters against a stark black background. The text appears to be katakana characters arranged at a dynamic diagonal angle, creating a sense of movement and impact. The characters are rendered with thick, bold strokes and sharp geometric edges typical of action manga typography. Dynamic speed lines radiate outward from behind the text, emphasizing the explosive or sudden nature of the sound being represented. The high contrast black and white composition creates maximum visual impact, with the white text appearing to burst forward from the dark background. The overall design conveys intense action or a powerful moment, characteristic of climactic scenes in action manga.",
+          "text": "\u7206\u767a\u97f3"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.48,
+            0.45,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's face in a dramatic upward-angled view. The character has dark, messy hair and large expressive eyes with visible pupils. Their mouth is slightly open, suggesting surprise or shock. The character appears to be wearing or positioned under something with bold black and white striped patterns above them, creating strong geometric contrast. The art style uses clean, bold line work typical of manga, with solid black areas for hair and minimal but effective shading. There's some subtle screentone/halftone pattern visible in the background area. The composition creates tension through the diagonal lines of the striped element above and the upward gaze of the character. No text is visible in this cropped section. The overall style suggests this is from a dramatic or action-oriented manga sequence.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.65,
+            0.58,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing fragmented text that reads 'EST... ESTO... NO...' The text appears to be cut off or interrupted, suggesting hesitation or distress in the speaker's dialogue. The speech bubble has clean, bold black borders typical of manga style. To the left side of the frame, there are dramatic black ink strokes or hair strands rendered with heavy, jagged line work that creates a sense of movement or emotional intensity. The contrast between the stark black elements and white negative space is characteristic of manga's high-contrast visual style. The text uses standard manga lettering with clear, readable font that appears to trail off, emphasizing the incomplete nature of the statement.",
+          "text": "EST... ESTO NO..."
+        },
+        {
+          "bbox": [
+            0.45,
+            0.48,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up view of a manga character showing intense emotional distress. The character has medium-length dark hair with bangs framing their face, and their mouth is open in what appears to be a cry or scream of anguish. Their facial expression conveys deep pain or shock, with visible stress lines around the eyes. The art style uses bold black lines for the hair and facial features, with lighter shading and screentone effects in the background. Two speech bubbles are visible - one containing 'EST... ESTO NO...' and another with 'QUE ES LO QUE EST\u00c1', suggesting dialogue in Spanish. The composition focuses on the character's emotional reaction, with the face taking up most of the frame. The linework is clean and typical of manga style, with dramatic contrast between the dark hair and lighter skin tones.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.68,
+            0.52,
+            0.95,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A close-up view of a character's face shown in profile, with dark, messy hair rendered in solid black ink. The character appears to be looking downward or to the side with a somber or contemplative expression. The art style features bold, heavy black lines for the hair contrasted against white space, with minimal shading details. A curved white speech bubble border is visible at the top of the frame, suggesting this is part of a dialogue sequence. The composition is tightly cropped, focusing on the upper portion of the character's head and hair, creating an intimate, emotional moment typical of manga storytelling techniques.",
+          "text": "QUE ES LO QUE EST\u00c1 OCURRIENDO?!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.37,
+        1.0,
+        1.0
+      ],
+      "description": "Large bottom panel showing mecha/robot action scene with mechanical units and sound effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.7,
+            1.0
+          ],
+          "type": "object",
+          "description": "This manga page features two panels in classic black and white style. The top panel shows a close-up of a character with dark hair and an intense expression, with dramatic screentone shading and bold '!!' sound effects. The bottom panel depicts dynamic action with multiple characters in what appears to be a combat or confrontation scene. The art uses heavy contrast with solid blacks and detailed screentones for shading. There are several Japanese onomatopoeia sound effects rendered in bold, stylized lettering scattered throughout the lower panel, creating a sense of movement and impact. The line work is clean and precise, typical of professional manga artwork, with varying line weights to create depth and emphasis. The composition uses diagonal lines and overlapping figures to convey motion and energy.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.65,
+            0.25,
+            0.95
+          ],
+          "type": "sfx",
+          "description": "This manga panel shows a close-up of a character's face and upper body in a dynamic, emotional moment. The character appears to be crying or in distress, with their mouth open in what seems to be a sob or gasp. Their hair is drawn with flowing, wispy strands that suggest movement. The art style features bold, confident line work with varying line weights - thicker outlines defining the main forms and thinner lines for details like hair strands. The shading is achieved through crosshatching and solid black areas, creating strong contrast typical of manga artwork. The composition is tightly cropped, focusing on the emotional intensity of the moment. There appears to be some motion lines or speed lines in the background, emphasizing the dramatic nature of the scene. The overall style is characteristic of shoujo or josei manga with its emphasis on emotional expression and flowing hair details.",
+          "text": "\u30c9\u30c9\u30fc\u30f3"
+        },
+        {
+          "bbox": [
+            0.25,
+            0.75,
+            0.45,
+            0.95
+          ],
+          "type": "sfx",
+          "description": "A dynamic sound effect (SFX) rendered in bold, angular black lettering that appears to represent impact or explosive action. The text has thick, irregular strokes with sharp edges and appears to be stylized in a typical manga onomatopoeia fashion. The lettering is positioned diagonally across the frame, suggesting movement or force. Around the text are radiating speed lines and motion effects drawn with varying line weights - some thick, some thin - creating a sense of explosive energy emanating outward. The background shows diagonal hatching and cross-hatching patterns typical of manga shading techniques. Small debris or particle effects are scattered around the main text element, adding to the overall sense of violent impact or destruction. The entire composition uses high contrast black and white artwork characteristic of manga illustrations.",
+          "text": "\u30ac\u30ac\u30ac"
+        },
+        {
+          "bbox": [
+            0.7,
+            0.1,
+            1.0,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing Japanese text reading 'LA UNIDAD 00 NO' in bold, black lettering. The bubble appears to be positioned in the lower right portion of the panel. The text is clearly legible against the white interior of the speech bubble, which has the typical rounded, cloud-like border common in manga. The bubble's tail points toward what appears to be a character's face or head area, indicated by the visible angular line work and shading patterns typical of manga character illustration. The overall art style features clean, bold linework with high contrast between black and white areas, characteristic of traditional manga illustration techniques.",
+          "text": "LA UNIDAD 00 NO POSEE PILOTO, PERO...!!"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.55,
+            1.0,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with clean, bold black outlines in typical manga style. The bubble has a pointed tail extending downward, indicating the speaker is positioned below. Inside the bubble is Spanish text reading 'PILOTO, PERO...!!' in bold, uppercase letters with dramatic emphasis indicated by the ellipsis and exclamation marks. The text appears to be expressing urgency or concern. The bubble is rendered in solid white with crisp black lineart, following standard manga visual conventions. The composition suggests this is part of a dramatic dialogue sequence, with the speech bubble positioned in the upper portion of the panel space.",
+          "text": "SE EST\u00c1 MOVIENDO!"
+        },
+        {
+          "bbox": [
+            0.7,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel shows a mecha or robot pilot in a cockpit environment. The top portion depicts the pilot from behind, wearing what appears to be a helmet or pilot gear, seated in a mechanical cockpit with control panels and instruments visible. The art style uses heavy black shading and screen tones typical of manga, with bold line work defining the mechanical elements. The lower portion shows a close-up of what appears to be the pilot's face in profile, rendered in a more minimalist style with clean lines and less detailed shading. Spanish text bubbles are integrated throughout, including phrases like 'LO QUE ESTA OCURRIENDO?' and 'LA UNIDAD 00 NO POSEE PILOTO PERO...!' and 'SE EST\u00c1 MOVIENDO!' The composition uses diagonal panel divisions and speed lines to create dynamic movement and tension. The overall aesthetic is typical of mecha manga with its focus on mechanical detail and dramatic piloting scenes.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

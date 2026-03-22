@@ -1,0 +1,206 @@
+{
+  "width": 947,
+  "height": 1400,
+  "description": "A tense action sequence showing a sniper taking aim and engaging with targets, followed by dialogue about fate and assassination",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.074,
+        0.0,
+        0.841,
+        0.367
+      ],
+      "description": "Wide panel showing a uniformed sniper aiming a rifle with scope attachment",
+      "elements": [
+        {
+          "bbox": [
+            0.156,
+            0.12,
+            0.478,
+            0.95
+          ],
+          "type": "character",
+          "description": "A character shown in profile view aiming a rifle with precision shooting stance. The figure wears a military-style cap with an emblem and tactical gear. The art style features clean, bold line work typical of manga with selective shading and halftone dot patterns in the background. The character is positioned above a chain-link fence shown in the lower portion of the frame. The composition emphasizes the focused, professional demeanor of the shooter through the steady pose and detailed rendering of the weapon. The background uses screentone patterns creating depth and contrast. No visible text appears in this cropped element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A two-panel manga sequence featuring a uniformed figure in military or security attire. In the upper panel, the character is shown in profile aiming what appears to be a rifle or long-barreled weapon, wearing a military cap and uniform with visible patches or insignia. The figure is positioned against a background with crosshatch shading and geometric patterns. The lower panel shows a chain-link fence with diamond-pattern mesh rendered in clean black lines, along with vertical support posts. The art style employs typical manga techniques including screentones for shading, clean line work with varying weights, and detailed crosshatching. A small speech bubble in the lower right contains partial text reading 'EVEN' and 'MIDDLE' with some characters cut off. The composition creates a sense of surveillance or military observation, with the fence serving as a barrier element in the scene.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.067,
+        0.393,
+        0.841,
+        0.844
+      ],
+      "description": "Panel showing a young man behind chain-link fence with speech bubbles",
+      "elements": [
+        {
+          "bbox": [
+            0.35,
+            0.28,
+            0.8,
+            0.95
+          ],
+          "type": "character",
+          "description": "This manga panel shows two distinct scenes. The upper portion depicts a character in formal business attire - a white dress shirt with a black tie and what appears to be a suit jacket or blazer. The character's pose suggests they are in motion or gesturing, with one arm visible. The art style uses clean line work with minimal shading and halftone dot patterns typical of manga. The lower portion features a close-up of a character with dark, spiky hair rendered with bold black strokes and dramatic speed lines radiating outward, creating an intense, explosive visual effect. The character's eye is partially visible, drawn in the characteristic manga style with clean line work. There is dialogue text visible that reads 'SO... THIS IS FATE, HUH?' and partially visible text mentioning 'PRO...' and 'CEEDING WITH ELIMINA-TION'. The composition uses strong contrast between the formal, restrained upper scene and the dynamic, emotionally charged lower scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background depicts an industrial or institutional setting with chain-link fencing prominently featured. The upper portion shows diamond-patterned chain-link fence sections creating geometric compartments across the scene. The fencing has thick, bold black linework with white diamond-shaped gaps between the mesh. Below the fencing are concrete or metal structural elements rendered with solid black fill and gray tones. The architectural elements create a stark, prison-like or secure facility atmosphere. The composition uses strong geometric shapes - diamonds from the chain-link and rectangular blocks from the concrete structures. Shading is achieved through solid black areas and screentone patterns, creating depth and contrast. The overall visual style is typical of manga backgrounds with clean, precise linework and strategic use of black and white contrast to establish mood and setting.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.11,
+            0.65,
+            0.32,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial speech bubble element rendered in typical manga style with clean, thin black lineart. The bubble appears to be cut off or cropped, showing only a portion of what would normally be a complete dialogue balloon. The visible lines are smooth and consistent in weight, characteristic of digital manga production. There is fine dot-pattern screentone or halftone shading visible in parts of the image, creating subtle gray tones. The composition shows the curved boundary lines of the speech bubble against a white background, with some geometric or architectural elements suggested by straight lines and angular shapes in the background. No text is visible within this cropped portion of the speech bubble.",
+          "text": "YOU'RE CERTAINLY WORKING HARD."
+        },
+        {
+          "bbox": [
+            0.73,
+            0.18,
+            0.98,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble or dialogue balloon against a heavily cross-hatched background. The image shows dense, dark cross-hatching creating a textured, shadowy atmosphere typical of manga art. There's a geometric pattern visible that looks like chain-link fencing or a grid structure in the upper portion. The speech bubble itself appears to be cut off or cropped, showing only a white curved edge against the dark, textured background. The line work is characteristic of traditional manga style with heavy use of cross-hatching for creating depth and shadow effects. The overall composition suggests this is from a dramatic or tense scene, given the dark, heavily shaded environment.",
+          "text": "EVEN IN THE MIDDLE OF ALL THIS CHAOS..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.871,
+        0.568,
+        1.0
+      ],
+      "description": "Panel showing close-up of character's face with dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.25,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This is a cropped manga panel showing a close-up profile view of a character's face and neck area. The image features clean, minimal line art typical of manga style with thin, precise black lines defining the facial contours. The character appears to be in profile facing left, with delicate linework showing the curve of the nose, lips, and jawline. There are fine hair strands visible at the edges rendered with flowing, organic lines. The art style employs minimal shading, relying primarily on clean linework rather than heavy tonal work or screentones. A small fragment of text is visible in the upper left corner showing 'ME.' The composition focuses on the elegant simplicity of the facial features, with plenty of white space creating a sense of intimacy and focus on the character's delicate profile. The drawing technique demonstrates skilled use of negative space and restrained linework characteristic of shoujo or josei manga aesthetics.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.1,
+            0.25,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a speech bubble outline showing only a curved border segment. The line is clean and thin with consistent weight, drawn in black ink typical of manga speech bubble borders. The curve appears to be part of the upper or side portion of what would be a standard oval or rounded rectangular speech bubble. The line is smooth without any texture or shading, maintaining the crisp, minimalist aesthetic common in manga dialogue containers. Only a small arc of the complete bubble boundary is visible in this cropped section, with no text or interior elements shown.",
+          "text": "AIM WELL."
+        },
+        {
+          "bbox": [
+            0.02,
+            0.55,
+            0.25,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble visible in the upper portion of the frame, showing only the curved outline border typical of manga dialogue bubbles. The bubble appears to be cut off by the crop, showing just a portion of its rounded edge rendered with clean, consistent black linework of medium weight. The interior of the visible bubble portion is white/blank, and no text is visible within this cropped section. The bubble's border follows the characteristic smooth, organic curves common in manga speech bubbles, suggesting it likely contains dialogue that extends beyond the visible frame boundaries.",
+          "text": "DON'T MISS THIS TIME."
+        },
+        {
+          "bbox": [
+            0.3,
+            0.15,
+            0.55,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial speech bubble outline showing only the curved left border. The line is clean and smooth with consistent medium line weight, typical of manga speech bubble construction. The curve suggests this is part of a rounded or oval-shaped dialogue bubble. The line is solid black with no shading or hatching effects. Due to the cropped nature, no text content is visible, and the spatial relationship shows this element would typically be positioned near a speaking character in the full panel composition.",
+          "text": "SO... THIS IS FATE, HUH?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.571,
+        0.871,
+        0.841,
+        1.0
+      ],
+      "description": "Panel showing sniper scope view with crosshairs on target",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.15,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character in an astronaut suit or space helmet, viewed from a low angle. The character's face is partially visible through the helmet's visor, with simple line work defining facial features. The helmet is rendered with clean, bold outlines and appears to have a reflective or transparent front section. The composition uses dramatic perspective, with the helmet dominating the frame. The art style employs high contrast black and white with minimal shading, typical of manga illustration. Heavy black areas create stark shadows and depth, while the line work is confident and economical. The character appears to be looking downward toward the viewer, creating an imposing presence within the confined space of the cropped panel.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "object",
+          "description": "A black and white manga panel showing a close-up view of what appears to be a gun barrel or cylindrical weapon being pointed directly at the viewer. The object is rendered with clean, bold line work characteristic of manga art style. The circular opening of the barrel is prominently featured in the center, with mechanical details and structural elements visible around it. The shading uses solid blacks and whites with minimal gray tones, creating high contrast. The perspective creates a dramatic, threatening composition as if looking down the barrel of the weapon. The linework is precise and technical, suggesting this is likely from an action or thriller manga. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            0.9,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "This manga speech bubble features a dramatic close-up of a character's face, likely male, with an intense or shocked expression. The character appears to be wearing some kind of helmet or protective headgear with distinctive geometric patterns and designs. The art style employs bold, heavy line weights typical of action manga, with strong contrast between black and white areas. Cross-hatching and screentone effects are used for shading, particularly around the character's face and the mechanical elements of the headgear. The composition is tightly framed, focusing on the upper portion of the character's head and face, creating a sense of urgency or dramatic tension. The speech bubble itself appears to contain text, though the specific words are not clearly legible in this cropped view. The overall aesthetic suggests this is from a mecha or sci-fi manga, given the technological appearance of the character's equipment.",
+          "text": "PROCEEDING WITH ELIMINATION."
+        },
+        {
+          "bbox": [
+            0.7,
+            0.5,
+            0.98,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "A small portion of what appears to be a manga speech bubble or panel element, showing only a thin black border line at the top against a white background. The line has consistent weight typical of manga panel borders, with clean, sharp edges. The visible area is minimal, showing primarily negative white space below the border line. No text, characters, or other visual elements are visible in this cropped section.",
+          "text": "TARGET CONFIRMED."
+        }
+      ]
+    }
+  ]
+}

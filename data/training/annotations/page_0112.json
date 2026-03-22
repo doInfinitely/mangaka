@@ -1,0 +1,96 @@
+{
+  "width": 872,
+  "height": 1400,
+  "description": "A two-panel manga page showing intense emotional scenes. The top panel depicts a character with dark hair appearing distressed, while the bottom panel shows a blonde character with a concerned expression and dialogue in Spanish.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.76
+      ],
+      "description": "Large panel showing a dark-haired character with an intense, distressed expression, with dramatic shading and emotional intensity",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel features a dramatic close-up composition with stark black and white contrast typical of horror or thriller manga. The upper portion shows a hooded figure with their face partially obscured by heavy shadows, creating an ominous silhouette effect. The hood casts deep black shadows across the character's features, with only glimpses of eyes visible in the darkness. Heavy cross-hatching and solid black fills are used to create the shadowing effect. Below this is a smaller panel showing what appears to be a young character with light-colored hair and large eyes looking upward, drawn in a more typical manga style with clean linework. The composition creates a sense of foreboding through the contrast between the shadowed threatening figure above and the innocent-looking character below. The background uses screentone patterns typical of manga printing, and the overall layout emphasizes the dramatic tension between these two elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.05,
+            0.85,
+            0.95
+          ],
+          "type": "character",
+          "description": "A dramatic close-up of a character's face emerging from or being consumed by a large, monstrous mouth with sharp fangs. The character has messy, dark hair and appears to be wearing a light-colored uniform or jacket with a collar. Their expression is intense with visible eyes, and there are dark streaks or tears running down their face, suggesting distress or supernatural influence. The art style employs heavy black ink with stark white contrasts, using bold line weights for the creature's mouth and more delicate lines for the character's facial features. Cross-hatching and vertical line shading create depth and shadow, particularly around the mouth's interior. The composition creates a sense of the character being trapped or threatened by the beast, with the dark maw dominating the upper portion of the frame while the character's pale face provides contrast below. The overall aesthetic is typical of horror or supernatural manga with its high contrast black and white rendering.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.76,
+        1.0,
+        1.0
+      ],
+      "description": "Panel showing a blonde character with a concerned expression and Spanish dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel features a close-up of a young female character with long, straight hair that frames her face. She has large, expressive eyes with vertical pupils that appear cat-like or supernatural in nature. Her expression shows surprise or concern, with her mouth slightly open. She's wearing what appears to be a dark-colored garment with a high collar or hood. The art style is typical of manga with clean black ink lines, minimal shading using screentone/halftone patterns in the background, and white space for highlights. Two speech bubbles contain Spanish text - one reads 'SHINJI, SEGUIR\u00c1 PELEANDO.' on the left, and another reads 'A PESAR DE QUE \u00c9L SABE ESO.' on the right. The composition focuses on the character's face and upper torso, creating an intimate, dramatic moment typical of manga storytelling.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a manga character showing the face from approximately the nose up. The character has large, expressive eyes with detailed pupils and light reflections, framed by straight bangs that fall across the forehead. The hair appears to be light-colored with fine parallel hatching lines creating texture and volume. The character's expression appears surprised or concerned, with slightly parted lips and wide eyes. The art style features clean, confident line work with varying line weights - thicker outlines defining the face and hair, and thinner lines for internal details. The shading is minimal, relying primarily on hatching techniques for the hair texture. The composition is tightly cropped, focusing entirely on the facial features and creating an intimate, emotional moment. The character appears to be wearing dark clothing visible at the bottom edge of the frame. The overall style is typical of shoujo or josei manga with its emphasis on detailed eyes and delicate facial features.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.3,
+            0.25,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing Spanish text 'SHINJI, SEGUIR\u00c1 PELEANDO.' (Shinji will keep fighting). The bubble has a clean, rounded rectangular shape with a tail pointing downward and to the right. The text is rendered in bold, uppercase letters using a standard manga font. In the background, there are partial views of what appears to be a character's clothing or body parts rendered with screentone hatching patterns typical of manga art. The linework is clean and consistent with professional manga style, using solid black lines of moderate weight. The composition suggests this bubble is positioned in the upper portion of a panel, with the character it's referring to likely positioned below or to the side.",
+          "text": "SHINJI SEGUIR\u00c1 PELEANDO."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.2,
+            0.98,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble from a manga panel containing Spanish text that reads 'A PESAR DE QUE \u00c9L SABE ESO,' (Despite him knowing that,). The speech bubble has the typical rounded rectangular shape with clean black outlines. In the background, there are portions of what appears to be a character's clothing rendered in black and white manga style, with dotted screentone patterns creating texture and shading. The clothing appears to be formal wear, possibly a suit or jacket, drawn with clean line work typical of manga art style. The composition shows only a fragment of the larger panel, cropped to focus on this particular speech element and surrounding visual details.",
+          "text": "A PESAR DE QUE \u00c9L SABE ESO,"
+        }
+      ]
+    }
+  ]
+}

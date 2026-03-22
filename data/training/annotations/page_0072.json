@@ -1,0 +1,195 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A manga page showing a character in intense physical distress or exertion, followed by a dramatic landscape scene with small figures beneath what appears to be a large crater or celestial body.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.425
+      ],
+      "description": "Close-up of a character with dark hair showing signs of strain or exhaustion, with various sound effects scattered around",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.05,
+            0.9,
+            0.8
+          ],
+          "type": "character",
+          "description": "A close-up view of a manga character shown from behind and slightly to the side, with their head bowed down in what appears to be distress or exhaustion. The character has dark, messy hair that falls in jagged strands, creating dramatic shadows that obscure most of their face. They're wearing what looks like a light-colored shirt or jacket. The art style features bold, thick black lines for the hair contrasting with lighter linework for the clothing and background elements. There are several sound effects or onomatopoeia scattered around the image, including 'uuuuu' and various katakana characters that suggest breathing, movement, or emotional sounds. The composition emphasizes the character's downward posture, creating a sense of vulnerability or defeat. The background shows geometric shapes and panels typical of manga layout, with clean line art and minimal shading that focuses attention on the character's silhouette.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.7,
+            0.25,
+            0.85
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows sound effect (sfx) text rendered in a minimalist, sketchy style. The text appears to be drawn with thin, delicate line work against a predominantly white background. There are some vertical line elements that could be part of the sound effect visualization or background elements. The overall composition is sparse and clean, with the sfx text integrated into what appears to be part of a larger panel layout. The line weight is consistent and light, giving it an airy, subtle quality typical of manga sound effects that represent quiet or gentle sounds.",
+          "text": "URGH..."
+        },
+        {
+          "bbox": [
+            0.7,
+            0.4,
+            0.95,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (SFX) rendered in bold, dark brushstrokes against a light background. The text appears to be Japanese onomatopoeia written in katakana, with thick, dynamic strokes that convey movement or impact. The lettering has a rough, hand-drawn quality typical of manga sound effects, with varying line weights that create visual emphasis. In the background, there are subtle sketched lines suggesting fabric or clothing details, drawn with much lighter, thinner strokes. The composition places the bold SFX text prominently in the upper portion of the frame, creating a strong contrast against the more delicate background linework. The overall art style is characteristic of traditional manga illustration techniques, using black ink with minimal shading and relying on line variation for visual impact.",
+          "text": "UUUUH..."
+        },
+        {
+          "bbox": [
+            0.1,
+            0.25,
+            0.3,
+            0.45
+          ],
+          "type": "sfx",
+          "description": "This manga element shows a sound effect (sfx) rendered in bold, angular katakana characters. The text appears to be stylized in a typical manga onomatopoeia style with thick, dramatic strokes. The sfx is positioned over what appears to be part of a character's clothing or body, showing areas of white space contrasted against gray screentone shading. The composition includes curved and angular line work typical of manga art, with the sound effect integrated into the panel's visual flow. The screentone creates texture and depth in the background areas, while the white spaces provide contrast for the bold text to stand out clearly.",
+          "text": "\u30ac\u30ea\u30c3"
+        },
+        {
+          "bbox": [
+            0.7,
+            0.15,
+            0.9,
+            0.35
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows sound effects rendered in bold, dynamic black brushstrokes. The main SFX appears to be written in katakana with thick, energetic strokes that convey impact or sudden movement. To the right, there are smaller sound effects written as 'UUUUU' in a more delicate line weight, suggesting a prolonged or trailing sound. The art style uses strong contrast between the bold black text and white background, with the lettering having an organic, hand-drawn quality typical of manga sound effects. The composition places the larger SFX prominently on the left side, while the smaller text trails off to the right, creating a sense of motion and temporal progression in the sound representation.",
+          "text": "\u30ac\u30ea\u30c3"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.425,
+        1.0,
+        0.675
+      ],
+      "description": "Medium shot showing the character from torso up, continuing to show distress with more sound effects",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a close-up view of a character's face rendered in high contrast black and white. The character appears to be viewed from below, creating a dramatic low-angle perspective. The face is partially obscured by heavy black shadows, with stark white areas highlighting certain facial features. The art style employs bold, thick black ink work with minimal gray tones, creating a striking chiaroscuro effect. The character's expression appears intense or serious, though details are abstracted by the dramatic lighting. There are some Japanese katakana characters visible in the upper portion of the frame. The composition uses negative space effectively, with the white background contrasting sharply against the dark silhouette of the character. The line work is clean and confident, typical of professional manga illustration techniques, with solid black fills rather than screentone or hatching patterns.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.4,
+            0.2,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "This appears to be a sound effect (SFX) element rendered in solid black ink with rough, jagged edges. The shape is angular and dynamic, suggesting an explosive or impactful sound. The element uses heavy black fill with no internal detail or hatching, creating a stark contrast against the white background. The irregular, torn-like edges give it an organic, violent quality typical of action manga sound effects. The composition shows only a portion of what was likely a larger sound effect, cropped at dramatic angles that maintain the sense of movement and force.",
+          "text": "\u30ac\u30ea\u30c3"
+        },
+        {
+          "bbox": [
+            0.45,
+            0.4,
+            0.7,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "A sound effect (sfx) element rendered in black ink with rough, organic edges against a light cream/off-white background. The visual appears as an irregular, jagged silhouette or splatter pattern that extends horizontally across the bottom portion of the frame. The black areas have a torn or explosive quality with varying densities - some sections are solid black while others show more textural variation. The edges are highly irregular and rough, suggesting dynamic movement or impact. The art style uses bold, confident brush strokes or ink application with no fine line work or hatching visible. The composition places this element as a border or ground-level effect, with small scattered particles or debris visible above the main mass. No readable text is apparent within this visual effect element.",
+          "text": "\u30ac\u30ea\u30c3"
+        },
+        {
+          "bbox": [
+            0.8,
+            0.3,
+            1.0,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a dramatic sound effect rendered as a stark black silhouette against a white background. The sfx appears to be an explosive or impact effect, with jagged, angular shapes radiating outward in an irregular burst pattern. The black area has rough, torn edges that create a sense of violent motion or destruction. The silhouette technique uses solid black fill with no internal detail or shading, creating high contrast typical of manga sound effects. The composition shows the effect emerging from or breaking through what appears to be a panel border or frame element visible in the upper left corner. The overall style is bold and graphic, emphasizing the dramatic nature of whatever action this sound effect represents.",
+          "text": "\u30ac\u30ea\u30c3"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.675,
+        1.0,
+        1.0
+      ],
+      "description": "Wide landscape panel showing a dramatic sky scene with a large dark mass above and small figures on the ground below",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.4
+          ],
+          "type": "background",
+          "description": "This manga background element features an abstract cloudy or misty atmospheric effect rendered in classic manga style. The image shows dense crosshatching and stippling techniques creating a gradient from dark at the top to light at the bottom. The upper portion contains heavy, concentrated black ink work with tight crosshatch patterns that create a stormy or turbulent sky effect. As it transitions downward, the hatching becomes sparser and lighter, eventually fading to pure white at the bottom. The technique uses traditional manga screening methods with dots of varying density (screentones) combined with hand-drawn crosshatching lines. This creates a dramatic atmospheric backdrop typical of emotional or climactic scenes in manga, suggesting either storm clouds, smoke, or a metaphorical representation of tension or conflict. The composition flows organically across the frame with no defined geometric shapes, emphasizing the natural, flowing quality of the atmospheric element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.4,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "Ground landscape with dotted/stippled texture",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.65,
+            0.25,
+            0.85
+          ],
+          "type": "character",
+          "description": "A minimalist line drawing showing a partial view of a character rendered in simple, thin black lines against a cream/off-white background. The drawing appears to show the upper portion of a figure with very basic linework - possibly depicting hair or clothing details. The art style is extremely sparse and sketchy, using minimal line weight with no shading, hatching, or tonal work. The lines are delicate and appear to be drawn with a fine pen or pencil. The composition is very open with lots of negative space, suggesting this may be a background character or a very subtle detail within a larger panel. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.7,
+            0.55,
+            0.9
+          ],
+          "type": "character",
+          "description": "A dynamic manga character illustration showing a figure in motion, drawn with confident, flowing line work. The character appears to be leaping or in mid-action, with their body positioned diagonally across the frame. They're wearing what looks like loose, flowing clothing or robes that billow dramatically with the movement. The art style employs varied line weights - thicker, bold strokes for the main contours and thinner lines for details and fabric folds. The shading is minimal but strategic, using selective areas of solid black and white space to create contrast and emphasize the figure's form. The composition shows excellent use of negative space, with the character positioned against a clean background. The drawing technique demonstrates classic manga aesthetics with expressive, gestural linework that conveys energy and motion. No visible text appears in this cropped element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.6,
+            0.95,
+            0.85
+          ],
+          "type": "character",
+          "description": "A cropped manga character shown from behind in a dynamic pose with arms raised upward. The figure appears to be wearing light-colored clothing, possibly a shirt or jacket. The art style features clean, confident line work with varied line weights - thicker outlines defining the main form and thinner lines for clothing details and interior elements. The shading is minimal, relying primarily on solid black areas and white space rather than detailed hatching or toning. The composition shows the character from roughly mid-torso up, cropped at an angle that emphasizes the upward movement of the arms. The drawing style is characteristic of manga with its simplified yet expressive linework and clear contrast between black and white areas. No visible text appears in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

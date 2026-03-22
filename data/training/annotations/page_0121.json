@@ -1,0 +1,96 @@
+{
+  "width": 935,
+  "height": 1400,
+  "description": "A full-page illustration featuring two characters in futuristic armor against a cosmic background, with Spanish text expressing gratitude to readers and supporters of the manga translation.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full-page illustration with two armored characters sitting together against a starry cosmic background with geometric shapes",
+      "elements": [
+        {
+          "bbox": [
+            0.35,
+            0.45,
+            0.75,
+            0.95
+          ],
+          "type": "character",
+          "description": "This manga panel features a blonde female character in a dramatic pose, viewed from a low angle. She has large, expressive eyes with detailed shading and appears to be wearing a futuristic or mecha-style outfit with orange/red and metallic accents on the chest area. Her hair is rendered with fine linework and highlights. The character is wearing what appears to be a white coat or jacket that's open, creating flowing fabric lines. The art style employs clean, precise linework with moderate line weights, soft gradient shading rather than heavy hatching, and careful attention to fabric folds and anatomical proportions. The composition creates a sense of depth and movement through the low viewing angle and the way the clothing drapes. A partial view of another character with dark hair is visible in the background/right side of the frame. The overall aesthetic is typical of high-quality manga illustration with polished digital coloring techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.55,
+            0.55,
+            0.85,
+            0.95
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character in white/light gray clothing or armor with mechanical or robotic design elements. The figure appears to be in a reclining or seated position, with smooth, curved surfaces and panel lines typical of mecha or sci-fi suit designs. The art style features clean line work with moderate line weights, cell-shaded coloring in predominantly white and gray tones with subtle shadows. There are hints of warmer orange/amber colors in the background or upper portion of the frame. The composition focuses on the torso and upper body area, with the character positioned at an angle that emphasizes the dimensional form of the suit or armor. The shading technique uses solid color blocks rather than traditional hatching, giving it a modern digital manga aesthetic. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A dramatic manga background featuring a cosmic space scene with a starry night sky filled with twinkling stars and nebulous clouds in deep blues and purples. The background transitions into warm golden-orange tones suggesting a sunset or sunrise atmosphere. Large geometric black angular shapes, resembling crystalline or architectural fragments, cut diagonally across the composition, creating dynamic visual tension. The art style employs smooth digital gradients for the cosmic elements with clean, bold line work for the geometric shapes. Spanish text is overlaid on the left side in red lettering, appearing to be dialogue or narration. The overall composition creates a sense of epic scale and otherworldly atmosphere typical of science fiction or fantasy manga. Studio credits and website URLs are visible at the bottom of the image in small text.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.55,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble or text overlay with Spanish text rendered in an elegant, serif font style. The text is displayed in dark reddish-brown lettering against a warm, golden-amber background with soft lighting effects. The background shows what appears to be a character with flowing hair rendered in typical manga style with clean line art and subtle shading. The text reads messages of farewell and gratitude, signed by 'Lord Morpheus.' The overall composition has a dreamy, ethereal quality with warm color tones transitioning from golden yellows to peachy oranges. The manga art style features characteristic smooth line work and soft gradient shading typical of fantasy or dramatic scenes.",
+          "text": "ESPERANDO QUE HAYAN DISFRUTADO ESTA HISTORIA ME DESPIDO. MUCHAS GRACIAS A TODOS LOS QUE LEYERON Y APOYARON ESTA TRADUCCI\u00d3N."
+        },
+        {
+          "bbox": [
+            0.15,
+            0.52,
+            0.35,
+            0.58
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a dark, atmospheric speech bubble or dialogue panel with a starry or dotted pattern against a black background. The visual shows scattered white dots or stars creating a night sky effect within what seems to be a speech bubble boundary. The composition uses high contrast between the deep black space and the bright white dots, creating a cosmic or nocturnal atmosphere. The dots vary in size and are irregularly distributed across the dark field. The overall style suggests this could be representing either literal stars in a night sky dialogue, or perhaps a stylized way of showing silence, contemplation, or the vastness of space within the narrative context. No readable text is visible in this cropped section.",
+          "text": "Lord Morpheus.-"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.95,
+            1.0,
+            1.0
+          ],
+          "type": "object",
+          "description": "This appears to be a header or footer element from a manga page featuring website URLs. The element contains two web addresses displayed in white text against a geometric background with angular panels in shades of blue, purple, and gray. The URLs read 'http://www.kimigabuchi.com' on the left side and 'http://www.vectronstudios.com/ peter/' on the right side. The background has a modern, angular design with clean geometric shapes and gradient shading that transitions from darker blues to lighter purples and grays. The overall aesthetic is sleek and digital, consistent with contemporary manga production credits or promotional elements. The text appears to use a simple, clean font that ensures readability against the stylized background.",
+          "text": "http://www.kimigabuchi.com http://www.vectronstudios.com/_peter/"
+        },
+        {
+          "bbox": [
+            0.85,
+            0.85,
+            1.0,
+            1.0
+          ],
+          "type": "object",
+          "description": "This manga panel element shows a close-up view of what appears to be clothing or fabric rendered in muted purple/lavender tones. The image features clean, flowing line work typical of manga art style with minimal shading. There are two text elements visible: 'STUDIO KIMIGABUCHI' at the top in a stylized font, and below it a rectangular box containing 'PUG' in bold black letters. The composition focuses on the fabric's draping and folds, with the text elements integrated into the design. The line weight is consistent and smooth, creating a polished, professional manga aesthetic. The purple coloring gives the element a soft, atmospheric quality while maintaining clear definition of the forms.",
+          "text": "STUDIO KIMIGABUCHI"
+        }
+      ]
+    }
+  ]
+}

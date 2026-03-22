@@ -1,0 +1,107 @@
+{
+  "width": 943,
+  "height": 1400,
+  "description": "A manga page showing a close-up of a blonde character in the top panel, and a scene with two characters discussing a critical situation in the bottom panel",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.75
+      ],
+      "description": "Large panel featuring a close-up of a blonde character with determined expression",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel features two distinct sections. The top section shows a close-up of a character with medium-length layered hair and large, expressive eyes in classic manga style. The character appears to be resting their chin on their hand in a contemplative pose, with clean line art and minimal shading. The bottom section depicts two characters in what appears to be an indoor setting with screentone backgrounds. One character has spiky light-colored hair while the other has darker, smoother hair. There are Japanese sound effects (katakana) visible on the left side, and Spanish text on the right that reads 'LA UNIDAD 01... EST\u00c1 AL BORDE DE LA DESCONEXI\u00d3N TOTAL!!' The art style uses typical manga techniques including screentones for backgrounds, varied line weights for emphasis, and clean black and white contrast without heavy shading or hatching.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.75,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom panel showing two characters - a blonde male and a brown-haired female in what appears to be a plugsuit",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character shown from approximately chest level down, depicted in classic black and white manga style. The character appears to be wearing a light-colored top or shirt with clean, minimalist line work. The figure is positioned in a casual stance. To the left side of the panel is a geometric speech bubble containing the Spanish text 'SI NO OCURRE ALGO PRONTO...!!' The art style features typical manga characteristics with clean line weights, subtle screentone shading, and precise geometric panel borders. The composition shows the character from a slightly angled perspective, with careful attention to fabric folds and form. The overall aesthetic is clean and polished, consistent with contemporary manga illustration techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.0,
+            0.8,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga-style illustration showing the torso and upper body of a female character wearing a form-fitting bodysuit or plugsuit with distinctive design elements. The suit is rendered in grayscale with halftone screening patterns, featuring circular breast plates and geometric panel divisions across the torso. The character has long dark hair flowing to one side and appears to be viewed from a slightly low angle. The art style uses clean, confident linework with varied line weights - thicker outlines defining the character's silhouette and thinner internal lines for suit details. Shading is achieved through manga-typical screentone patterns rather than solid blacks. Japanese text characters are visible in the upper right corner of the frame. The composition is cropped to focus on the character's upper body, creating an intimate framing that emphasizes the suit's design details and the character's pose.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.25,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with clean, bold black lines forming an irregular oval shape typical of manga dialogue bubbles. The bubble contains Spanish text that reads 'SI NO OCURRE ALGO PRONTO...!!' in black, all-caps lettering with an exclamation mark indicating urgency or distress. The text appears to be hand-lettered in a standard manga font style. The bubble has a pointed tail extending downward and to the right, suggesting the speaker is positioned below and to the right of the bubble. The background shows partial line art of what appears to be architectural elements or structural beams drawn with thin black lines in a minimalist style. The overall composition uses high contrast black and white with no shading or tone, consistent with typical manga artwork.",
+          "text": "SI NO OCURRE ALGO PRONTO..."
+        },
+        {
+          "bbox": [
+            0.6,
+            0.1,
+            0.95,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "This speech bubble contains dramatic vertical text with exclamation marks and ellipses, rendered in bold black lettering against a white background. The text appears to be expressing strong emotion or emphasis. The bubble itself has clean, defined borders typical of manga speech bubbles. In the background portion visible, there are dramatic speed lines or action lines radiating outward, creating a sense of movement or impact. Part of a character is visible on the left side, showing what appears to be long hair and clothing rendered in typical manga style with screentone shading. The overall composition suggests this is from an intense or climactic moment in the story, with the speech bubble positioned to emphasize the dramatic nature of whatever is being said.",
+          "text": "LA UNIDAD 01... EST\u00c1 AL BORDE DE LA DESCONEXI\u00d3N TOTAL!!"
+        },
+        {
+          "bbox": [
+            0.05,
+            0.6,
+            0.2,
+            0.85
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows geometric line art consisting of intersecting straight lines forming angular shapes, likely representing motion lines or impact effects typical in manga sfx (sound effects/visual effects). The lines are drawn with consistent medium line weight in black ink against a white background. The composition features diagonal lines creating triangular and diamond-like shapes that intersect at various points, suggesting dynamic movement or collision. The stark contrast and clean linework are characteristic of manga's minimalist approach to visual effects. No text is visible in this cropped section, focusing purely on the geometric line patterns used to convey action or emphasis.",
+          "text": "\u30d1\u30e9\u30c3\u30d1\u30e9"
+        },
+        {
+          "bbox": [
+            0.78,
+            0.65,
+            0.98,
+            0.95
+          ],
+          "type": "sfx",
+          "description": "A black sound effect (SFX) text rendered in bold, jagged lettering typical of manga onomatopoeia. The text appears to be partially cropped, showing only a portion of what seems to be an impact or action sound effect. The lettering uses thick, angular strokes with rough, energetic edges that convey force or sudden movement. The text is positioned in the upper portion of the frame against a white background, creating strong contrast. The style is characteristic of dramatic manga sound effects, with the bold black ink creating visual emphasis for whatever action is occurring in the scene.",
+          "text": "\u30c9\u30c9\u30c9\u30c9\u30f3"
+        }
+      ]
+    }
+  ]
+}

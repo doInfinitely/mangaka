@@ -1,0 +1,107 @@
+{
+  "width": 872,
+  "height": 1400,
+  "description": "A two-panel manga page showing emotional character moments. The top panel depicts a character with dark hair in distress, while the bottom panel shows a blonde character with dialogue about someone named Shinji continuing to fight despite knowing something.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.65
+      ],
+      "description": "Close-up of a character with dark hair covering part of their face, appearing distressed or emotional with tears or sweat visible",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.05,
+            0.9,
+            0.95
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a manga character with dark, messy hair covering much of their face. The character appears to be in distress or crying, with visible tear streaks running down their cheeks. Their visible eye shows intense emotion. The art style is typical of manga with bold, heavy black lines and high contrast between black and white areas. The character is wearing what appears to be a light-colored shirt or jacket with a collar. The composition focuses on the upper torso and face, with the character's hands positioned near their face in a gesture suggesting emotional turmoil. The background shows diagonal hatching patterns typical of manga screentone. The overall mood is dramatic and emotionally charged, emphasized by the stark black and white contrast and the character's distressed expression.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.1
+          ],
+          "type": "background",
+          "description": "This cropped manga panel shows the upper portion of a character's head against a halftone screentone background. The image features stark black and white contrast typical of manga art. The character has dark, messy hair rendered in solid black with some white highlights or reflective areas. Only the hair and possibly the upper forehead area are visible in this crop. The background uses a diagonal crosshatch or screentone pattern that creates texture and depth. The linework appears bold and confident, with clean edges between the black hair and white highlights. The composition suggests this is likely from a dramatic or intense scene, given the high contrast and cropped framing that focuses on just the hair detail.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.9,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A minimalist manga background showing geometric architectural elements rendered in clean, bold black lines against a white background. The image features angular structural forms - likely interior ceiling beams, walls, or architectural framework - drawn with confident, varied line weights. The linework is precise and deliberate, with thicker outer contours defining the main structural elements and thinner lines for interior details. There's a small area of dense crosshatching or solid black fill in the upper portion, creating contrast and depth. The composition uses negative space effectively, with the white areas being as important as the drawn elements. The style is typical of modern manga backgrounds - economical yet descriptive, focusing on geometric precision rather than detailed rendering. No text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.65,
+        1.0,
+        1.0
+      ],
+      "description": "Panel showing a blonde character speaking, with dialogue about Shinji continuing to fight",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.1,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "This is a close-up portrait of a manga character with large, expressive eyes and long, flowing hair with bangs that frame the face. The character has a surprised or startled expression, with wide eyes featuring vertical pupils or highlights, and a small open mouth suggesting shock or realization. The art style is typical of manga with clean, confident linework of varying weights - thicker outer contours and thinner detail lines. The character appears to be wearing dark clothing, visible as black areas at the bottom of the frame around the neck/collar area. The hair is rendered with detailed flowing strands and subtle shading using screentone or hatching techniques. The composition is tightly cropped to focus on the face and upper shoulders, creating an intimate, dramatic moment. The overall aesthetic is clean and polished with high contrast between the white face/hair areas and the black clothing, typical of black and white manga artwork.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.3,
+            0.35,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing the text 'SHINJI WILL KEEP ON FIGHTING.' in bold, uppercase lettering. The bubble has a clean, rounded rectangular shape with a small tail pointing toward the speaker. The text is rendered in a standard manga font with consistent letter spacing. Behind and around the speech bubble, there are dramatic diagonal screentone patterns creating dynamic movement lines and shading effects. The background features flowing, organic shapes that appear to be hair or fabric rendered with fine linework and crosshatching. The overall composition suggests this is part of an intense or emotional scene, with the contrast between the clean speech bubble and the dynamic background elements creating visual emphasis on the dialogue.",
+          "text": "SHINJI WILL KEEP ON FIGHTING."
+        },
+        {
+          "bbox": [
+            0.65,
+            0.15,
+            0.95,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing the text 'EVEN THOUGH HE KNEW THAT,' positioned in the upper right portion of the panel. The bubble has a clean, rounded rectangular shape with a subtle tail pointing toward the speaker. The text is rendered in standard manga lettering - bold, uppercase sans-serif font in black against the white bubble interior. Behind and around the speech bubble, we can see partial views of a character with light-colored hair rendered in typical manga style with flowing, dynamic strands. The hair is depicted with clean, confident line work and subtle screentone shading. The overall composition suggests this is part of a dramatic or contemplative moment, with the speech bubble strategically placed to not obscure important visual elements of the character beneath.",
+          "text": "EVEN THOUGH HE KNOWS THAT."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.1
+          ],
+          "type": "background",
+          "description": "This appears to be a geometric background element consisting of angular, interconnected line segments forming an abstract pattern. The lines are drawn with consistent medium weight and create a series of irregular polygonal shapes that interlock across the horizontal span. The style is clean and minimalist, typical of manga backgrounds, with no shading or hatching - just solid black lines on white. The geometric forms suggest fragmented or crystalline structures, possibly representing broken glass, ice shards, or abstract architectural elements. The composition spans horizontally with the angular segments varying in size and orientation, creating visual rhythm and texture that would serve as a backdrop for manga panels without competing with foreground elements.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

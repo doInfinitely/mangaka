@@ -1,0 +1,217 @@
+{
+  "width": 942,
+  "height": 1400,
+  "description": "A dramatic manga page showing a confrontation scene with characters in what appears to be an indoor setting, culminating in an explosive or destructive event depicted in the lower panels.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.08,
+        0.0,
+        0.26,
+        0.34
+      ],
+      "description": "Top left panel showing a character with spiky hair looking up with an expression of concern or alarm",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.15,
+            0.95,
+            0.85
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character shown from behind/side angle, featuring spiky, light-colored hair rendered with bold, dynamic line work characteristic of action manga. The character appears to be looking upward or to the side. The art style employs clean, confident linework with minimal shading, focusing on strong contours. Above the character, there are diagonal motion lines and what appears to be a speech bubble or sound effect with Japanese characters. The composition uses screentone/halftone patterns in the background, creating depth and atmosphere. The overall style is typical of shonen manga with its emphasis on dynamic poses and expressive hair styling. The cropped nature shows only the upper portion of the character, emphasizing the dramatic upward gaze or movement.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.05,
+            0.4,
+            0.4
+          ],
+          "type": "sfx",
+          "description": "A vertically oriented sound effect (sfx) element featuring bold, stylized Japanese characters rendered in black ink. The characters appear to be written in a dramatic, elongated style typical of manga sound effects, with thick brush-like strokes that taper and flow dynamically. The sfx is positioned against a background of fine crosshatch/screentone pattern. The lettering has a sense of motion and energy, with the characters stretching vertically down the panel. The line weight varies from thick to thin, creating visual impact and suggesting the intensity or nature of the sound being represented. The overall composition is stark with high contrast between the black text and the patterned background.",
+          "text": "\u30c9\u30b5\u30c3"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.08,
+        0.36,
+        0.26,
+        0.68
+      ],
+      "description": "Middle left panel showing what appears to be debris or destruction with impact effects",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.3,
+            0.9,
+            0.9
+          ],
+          "type": "effect",
+          "description": "This manga panel element shows dynamic motion lines and speed effects typical of manga visual language. The image contains several diagonal streaking lines of varying thickness that create a sense of rapid movement or impact. The lines appear to be drawn with bold, confident strokes using varying line weights - some thick and prominent, others thinner and more delicate. The composition suggests either something moving at high speed through the frame or the aftermath of a sudden action. The lines are rendered in black ink against a white background, following traditional manga artistic conventions. The angular, sharp nature of the lines creates tension and energy within the cropped section, indicating this is likely part of a larger action sequence or dramatic moment in the story.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.05,
+            0.35,
+            0.35
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows sound effect text (sfx) rendered in a typical Japanese manga style. The text appears to be katakana characters written vertically, likely representing a sound or onomatopoeia. The characters are drawn with bold, black brush-like strokes against a white background. The lettering has a dynamic, flowing quality with varying line weights that taper and thicken to convey movement or intensity. The text is positioned in the upper portion of the cropped area, with some additional smaller text elements visible below. The overall style is clean and stark, using high contrast between the black ink and white background, which is characteristic of traditional manga artwork.",
+          "text": "\u30c9\u30b5\u30c3"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.28,
+        0.08,
+        0.64,
+        0.68
+      ],
+      "description": "Large central panel showing two characters in what appears to be a room or doorway, with one character standing and another in the foreground",
+      "elements": [
+        {
+          "bbox": [
+            0.4,
+            0.15,
+            0.65,
+            0.7
+          ],
+          "type": "character",
+          "description": "A tall male character shown in profile view, wearing a light-colored long-sleeved shirt or sweater and dark pants. He has short, somewhat messy hair and appears to be standing in a casual pose. The character is drawn in a typical manga style with clean, confident line work. The background features dense dot-tone/halftone screening pattern typical of manga printing. The figure is positioned against what appears to be a wall or vertical surface, with the composition showing him from roughly mid-torso up. The art style employs minimal shading with clear, bold outlines and relies on the screentone background for atmospheric depth. No visible text appears in this cropped panel element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.4,
+            0.45,
+            0.85
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character shown from behind, wearing a knee-length dress or tunic with a cross-hatched pattern texture. The character has light-colored hair and is wearing dark knee-high socks or stockings. The figure is standing in a casual pose. The art style features clean, confident line work with cross-hatching used for shading and texture on the clothing. The composition shows the character from approximately mid-torso down to their feet, with strong contrast between the light dress and dark stockings. At the bottom of the frame, there are geometric shapes - what appears to be white rectangular forms against a dark background, possibly representing papers or documents on a surface. The overall style is typical of manga illustration with its clean linework and selective use of screen tones and hatching patterns.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A manga panel depicting an interior scene with two characters in what appears to be a doorway or entrance area. The background shows a stark, minimalist architectural space with clean white walls and geometric door frames. The scene uses heavy contrast between bright white areas and deep black shadows cast dramatically across the floor in bold, angular shapes. The shading technique employs dense crosshatching and solid black fills to create depth and atmosphere. One character stands in the bright doorway wearing light-colored clothing, while another smaller figure in darker clothing is positioned in the foreground casting a strong shadow. The composition emphasizes the dramatic interplay of light and shadow, with the black shadows dominating the lower portion of the panel in sweeping, angular forms. The art style features clean line work with varying line weights - thin precise lines for architectural details and bolder strokes for the dramatic shadow areas. The overall tone is stark and atmospheric, typical of dramatic manga storytelling techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.6,
+            0.8,
+            0.95
+          ],
+          "type": "effect",
+          "description": "This manga effect element features dramatic black ink splatters and motion lines rendered in a high-contrast style. The composition shows bold, organic black shapes that appear to be ink blots or paint splatters, with dynamic streaking lines extending from them. The linework varies from thick, solid black masses to fine parallel hatching lines that create a sense of rapid movement or explosion. The black areas have irregular, flowing edges that suggest liquid or energy dispersal. The white background provides stark contrast, emphasizing the dramatic nature of the effect. The overall composition suggests impact, speed, or some form of energetic release, typical of action manga visual effects used to convey motion, collision, or supernatural phenomena.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.66,
+        0.0,
+        0.92,
+        0.68
+      ],
+      "description": "Right panel showing what appears to be a character or figure among debris or destruction",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.3,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a partial view of a character, appearing to be cropped at the torso level. The character is wearing what appears to be a striped garment, rendered with bold black and white horizontal stripes. The art style employs clean, confident line work with medium line weights. There's subtle shading and hatching techniques used to create depth and texture. The composition shows the character positioned against what seems to be a paneled background or wall structure, with geometric panel divisions visible. The overall aesthetic is typical of contemporary manga style with sharp, precise lineart and effective use of black and white contrast. No readable text is visible in this particular cropped element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.7
+          ],
+          "type": "effect",
+          "description": "This manga panel element depicts a dramatic destruction or explosion effect rendered in classic black and white manga style. The image shows angular, sharp fragments or debris scattered across the frame, creating a sense of violent impact or shattering. The fragments are drawn with bold, confident line work using varying line weights - thicker outlines define the major shapes while thinner lines add detail and texture. The shading employs traditional manga techniques including crosshatching and solid black areas to create depth and contrast. The composition suggests movement radiating outward, typical of impact effects in action manga. The debris pieces have jagged, crystalline qualities with sharp edges and geometric forms. Screen tones or halftone patterns are visible in some areas, adding texture and gradation to the grayscale illustration. No text is visible in this particular element. The overall effect conveys explosive force and destruction through the scattered, angular fragments filling the frame.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.7,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom panel showing an explosive or destructive scene with dramatic effects and a character visible in the lower right",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.8,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts a dramatic destruction effect with debris and fragments scattered across the scene. The central focus shows what appears to be broken or shattered objects - possibly furniture, weapons, or structural elements - rendered in bold black silhouettes against the white background. The debris pieces vary in size and shape, creating a dynamic sense of explosive force or impact. Speed lines radiate outward from the destruction zone, emphasizing the violent nature of whatever event has occurred. In the lower right corner, a character with light-colored spiky hair is visible, appearing to be caught in or observing the destruction. The art style uses high contrast black and white with clean, bold line work typical of manga action sequences. Hatching and cross-hatching techniques are employed to add texture and depth to some areas. The overall composition creates a sense of chaos and movement, with the scattered debris forming the primary visual element that dominates the frame.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.4,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character in profile view, facing to the right. The character has light-colored, somewhat tousled hair rendered with clean line art. They appear to be wearing what looks like a light-colored shirt or jacket with a collar. The art style is typical of manga with clean, confident line weights - thicker outlines for the main character forms and thinner lines for details. The character's facial features are drawn in a simplified manga style with minimal detail, showing just the basic nose and mouth contours. There's minimal shading, mostly relying on clean line art rather than heavy tonal work. Above the character, there are bold, dark brush strokes or speed lines creating dramatic emphasis, likely indicating movement or emotional intensity. The composition is tightly cropped, focusing on the upper torso and head area of the character. The overall style is clean and economical, typical of modern manga illustration techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.1,
+            0.95,
+            0.4
+          ],
+          "type": "sfx",
+          "description": "This manga sound effect (sfx) element features bold, dynamic black brushstrokes rendered in a typical manga onomatopoeia style. The strokes are thick and angular, creating sharp diagonal lines that convey rapid movement or impact. The line work uses varying weights, with some strokes being thick and heavy while others taper to thin points. There's crosshatching and parallel line work that adds texture and emphasizes the kinetic energy. The composition shows the sfx positioned at an angle, likely representing a slash, swoosh, or impact sound. The black ink work is stark against what appears to be a white background, creating high contrast typical of manga art. The strokes have an organic, hand-drawn quality with slight irregularities that give them life and movement. No readable text characters are visible in this particular cropped section - it appears to be purely visual sound effect lineart.",
+          "text": "\u30ac\u30ac\u30ac"
+        },
+        {
+          "bbox": [
+            0.05,
+            0.6,
+            0.3,
+            0.95
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a partial view of a character, featuring what appears to be a shoulder or upper body area with distinctive shading. The character is wearing what looks like a garment with a textured pattern rendered through fine crosshatching or screentone technique. The art style employs clean, confident black lines of varying weights - thicker outlines define the main forms while thinner lines create interior details. The shading uses a combination of solid black areas and dotted/halftone screening typical of manga production. The composition shows angular, geometric forms suggesting clothing or armor with sharp edges and defined planes. The overall aesthetic is consistent with modern manga illustration techniques, emphasizing contrast between light and dark areas through strategic use of black fills and tonal gradients.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

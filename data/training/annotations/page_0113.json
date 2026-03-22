@@ -1,0 +1,118 @@
+{
+  "width": 969,
+  "height": 1400,
+  "description": "A manga page showing a dramatic scene with severed arms reaching upward, followed by characters in distress discussing Unit 01's condition",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.612
+      ],
+      "description": "Large panel showing severed arms or limbs reaching upward against a stark background with dramatic shadows",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.1,
+            0.85,
+            0.9
+          ],
+          "type": "object",
+          "description": "A close-up illustration of two hands positioned one above the other, rendered in classic black and white manga style. The hands appear to be cupped or gently curved, with detailed anatomical line work showing knuckles, finger joints, and palm creases. A bold black shadow or stripe runs diagonally across the composition between the hands, creating strong contrast against the light gray screentone fill of the hands themselves. The lineart uses varied weight - thin, precise lines for details like finger segments and thicker outlines for the hand contours. Small dot details are scattered across the hands, likely representing texture or minor imperfections. The composition is cropped tightly to focus solely on the hands, with clean white negative space surrounding them. The art style is typical of seinen or josei manga with its realistic proportions and careful attention to hand anatomy.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.2,
+            0.15
+          ],
+          "type": "background",
+          "description": "This background element shows an intricate crosshatched pattern forming what appears to be a curved or angular surface, possibly part of a structural element like a ceiling, wall, or architectural detail. The crosshatching consists of fine, precise diagonal lines that intersect to create a dense grid pattern, with the lines becoming more concentrated toward one area to suggest depth and shadow. The pattern follows a curved or angled trajectory across the frame, creating a sense of perspective and dimensionality. The linework is consistent and methodical, typical of detailed manga background art, with varying density of the crosshatching to indicate light and shadow. The stark black lines against the white background create strong contrast, and the geometric precision of the hatching suggests this is likely depicting an artificial or constructed surface rather than a natural element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            0.4,
+            1.0
+          ],
+          "type": "background",
+          "description": "A stark, minimalist background element featuring a large triangular shape filled with dense cross-hatching technique. The triangle dominates the left portion of the frame, created with heavy black ink using fine, overlapping diagonal lines that create a rich, textured darkness. A thin vertical line extends upward from the triangle's apex, while a small separate diagonal line segment appears in the upper right area. The composition uses high contrast between the densely hatched black triangle and the clean white negative space, creating a dramatic geometric form typical of manga's bold visual language. The cross-hatching shows careful craftsmanship with consistent line weight and spacing, giving the dark area depth and visual weight against the stark white background.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.612,
+        1.0,
+        1.0
+      ],
+      "description": "Panel showing two characters in what appears to be a control room or facility interior",
+      "elements": [
+        {
+          "bbox": [
+            0.05,
+            0.1,
+            0.3,
+            0.9
+          ],
+          "type": "character",
+          "description": "A manga character depicted in a small scale within a large architectural space. The figure appears to be a young person with messy, short hair wearing what looks like a school uniform or casual jacket. They are positioned in the lower right portion of the panel, emphasizing their diminutive size against the imposing interior space. The character's pose suggests they are standing or walking, with their body facing slightly toward the viewer. The art style employs clean, precise linework with minimal detail on the character due to their small scale. The surrounding architecture features geometric paneling and clean lines typical of institutional or modern interior design. Screentone/halftone shading is used extensively throughout the background, creating depth and atmosphere. The composition creates a sense of isolation or contemplation, with the vast empty space dwarfing the lone figure. No visible text appears in this cropped element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.05,
+            0.6,
+            0.85
+          ],
+          "type": "character",
+          "description": "A female character shown in profile view, positioned in what appears to be a doorway or entrance. She has shoulder-length hair and is wearing a long Victorian or period-style dress with puffy sleeves, a fitted bodice, and a full skirt that reaches to her ankles. The dress features decorative trim or ruffles at the hem. Her posture suggests she is standing still, possibly hesitant or observing something. The art style is typical of manga with clean, precise linework of moderate weight. Minimal shading is used, relying primarily on line art to define form and detail. The character is framed by architectural elements - vertical lines suggesting a doorframe or wall structure on the right side. The composition places her as a small figure within the larger architectural space, creating a sense of scale and atmosphere. No visible text appears in this cropped panel element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.62,
+            0.15,
+            0.95,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble or dialogue balloon appears in the bottom right corner of this manga panel crop. The bubble shows clean, bold black outlines typical of manga speech bubbles. Only a small portion is visible, showing the curved edge and what appears to be part of the bubble's tail or pointer. The background shows architectural line work with precise, thin black lines depicting what appears to be structural elements like beams or supports. The art style uses clean, technical linework with minimal shading, focusing on geometric forms and structural details. Screen tones or halftone patterns are visible in the upper portion, creating gray values typical of manga reproduction techniques.",
+          "text": "NO!! UNIT 01 IS... SHINJI-KUN!!"
+        },
+        {
+          "bbox": [
+            0.72,
+            0.48,
+            1.0,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with black text on white background. The text reads 'HIS RIGHT ARM HAS BEEN SEVERED!!' in bold, uppercase lettering with dramatic emphasis indicated by the double exclamation marks. The speech bubble has a typical manga style with clean black outlines and appears to be positioned in the upper right portion of the panel. There are also partial fragments of other text visible, including 'NO!!' and what appears to be 'JI-KUN!!' suggesting this is part of an intense, dramatic scene. The lettering uses a standard manga font style with thick, bold strokes typical of action or shock dialogue. Speed lines or action lines are partially visible in the background, indicating movement or dramatic tension in the scene.",
+          "text": "UNIT 01'S RIGHT ARM HAS BEEN SEVERED!!"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A stark, minimalist interior space rendered in clean manga line art style. The scene depicts a large, empty room with geometric architectural elements including angular ceiling beams and structural supports creating dramatic shadows across the space. Two small figures are positioned in the vast room - one appears to be a character in dark clothing on the left side, while another figure in lighter clothing stands on the right. The space has a clinical, institutional feel with simple line work defining the walls, floor, and ceiling structure. Screentone/halftone shading is used sparingly to create depth and contrast. Speech bubbles contain dialogue including 'NO!! UNIT 01 IS... SHINJI-KUN!!' and 'UNIT 01'S RIGHT ARM HAS BEEN SEVERED!!' The composition emphasizes the scale and emptiness of the space, with the small human figures dwarfed by the architectural environment. The art style is characteristic of technical manga illustration with precise linework and geometric perspective.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

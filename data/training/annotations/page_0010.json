@@ -1,0 +1,195 @@
+{
+  "width": 947,
+  "height": 1400,
+  "description": "A tense manga page showing a sniper scene with a uniformed officer aiming a rifle, followed by panels of a character behind bars speaking, and ending with close-up shots of two characters including one wearing military gear.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.076,
+        0.0,
+        0.838,
+        0.273
+      ],
+      "description": "Wide panel showing a uniformed officer with a cap aiming a rifle, with what appears to be part of a vehicle or structure on the right",
+      "elements": [
+        {
+          "bbox": [
+            0.156,
+            0.182,
+            0.468,
+            0.818
+          ],
+          "type": "character",
+          "description": "A tactical operator or soldier character shown in profile view, aiming a rifle with a scope. The character wears a military-style cap with what appears to be a skull emblem, and tactical gear including what looks like body armor or a tactical vest. The art style features clean, bold line work typical of manga, with crosshatched shading used for the background. The character's face is partially obscured by the cap and aiming position, creating a focused, professional appearance. The rifle appears to be a modern assault rifle or sniper weapon with detailed mechanical elements. The composition shows the character from roughly chest up, emphasizing the aiming stance and weapon. The background uses diagonal crosshatch patterns to create contrast and focus attention on the character.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.468,
+            0.273,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A minimalist manga background element depicting a curved architectural structure, likely a building or wall, rendered in simple gray tones. The structure occupies the lower portion of the frame with a smooth, curved silhouette against a textured sky. The sky is filled with fine cross-hatched screentone patterns creating a subtle gradient effect. The linework is clean and bold, with thick black outlines defining the architectural form. The composition uses negative space effectively, with the curved structure creating a strong diagonal element that leads the eye across the frame. The shading is minimal, relying primarily on flat gray fills and the textured screentone background to create depth and atmosphere. No text is visible in this cropped background element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.545
+          ],
+          "type": "background",
+          "description": "This manga background element features a minimalist sky scene with subtle tonal gradations. The upper portion displays a crosshatched pattern created with fine diagonal lines, transitioning to a lighter middle section with minimal texture. The composition includes partial architectural elements - what appears to be building corners or structural details rendered in clean, geometric lines typical of manga backgrounds. The linework is precise with medium weight strokes defining the structural boundaries. The overall aesthetic is clean and uncluttered, using negative space effectively to create depth and atmosphere. The shading technique employs traditional manga screentones and hatching patterns to establish spatial hierarchy and environmental mood.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.076,
+        0.293,
+        0.838,
+        0.673
+      ],
+      "description": "Panel showing a character behind prison bars speaking, with chain-link fence pattern visible",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A chain-link fence background rendered in typical manga style with bold diagonal crosshatch pattern. The fence creates a geometric diamond/rhombus pattern across the background, drawn with clean black lines on white. Behind the fence are structural elements including what appears to be concrete or metal beams and supports rendered with screentone shading and hatching techniques. The composition shows depth with the fence in the foreground and architectural elements receding into the background. The linework is consistent and precise, using varying line weights to create visual hierarchy. Some areas show solid black fills for shadows and deeper recesses, while lighter areas use screentone patterns to suggest texture and dimensionality. The overall effect creates an urban or institutional setting typical of manga backgrounds.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.389,
+            0.316,
+            0.658,
+            0.868
+          ],
+          "type": "character",
+          "description": "A manga character shown from chest up, wearing a formal business suit with a white dress shirt and black tie. The character has their hand raised to their face in a contemplative or worried gesture, with fingers positioned near their mouth/chin area. The art style features clean, moderate line weights with detailed cross-hatching and screentone patterns in the background. The clothing is rendered with subtle gray tones and minimal shading, typical of black and white manga illustration. The character's hair is dark and styled in a professional manner. The composition focuses on the upper torso and gesture, creating an atmosphere of tension or deep thought. The background shows geometric cross-hatched patterns that add visual texture without distracting from the main subject.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.076,
+            0.421,
+            0.241,
+            0.658
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with rounded edges positioned against a background of diagonal hatching and crosshatching patterns. The bubble contains black text in a bold, sans-serif font that reads 'UDS. REAL-MENTE SE'. The text appears to be cut off at the bottom, suggesting this is a partial view of a longer phrase. The speech bubble has a clean white fill with thin black outlines. The background shows typical manga-style shading techniques with dense diagonal lines creating darker areas and crosshatched patterns for mid-tones. The overall composition suggests this is part of a dialogue sequence, with the speech bubble positioned in the upper portion of the cropped panel.",
+          "text": "UDS. REAL-MENTE SE EST\u00c1N ESFOR-ZANDO."
+        },
+        {
+          "bbox": [
+            0.734,
+            0.263,
+            0.911,
+            0.526
+          ],
+          "type": "speech_bubble",
+          "description": "This speech bubble element shows a stark contrast between dark and light areas. The left portion features heavy black shading with dense crosshatching and screening techniques typical of manga art. The right side displays a white or light gray area with a distinctive chain-link fence pattern created by intersecting diagonal lines forming diamond/rhombus shapes. The fence pattern uses clean, precise linework with consistent spacing. The transition between the dark crosshatched area and the lighter fence pattern creates a strong visual boundary, suggesting the speech bubble may be positioned against or near a fence structure. The overall composition uses high contrast black and white tones with no visible text in this cropped portion.",
+          "text": "INCLU-SO EN MEDIO DE TODO ESTE CAOS..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.693,
+        0.557,
+        1.0
+      ],
+      "description": "Panel showing a close-up of a character's face with dark hair",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up profile view of a male manga character with dark, messy hair that falls across his forehead. The character is drawn in typical manga style with clean, confident line work. His expression appears serious or contemplative, with visible eye and facial features rendered in a realistic manga style. The character seems to be holding or positioned near what appears to be a blade or sword, suggested by the linear element near his face. The art uses minimal shading with mostly clean lineart against a white background. Two speech bubbles contain Spanish text: 'APUNTA BIEN.' (Aim well) and 'NO FALLES ESTA VEZ.' (Don't miss this time). The composition focuses on the character's face and upper body area, creating an intimate, tension-filled moment typical of action manga scenes.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.027,
+            0.326,
+            0.174,
+            0.565
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a manga speech bubble showing only its curved border and a small portion of its interior. The bubble has a clean, bold black outline with consistent line weight typical of manga speech bubbles. The interior is white/blank with what appears to be screentone or dot pattern texture visible in the background outside the bubble. Only a few black letters are visible at the bottom edge, appearing to show 'FAI' as part of a larger word that extends beyond the cropped frame. The overall style is clean and minimalist, characteristic of modern manga artwork with sharp, precise linework and clear contrast between the white speech bubble interior and the textured background.",
+          "text": "APUNTA BIEN."
+        },
+        {
+          "bbox": [
+            0.027,
+            0.739,
+            0.174,
+            0.978
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of a speech bubble outline, showing only a curved black line segment. The line appears to be drawn with consistent medium line weight, typical of manga speech bubble borders. The curve suggests this is likely part of a rounded or oval speech bubble, though only a small portion is visible in this cropped view. The line is clean and smooth without any shading or hatching effects, following standard manga conventions for dialogue containers. No text or other visual elements are visible within this fragment.",
+          "text": "NO FALLES ESTA VEZ."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.577,
+        0.693,
+        0.838,
+        1.0
+      ],
+      "description": "Panel showing a character in military gear with goggles and cap aiming",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga illustration of a character in tactical/military gear, shown in profile view facing right. The character wears a dark baseball cap with a circular emblem containing the letter 'V' and other insignia. They are aiming what appears to be a handgun directly at the viewer, creating a dramatic perspective with the weapon's barrel prominently featured in the foreground. The character's face is partially shadowed under the cap brim, with visible determined expression. The art style uses bold, clean line work with heavy blacks and strategic white highlights. Cross-hatching and screentone patterns create depth and texture, particularly on the cap and clothing. Spanish text 'PROCE-DIENDO A ELIMI-NAR.' appears in a speech bubble in the upper portion. The composition emphasizes the threatening pose through the direct gun-pointing perspective and dramatic shadowing.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.077,
+            0.163,
+            0.231,
+            0.402
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a vertical speech bubble or panel element with distinctive manga-style line work. The element features bold, dramatic black ink strokes that create sharp, jagged vertical lines resembling spikes or flames rising upward. The lines vary in thickness and intensity, with some areas showing solid black fills while others display fine linear hatching. The overall composition suggests movement or energy, possibly representing sound effects, emotional intensity, or environmental elements like fire or wind. The stark black-and-white contrast is typical of manga artwork, with no visible text within this particular cropped section. The vertical orientation and dynamic line work create a sense of upward motion or explosive force.",
+          "text": "PROCE-DIEN-DO A ELIMI-NAR."
+        },
+        {
+          "bbox": [
+            0.154,
+            0.489,
+            0.269,
+            0.663
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a portion of a speech bubble showing vertical black and white stripes or bands. The element displays stark contrast with thick black vertical sections separated by white spaces, creating a bold striped pattern. The lines have clean, solid edges with no visible shading or hatching techniques. The composition is geometric and minimalist, typical of manga speech bubble borders or emphasis effects. No text is visible in this cropped section, suggesting this may be either an empty speech bubble border or a decorative element used for dramatic emphasis in the manga panel.",
+          "text": "BLANCO CONFIR-MADO."
+        }
+      ]
+    }
+  ]
+}

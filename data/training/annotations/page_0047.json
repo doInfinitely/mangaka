@@ -1,0 +1,162 @@
+{
+  "width": 937,
+  "height": 1400,
+  "description": "A dramatic manga page showing an intense action sequence with characters in combat, followed by a quieter emotional moment with dialogue",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.62
+      ],
+      "description": "Large action panel showing characters in dynamic combat poses with motion lines and impact effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.18,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character peeking around what appears to be a doorframe or wall edge. The character has large, expressive eyes with detailed pupils and is drawn in a typical manga art style with clean, bold line work. Their hair appears to be light-colored with geometric angular shapes or possibly a hat/headwear with triangular elements. The character's expression appears curious or cautious as they peer around the corner. The panel uses screen tones (dot patterns) for shading in the background areas. The line weights vary from thin detail lines for facial features to thicker outlines for the character's silhouette. Below this main image is a smaller panel showing what appears to be geometric shapes or objects rendered in simple black line art against a white background, possibly representing scattered items or debris. The overall composition creates a sense of the character hiding or secretly observing something.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.18,
+            0.15,
+            0.75,
+            0.95
+          ],
+          "type": "character",
+          "description": "A dynamic manga panel showing a character in an action pose, likely mid-combat or movement. The character has messy, tousled hair and appears to be wearing what looks like a uniform or jacket with some kind of strap or belt detail across the torso. The art style employs clean, bold line work typical of manga with varied line weights - thicker outlines for the main figure and finer lines for details. The character's pose suggests motion or impact, with limbs positioned dynamically. Screen tones (halftone dots) are used for shading on the clothing and to create depth. The composition shows the character from a dynamic angle, emphasizing movement and energy. The background appears to have some architectural or structural elements with hatching and speed lines that enhance the sense of action. The overall style is characteristic of action manga with its emphasis on dynamic poses and motion lines.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.05,
+            1.0,
+            0.6
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view from roughly chest-up, leaning forward with their head tilted downward in a contemplative or dejected pose. The character has spiky, tousled hair rendered with jagged, dynamic line work. They appear to be wearing a light-colored shirt or jacket with loose, flowing fabric folds. The art style employs clean, confident line weights with minimal shading - primarily using screen tones/halftones for the hair and subtle hatching for fabric shadows. The character's hand is visible resting on what appears to be a surface, drawn with delicate linework. The overall composition creates a sense of introspection or melancholy through the downward gaze and relaxed posture. The drawing technique is characteristic of shounen or seinen manga with its clean, economical line usage and selective tonal work.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            0.9,
+            0.4
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts an intense action sequence with two characters in combat. The left character has spiky, disheveled hair and appears to be lunging forward with an aggressive expression. The right character has shorter, more controlled hair and is positioned defensively. Both figures are drawn with dynamic, angular lines emphasizing movement and tension. The art style features bold, heavy line weights for outlines with minimal shading, typical of action manga. Cross-hatching and speed lines create a sense of motion and impact. The composition shows the characters at close range, suggesting immediate physical confrontation. There are motion blur effects and impact lines radiating from the point of contact between the characters. The background is minimal with geometric shapes suggesting an indoor setting. No readable text is visible in this cropped section of the panel.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.62,
+        1.0,
+        0.93
+      ],
+      "description": "Wide panel showing aftermath with scattered objects and debris",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background element shows a complex mechanical or architectural environment with angular geometric forms and structural details. The upper portion features intricate linework depicting what appears to be machinery, pipes, or building framework with crosshatching and screen tone shading. Sharp angular shapes and mechanical components create a dense, industrial atmosphere. The line work varies from fine detail lines to bold structural elements, with screen tones providing depth and shadow. Below this, there's a stark contrast with large areas of solid black negative space that frames the character elements in the foreground. The composition uses dramatic contrast between the detailed mechanical background elements and the simplified negative space, creating visual hierarchy and focusing attention on the characters' dialogue exchange.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.4,
+            0.8
+          ],
+          "type": "character",
+          "description": "A partial view of a character shown from behind or at an angle, with only a portion of their white or light-colored clothing/body visible against a stark black background. The character appears to be speaking, with dialogue text reading 'I CAN'T LET YOU GO.' positioned in the lower left area. The art style features clean, bold line work with strong contrast between the pure black background and white character elements. The composition creates dramatic tension through the use of negative space, with the character positioned in the upper portion of the frame. The shading is minimal and relies primarily on the stark black-and-white contrast rather than detailed hatching or tonal work, typical of dramatic emotional moments in manga storytelling.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.3,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga panel shows two distinct visual sections. The upper portion contains dynamic line art with bold, angular strokes depicting what appears to be mechanical or geometric forms with sharp edges and intersecting lines. The linework is confident with varied line weights, creating a sense of movement and energy. The lower section features a stark contrast with a large black geometric shape against white space, creating a dramatic negative space composition. The black area has clean, solid edges that form what appears to be an angular or triangular form. The overall style is characteristic of action manga with its bold contrasts and dynamic compositions, emphasizing dramatic visual impact through the interplay of detailed linework above and minimalist geometric forms below.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.93,
+        1.0,
+        1.0
+      ],
+      "description": "Close-up panel showing character's face in profile with dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.6,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a minimalist composition with clean, simple lineart. The image features stark white space with subtle black line work forming what appears to be architectural or structural elements. The lines are thin and precise, typical of manga background art, with no shading or tone work visible. The composition is very sparse and geometric, with the lines creating angular shapes against the white background. There's a small number '8' visible in the lower left corner, likely a page number. The overall style is characteristic of modern manga's clean, uncluttered background approach, emphasizing negative space and minimal detail to focus attention on foreground elements that would typically occupy the main areas of the panel.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a partial view of a character rendered in clean, minimalist line art typical of manga style. The image captures what appears to be part of a character's upper body or shoulder area, drawn with confident, flowing black lines of moderate weight. The linework is smooth and economical, suggesting a professional manga artist's hand. The composition shows curved and angular lines that likely define clothing or body contours, with the lines creating geometric shapes and flowing curves. The art style is clean and uncluttered, with no visible shading, hatching, or tonal work - just pure line art against a white background. No text is visible in this cropped section. The spatial relationship suggests this is a close-up detail from a larger panel, focusing on specific anatomical or clothing elements of the character.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.15,
+            0.35,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a manga speech bubble, showing only the left edge or border. The visible portion consists of a clean, black line with consistent medium line weight typical of manga speech bubble borders. The line appears straight and vertical, suggesting this is either the left side of a rectangular speech bubble or part of a panel border. The background is white/blank, and no text or other visual elements are visible within this cropped section. The line quality is smooth and precise, consistent with digital manga production techniques.",
+          "text": "I CAN'T LET YOU GO."
+        },
+        {
+          "bbox": [
+            0.65,
+            0.1,
+            0.9,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a manga speech bubble showing only the bottom edge or tail portion. The visible lines are drawn with thin, clean black strokes typical of manga lineart. The curved lines suggest the characteristic pointed tail or connector that extends from a speech bubble toward the speaker. The minimal visible portion shows smooth, flowing lines without any shading, hatching, or tonal effects. No text is visible in this cropped section, only the geometric outline of what would be the speech bubble's connecting element. The style is consistent with standard manga panel layouts where speech bubbles are precisely drawn with consistent line weights.",
+          "text": "SORRY, AYANAMI."
+        }
+      ]
+    }
+  ]
+}

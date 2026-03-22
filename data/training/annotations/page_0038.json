@@ -1,0 +1,228 @@
+{
+  "width": 942,
+  "height": 1400,
+  "description": "A manga page showing characters in what appears to be a medical or laboratory facility, with dialogue about securing cages and characters observing the scene",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.62,
+        0.59
+      ],
+      "description": "Large panel showing characters in a facility with medical equipment and cages visible",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.35,
+            0.8
+          ],
+          "type": "character",
+          "description": "A manga character shown from behind in a three-quarter view, featuring short, light-colored hair with layered, tousled styling typical of manga art. The character appears to be wearing a dark-colored garment, possibly a jacket or coat. The art style employs clean, confident line work with moderate line weight variation. Shading is achieved through screentone application, creating smooth gradients and depth. The character is positioned in what appears to be an interior space with architectural elements visible in the background, including what looks like structural beams or supports rendered with crosshatching and screentone patterns. The composition places the character prominently in the foreground, creating a sense of depth and spatial hierarchy. The overall aesthetic is consistent with contemporary manga illustration techniques, featuring precise lineart and professional screentone application for atmospheric effects.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.2,
+            0.65,
+            0.8
+          ],
+          "type": "character",
+          "description": "A character shown in profile view from behind/side angle, wearing what appears to be a military or uniform-style jacket with structured shoulders and collar details. The character has dark hair and is positioned in the lower left portion of the panel. The art style features clean, precise linework with moderate line weights and screentone shading typical of manga. The background shows industrial or mechanical elements including what appears to be pipes or conduits along the ceiling/upper area, and a circular gauge or meter visible in the middle-right section. The composition uses vertical panel framing with the character positioned against architectural/industrial setting elements. The shading employs both solid blacks and halftone patterns, creating depth and atmospheric perspective in the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.0,
+            0.25,
+            0.15
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (sfx) rendered in a minimalist style. The upper portion is completely white/blank space, while the lower section features a dense pattern of small black dots arranged in a halftone or screentone pattern typical of manga printing techniques. There appears to be a small dark rectangular element, possibly a speed line or motion indicator, positioned within or against the dotted pattern. The contrast between the stark white space above and the textured dotted area below creates a clear visual division. The dotted pattern uses consistent, evenly-spaced black dots that gradually create a gray tone effect characteristic of traditional manga reproduction methods. No readable text is visible in this cropped element.",
+          "text": "\u30ab\u30ea\u30ab\u30ea"
+        },
+        {
+          "bbox": [
+            0.4,
+            0.1,
+            0.65,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows a speech bubble with characteristic manga styling. The bubble has clean, bold black outlines with varying line weights - thicker outer borders and thinner internal elements. The speech bubble appears to contain Japanese sound effects or onomatopoeia rendered in bold, angular katakana characters. The lettering style is dynamic and expressive, typical of manga sound effects, with sharp, geometric strokes. The bubble's shape is irregular and organic, following the natural flow of speech bubble conventions. There's subtle halftone screentone shading visible in parts of the image, giving it the classic manga print aesthetic. The composition shows the bubble positioned against what appears to be architectural elements or interior spaces, with clean geometric lines suggesting walls or structural elements in the background.",
+          "text": "WE'LL COME FOR YOU WHEN WE SECURE THE CAGES."
+        },
+        {
+          "bbox": [
+            0.45,
+            0.45,
+            0.7,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing partial dialogue text that reads 'UN[...] THE [...] PLEA [...] DON [...] MOV' with the rest cut off by the crop. The bubble has a clean, rounded rectangular shape with a small tail pointing toward the speaker. The text is rendered in standard manga font - bold, sans-serif lettering in all capitals. The speech bubble itself is white with thin black outlines typical of manga style. In the background, there appears to be part of a mechanical or technological device with circular elements and detailed cross-hatching shading work, suggesting an industrial or sci-fi setting. The linework is precise with varying weights, and the hatching patterns create depth and texture on the mechanical elements visible behind the speech bubble.",
+          "text": "UNTIL THEN, PLEASE DON'T MOVE."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background depicts an industrial or institutional interior setting with stark, geometric architecture. The scene features clean line work with moderate line weights defining structural elements like walls, pipes, and mechanical fixtures. Cross-hatching and screentone patterns create depth and shadow throughout the space. The upper panel shows a corridor or hallway with exposed ceiling infrastructure including pipes and conduits running overhead, creating strong horizontal lines that emphasize the institutional nature of the environment. The lower panel reveals what appears to be a control room or monitoring station with various mechanical equipment, control panels, and a reclining chair or examination table. The architectural style is utilitarian and sterile, with precise geometric forms and technical details that suggest a facility designed for containment or monitoring purposes. The background employs typical manga techniques including varying screentone densities to create atmospheric depth and mechanical precision in the technical elements.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.62,
+        0.0,
+        1.0,
+        0.59
+      ],
+      "description": "Vertical panel showing what appears to be a ceiling or structural view",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A modern architectural interior background featuring a geometric ceiling design with multiple oval-shaped recessed lights or openings. The ceiling has a grid-like pattern with intersecting lines creating angular segments, rendered with medium-weight black lines and gray screentone shading. The left side shows part of a tiled or windowed wall structure. The overall composition uses clean, precise linework typical of manga backgrounds, with consistent screentone application to create depth and dimension. The geometric patterns and modern architectural elements suggest an institutional or commercial building interior. No text is visible in this background element.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.09,
+        0.59,
+        0.49,
+        0.86
+      ],
+      "description": "Wide panel showing characters in the facility from a different angle",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel shows a character with light-colored hair rendered in typical manga style with flowing, layered strands. The hair features clean linework with varying line weights - thicker outlines defining the overall shape and thinner lines creating internal detail and texture. The character appears to be viewed from behind or at an angle, with the hair covering most of their head and falling naturally. The art style employs screentone shading techniques common in manga, creating subtle gradations and texture. Above this main panel is a smaller panel showing what appears to be an interior scene with furniture or architectural elements in the background, rendered with lighter linework and minimal detail. The composition creates a sense of intimacy or introspection, with the focus on the character's hair and posture suggesting a contemplative or emotional moment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.3,
+            0.4,
+            0.9
+          ],
+          "type": "character",
+          "description": "A close-up detail of spiky, angular hair rendered in black ink with sharp, dynamic lines. The hair strands are drawn with bold, confident strokes that sweep upward and outward, creating a sense of movement and energy. The linework varies in thickness, with some strands emphasized by heavier black lines while others are lighter, creating depth and volume. The hair appears to belong to a character positioned in the lower portion of the frame, with the spikes extending upward against a light, textured background that has a dotted halftone pattern typical of manga printing. The art style is clean and modern, with minimal shading but effective use of solid black areas to define the hair's form and direction.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.2,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up cropped view of a character's hair, featuring flowing, windswept strands rendered in typical manga style. The hair is depicted with clean, confident black ink lines of varying weights - thicker outer contours define the overall hair mass while thinner, more delicate lines create individual strands and internal texture. The hair appears to be light-colored or blonde, indicated by the lack of solid black fill and the use of screen tone/halftone pattern in the background. The strands flow dynamically, suggesting movement or wind, with some pieces falling across what appears to be part of the character's face or forehead area. The art style is clean and polished, characteristic of professional manga illustration, with precise linework and effective use of negative space to create volume and depth in the hair's form.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.49,
+        0.59,
+        0.91,
+        0.86
+      ],
+      "description": "Panel showing close-up of character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character's face in profile, featuring large, expressive eyes with detailed pupils and highlights typical of manga art style. The character has light-colored, flowing hair with fine linework showing individual strands and movement. The art employs clean, confident line weights with thicker outlines defining the main features and thinner lines for hair details. Screentone shading is visible in the background areas, creating depth and contrast. The composition focuses on the eye and facial features, with the character appearing to look toward something off-panel. The overall art style is consistent with shoujo or seinen manga aesthetics, emphasizing emotional expression through the detailed eye work and flowing hair movement.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.86,
+        0.5,
+        1.0
+      ],
+      "description": "Bottom left panel showing character's hair and partial view",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a partial view of a character from approximately chest level down. The character is wearing a light-colored formal shirt or uniform with vertical striping or pleating details rendered through fine parallel lines. Over this is what appears to be a dark vest or waistcoat shown in solid black. The character's hand is visible, drawn with clean, confident linework typical of manga style. The art employs a minimalist approach with selective use of screentone for the shirt's texture and solid black fills for contrast. The composition is cropped to focus on the torso and clothing details, with some background elements suggested through simple line work in the upper portion. The line weight varies from thin detail lines for fabric textures to bolder strokes for main contours, creating visual hierarchy typical of professional manga artwork.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.5,
+        0.86,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom right panel showing character's face with surprised expression",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's face in profile, featuring long, flowing hair with delicate line work. The character appears to be speaking, with 'AH...' visible in a speech bubble on the left side. The art style uses clean, precise linework with minimal shading, typical of shoujo or josei manga aesthetics. The hair is rendered with graceful, sweeping strokes that create a sense of movement and softness. Only the lower portion of the face is visible, showing part of the mouth area. There's also what appears to be part of dark clothing or collar visible in the lower right corner. The composition creates an intimate, emotional atmosphere through the close cropping and the flowing hair that frames the visible portion of the face.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.65,
+            0.45,
+            0.85
+          ],
+          "type": "sfx",
+          "description": "This appears to be a sound effect (sfx) element rendered in white text or symbols against a light background. The sfx appears to be very faint or washed out, making it difficult to discern the exact characters or symbols. The text seems to have a typical manga sound effect styling with bold, stylized lettering that would normally be used to represent an action sound, impact, or atmospheric effect. The positioning suggests it's integrated into the panel's composition as part of the visual storytelling, though the specific content is nearly invisible due to the light coloring against the pale background.",
+          "text": "AH..."
+        }
+      ]
+    }
+  ]
+}

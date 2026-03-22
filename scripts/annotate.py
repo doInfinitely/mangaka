@@ -38,7 +38,10 @@ def build_annotator(args):
         crop_padding=args.crop_padding,
     )
 
-    if args.provider == "claude":
+    if args.provider == "llama":
+        from mangaka.annotator.llama import LlamaAnnotator
+        return LlamaAnnotator(model=args.model or "meta-llama/Llama-Vision-Free", **kwargs)
+    elif args.provider == "claude":
         from mangaka.annotator.claude import ClaudeAnnotator
         return ClaudeAnnotator(model=args.model or "claude-sonnet-4-20250514", **kwargs)
     elif args.provider == "openai":
@@ -141,8 +144,8 @@ async def run(args):
 
 def main():
     parser = argparse.ArgumentParser(description="Annotate manga pages with cloud VLM")
-    parser.add_argument("--provider", choices=["claude", "openai", "gemini"],
-                        default="claude")
+    parser.add_argument("--provider", choices=["llama", "claude", "openai", "gemini"],
+                        default="llama")
     parser.add_argument("--model", type=str, default=None,
                         help="Override model name for the provider")
     parser.add_argument("--image-dir", required=True,

@@ -1,0 +1,85 @@
+{
+  "width": 1280,
+  "height": 925,
+  "description": "A dramatic action scene showing a character on the left facing off against flying creatures, with dynamic motion lines and effects filling most of the page",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full-page panel showing an intense battle scene with a character on the left and flying creatures attacking from the right, with dramatic speed lines and motion effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.45,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dramatically rendered mecha or armored figure dominates the composition, depicted in classic black and white manga style. The character features angular, geometric armor plating with sharp, pointed protrusions and spikes extending from various parts of the suit. The helmet or head design has a distinctive angular profile with what appears to be a visor or face plate. The artwork employs bold, heavy line weights for the main contours contrasted with fine detail work and cross-hatching for shading and texture. Dynamic speed lines radiate outward from behind the figure, creating a sense of explosive movement or impact. The composition uses dramatic perspective and foreshortening, with the figure appearing to lunge or burst forward toward the viewer. Heavy black shadows and stark white highlights create strong contrast, while screentone dots are used for mid-tone shading in certain areas. The overall style is characteristic of action-oriented mecha manga, with an emphasis on angular, mechanical design elements and kinetic energy.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.35,
+            0.75,
+            0.65
+          ],
+          "type": "character",
+          "description": "A dynamic manga character rendered in black ink with bold, confident linework. The figure appears to be in motion, with angular, sharp features and spiky hair characteristic of action manga style. The character is drawn with varied line weights - thick, bold strokes define the main contours while thinner lines add detail and texture. The pose suggests movement or combat, with the body positioned at dynamic angles. Cross-hatching and speed lines create depth and motion effects around the character. The drawing style is sketchy yet controlled, with areas of white space that emphasize the dramatic contrast. The composition shows the character from what appears to be a mid-torso view, with strong directional lines that guide the eye through the frame. No visible text appears in this cropped element. The overall aesthetic is typical of shounen manga with its emphasis on dynamic action and bold visual impact.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.55,
+            0.95,
+            0.85
+          ],
+          "type": "character",
+          "description": "A large bird, likely a crow or raven, rendered in dramatic manga style with bold black crosshatching and heavy line work. The bird is depicted in a dynamic flying pose with wings fully spread, showing detailed feather textures created through dense hatching strokes. The creature appears to be diving or swooping downward, with its talons extended. The art style uses strong contrast between the solid black silhouette of the bird and the white background, with energetic motion lines radiating around the figure to emphasize movement and impact. The linework is confident and expressive, typical of action manga sequences, creating a sense of power and movement through the stark black and white composition.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.0,
+            1.0,
+            0.9
+          ],
+          "type": "effect",
+          "description": "This manga panel depicts a dramatic action sequence with intense motion effects. The composition shows several mecha or armored figures in dynamic combat poses scattered across the frame. The art style employs heavy use of speed lines and motion blur effects radiating from multiple focal points, creating a sense of explosive movement and impact. The linework varies from bold, thick strokes for the mechanical figures to fine, precise speed lines that fill most of the white space. A large bird or raven silhouette is prominently featured in black, contrasting sharply against the white background and intersecting speed lines. The overall effect creates a kinetic, chaotic battle scene with strong directional movement flowing from left to right across the panel. The cross-hatching and shading on the mechanical figures is minimal, letting the speed lines carry the visual weight of the action. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "background",
+          "description": "A dynamic manga background featuring dramatic mechanical or architectural structures rendered in bold black and white. The composition shows angular, geometric forms with sharp edges and complex mechanical details, possibly parts of a mecha or futuristic building. The art style employs strong contrast with solid black shadows against white spaces, complemented by detailed cross-hatching and screentone textures for mid-tones. Diagonal speed lines radiate across the image, creating a sense of movement or impact. The line work varies from thick, bold outlines defining the main structural elements to fine detail work showing mechanical components and surface textures. The perspective appears dynamic and tilted, suggesting motion or instability. The overall composition fills the frame with overlapping geometric shapes and creates depth through layered elements receding into the background.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.92,
+            0.08,
+            0.98
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (SFX) rendered in white against a black background. The SFX appears to be created through negative space or white lettering, with angular, jagged edges typical of impact or explosive sound effects in manga. The text has a bold, dynamic appearance with sharp, irregular boundaries that suggest sudden movement or collision. The contrast between the pure white lettering and solid black background creates a striking visual impact. The SFX takes up most of the cropped frame, indicating it represents a significant sound moment in the narrative. The style is characteristic of action manga, where sound effects are often integrated dramatically into the visual composition to enhance the scene's intensity.",
+          "text": "10"
+        }
+      ]
+    }
+  ]
+}

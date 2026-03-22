@@ -1,0 +1,151 @@
+{
+  "width": 960,
+  "height": 1400,
+  "description": "Dynamic action sequence showing a battle with mechanical or robotic elements, featuring intense combat with dramatic sound effects and motion lines",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.55,
+        1.0
+      ],
+      "description": "Large vertical panel showing intense combat action with mechanical elements and dramatic motion effects",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.05,
+            0.9,
+            0.35
+          ],
+          "type": "character",
+          "description": "This manga panel shows a dramatic close-up of a character's hand gripping what appears to be a large blade or sword. The hand is rendered with bold, confident linework and cross-hatching for shading. The character appears to be wearing some kind of sleeve or garment visible at the wrist. The most prominent feature is the large onomatopoeia 'ZOOM' written in bold, stylized letters across the panel, indicating rapid movement or action. The composition uses dynamic angles and speed lines to convey motion and intensity. The art style employs classic manga techniques with strong contrast between black ink and white space, thick outline work, and dramatic perspective that emphasizes the weapon and the action being performed.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.12,
+            0.4,
+            0.28
+          ],
+          "type": "sfx",
+          "description": "This is a sound effect (SFX) element rendered in bold, angular black brushstrokes against a white background. The strokes appear to be made with a thick brush or marker, creating dynamic, jagged lines that suggest sudden movement or impact. The lines vary in weight, with some thick, solid strokes and thinner accent marks. The composition shows several intersecting diagonal lines creating sharp angles, typical of manga onomatopoeia used to represent sounds like slashing, cutting, or sudden motion. The style is minimalist and high-contrast, using only black ink on white paper with no shading or additional details. The overall effect is energetic and suggests rapid, violent movement or impact sounds commonly found in action manga sequences.",
+          "text": "\u30c9\u30c9\u30c9"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.35,
+            1.0,
+            0.75
+          ],
+          "type": "effect",
+          "description": "This manga effect shows dramatic speed lines and motion blur rendered in black ink on white paper. The composition features bold, dynamic diagonal hatching lines that create a sense of intense movement or impact. The linework varies in weight, with some thick, bold strokes contrasting against finer parallel lines that suggest rapid motion or energy discharge. The hatching technique uses traditional manga screentone-style patterns, with dense cross-hatching in some areas and looser, more gestural strokes in others. The overall effect creates a strong directional flow from upper right to lower left, typical of action manga visual effects used to convey explosive force, speed, or dramatic transformation. The stark black and white contrast enhances the impact, with no gray tones present in this particular effect element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.6,
+            0.95,
+            0.95
+          ],
+          "type": "character",
+          "description": "This manga panel depicts a dynamic action scene with a character in motion, rendered in classic black and white manga style. The character appears to be wielding or interacting with some kind of weapon or tool, shown through bold, angular line work. The art style features heavy use of cross-hatching and parallel line shading to create depth and shadow, particularly visible in the darker areas of the composition. Strong diagonal lines dominate the panel, creating a sense of movement and energy. There is prominent Japanese sound effect text (onomatopoeia) integrated into the scene, rendered in bold, stylized lettering that follows the dynamic flow of the action. The line weights vary from thick, bold strokes for emphasis to finer detail work, typical of action manga artwork. The composition uses dramatic angles and perspective to enhance the intensity of the moment being depicted.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.75,
+            0.45,
+            0.9
+          ],
+          "type": "sfx",
+          "description": "A manga sound effect (sfx) element featuring bold, dynamic black linework against a white background. The sfx appears to be rendered in a typical manga style with varying line weights - thick, confident strokes that create angular, energetic shapes suggesting motion or impact. The lines have a rough, hand-drawn quality with some areas showing solid black fills contrasted against clean white spaces. The composition shows partial geometric forms and curved elements that appear to be part of a larger sound effect visualization, with the cropping cutting off portions of what would be the complete sfx design. The overall aesthetic is characteristic of action manga, with the stark black and white contrast creating visual punch typical of Japanese comic sound effects.",
+          "text": "\u30ac\u30af\u30f3\u30c3"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.55,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Right panel showing character reaction and additional sound effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up view of a character's torso and upper body in a reclining or lying position. The character appears to be wearing loose, flowing clothing or robes with clean, simple line work. The art style features bold, confident black ink lines with minimal but effective shading achieved through cross-hatching and parallel line techniques. The clothing has natural folds and creases that suggest soft fabric draping over the body. On the left edge of the panel, there are darker areas with more intense cross-hatching that create contrast and depth. The overall composition focuses on the flowing lines of the garment and the relaxed pose of the figure. The line weight varies from thick outer contours to thinner detail lines, creating visual hierarchy typical of manga illustration techniques. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.05,
+            0.95,
+            0.3
+          ],
+          "type": "sfx",
+          "description": "This sound effect element features bold, angular katakana characters '\u30cf\u30a2\u30a2' (HAAA) repeated in a pattern, representing heavy breathing or panting sounds. The text is rendered in thick, black brushstrokes with sharp, jagged edges that convey intensity and urgency. The characters are arranged in multiple rows, creating a rhythmic visual pattern. Behind the text, there are diagonal speed lines or motion lines drawn with fine, parallel strokes that angle from the upper left toward the lower right, suggesting rapid movement or emotional intensity. The speed lines use traditional manga hatching technique with consistent line weight and spacing. The overall composition creates a sense of dramatic tension, with the bold sound effects dominating the visual space while the background lines add dynamic energy to the scene.",
+          "text": "\u30cf\u30a2\u30cf\u30a2"
+        },
+        {
+          "bbox": [
+            0.05,
+            0.3,
+            0.9,
+            0.45
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows dynamic sound effect lettering (SFX) rendered in bold, angular black strokes. The text appears to spell out onomatopoeia in katakana characters, likely representing impact or movement sounds. The lettering features sharp, jagged edges with varying line weights - thick bold strokes contrasted with thinner connecting lines. The SFX is positioned in the upper portion of the frame against a white background with dramatic speed lines or motion lines radiating diagonally across the composition. These speed lines are rendered as parallel black strokes of consistent weight, creating a sense of intense movement or impact. A dark silhouetted shape, possibly part of a character or object, is visible in the lower left corner. The overall composition uses high contrast black and white with no gray tones, typical of manga's bold graphic style.",
+          "text": "\u30cf\u30a2"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.45,
+            0.8,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows dynamic sound effect (SFX) lineart rendered in bold black strokes against a white background. The SFX appears to be motion lines or impact effects, characterized by sharp, angular black shapes that radiate outward in jagged, lightning-like formations. The linework uses varying weights, with some thick, solid black areas contrasting against thinner, more delicate lines. The composition suggests explosive movement or energy, with the black shapes creating a sense of dramatic action. There are fine hatching details and speed lines that add texture and movement to the overall effect. The stark black and white contrast is typical of manga's monochromatic aesthetic, and the angular, geometric nature of the shapes gives it an intense, kinetic quality typical of action manga sound effects.",
+          "text": "\u30cf"
+        },
+        {
+          "bbox": [
+            0.15,
+            0.6,
+            0.7,
+            0.75
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (sfx) rendered in a minimalist black and white style. The image depicts what appears to be fabric or clothing with clean, flowing lines creating folds and draping. The linework is precise with varying line weights - thicker contour lines define the main shapes while thinner lines indicate interior details and fold creases. Cross-hatching appears in the upper left corner, creating depth and shadow. The overall composition has a dynamic, flowing quality with diagonal lines suggesting movement or wind. The art style is characteristic of shoujo or josei manga with its emphasis on graceful, flowing forms and delicate linework. No visible text appears in this cropped element, focusing purely on the visual representation of the sound effect through the illustrated fabric movement.",
+          "text": "\u30cf"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.6
+          ],
+          "type": "background",
+          "description": "This manga background element features dramatic diagonal speed lines radiating from the upper left corner, created with bold black ink strokes of varying thickness. The lines create a strong sense of motion and impact, typical of action sequences. Overlaid on this dynamic background are repeated sound effects reading 'HAAA' in bold, angular katakana lettering, arranged in three rows descending vertically down the right side of the panel. The sound effects appear to diminish slightly in size as they progress downward, enhancing the sense of perspective and movement. In the lower portion, there's a partial view of what appears to be a character's face or head with spiky black hair, rendered in the typical manga style with clean black linework. The overall composition uses high contrast black and white tones with no gray shading, emphasizing the dramatic intensity of the scene. The speed lines and repetitive sound effects work together to convey explosive action or a powerful attack sequence.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

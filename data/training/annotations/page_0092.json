@@ -1,0 +1,184 @@
+{
+  "width": 906,
+  "height": 1400,
+  "description": "A manga page showing three panels depicting robotic or mecha characters in what appears to be an action sequence, ending with a human character being affected by some kind of impact or force.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.08,
+        0.0,
+        0.92,
+        0.35
+      ],
+      "description": "Top panel showing three robotic/mecha characters with horned or spiked designs against a background with vertical elements",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.35,
+            1.0
+          ],
+          "type": "character",
+          "description": "A mysterious hooded figure rendered in classic manga style with bold, clean line work. The character is shown from a low angle, creating an imposing presence. They wear a flowing hooded cloak or robe that completely obscures their face in deep shadow, with only hints of facial features barely visible within the darkness of the hood. The figure's pose suggests they are looking downward, with one hand visible near their torso. The art style features confident black ink lines with minimal shading, relying on solid blacks for the shadowed areas under the hood and strategic white space for the lighter portions of the garment. The composition emphasizes the character's mysterious and potentially threatening nature through the dramatic angle and the complete concealment of their identity. Simple hatching lines are used sparingly for texture on the clothing folds.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.0,
+            0.75,
+            1.0
+          ],
+          "type": "character",
+          "description": "A monstrous or demonic character drawn in typical manga style, featuring a skeletal or skull-like head with prominent horns or spikes protruding from the top. The creature has a gaping mouth with visible teeth or fangs, creating a menacing expression. The character appears to be wearing ornate armor or clothing with detailed plating and decorative elements across the chest and shoulders. The art style uses clean, bold line work with solid black fills for shadows and depth. Screen tones and hatching are employed for shading, particularly visible on the armor details. The composition shows the character from roughly chest-up in a three-quarter view angle. There appears to be some sound effect text in the lower left corner rendered in stylized katakana characters. The overall aesthetic is dramatic and imposing, typical of antagonistic or powerful supernatural beings in manga artwork.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in dark clothing, likely a suit or formal attire, rendered with bold black areas and white highlights. The character appears to be positioned in the upper portion of the frame, with their form partially obscured or stylistically abstracted. The art style employs strong contrast between solid black fills and white spaces, with minimal use of screentone or hatching. The linework appears confident with varying line weights - thicker lines defining major forms and thinner lines for details. In the lower right, there's another character element with lighter tones and what appears to be flowing hair or fabric rendered with delicate linework. The composition creates a sense of depth and movement, with the dark figure dominating the visual space. The overall style is characteristic of contemporary manga with its clean lines and strategic use of negative space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.7,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This cropped manga background element shows a minimalist architectural or structural scene rendered in clean black and white lineart. The composition features geometric angular forms with strong diagonal lines creating depth and perspective. The art style employs thin, precise line weights with minimal shading, relying primarily on solid black areas and white negative space to define forms. There appears to be hatching or crosshatching visible in the upper portion, suggesting shadow or texture. The spatial arrangement creates a sense of looking up at or through angular structural elements, possibly interior architecture or mechanical components. The stark contrast and geometric precision are characteristic of modern manga's clean lineart approach, with no visible text in this cropped section.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.08,
+        0.37,
+        0.92,
+        0.72
+      ],
+      "description": "Middle panel showing two large robotic figures from a lower angle perspective",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up view of what appears to be a character in armor or mechanical suit. The top panel depicts detailed linework of armored plating with various panels and joints, rendered in typical manga style with clean, bold outlines and crosshatching for shadows and depth. The armor appears sleek and angular with segmented pieces. The bottom panel shows a simplified silhouette view with sound effects 'OOOOH' and 'UUH' written in stylized text, suggesting breathing or exertion sounds. The art style uses traditional manga techniques with varied line weights - thicker outlines for main forms and thinner lines for details. Shading is achieved through screentones and hatching patterns rather than solid blacks, creating depth and dimension typical of black and white manga artwork.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.5,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in a dynamic close-up composition. The figure appears to be a young person with dark, tousled hair partially covering their face. They are positioned at an angle, looking upward with an intense or determined expression. The character is wearing what appears to be light-colored clothing with simple line work. The art style features clean, bold line weights for the main outlines with lighter detailing for facial features. Cross-hatching and screentone shading create depth and shadow, particularly around the hair and clothing folds. The composition uses dramatic perspective with the character positioned in the lower portion of the frame, creating a sense of upward movement or aspiration. Above the character, there are background elements including what appears to be a landscape with trees and structures rendered in lighter line work. The overall style is characteristic of contemporary manga with its balance of detailed lineart and strategic use of shadows and highlights.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This background element shows a minimalist manga scene with clean, simple linework. The background features vertical panel borders on the left side with thin, consistent line weight. There are two speech bubbles with Japanese text - one containing 'OOOOH...' and another with 'UUH...'. The composition includes part of what appears to be a character's body or clothing rendered in typical manga style with screentone shading. The overall art style uses standard manga conventions with black and white contrast, dotted screentones for shading gradients, and clean panel divisions. The spatial relationship suggests this is part of a larger panel layout, with the background serving as negative space to frame dialogue and character elements.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.08,
+        0.74,
+        0.92,
+        1.0
+      ],
+      "description": "Bottom panel showing a human character being affected by some kind of force or impact",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            1.0
+          ],
+          "type": "speech_bubble",
+          "description": "A dramatic manga speech bubble containing bold, angular katakana text that reads '\u30ac\u30ea\u30ac\u30ea' (gari gari), suggesting a grinding or scraping sound effect. The text is rendered in thick, aggressive black brush strokes with sharp, jagged edges that convey intensity and violence. Below the speech bubble, there is a partial view of a character's face showing gritted teeth and what appears to be a grimacing or pained expression. The character seems to be wearing dark clothing or armor. The art style features heavy black ink work with stark contrasts between black and white areas, typical of action manga. Cross-hatching and bold line work create dramatic shadows and depth. The composition suggests this is capturing a moment of physical strain or combat, with the sound effect emphasizing the grinding or clashing action taking place.",
+          "text": "OOOOH..."
+        },
+        {
+          "bbox": [
+            0.35,
+            0.15,
+            1.0,
+            0.85
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in dynamic motion, depicted from a low angle perspective. The character appears to be wearing light-colored clothing with darker accents or trim. The art style features clean, confident linework with varying line weights - thicker lines define the main forms while thinner lines add detail. Shading is achieved through screentone/halftone patterns, particularly visible on darker clothing elements and shadows. The composition suggests rapid movement, with flowing fabric and hair creating dynamic lines that lead the eye across the frame. Japanese sound effects or onomatopoeia (appearing as katakana characters) are integrated into the upper portion of the panel, adding to the sense of action and movement. The overall style is characteristic of modern manga with its combination of detailed lineart, strategic use of screentones, and dramatic perspective.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            0.7,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows a speech bubble with minimal content, containing only three small dots (...) indicating a pause or trailing off in dialogue. The speech bubble has a clean, white interior with a simple black outline and a small tail pointing toward what appears to be a character. Below the speech bubble, there are detailed manga-style illustrations showing flowing hair or fabric rendered with fine cross-hatching and screentone techniques. The linework varies in weight, with bold outlines contrasting against delicate interior details. The composition uses traditional manga shading methods including dot patterns and parallel hatching to create depth and texture in the illustrated elements beneath the speech bubble.",
+          "text": "UUH..."
+        },
+        {
+          "bbox": [
+            0.6,
+            0.6,
+            0.95,
+            0.9
+          ],
+          "type": "sfx",
+          "description": "This manga element shows a close-up of dark hair rendered with bold black ink and detailed line work. The hair appears to be flowing or in motion, with individual strands carefully defined through varying line weights. The shading uses solid black fills contrasted against white/light areas, creating dramatic tonal contrast typical of manga art. There appears to be some kind of textured or crosshatched shading in the background area. The composition suggests this is part of a larger panel focusing on a character's head/hair area, with the cropping cutting off other elements. The art style demonstrates typical manga techniques with clean, confident linework and strong black-and-white contrast values.",
+          "text": "\u30ac\u30c3 \u30ac\u30c3"
+        },
+        {
+          "bbox": [
+            0.05,
+            0.6,
+            0.4,
+            0.9
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (sfx) rendered in bold, angular black lettering against a white background. The text appears to be a Japanese onomatopoeia with sharp, dynamic strokes that convey impact or sudden movement. The lettering style is typical of manga sound effects, with thick black lines and geometric shapes that create visual emphasis. The sfx is positioned in the upper portion of the cropped panel, and there are some screentone/halftone patterns visible in the background, along with what appears to be part of a character's clothing or body rendered in black ink with crosshatching details. The overall composition suggests this sound effect accompanies an action sequence or dramatic moment.",
+          "text": "\u30ac\u30c3"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.85,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This is a cropped horizontal strip showing background elements from a manga panel. The image features abstract curved and angular shapes rendered in black and white with detailed crosshatching and screentone shading. The composition includes flowing, organic curved forms contrasted against sharp geometric angles. The linework varies in weight, with bold black areas creating strong contrast against lighter screentoned regions. The shading technique uses traditional manga methods including crosshatching patterns and dot screentones to create depth and texture. The spatial arrangement suggests this could be part of an action sequence or dramatic moment, with the dynamic shapes possibly representing movement, energy effects, or environmental elements. No readable text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

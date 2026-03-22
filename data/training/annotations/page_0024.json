@@ -1,0 +1,195 @@
+{
+  "width": 947,
+  "height": 1400,
+  "description": "A manga page showing a character with light hair in various panels, including close-ups and scenes in what appears to be an indoor setting with stairs and rooms",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.067,
+        0.0,
+        0.933,
+        0.402
+      ],
+      "description": "Large close-up panel of a character with light-colored hair and a serious expression",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.05,
+            0.85,
+            0.95
+          ],
+          "type": "character",
+          "description": "A close-up manga panel featuring a character with light-colored, layered hair that falls over their face in an asymmetrical style. The character has sharp, narrow eyes with a somewhat melancholic or contemplative expression, gazing slightly downward or to the side. They appear to be wearing dark clothing, visible as a dark collar or jacket at the bottom of the frame. The art style employs clean, confident line work with varied line weights - thinner lines for hair details and facial features, bolder lines for outlines. Shading is achieved through screentone/halftone patterns, particularly visible in the background and on the clothing. The composition is tightly cropped to focus on the character's face and upper torso, creating an intimate, introspective mood. Below the main portrait is a smaller panel showing what appears to be architectural elements or interior structures with crosshatched shading and perspective lines, possibly indicating the character's environment or point of view.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows architectural interior details rendered in typical manga style. The background features clean geometric lines depicting what appears to be a modern interior space with angular walls and surfaces. The art uses screentone/halftone shading patterns to create depth and shadow, with darker toned areas contrasting against white spaces. The line work is precise and technical, characteristic of architectural manga backgrounds. The composition shows structural elements like walls or panels with some riveted or bolted details visible. The shading technique employs dot patterns and gradient screentones rather than hand-drawn hatching, giving it a clean, professional manga aesthetic. No text is visible in this background element.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.067,
+        0.437,
+        0.389,
+        0.804
+      ],
+      "description": "Panel showing a character standing in a room with stairs and storage areas",
+      "elements": [
+        {
+          "bbox": [
+            0.25,
+            0.35,
+            0.45,
+            0.85
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a close-up detail of a character's clothing, specifically focusing on what appears to be a collared shirt or jacket. The image is rendered in classic black and white manga style with clean, precise lineart of medium weight. The clothing features detailed cross-hatching and screentone patterns that create texture and depth. The upper portion shows horizontal striped or ribbed fabric texture, while the lower section displays the clean lines of a collar or lapel area. The shading technique uses traditional manga screentones to create subtle gradations and fabric texture. The composition is tightly cropped, focusing solely on this clothing detail without showing the character's face or other identifying features. No text is visible in this particular element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel shows two scenes in a typical Japanese-style room or apartment. The top portion depicts a figure in a long coat or dress standing in what appears to be a kitchen or utility area, with tiled flooring, cabinets with multiple drawers, and various household items visible. The art style uses clean line work with screentone shading throughout. The bottom portion shows a close-up of a character with short, light-colored hair and a somewhat melancholic expression, positioned in the lower right corner against geometric background elements suggesting walls or architectural features. The overall composition uses traditional manga visual techniques including screentone patterns for shading and background textures, with consistent line weights that are neither too heavy nor too light, creating a balanced visual hierarchy between foreground and background elements.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.411,
+        0.437,
+        0.933,
+        0.804
+      ],
+      "description": "Panel showing sandals or slippers near what appears to be an entrance or doorway",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.4,
+            0.8,
+            0.7
+          ],
+          "type": "object",
+          "description": "This manga element shows architectural or structural details rendered in classic manga style. The top portion features an ornate decorative border or molding with intricate curved patterns and scrollwork, drawn with fine, precise linework. Below this are clean geometric panels or surfaces with minimal shading, creating strong contrast between the detailed ornamental work above and the simplified geometric forms below. The right side shows a textured or screentoned area, likely representing a wall or surface material. The linework varies from thin, delicate strokes for the decorative elements to bold, clean lines defining the structural boundaries. The composition emphasizes architectural precision and ornamental detail typical of manga backgrounds.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows an interior architectural space with clean, geometric line work typical of manga environments. The composition features structural elements including what appears to be ceiling beams or framework in the upper portion, rendered with precise parallel lines and crosshatching for depth. The middle section shows geometric shapes suggesting furniture or interior fixtures, drawn with bold, confident line weights. The lower right contains what appears to be a doorway or entrance with a small silhouetted figure, creating scale reference. The art style employs classic manga techniques with varied line weights - thicker outlines for primary structural elements and finer lines for details and texturing. Screen tones and crosshatching are used strategically to create depth and shadow, particularly in recessed areas. The overall composition suggests a modern, institutional or school-like interior space with clean architectural lines and careful attention to perspective and spatial relationships.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.067,
+        0.84,
+        0.544,
+        1.0
+      ],
+      "description": "Panel showing the same character in what appears to be a kitchen area",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.2,
+            0.6,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel shows a partial view of a character from approximately waist to mid-torso level. The figure is wearing a white dress shirt or blouse with what appears to be a dark-colored vest or waistcoat over it. A belt is visible around the waist area. The character's hand is positioned at waist level, appearing to be adjusting or holding something at their belt or waistband. The art style features clean, precise linework typical of manga illustration, with solid black areas for shadows and clothing details. Cross-hatching and screentone patterns are used for shading and texture, particularly visible on the darker garments. The composition is cropped tightly to focus on this specific gesture or action, with the background remaining minimal and light-toned. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts an indoor kitchen or domestic setting rendered in typical black and white manga style. The scene shows a figure from behind wearing what appears to be an apron or dress with ties, standing in front of kitchen cabinetry. The background features detailed line work showing kitchen elements including what looks like tiled walls with a grid pattern, cabinet doors, and countertop surfaces. The art style uses clean, precise line weights with minimal shading, characteristic of manga illustration. The composition creates depth through the layered architectural elements, with the figure positioned in the middle ground against the detailed kitchen backdrop. The overall tone is domestic and everyday, typical of slice-of-life manga settings.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.567,
+        0.84,
+        0.711,
+        1.0
+      ],
+      "description": "Close-up panel of the character's face in profile",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character showing what appears to be flowing hair rendered in bold, dynamic black ink strokes. The hair is depicted with sharp, angular lines that suggest movement and energy, typical of manga art style. Below the hair, there's a textured area with dense cross-hatching or screentone pattern creating a dotted/halftone effect, which is a common manga technique for backgrounds or atmospheric effects. The composition shows strong contrast between the solid black hair strokes and the patterned background area. The line work is confident and expressive, with varying line weights that create depth and dimensionality. No text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.733,
+        0.84,
+        0.933,
+        1.0
+      ],
+      "description": "Panel showing the character from a distance in the room",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.4,
+            0.7,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel element shows what appears to be a partial view of an interior space with geometric architectural details. The image features clean, precise linework typical of manga art style, with bold black lines defining the structural elements. There are rectangular panels or frames visible, rendered with consistent line weights and minimal shading. The composition uses halftone dot patterns (screentone) in the background areas, creating a textured gray tone that's characteristic of traditional manga printing techniques. The spatial arrangement suggests this is part of a room or building interior, with the geometric elements arranged in a grid-like or modular pattern. The art style is clean and architectural, focusing on structural details rather than organic forms.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts an organized storage area or closet interior rendered in typical manga monochrome style. The scene shows multiple storage containers and boxes arranged on shelves, with distinctive manga-style screentone patterns (dot patterns) used for shading and texture. The leftmost area features vertical curtain or fabric panels with bold black and white stripes. The storage boxes are drawn with clean, precise lineart of varying weights - thicker outlines for the main forms and thinner lines for details like drawer handles and panel divisions. The boxes appear to be stacked and organized systematically, with some featuring small circular handles or knobs. The shading employs classic manga techniques including solid blacks, white spaces, and halftone dot patterns to create depth and dimension. The composition suggests this is viewed from a straight-on perspective, showing the organized, compartmentalized nature of the storage space. No visible text appears in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

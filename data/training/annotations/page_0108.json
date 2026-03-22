@@ -1,0 +1,162 @@
+{
+  "width": 897,
+  "height": 1400,
+  "description": "A manga page showing intense action with sound effects and character dialogue. The page features dramatic close-ups and action scenes with Spanish text dialogue.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.51,
+        0.75
+      ],
+      "description": "Large panel with dramatic sound effects and a character's face in profile",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga sound effect (sfx) features bold, dramatic lettering rendered in high contrast black and white. The main sound effect appears to be composed of large, angular katakana characters with thick, heavy line weights that create a powerful visual impact. The letters are stylized with sharp, dynamic angles and filled with solid black, while incorporating white striped or lined patterns within some characters to add visual texture and movement. The composition shows the text at a tilted angle, suggesting motion or impact. On the right side, there are smaller repetitive sound effect elements arranged vertically, appearing as simplified versions with crosshatched or lined textures. The overall style is typical of action manga sfx, using stark contrasts and bold geometric shapes to convey explosive or impactful sounds. The lettering style emphasizes speed lines and angular construction that reinforces the dramatic nature of whatever action is being depicted.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.85,
+            0.05,
+            1.0,
+            0.4
+          ],
+          "type": "sfx",
+          "description": "This manga sound effect element consists of vertical black rectangular shapes with crosshatched grid patterns inside them. The rectangles are arranged in a descending diagonal line from upper left to lower right. Each rectangle features consistent cross-hatching with thin black lines creating a mesh or grid texture. The line weight is uniform and fine, typical of manga screentone or hatching techniques. The shapes appear to represent a repetitive sound effect, possibly indicating rapid movement, vibration, or mechanical sounds. The white background contrasts sharply with the black hatched rectangles, creating clear definition. No readable text is visible within this sound effect element - it relies purely on the visual pattern to convey the auditory sensation.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up profile view of a manga character with spiky, light-colored hair rendered in white against darker backgrounds. The character appears to be speaking or reacting with an open mouth, shown in a three-quarter profile angle. The art style features bold, thick black lines for the character outline and hair definition, with areas of screentone/halftone shading creating depth and contrast. The character's hair has dynamic, angular spikes typical of manga styling. Spanish text appears in a speech bubble reading 'UN PODEROSO CAMPO AT SE EST\u00c1 GENERANDO DESDE LA SEXTA JAULA!!' The composition shows strong contrast between the white hair/face areas and the darker screentoned background, with clean line work characteristic of manga illustration techniques.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.51,
+        0.0,
+        1.0,
+        0.75
+      ],
+      "description": "Panel showing a character with long hair speaking",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character with long, flowing hair that has detailed line work and shading. The character appears to be in profile or three-quarter view, with one large, expressive eye visible featuring typical manga-style proportions with detailed shading and highlights. The character's mouth is open, suggesting they are speaking. There is a speech bubble containing the text 'SOY DIOS.' in capital letters. The art style uses clean, bold line weights for outlines with softer, more delicate lines for hair texture and facial features. The shading employs screentone techniques typical of manga, creating gradients and depth. The composition is tightly cropped, focusing on the character's face and upper portion, creating an intimate and dramatic moment. The background appears dark or heavily shaded, making the character stand out prominently.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.15,
+            0.75,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "This is a manga speech bubble containing the Spanish text 'SOY DIOS.' (meaning 'I am God'). The speech bubble has a clean, white interior with bold black text in a typical manga font style. The bubble's border is defined by a thin black line that curves organically, with a small tail pointing toward the speaker (though the speaker is not visible in this cropped element). The background shows part of what appears to be a character or object rendered with fine dot-pattern screentone/halftone shading, creating a textured gray appearance typical of manga artwork. The composition is simple and focused on delivering the dramatic statement, with the stark contrast between the white speech bubble and the dotted background emphasizing the text's importance.",
+          "text": "SOY DIOS."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.75,
+        0.51,
+        1.0
+      ],
+      "description": "Bottom left panel showing a character and dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A fragmented, heavily stylized character rendered in stark black and white with dramatic contrasts. The figure appears to be breaking apart or dissolving, with pixelated and geometric fragments scattered throughout the composition. Bold black shapes dominate the upper portion while white areas create negative space below. The character's form is abstract and deconstructed, suggesting movement or transformation. Heavy black ink work creates sharp, angular lines and solid masses, while screen tones and halftone patterns add texture to certain areas. Two speech bubbles contain Spanish text: 'NARANJA... NO...' on the left and 'PATR\u00d3N AZUL...' on the right. The overall composition has a dynamic, explosive quality with fragments radiating outward, created through bold line weights and high contrast between black and white areas. The art style employs dramatic geometric abstraction typical of intense action or supernatural transformation sequences in manga.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            0.9,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This is a speech bubble with a distinctive angular, jagged outline that creates an aggressive or explosive visual effect. The bubble contains dense crosshatching and screentone patterns in black, gray, and white that create a chaotic, fragmented texture. The interior shows irregular geometric shapes and patterns that appear pixelated or blocky, suggesting digital distortion or electronic interference. The line work is bold and heavy, with sharp angular edges throughout. Partial text is visible reading 'PA' and 'AZ' in the lower right corner of the bubble. The overall composition suggests this speech bubble is conveying something intense, corrupted, or digitally distorted, fitting with the fragmented visual treatment and aggressive outline style.",
+          "text": "UN PODEROSO CAMPO AT SE EST\u00c1 GENERANDO DESDE LA SEXTA JAULA!!"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            0.4,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble element showing clean, bold black outlines typical of manga art style. The bubble appears to be cut off at the edges of the crop, showing curved lines that form the characteristic rounded border of a speech bubble. The interior is white/blank with no visible text. The line work is consistent and smooth, using solid black lines of medium weight. There appears to be some additional black areas or elements visible at the bottom and edges of the crop, suggesting this bubble is positioned above other visual elements in the original panel. The overall style is clean and minimalist, following standard manga conventions for dialogue bubbles.",
+          "text": "NARANJA... NO..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.51,
+        0.75,
+        1.0,
+        1.0
+      ],
+      "description": "Bottom right panel with character and dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a close-up of a character's torso and clothing. The character is wearing a light-colored (white or very pale) jacket or blazer with distinctive triangular decorative elements or trim along the front opening. The triangular pieces appear to have small circular dots or studs on them, creating a geometric pattern. Underneath, there's a darker colored garment, possibly a shirt or vest in gray tones. The art style uses clean, bold black lines with minimal shading, typical of manga illustration. Screen tones (dotted/halftone patterns) are visible in the background and on some clothing elements. The composition focuses on the mid-section of the character, cropping out the head and lower body. There appears to be partial text visible on the left edge that includes 'ON' and 'L...' but it's mostly cut off. The overall style is clean and minimalistic with strong contrast between black lines and white spaces.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with a pointed tail extending toward the lower right, indicating the speaker's direction. The bubble contains three small dots arranged horizontally ('...'), suggesting hesitation, pause, or trailing off in speech. The bubble has clean, bold black outlines typical of manga style. The background shows screentoned areas with dot patterns and crosshatched shading, creating depth and texture. The composition places the speech bubble against architectural elements including what appears to be a doorframe or structural beam with heavy black lines. The overall art style uses traditional manga techniques with varied line weights - thick borders for the speech bubble and structural elements, contrasted with fine detail work in the screentone patterns.",
+          "text": "PATR\u00d3N AZUL..."
+        }
+      ]
+    }
+  ]
+}

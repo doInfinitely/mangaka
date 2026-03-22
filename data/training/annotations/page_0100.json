@@ -1,0 +1,184 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A manga page showing a distressed character in what appears to be a damaged or destroyed environment, followed by panels showing another character searching through debris and finding someone.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.73
+      ],
+      "description": "Large panel showing a character crouched in distress amid destruction with debris and geometric effects",
+      "elements": [
+        {
+          "bbox": [
+            0.12,
+            0.5,
+            0.25,
+            0.85
+          ],
+          "type": "character",
+          "description": "A manga character shown in two cropped panels. In the upper panel, the character is depicted in a crouched or hunched position, wearing what appears to be a dark vest or sleeveless top over lighter clothing. The character has messy, shoulder-length hair with bangs covering part of their face. The art style uses clean line work with moderate line weight and screentone/halftone shading patterns typical of manga. The lower panel shows a close-up of the character's hair from a different angle, revealing more detail of the layered, tousled hairstyle. The shading employs dotted screentone patterns and fine hatching techniques. The overall composition suggests emotional distress or contemplation, with the character's posture conveying vulnerability or distress. No visible text appears in these cropped elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.42,
+            0.1,
+            0.65,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "This is a white speech bubble with bold black text reading 'MAYOR KATSURAGI LA UNIDAD 00!!' The bubble has an angular, diamond-like shape with clean black outlines. The background shows heavy crosshatching and diagonal line work creating a dark, dramatic atmosphere typical of manga art. The hatching consists of dense, intersecting lines that create deep shadows and contrast sharply with the bright white of the speech bubble. The text appears to be in all capitals with consistent spacing, suggesting urgency or emphasis in the dialogue. The overall composition creates a stark visual contrast between the bright speech bubble and the heavily shaded background.",
+          "text": "MAYOR KATSURAGI! LA UNIDAD 00!!"
+        },
+        {
+          "bbox": [
+            0.35,
+            0.45,
+            0.55,
+            0.7
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with clean, bold black lines forming an angular, geometric border. The bubble contains Spanish text 'LA UNIDAD 00 EST\u00c1...!!' in uppercase letters using a standard manga font. The text is positioned in the center-right area of the bubble. The bubble's shape is irregular and angular rather than the typical rounded style, with sharp corners and straight edges that create a more urgent or mechanical feeling. The background is white/blank, and there are some thin diagonal construction or panel lines visible at the edges, suggesting this is part of a larger panel layout. The line work is clean and precise with minimal variation in weight, typical of digital manga production.",
+          "text": "LA UNIDAD 00 EST\u00c1...!!"
+        },
+        {
+          "bbox": [
+            0.65,
+            0.1,
+            1.0,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This sound effect element features repetitive katakana characters '\u30a2' (a) arranged in multiple rows against a white background. The characters are rendered in bold black strokes with heavy line weight, creating a stark contrast. The text appears to have subtle drop shadows or blur effects behind each character, giving them dimensional depth. The '\u30a2' characters are organized in four horizontal rows - the top two rows contain 2 characters each, while the bottom two rows have 4 characters each, creating a rhythmic visual pattern. The characters appear to represent a repetitive sound effect, likely screaming or shouting ('AAAA'). The composition is framed by diagonal architectural elements on the left side, rendered with fine parallel hatching lines typical of manga backgrounds, suggesting an indoor setting or structural environment.",
+          "text": "AAA AAHHH AAAA AAHHH"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background shows an industrial or institutional interior space with stark geometric architecture. The scene features angular walls and structural beams rendered with clean line work and heavy shadows created through dense crosshatching and screen tones. The composition uses dramatic perspective with diagonal lines and geometric shapes creating depth. The upper portion shows dark shadowed areas with heavy black toning, while the lower sections have lighter halftone screening. The architectural elements include what appears to be structural supports or beams creating a sense of confinement or enclosure. The overall aesthetic is typical of seinen manga style with its realistic proportions and detailed environmental rendering, emphasizing the industrial, sterile nature of the setting through stark contrasts between light and shadow.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.73,
+        0.33,
+        1.0
+      ],
+      "description": "Panel showing close-up of character's concerned face",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel shows the lower portion of a character, featuring legs dangling from what appears to be a raised surface or ledge. The character is wearing a frilly, ruffled skirt or dress with detailed fabric texture rendered through crosshatching and screentone patterns. Their feet are clad in black Mary Jane-style shoes with straps. The legs are drawn in a simple, clean line art style typical of manga, with minimal shading. The composition creates a sense of the character sitting or perching on an edge, with their feet not touching the ground. The background is mostly white space with some diagonal hatching lines in the lower portion, suggesting a floor or ground surface below. The art style uses varying line weights - thicker outlines for the main forms and finer lines for fabric details and textures.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.33,
+        0.73,
+        0.67,
+        1.0
+      ],
+      "description": "Panel showing character from behind with speech bubble",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a close-up view of a character's torso and lower face area. The character appears to be wearing a dark-colored garment with a distinctive geometric pattern of interlocking angular shapes or scales across the chest area. The clothing has a fitted, form-fitting appearance with clean line work. The character's face is partially visible from below, showing the lower portion including what appears to be light-colored or white hair falling across the frame. The art style features clean, bold line work with screentone shading used for the darker clothing areas. The geometric pattern on the garment is rendered with precise linework creating a textured, armor-like or scale-like appearance. The composition is cropped tightly to focus on this specific area of the character's body, creating an intimate framing. No visible text appears in this particular cropped element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.3,
+            0.9,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble with a distinctive angular, jagged outline that creates a sharp, aggressive visual effect. The bubble appears empty of text and is rendered in stark black and white with clean, bold line work typical of manga art style. The bubble's pointed, irregular edges suggest intensity or shouting, contrasting with the smoother curved elements visible in the background. The composition shows the speech bubble positioned over what appears to be screentone hatching patterns and flowing fabric or hair rendered with confident, sweeping line strokes. The overall aesthetic maintains the high-contrast, detailed lineart characteristic of professional manga illustration.",
+          "text": "QUE HACES AHI NEI CHAN ?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.67,
+        0.73,
+        1.0,
+        1.0
+      ],
+      "description": "Panel showing interior scene with character and debris",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.5
+          ],
+          "type": "background",
+          "description": "A minimalist manga background element showing an interior architectural space with clean, geometric lines. The composition features vertical structural elements or pillars on the left side rendered with heavy black shadows and dotted screentone shading. The center and right portions show a stark white open space with simple black outlines defining the architectural boundaries. In the distance, there appears to be a small silhouetted figure sitting or crouching, rendered in solid black lineart. The overall style uses high contrast between pure white spaces and solid black areas, with minimal detail work. The line weight varies from thick black fills to thin structural outlines, creating a sense of depth and spatial relationship through negative space rather than detailed rendering.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.6,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This appears to be a minimal cropped section showing only a small portion of what seems to be a character element, consisting primarily of clean black lines forming what looks like part of a corner or edge. The linework is crisp and uniform in weight, characteristic of digital manga art or clean traditional inking. The lines appear to be part of a geometric shape or possibly clothing/object outline. Due to the extreme cropping, no facial features, expressions, detailed clothing, or text are visible. The composition shows stark black lines against a white background with no shading, hatching, or tonal work visible in this particular fragment.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.85,
+        0.33,
+        1.0
+      ],
+      "description": "Small panel showing character's feet in shoes",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.3,
+            0.8,
+            0.8
+          ],
+          "type": "character",
+          "description": "A minimalist manga character element showing only the upper portion of a face, featuring two solid black oval shapes representing eyes. The eyes are positioned symmetrically and appear to be simple, filled black forms without visible pupils or highlights, giving them a stark, possibly mysterious or emotionless appearance. The art style is very clean and simplified, with bold black fills and no visible line work around the eye shapes. The rest of the facial features are not visible in this cropped element, and there appears to be white or very light negative space surrounding the eyes. No text is visible in this element.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A two-panel manga page showing a character in what appears to be a futuristic laboratory or workspace, with the second panel showing the same scene but darker with a sound effect.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.065,
+        0.0,
+        0.935,
+        0.54
+      ],
+      "description": "Top panel showing a character from behind in a bright laboratory setting with equipment and books",
+      "elements": [
+        {
+          "bbox": [
+            0.25,
+            0.15,
+            0.75,
+            0.95
+          ],
+          "type": "character",
+          "description": "A manga character shown from behind, sitting in what appears to be a futuristic or high-tech chair or cockpit seat. The character has spiky, messy light-colored hair and is wearing a white, form-fitting uniform or suit with clean geometric lines and panel details. The outfit features a high collar and appears to be some kind of pilot or operator uniform. The character is positioned facing away from the viewer toward what seems to be control panels or technical equipment visible in the background. The art style uses clean, precise linework with minimal shading, employing screentone patterns for depth and texture. The composition emphasizes the technological environment with detailed mechanical elements and control interfaces surrounding the seated figure. The overall aesthetic suggests a sci-fi or mecha genre setting with a focus on technical precision in both the character design and background elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A detailed manga background showing a futuristic or sci-fi interior space. The scene depicts a character from behind, seated at what appears to be a control desk or workstation in a sleek, technological environment. The character has messy, short hair and wears a white jacket or uniform with distinctive collar design. The setting features clean, angular architectural lines typical of sci-fi manga, with geometric panels, structural supports, and what appears to be computer equipment or control panels on the desk. The art style uses precise line work with minimal shading, relying on screentone patterns for depth and texture. The composition emphasizes the sterile, high-tech atmosphere through the use of white space and geometric forms. Various technological details are visible including what appears to be books or data storage devices stacked on shelves, and mechanical or electronic components integrated into the walls and furniture. The overall aesthetic is clean and minimalist, characteristic of hard science fiction manga artwork.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.35,
+            0.3,
+            0.55
+          ],
+          "type": "object",
+          "description": "This manga panel element shows a simple line art composition featuring stacked books on the left side and what appears to be a bottle or flask on the right. The books are drawn with clean, consistent line weights and appear to be stacked horizontally in a neat pile. The bottle/flask has a narrow neck and wider body, typical of laboratory glassware or a decorative vessel. The art style uses minimal shading, relying primarily on black line work against a white background. The objects appear to be sitting on a flat surface, suggesting a desk, shelf, or table setting. The composition is balanced with the vertical stack of books contrasting the curved form of the bottle. The line quality is precise and clean, characteristic of manga's typical black and white aesthetic with no visible hatching or cross-hatching techniques employed. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.15,
+            0.85,
+            0.6
+          ],
+          "type": "object",
+          "description": "A manga-style illustration showing the interior of what appears to be a refrigerator or appliance door in cross-section. The drawing uses clean, precise line work typical of manga art, with varying line weights to define different surfaces and depths. The upper portion shows shelving or compartments with horizontal divisions, rendered in simple black lines against white space. Below this is a darker section with detailed crosshatching and screentone patterns creating shadows and texture on what appears to be the lower shelf or drawer area. The composition is geometric and architectural in nature, with strong vertical and horizontal lines creating a structured, technical illustration style. The shading technique combines solid blacks with fine dot patterns (screentone) to create mid-tones and depth, which is characteristic of traditional manga production methods.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.065,
+        0.56,
+        0.935,
+        1.0
+      ],
+      "description": "Bottom panel showing the same scene but darker with a sound effect, suggesting something turning on or activating",
+      "elements": [
+        {
+          "bbox": [
+            0.25,
+            0.15,
+            0.75,
+            0.95
+          ],
+          "type": "character",
+          "description": "A male character shown from behind in a three-quarter view, seated at what appears to be a control station or cockpit. He has short, messy dark hair and wears a light-colored jacket or uniform with a distinctive high collar that has dark trim or piping along the edges. The character is positioned facing away from the viewer toward control panels and screens. The art style features clean, medium-weight linework typical of manga, with subtle halftone shading used for depth and texture. The background shows detailed mechanical elements including control panels, screens, and various technological interfaces rendered with precise architectural linework. The composition places the character centrally, creating a sense of him being immersed in or focused on his work environment. No visible text appears in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel depicts a futuristic or sci-fi interior setting rendered in detailed black and white line art. The scene shows a character from behind, seated at what appears to be a control console or command station. The character has short, dark hair and is wearing a light-colored, form-fitting uniform or jacket. The background features a highly detailed technological environment with various control panels, screens, and mechanical elements typical of a spaceship bridge or advanced facility. The art style employs fine line work with extensive use of screentone (halftone patterns) for shading and texture, creating depth and atmosphere. Books or data tablets are stacked on surfaces, and various technological interfaces and displays are visible throughout the composition. There appears to be Japanese sound effect text (katakana) in the upper portion of the panel. The overall composition emphasizes the isolation of the character within this complex technological environment, with careful attention to perspective and architectural details that create a sense of scale and immersion.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.05,
+            0.75,
+            0.25
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (sfx) rendered in a minimalist style. The image depicts what appears to be a close-up view of a textured surface, likely fabric or clothing, rendered with fine crosshatching and halftone patterns typical of manga art. There are thin white linear elements that could represent creases, folds, or motion lines cutting across the darker textured background. The composition uses high contrast between the dark crosshatched areas and the white linear elements. The art style employs traditional manga techniques with precise line work and screen tones to create texture and depth. The spatial arrangement suggests this is capturing a moment of subtle movement or tension, possibly fabric shifting or a quiet gesture, which is common for atmospheric sound effects in manga that represent soft rustling or similar quiet sounds.",
+          "text": "\u30c9\u30aa\u30f3"
+        },
+        {
+          "bbox": [
+            0.75,
+            0.25,
+            0.85,
+            0.4
+          ],
+          "type": "sfx",
+          "description": "A white sound effect (sfx) element against a densely hatched background. The sfx appears to be a stylized onomatopoeia rendered in bold white lettering with sharp, angular edges typical of manga sound effects. The background features consistent vertical hatching lines creating a dark gray tone that provides strong contrast against the white text. The sound effect has a dynamic, explosive quality with jagged edges suggesting sudden impact or movement. The composition places the sfx prominently within the frame, with the uniform hatching pattern creating texture and depth behind it.",
+          "text": "\u30c3"
+        },
+        {
+          "bbox": [
+            0.15,
+            0.35,
+            0.3,
+            0.55
+          ],
+          "type": "object",
+          "description": "This manga panel element shows an architectural interior detail rendered in typical manga style. The image depicts what appears to be a corner or junction of walls and possibly flooring, drawn with clean, precise linework characteristic of manga backgrounds. The surfaces are filled with fine diagonal hatching patterns that create subtle tonal gradations, giving the geometric forms dimensional depth. The line weights are consistent and moderate, creating clear structural definition without overwhelming detail. The hatching follows the perspective and form of each surface, with the diagonal lines running in uniform directions to suggest different planes and surfaces. The overall composition suggests this is part of a larger interior space, possibly a room corner or architectural detail, rendered in the clean, minimalist background style common in manga to provide environmental context without competing with character elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.15,
+            0.85,
+            0.6
+          ],
+          "type": "object",
+          "description": "A cropped manga panel showing a character from behind approaching or standing near a door. The character has long, straight hair and appears to be wearing dark clothing. The door is drawn with typical manga line art style, featuring clean black outlines and screentone shading. There's a white speech bubble or sound effect with black text that appears to read '\u30c9\u30f3' (don), likely indicating a knocking or impact sound. The composition uses standard manga visual techniques including screentone patterns for shading and solid black fills for contrast. The line work is consistent with typical manga art style - clean, precise outlines with minimal line weight variation. The spatial relationship shows the character positioned to the left of the door frame, creating a sense of approach or interaction with the door.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

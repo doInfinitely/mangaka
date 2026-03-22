@@ -1,0 +1,129 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A manga page showing an intimate scene between two characters, with one character appearing distressed or emotional in the final panel",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.087,
+        0.0,
+        0.913,
+        0.356
+      ],
+      "description": "Angled panel showing two characters in close proximity, one with light hair and one with dark hair",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.95,
+            0.9
+          ],
+          "type": "character",
+          "description": "A dynamic manga panel showing two characters in close proximity with intense expressions. The foreground character has light-colored hair with bangs and is shown at an angle with their mouth open, appearing to be speaking or reacting emotionally. Behind them is a dark-haired character with large, detailed eyes typical of manga style. The artwork uses classic manga techniques including screentone (dot pattern shading) for backgrounds and areas of shadow, clean black ink lineart with varied line weights - thicker for outlines and thinner for details like hair strands and facial features. The composition creates depth through overlapping figures and uses hatching and crosshatching for dimensional shading. The panel is cropped to focus on the upper portions of both characters, emphasizing their facial expressions and the tension between them. The art style is consistent with shounen or seinen manga, featuring detailed character designs with expressive eyes and dynamic positioning.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.6,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing part of a character's face and upper body in typical manga art style. The image features clean, bold black linework with minimal shading. The character appears to have light-colored or blonde hair rendered with simple line strokes. Only the lower portion of the face is visible, showing the nose, mouth, and chin area drawn in a classic manga style with simplified but expressive features. The character appears to be wearing what looks like a collared shirt or jacket, indicated by clean geometric lines forming the garment's edges. The composition is cropped to focus on this intimate facial view, with strong contrast between the white background and black line art. The overall aesthetic follows traditional manga conventions with emphasis on clear, decisive linework rather than detailed shading or tonal work.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.087,
+        0.365,
+        0.456,
+        0.634
+      ],
+      "description": "Left panel showing partial view of character's body/torso",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga element shows a female character in an intimate or suggestive pose across two panels. In the top panel, we see her torso and arms from a close perspective, wearing what appears to be a dark-colored bra or undergarment. Her hair is rendered with dotted/screentone shading typical of manga art. The bottom panel shows her from a different angle, lying down or reclining, with her hair flowing and the same dark undergarment visible. The art style uses clean, confident line work with varying line weights - thicker outlines for the main forms and thinner lines for details. Screentone patterns are used extensively for shading the hair and creating depth. The composition emphasizes curves and flowing lines, particularly in the hair and body positioning. The panels are separated by clean borders, and the overall style is consistent with contemporary manga illustration techniques. No text is visible in these cropped panels.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.456,
+        0.365,
+        0.913,
+        0.634
+      ],
+      "description": "Right panel showing character's face and upper body from side angle",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in what appears to be a reclining or lying down position. The figure is rendered in typical manga style with clean, bold black outlines and screentone shading. The character appears to be wearing light-colored clothing, possibly white or pale garments. The art uses halftone dot patterns (screentones) for shading, creating gray tonal areas that give depth and dimension to the forms. The linework is confident and varies in weight, with thicker outlines defining the main forms and thinner lines for interior details. The composition shows the character from what seems to be a side or three-quarter view angle. The overall style is clean and polished, characteristic of professional manga artwork, with precise use of negative space and careful attention to form and volume through the strategic placement of shadows and highlights.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.3,
+            0.9,
+            0.7
+          ],
+          "type": "effect",
+          "description": "This manga effect element shows simple, clean black horizontal lines against a white background. The lines appear to be speed lines or motion lines, commonly used in manga to indicate movement, impact, or dramatic emphasis. The lines are drawn with consistent, medium line weight and have sharp, precise edges. There are approximately 2-3 parallel horizontal lines visible in this cropped section. The lines extend across the frame in a straight, geometric manner typical of action or transition effects in manga storytelling. No text is visible in this element. The stark black-and-white contrast and minimal design are characteristic of traditional manga visual effects used to enhance dramatic moments or scene transitions.",
+          "text": "..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.087,
+        0.643,
+        0.913,
+        1.0
+      ],
+      "description": "Large bottom panel showing character with long light hair appearing distressed",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            0.8,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a manga character with long, flowing hair that appears to be light-colored or blonde, drawn with delicate line work and subtle shading. The character's eyes are closed in a peaceful, content expression with a gentle smile. They appear to be holding or positioned near what looks like a white ribbon or bandage across the lower portion of their face. The art style features clean, thin line weights with minimal but effective shading using screentones and crosshatching techniques typical of manga illustration. The composition is tightly cropped to focus on the character's face and upper shoulders, creating an intimate, serene mood. The hair is rendered with flowing, organic lines that show movement and texture, while the facial features are drawn with soft, delicate strokes that emphasize the character's peaceful expression.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.6,
+            0.7,
+            0.9
+          ],
+          "type": "effect",
+          "description": "This manga effect element depicts dynamic motion lines and impact streaks rendered in black and white. The composition features bold, sweeping curved lines that create a sense of rapid movement or collision. The lines vary in thickness, with some heavy black strokes contrasted against areas of screentone/halftone shading. The streaks appear to radiate outward in multiple directions, suggesting an explosive or high-impact moment. The art style uses clean, confident linework typical of action manga, with sharp angular forms and dramatic contrast between solid blacks and dotted screentone patterns. No text is visible in this cropped effect element. The overall composition creates a strong sense of kinetic energy and dramatic tension through its dynamic linear arrangement.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

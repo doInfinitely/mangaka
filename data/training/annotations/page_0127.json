@@ -1,0 +1,129 @@
+{
+  "width": 940,
+  "height": 1400,
+  "description": "A manga page showing multiple characters in what appears to be a dramatic scene. The page is divided into several panels showing close-ups of characters and a group scene.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.305,
+        1.0
+      ],
+      "description": "Vertical panel on the left showing a close-up of a character with long hair looking distressed or surprised",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.8
+          ],
+          "type": "character",
+          "description": "This manga panel shows two characters in close proximity, rendered in classic black and white manga style. On the left is a character with long, flowing light-colored hair that appears to have gentle waves or layers. On the right is a character with shorter, darker hair in a more tousled style. Both characters have large, expressive eyes typical of manga art - the left character's eyes appear more gentle or concerned, while the right character's expression seems more intense or troubled. The characters appear to be wearing what looks like school uniforms or formal clothing with collared shirts. The art style uses clean line work with minimal shading, employing mostly solid blacks and whites with some screentone patterns visible on the clothing. There's Japanese text visible in the upper portion of the panel that reads 'DESPEGAN DO CAMPO' and some additional characters. The composition creates an intimate, emotional moment between the two characters, with their faces positioned close together in the frame.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.15,
+            0.4,
+            0.35
+          ],
+          "type": "speech_bubble",
+          "description": "A tall, narrow speech bubble with clean black outlines positioned vertically in the panel. The bubble contains Japanese text that appears to read something like 'DESAI DO A' or similar characters. The speech bubble has a classic manga style with smooth, curved edges and a pointed tail indicating the speaker. The text inside is rendered in a standard manga font style. The bubble's placement and shape suggest it's coming from a character positioned below or to the side of the frame. The overall composition is minimalist with clean line work typical of modern manga art style.",
+          "text": "NORIAGARI DEKINAI-YO..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.305,
+        0.0,
+        1.0,
+        0.6
+      ],
+      "description": "Large panel showing multiple characters in what appears to be an indoor setting with dramatic lighting and shadows",
+      "elements": [
+        {
+          "bbox": [
+            0.6,
+            0.3,
+            0.95,
+            0.9
+          ],
+          "type": "character",
+          "description": "A dramatic manga panel showing a character with dark, messy hair in an intense emotional state. The character appears to be crying or in distress, with tears visible on their face. They are wearing what appears to be light-colored clothing, possibly a shirt or jacket. Above and around the character, there are flowing, dynamic lines representing hair or fabric caught in motion, rendered with bold, sweeping strokes that create a sense of movement and emotional turbulence. The art style features strong contrast between black and white areas, with clean line work and minimal screentone usage. The composition emphasizes the character's emotional state through the dramatic positioning and the swirling elements above them. The overall visual conveys intense emotion and movement, typical of climactic manga scenes.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.4,
+            0.85,
+            0.7
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing a character with long, flowing hair rendered in dynamic, sweeping strokes. The hair appears to be in motion, with dramatic curved lines creating a sense of movement and fluidity. The art style features bold, confident line work with varying line weights - thicker lines define the main hair strands while thinner lines add detail and texture. The shading is minimal but effective, using solid black areas and white space to create contrast and depth. The composition shows the hair flowing diagonally across the frame, creating a dramatic visual flow. The character appears to be viewed from behind or at an angle, with only the hair and possibly part of the head/neck visible in this cropped section. The overall aesthetic is typical of shoujo or josei manga style, emphasizing the beauty and movement of the hair through elegant linework.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.4
+          ],
+          "type": "background",
+          "description": "This manga background element features dramatic black and white contrast with bold geometric shapes. The composition shows thick black curved forms creating dynamic negative space against white areas. There are vertical drip-like marks or speed lines in the upper portion, rendered with thin black strokes. The lower right contains flowing, curved lines that appear to be motion lines or decorative elements, drawn with varying line weights from thin to medium. The overall style uses high contrast without tone screening, typical of dramatic manga scenes. The stark black shapes create a sense of movement or impact, while the white spaces provide visual breathing room. No text is visible in this cropped background element.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.305,
+        0.6,
+        1.0,
+        1.0
+      ],
+      "description": "Lower panel continuing the scene with characters in close proximity",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.7,
+            0.9
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing a character in dramatic close-up, rendered in black and white with high contrast. The character appears to be wearing white clothing with flowing fabric and geometric angular details. The art style features bold, clean line work with varying line weights - thick outlines defining the main forms and thinner lines for interior details. The shading uses solid black fills and gray tones rather than traditional screentone, creating stark contrasts. The composition shows dynamic angular shapes and flowing fabric that suggests movement or tension. The cropping focuses on the torso and clothing details, with dramatic shadows creating visual depth. The overall aesthetic is modern manga style with emphasis on sharp, geometric design elements and dramatic lighting effects.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.2,
+            0.95,
+            0.8
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in profile view, featuring distinctive spiky hair rendered in solid black with sharp, angular points. The character appears to be wearing a light-colored garment with geometric panel details and what looks like a collar or high neckline. The art style employs clean, bold line work with minimal shading, typical of manga illustration. The background includes vertical gray tonal areas created through screentone or hatching techniques. The composition is cropped to focus on the upper torso and head area, with the character positioned at an angle that creates dynamic visual flow. The lineart is confident and precise, with varying line weights that emphasize the character's distinctive hair silhouette against the lighter toned background elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.7,
+            0.25,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A partial view of a white speech bubble with clean, bold black outlines typical of manga style. The bubble appears to have smooth, curved edges with consistent line weight around 2-3 pixels thick. The interior is solid white/blank with no visible text in this cropped section. The bubble's border shows the characteristic sharp, clean vector-like quality common in digital manga production. The surrounding area shows some gray tonal work, suggesting this speech bubble is positioned over background elements or other panel content. The composition shows only a curved portion of what appears to be a larger speech bubble that extends beyond the crop boundaries.",
+          "text": "HAGAMOS ESTO AFUERA DE LOCURA"
+        }
+      ]
+    }
+  ]
+}

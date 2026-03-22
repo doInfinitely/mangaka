@@ -1,0 +1,74 @@
+{
+  "width": 879,
+  "height": 1400,
+  "description": "A dramatic single-panel manga page showing a solitary figure standing beneath a large circular stained glass window in what appears to be a church or cathedral interior.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "A full-page panel depicting a person standing in a grand interior space with a massive circular stained glass window above, creating a solemn, atmospheric scene",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            0.65
+          ],
+          "type": "background",
+          "description": "A dramatic manga background featuring a large circular stained glass window with an intricate geometric pattern divided into eight segments. The window displays alternating dark and light sections created through cross-hatching and screentone techniques. Below the window stands a solitary figure in white clothing viewed from behind, appearing small in scale against the imposing architectural element. The scene is rendered in classic black and white manga style with heavy use of screentones for shading and atmospheric effects. Vertical dripping or streaming effects cascade down from the window, suggesting rain or condensation. The composition creates a sense of solitude and contemplation, with the circular window serving as a dominant focal point that frames the lone character. The linework is clean and precise, typical of professional manga illustration, with careful attention to architectural detail in the window's mullions and geometric divisions.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.45,
+            0.65,
+            0.95
+          ],
+          "type": "character",
+          "description": "A lone male character stands in a contemplative pose within what appears to be a covered outdoor area or pavilion. He is shown from a side-back angle, with his head tilted downward in a dejected or thoughtful manner. His dark hair appears slightly disheveled, and he wears a light-colored long-sleeved shirt or sweater paired with dark pants and shoes. The character's posture suggests melancholy or introspection, with his hands likely in his pockets. The art style employs clean, confident line work with varied line weights - thicker outlines define the character while thinner lines detail the architectural elements. Cross-hatching and screen tones create depth and shadows, particularly on the character's clothing and the structural beams overhead. The background features a geometric ceiling structure with cross-braced beams creating diamond patterns, rendered with precise architectural detail. Light filters through the structure, creating dramatic contrast between the shadowed character and the bright, open space beyond. The composition emphasizes the character's isolation within the vast architectural space, with vertical lines and perspective drawing focus to his solitary figure.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.65,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel depicts a dramatic low-angle view focusing on a figure's legs and feet standing on what appears to be a tiled or paved floor. The legs are rendered in solid black silhouette, creating a stark contrast against the light background. Dark puddles or stains are scattered around the feet on the ground, suggesting liquid dripping or pooling. The floor is drawn with precise perspective lines showing individual tiles or panels stretching into the distance. The art style uses clean, minimal linework with strong contrast between the black silhouetted legs and the white/light gray background. Vertical hatching lines appear in the upper portion, likely indicating walls or architectural elements. The composition creates a sense of foreboding or tension through the dramatic angle and the ominous dark pools on the ground. The overall technique demonstrates typical manga visual storytelling with its stark black and white contrast and carefully constructed perspective.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.9,
+            0.7,
+            0.98
+          ],
+          "type": "effect",
+          "description": "This manga effect element shows subtle motion lines and impact marks rendered in thin, delicate linework against a light screentoned background. The lines appear to be speed lines or action effects, drawn with varying line weights - some very fine and others slightly bolder. The screentone has a dotted halftone pattern typical of manga printing techniques. The lines cross and intersect at different angles, creating a sense of movement or atmospheric disturbance. The overall composition is minimalist and abstract, focusing purely on the linear effects without any character or object elements. The style is clean and precise, characteristic of professional manga artwork, with the effects appearing to fade or taper at their endpoints.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.6,
+            0.9,
+            0.8
+          ],
+          "type": "effect",
+          "description": "This manga panel element shows a dramatic effect of a figure hanging or suspended, with only the lower portion visible. The character appears to be wearing dark clothing on the lower body, possibly pants or a skirt, with what looks like a white shirt or top visible at the upper edge of the frame. The art style employs heavy use of vertical speed lines or rain effects filling the background, created with fine parallel hatching that gives a sense of downward motion or atmospheric intensity. The line work is clean and precise, typical of manga style, with solid black areas contrasting against the detailed screentone effects. The composition creates a sense of verticality and suspension, with the figure positioned against the streaming background effects. No text is visible in this cropped element. The overall mood is dramatic and potentially ominous, enhanced by the stark contrast between the dark clothing and the lighter background filled with vertical line effects.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+# Style Transfer GAN configuration
+# ---------------------------------
+
+# Architecture
+style_dim: 512
+resolution: 512
+
+# Generator
+generator:
+  base_channels: 64
+  num_heads: 8
+
+# Discriminator (PatchGAN)
+discriminator:
+  base_channels: 64
+  n_layers: 3
+
+# Style bank
+max_bank_size: 256           # Max embeddings per sample (top-k if bank is larger)
+top_k_retrieval: 256         # Top-k for retrieval-gated attention
+
+# Losses
+losses:
+  lambda_l1: 10.0
+  lambda_perceptual: 1.0
+  lambda_style: 50.0
+  lambda_adversarial: 1.0
+
+# Training
+epochs: 100
+batch_size: 4
+generator_lr: 1.0e-4
+discriminator_lr: 4.0e-4
+weight_decay: 0.01
+
+# Data
+val_split: 0.1
+num_workers: 4
+
+# Training options
+amp: true
+gradient_accumulation_steps: 1
+seed: 42
+
+# Checkpoints
+save_path: checkpoints/style/
+
+# Style encoder (for building the bank)
+encoder:
+  batch_size: 32             # Batch size for encoding images

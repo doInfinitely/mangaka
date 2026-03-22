@@ -1,0 +1,239 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A manga page showing characters in what appears to be a control room or technical facility, with dialogue about searching for something or someone.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.068,
+        0.0,
+        0.849,
+        0.463
+      ],
+      "description": "Wide panel showing a character from behind looking at a control chair in a technical room",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a partial view of a character from behind, depicting their back and shoulder area. The character appears to be wearing a light-colored, loose-fitting garment that could be a shirt or jacket. The art style uses clean, confident line work with varying line weights - thicker outlines define the main contours while thinner lines indicate fabric folds and body definition. The shading is minimal and selective, with some areas left completely white to emphasize the clean, minimalist aesthetic typical of manga art. There are subtle hatching marks and fabric creases that give dimension to the clothing. The composition is cropped tightly, focusing on the torso area, and there appears to be some architectural elements or furniture suggested in the background with simple geometric shapes. The overall style is characteristic of contemporary manga with its emphasis on clean lineart and strategic use of negative space.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.2,
+            0.8,
+            0.9
+          ],
+          "type": "object",
+          "description": "This manga panel depicts a ceremonial or religious bell viewed from below, rendered in classic black and white manga style. The bell has a traditional dome shape with clean, bold outlines and features distinctive geometric detailing at its base where it connects to what appears to be a mounting or suspension system. The bell's surface shows subtle halftone screening for dimensional shading. The composition includes architectural elements in the background - structural beams, railings, and what looks like building framework drawn with precise lineart. The perspective creates a sense of scale and reverence, looking up at the bell from ground level. The art style uses consistent line weights with thicker outlines for primary elements and thinner lines for background details. No visible text appears in this cropped section. The overall aesthetic is clean and architectural, typical of serious or contemplative manga scenes involving religious or ceremonial settings.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts an interior architectural scene rendered in detailed black and white line art. The composition shows a modern office or institutional space with clean geometric lines. In the foreground, there's a contemporary office chair with a high back and armrests, positioned at what appears to be a desk or workstation. The chair features typical manga shading with screentone dots and hatching. Behind the chair, architectural elements include vertical panels or room dividers with linear detailing, suggesting a professional or clinical environment. The line work is precise and technical, using varying line weights to define structural elements. Shading is achieved through a combination of solid black areas at the bottom portion, screentone patterns on surfaces, and crosshatching for depth. The perspective creates a sense of depth moving from the chair in the foreground to the architectural elements in the background. No text is visible in this cropped section. The overall aesthetic is clean and minimalist, typical of modern manga backgrounds depicting contemporary interior spaces.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.068,
+        0.481,
+        0.849,
+        0.618
+      ],
+      "description": "Black/dark transition panel",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga panel shows an aerial or elevated perspective view of what appears to be an indoor space with geometric architectural elements. The art style uses clean, precise linework with minimal shading, creating a stark black and white contrast. The composition features angular shapes and structural elements like beams or supports rendered with hatching and crosshatching techniques. Two speech bubbles contain dialogue: 'EVEN I CAN DO SOME-THING LIKE' in the left panel and 'THIS IS MORE KENSUKE'S KINDA THING, BUT' in the right panel. The perspective creates a sense of looking down into or across a space, with the geometric elements creating strong directional lines that guide the eye through the composition. The clean, technical drawing style suggests this may be from a more realistic or semi-realistic manga rather than a heavily stylized one.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.068,
+        0.649,
+        0.518,
+        0.954
+      ],
+      "description": "Panel showing a character working at a computer terminal",
+      "elements": [
+        {
+          "bbox": [
+            0.4,
+            0.3,
+            0.8,
+            0.9
+          ],
+          "type": "character",
+          "description": "A close-up cropped view of a character's eye area rendered in typical manga style. The image shows a single eye with a curved upper eyelid defined by clean, confident black linework. The eyebrow above is depicted with fine, delicate strokes suggesting individual hairs. The eye itself appears to be looking slightly downward or to the side, with minimal detail in the iris and pupil area. The art style employs clean line weights with thicker outlines for the main eye shape and thinner, more delicate lines for details like the eyebrow hairs and subtle facial contours. There is minimal shading, relying primarily on line art to define form. The composition is tightly cropped, focusing entirely on this single facial feature against a plain white background. No text is visible in this element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.1,
+            0.45,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble showing a close-up of a character's face in profile view. The character has light-colored, tousled hair with wispy strands falling across their forehead. Their eye is visible, drawn in typical manga style with clean lineart. The character appears to be speaking or reacting to something, with their mouth slightly open. The art style features clean, precise line weights with minimal shading - mostly using solid blacks and whites with some subtle gray tones. There's fine cross-hatching visible in the hair texture. The speech bubble itself has clean borders and appears to contain the character's head and shoulders. The composition is intimate, focusing on the character's facial expression and reaction. No text is clearly visible in this cropped portion of the speech bubble.",
+          "text": "EVEN I CAN DO SOMETHING LIKE LOOKING UP A NAME OR TWO... LET'S SEE."
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel shows a close-up of a young character's face in typical manga art style. The character has large, expressive eyes with detailed pupils and light reflections, spiky or tousled hair rendered with clean line work, and a neutral to slightly concerned expression. The art employs clean, consistent line weights with minimal shading, characteristic of manga illustration. The character appears to be looking slightly to the side or ahead with a contemplative expression. The composition focuses on the upper portion of the face, particularly emphasizing the eyes. There is no visible text in this cropped section, and the background appears to be minimal or white space typical of manga paneling.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.528,
+        0.649,
+        0.849,
+        0.954
+      ],
+      "description": "Panel showing another view of the technical room",
+      "elements": [
+        {
+          "bbox": [
+            0.4,
+            0.4,
+            0.9,
+            0.9
+          ],
+          "type": "object",
+          "description": "A close-up profile view of a male manga character's face and upper body, drawn in typical manga style with clean, confident line work. The character has spiky, layered hair with dynamic strokes suggesting texture and volume. His facial expression appears contemplative or serious, with a defined jawline and nose shown in three-quarter profile. The character appears to be wearing what looks like a light-colored shirt or jacket. The art style features crisp black lineart with minimal shading, using screentone/halftone patterns in the background for depth. The composition shows the character from roughly chest-up, positioned against what appears to be a window or doorframe structure visible on the left side of the panel. The overall aesthetic is clean and polished, characteristic of professional manga artwork with strong contrast between the white spaces and detailed linework.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.15,
+            0.75,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "This is a speech bubble element with a clean, minimalist design typical of manga. The bubble has thick, bold black borders forming a rectangular shape with slightly rounded corners. The interior is completely white/blank with no visible text. The bubble is positioned in what appears to be the lower portion of a panel, with architectural or structural line work visible above it - including hatched shading and angular geometric patterns that suggest building elements or framework. The line work above uses varied line weights, with some bold structural lines and finer hatching details for shading and texture. The overall composition suggests this empty speech bubble is awaiting text or represents a moment of silence in the narrative.",
+          "text": "THIS IS MORE KEISUKE'S KINDA THING, BUT WELL..."
+        },
+        {
+          "bbox": [
+            0.8,
+            0.6,
+            0.95,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a small fragment of a white speech bubble against a light background. The bubble shows typical manga styling with clean, bold black outlines of moderate line weight. Only a tiny portion of the speech bubble is visible in this cropped element, appearing as a curved white shape with the characteristic black border. There appears to be a small dark mark or character fragment visible within the white space, but it's too partial to definitively identify as text. The overall art style follows standard manga conventions with crisp, clean linework and high contrast between the white bubble interior and black outline.",
+          "text": "HMM."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.981,
+        0.457,
+        1.0
+      ],
+      "description": "Close-up panel of character's face in profile",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a partial view of a character, likely featuring the upper torso or shoulder area. The art style displays typical manga characteristics with clean, confident line work of moderate weight. The lineart appears to use traditional manga techniques with minimal but effective shading, possibly employing subtle hatching or tone work to create depth. The composition suggests this is part of a larger character illustration, with the cropping focusing on a specific body segment. The drawing style appears to follow contemporary manga conventions with smooth, flowing lines that define the character's form. Without seeing the full context, the visible portion seems to be rendered with attention to anatomical structure and clean execution typical of professional manga artwork.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.472,
+        0.981,
+        0.63,
+        1.0
+      ],
+      "description": "Small panel showing what appears to be a doorway or opening",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This background element shows minimal linework consisting of thin, delicate black lines against a white background. The lines appear to be part of architectural or structural details, possibly indicating ceiling beams, window frames, or interior structural elements. The art style uses very light line weights with clean, precise strokes typical of manga backgrounds. The composition is sparse and minimalist, with the lines positioned in what appears to be the upper portion of the panel space. No shading, hatching, or tonal work is present - just simple line art. No text is visible in this cropped background element. The overall aesthetic suggests this serves as environmental context within a larger manga panel, providing subtle spatial reference without overwhelming the main subject matter.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.641,
+        0.981,
+        0.849,
+        1.0
+      ],
+      "description": "Panel showing another character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga element shows a character rendered in a typical manga art style with clean, confident line work. The character appears to be drawn with medium line weights that create clear definition without being overly heavy. The art style features the characteristic manga approach to shading with selective use of solid blacks and minimal tone work, creating strong contrast. The lineart is precise and economical, focusing on essential details rather than excessive rendering. The composition appears to be part of a larger panel, cropped to show this specific character element. The overall aesthetic follows standard manga visual conventions with its clean, graphic approach to illustration.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.1,
+            0.95,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a minimalist white speech bubble or dialogue balloon with clean, simple lineart. The bubble has a smooth, rounded rectangular shape with thin black outlines of consistent line weight. The interior is completely white/blank with no visible text or content. The bubble appears to have a small tail or pointer extending from one edge, indicating the speaker's direction. The art style is clean and uncluttered, typical of modern manga dialogue formatting. The composition is simple and functional, designed to contain dialogue text that may have been cropped out or not yet added. The shading is minimal, relying primarily on the stark contrast between the white interior and black outline borders.",
+          "text": "WHERE IS IT..."
+        }
+      ]
+    }
+  ]
+}

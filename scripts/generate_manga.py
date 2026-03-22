@@ -148,8 +148,8 @@ def main():
                         help="Path to the manga RAG index")
     parser.add_argument("--output-dir", default="output/generated",
                         help="Directory to save generated JSONs (and images)")
-    parser.add_argument("--provider", choices=["claude", "openai", "gemini"],
-                        default="claude")
+    parser.add_argument("--provider", choices=["llama", "claude", "openai", "gemini"],
+                        default="llama")
     parser.add_argument("--num-pages", type=int, default=1)
     parser.add_argument("--top-k", type=int, default=5,
                         help="Number of examples to retrieve")

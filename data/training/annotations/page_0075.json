@@ -1,0 +1,151 @@
+{
+  "width": 1280,
+  "height": 924,
+  "description": "A dynamic manga page showing an intense battle sequence with explosive effects and character reactions",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.34
+      ],
+      "description": "Large panel showing explosive energy effects with radiating speed lines",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect element depicts dramatic speed lines or motion lines radiating outward from multiple focal points across the panel. The lines are created with bold, black ink strokes of varying weights - some thick and prominent, others thin and delicate. The lines converge toward several central points, creating a dynamic starburst or explosion pattern that suggests intense movement, impact, or energy release. The background is pure white, making the black lines stand out starkly. The composition shows classic manga visual language for depicting high-speed action, shock, or dramatic emphasis. The lines have a hand-drawn quality with slight variations in thickness and some areas where multiple strokes overlap, giving texture and depth to the effect. No text is visible in this cropped section. The overall pattern creates a sense of radiating force or motion that would typically accompany a pivotal action scene or emotional climax in the narrative.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.34,
+        0.3,
+        1.0
+      ],
+      "description": "Vertical panel showing a character and landscape view",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.0,
+            0.9,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows a dramatic scene with bold, dynamic linework characteristic of action manga. The composition features heavy black ink strokes creating diagonal motion lines and architectural elements like beams or structural supports in the upper portion. The lower section contains a speech bubble with Japanese text reading 'AYANAMI !!' and 'CEN TAR', suggesting urgent dialogue or shouting. The art style employs stark black and white contrasts with no gray tones, using bold brushstrokes and speed lines to convey intense movement or impact. The overall composition creates a sense of dramatic tension and urgency through its angular geometry and explosive linework.",
+          "text": "AYANAMI !!"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.4,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel shows a dramatic outdoor scene with a mountainous, forested landscape. The background features silhouetted evergreen trees (likely pine or fir) along a hillside or mountain slope. The art style uses bold black ink with heavy contrast - the trees are rendered as solid black silhouettes against a lighter sky with diagonal hatching lines suggesting atmospheric conditions or weather. The composition includes what appears to be rocky or snowy terrain in the foreground, depicted with white areas and black shadowing. There's a speech bubble containing the text 'SWITCH.' in the scene. The overall aesthetic is typical of manga illustration with its strong use of black and white contrast, cross-hatching techniques for texture and atmosphere, and dramatic environmental storytelling. The scene has a wilderness or remote mountain setting feeling to it.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.8,
+            0.4,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "This speech bubble appears as a clean, white angular shape with defined black borders. The bubble has a distinctive pointed tail or connector extending from its lower portion, typical of manga speech bubble design. The interior is completely white/blank with no visible text. The bubble's shape is somewhat geometric and angular rather than perfectly rounded, giving it a sharp, modern appearance. The line weight of the border is consistent and medium thickness, creating clear definition against what appears to be a background with geometric patterns or architectural elements visible at the edges of the frame. The overall style is clean and minimalist, following standard manga visual conventions for dialogue containers.",
+          "text": "SWITCH."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.3,
+        0.34,
+        0.7,
+        1.0
+      ],
+      "description": "Central panels showing character close-ups and dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.0,
+            0.9,
+            0.3
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows dynamic speed lines radiating outward in multiple directions, creating an intense burst or explosion effect. The lines are drawn with varying weights - some thick, bold strokes and others thinner, creating a sense of movement and energy. The lines appear to emanate from different focal points, with some converging toward the center-left and others spreading horizontally across the frame. The linework is executed in classic manga style with confident, flowing strokes that demonstrate skilled pen technique. The composition is divided into sections by the radiating line patterns, creating a fragmented, high-energy visual effect typical of action sequences or dramatic moments in manga. The stark black lines against white background enhance the dramatic contrast and sense of explosive motion. No text is visible in this cropped section.",
+          "text": "CENTER THE TARGET"
+        },
+        {
+          "bbox": [
+            0.0,
+            0.3,
+            1.0,
+            0.8
+          ],
+          "type": "character",
+          "description": "A dramatic manga panel showing a young character with spiky, dark hair in an intense emotional state. The character appears to be crying or in distress, with their hands covering their face. The art style features bold, heavy line weights with dynamic speed lines and motion effects surrounding the figure. There's a large exclamation mark (!) prominently displayed, emphasizing the emotional impact. The shading uses traditional manga techniques with screentones and crosshatching. The composition creates a sense of overwhelming emotion or shock, with the character positioned against dramatic diagonal lines and explosive visual effects that fill the background. The overall style is typical of shounen manga with its expressive, high-energy visual language.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.75,
+            0.5,
+            0.85,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a dramatic sound effect (sfx) rendered in bold, angular lettering against a heavily textured background. The text appears to be white or light-colored against dark cross-hatched shading that creates intense diagonal line work typical of manga action sequences. The hatching consists of dense, parallel lines that vary in weight and spacing, creating a sense of motion and impact. The overall composition suggests this is part of a high-energy scene, with the sound effect integrated into the dramatic visual flow of the panel through the directional hatching pattern that seems to radiate outward or indicate movement.",
+          "text": "!"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.7,
+        0.34,
+        1.0,
+        1.0
+      ],
+      "description": "Right panel showing action sequence with explosive effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect depicts dynamic motion lines and impact imagery rendered in classic black and white ink style. The top portion features dense horizontal speed lines of varying thickness creating a sense of rapid movement or acceleration. Below, angular panel borders frame what appears to be an explosion or impact effect, with billowing smoke or debris clouds rendered through detailed cross-hatching and fine linework. The composition uses dramatic diagonal angles and sharp geometric panel divisions typical of action manga. The line weight varies from bold defining strokes to delicate hatching for texture and volume. The overall effect conveys intense kinetic energy and explosive force through the combination of speed lines, angular composition, and detailed smoke/debris effects.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.4,
+            0.8,
+            0.8
+          ],
+          "type": "character",
+          "description": "This manga panel shows a partial view of a character in dramatic motion, rendered in black and white with characteristic manga styling. The image captures what appears to be flowing hair or fabric with dynamic, sweeping linework that suggests rapid movement or wind. The art style employs varied line weights, with bold, confident strokes creating the main forms and finer hatching used for shading and texture details. The composition uses diagonal lines and curved forms to convey energy and motion, with areas of white space contrasting against the darker cross-hatched sections. The drawing technique shows skilled use of speed lines and gestural strokes typical of action sequences in manga, creating a sense of kinetic energy even in this cropped fragment.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

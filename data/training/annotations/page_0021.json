@@ -1,0 +1,206 @@
+{
+  "width": 933,
+  "height": 1400,
+  "description": "A manga page showing a character in distress, followed by dramatic scenes of destruction and debris, ending with someone observing the aftermath",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.49,
+        0.4
+      ],
+      "description": "Close-up of a character with light hair appearing distressed or in pain",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.95,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in an intimate or vulnerable moment, depicted in typical manga style with clean line art and screentone shading. The character has tousled, flowing hair rendered with dynamic linework that suggests movement or dishevelment. The figure appears to be in a reclining or lying position, with soft shading and screentone effects creating depth and atmosphere. There are small bubble-like elements scattered in the composition, possibly representing water droplets or a dreamy atmosphere. On the left side, there's Japanese text rendered in bold, stylized lettering. The overall composition uses a two-panel layout with the lower panel showing a darker, more contrasted section. The art style features the characteristic clean lines and delicate shading typical of manga romance or dramatic scenes, with careful attention to creating mood through the interplay of light and shadow using screentones.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            0.6
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows a sound effect (SFX) rendered in a typical manga style. The image depicts what appears to be clustered circular or bubble-like shapes with simple dot eyes, creating a cartoonish, possibly cute character or creature design. The lineart uses clean, bold black lines with minimal detail. The shapes appear to be stacked or grouped together vertically along the right side of the frame. There's minimal shading, mostly relying on simple line work and white space. Some scattered dots or small circular elements are visible in the lower portion, suggesting motion or particle effects. The overall composition is simple and uses negative space effectively, which is characteristic of manga SFX elements designed to convey sound or motion without overwhelming the panel's main content.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.51,
+        0.0,
+        1.0,
+        0.4
+      ],
+      "description": "A hand holding what appears to be a handheld device or phone",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.3,
+            0.9,
+            0.8
+          ],
+          "type": "object",
+          "description": "A handheld electronic device, likely a mobile phone or PDA, held in a person's hand. The device has a rectangular screen displaying what appears to be the number '4' and some interface elements below it. The device has several circular buttons or controls at the bottom. The art style is typical black and white manga illustration with clean line work and minimal shading. The hand holding the device is drawn with simple but effective linework, showing fingers gripping the sides of the device. The background is plain white, focusing attention on the device itself. The illustration uses minimal cross-hatching or tone work, relying primarily on bold black lines for definition.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.85,
+            0.85
+          ],
+          "type": "character",
+          "description": "A hand holding a handheld electronic device, likely a gaming console or portable device, drawn in classic manga style. The device has a rectangular white/light gray body with a dark screen displaying what appears to be a simple geometric interface or game. Below the screen are several small circular buttons. The hand is rendered with clean, confident line work typical of manga art, showing defined fingers gripping the device from below. The shading uses screentone/halftone patterns common in manga, creating depth and dimension. The composition shows the device at a slight angle, emphasizing its three-dimensional form. There appears to be partial text 'PI' visible in the upper right corner of the frame. The overall art style features bold, clean lineart with minimal but effective shading, characteristic of professional manga illustration.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.05,
+            0.95,
+            0.25
+          ],
+          "type": "sfx",
+          "description": "A manga sound effect (SFX) element showing bold black text reading 'PII' contained within a white oval or speech bubble shape. The text appears to be in a standard manga font with thick, solid black lettering. The white oval background contrasts sharply against the halftone dot pattern background typical of manga printing. The overall composition is simple and clean, with the SFX positioned as a floating element that would typically represent a sound like a beep, whistle, or electronic tone in the manga narrative.",
+          "text": "PII"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.42,
+        1.0,
+        0.91
+      ],
+      "description": "Large panel showing dramatic destruction with debris and objects flying through the air",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "A dramatic manga panel showing silhouetted figures against a cloudy sky, rendered in stark black and white contrast. The top panel depicts multiple dark silhouettes of what appear to be falling or floating figures scattered across a bright sky filled with puffy clouds. The figures are rendered as solid black shapes with jagged, organic edges suggesting movement or transformation. Below are three smaller panels: the left shows feet/legs on a crosshatched ground with Spanish text '\u00bfEST\u00c1 BIEN?' in a speech bubble, the middle panel continues the falling figures motif with more black silhouettes against white clouds, and the right panel shows a close-up of an eye with clean, minimal linework. The art style employs heavy contrast between solid blacks and whites, with crosshatching used for textural areas and screentone effects for shading. The composition creates a sense of chaos and movement through the scattered placement of the dark forms against the orderly cloud patterns.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts a dramatic upward perspective scene with heavy black and white contrast. The top panel shows silhouetted figures falling or floating against a cloudy sky, rendered with bold black shapes and white negative space. Heavy diagonal hatching lines create motion and atmospheric effects throughout the scene. The bottom section contains three panels: the left shows a tiled floor with feet/legs visible and Spanish text '\u00bfEST\u00c1 BIEN?' in a speech bubble, the middle panel continues the falling figures motif with more scattered black silhouettes against white, and the right panel shows a close-up of an eye with clean lineart. The overall composition uses stark contrasts, dynamic angles, and varied panel sizes to create tension and movement. The art style employs thick black fills, screentone patterns, and selective use of hatching to establish mood and depth.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.93,
+        0.49,
+        1.0
+      ],
+      "description": "Bottom left panel showing feet on what appears to be wooden flooring",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.0,
+            1.0,
+            0.8
+          ],
+          "type": "character",
+          "description": "This appears to be a heavily cropped portion of a manga character rendered in black and white line art. The visible element shows what seems to be part of a character's form or clothing with clean, confident line work typical of manga illustration. The area features cross-hatching and screentone patterns that create texture and depth. There are geometric structural elements visible, possibly architectural details or background elements, drawn with precise straight lines that contrast with any organic character forms. The composition uses traditional manga shading techniques with varying line weights to establish form and shadow. The cropped nature makes it difficult to discern specific character details like facial features or complete clothing, but the technical execution shows professional manga artistry with careful attention to visual hierarchy and spatial relationships within the panel structure.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a cropped portion featuring part of a character's dark, messy hair on the left side, with what appears to be an ear visible. The background depicts an architectural interior space with geometric perspective lines showing what looks like a hallway or corridor with structural beams or ceiling elements. The art style uses clean black linework with screentone (halftone dot pattern) shading for the background areas. The perspective lines create depth and lead the eye into the space. The composition shows strong contrast between the solid black hair and the lighter toned background areas. The linework is precise and typical of manga architectural backgrounds, with consistent line weights used for the structural elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.1,
+            0.2,
+            0.4,
+            0.6
+          ],
+          "type": "speech_bubble",
+          "description": "This is a partial view of a manga speech bubble showing the characteristic curved border typical of dialogue balloons. The bubble appears to be white or light-colored against a contrasting background. The image shows strong contrast between black and white areas with distinctive manga-style halftone dot patterns (screentone) visible in parts of the composition. The line work appears clean and bold, consistent with professional manga art standards. Only a portion of what seems to be a larger speech bubble is visible in this cropped section, with the curved boundary line clearly defined against the surrounding artwork.",
+          "text": "\u00bfEST\u00c1 BIEN?"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.51,
+        0.93,
+        0.75,
+        1.0
+      ],
+      "description": "Small panel showing more debris and destruction",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect element shows heavy diagonal hatching lines creating a dramatic shadowing or impact effect. The hatching consists of dense, parallel lines drawn at approximately a 45-degree angle, executed with bold, confident strokes of varying line weights. The lines are tightly packed together, creating a strong sense of movement and dramatic tension. The hatching transitions from very dense areas of deep black to lighter areas where the lines are more spaced out, creating a gradient effect. This type of effect is commonly used in manga to indicate intense emotions, dramatic moments, or to add visual weight to a scene. The technique demonstrates classic manga shading methods with its precise, directional line work that creates both texture and atmospheric mood.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.76,
+        0.93,
+        1.0,
+        1.0
+      ],
+      "description": "Close-up of an eye",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A cropped manga character element showing partial figure details rendered in black and white. The image features bold, thick black ink strokes creating strong contrast against white space. There appears to be screentone/halftone dotted shading visible in the upper left portion. The lineart uses varying line weights - some areas have heavy, solid black fills while others show thinner defining lines. The composition is fragmentary, showing only portions of what appears to be clothing or character silhouette elements. The art style is typical of manga with clean, confident brushwork and high contrast between light and dark areas. No visible text is present in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A manga page showing intimate moments between characters, with the top panel showing two characters in close proximity, middle panels showing body details, and the bottom panel featuring a character with long hair and horns smiling.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.08,
+        0.0,
+        0.92,
+        0.35
+      ],
+      "description": "Top angled panel showing two characters in an intimate moment",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.9,
+            0.85
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a young character with tousled, messy hair in a dynamic pose. The character appears to be lying down or reclining, with their head tilted at an angle. Their expression shows wide, alert eyes with a somewhat surprised or intense look. The art style features clean, bold line work typical of manga, with detailed cross-hatching and screentone shading throughout. The shading creates depth and dimension, particularly around the hair and facial features. The composition is intimate and dramatic, focusing on the character's face and upper body. The background contains geometric screentone patterns that add texture and visual interest. The line weight varies from thin detail lines for facial features to thicker outlines defining the character's form. No visible text appears in this particular cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.6,
+            1.0,
+            0.95
+          ],
+          "type": "character",
+          "description": "This manga panel fragment shows a close-up detail of a character rendered in classic black and white manga style. The image captures what appears to be part of a character's face or profile, with distinctive manga-style line work featuring clean, confident strokes of varying weights. The artwork employs traditional manga shading techniques including cross-hatching and dot screening (screentone) visible in the upper portion. The composition shows curved lines that suggest facial features or hair, drawn with precise linework characteristic of professional manga illustration. A horizontal panel border divides the image, creating a sense of separation or transition typical of manga panel layouts. The overall style demonstrates skilled use of negative space and minimal but effective line placement to convey form and depth.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.08,
+        0.36,
+        0.46,
+        0.63
+      ],
+      "description": "Left middle panel showing character's torso/clothing",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows cropped portions of a character's body across two frames. In the top panel, we see what appears to be legs or lower body parts rendered with screentone/dot shading in gray, creating volume and shadow. The lineart uses clean, confident strokes typical of manga style, with areas of solid black shadow providing strong contrast. Motion lines suggest movement. The bottom panel shows another cropped body part, likely an arm or shoulder area, also utilizing the same screentone shading technique. The composition focuses on body language and movement rather than facial expressions, using negative white space effectively. The art style employs classic manga techniques with clear line weight variation - thin lines for details and thicker lines for outlines and emphasis. No text is visible in these cropped sections.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.46,
+        0.36,
+        0.92,
+        0.63
+      ],
+      "description": "Right middle panel showing character's face profile",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows a partial view of a character rendered in typical black and white manga style. The visible portions include what appears to be part of a torso or clothing with clean, confident line work. The character seems to be wearing some kind of fitted garment or uniform. The art style features precise lineart with moderate line weight variation, and areas of screentone/halftone shading that create depth and dimension. There's also a speech bubble or dialogue balloon visible in the upper portion containing several small dots, likely indicating a pause or trailing off in speech. The composition is cropped to focus on specific anatomical details, creating a sense of intimacy or emphasis on the character's form. The overall aesthetic is clean and polished, consistent with professional manga artwork, using traditional techniques like screentones rather than digital gradients.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.08,
+        0.64,
+        0.92,
+        1.0
+      ],
+      "description": "Bottom panel showing a character with long hair and horns smiling",
+      "elements": [
+        {
+          "bbox": [
+            0.15,
+            0.1,
+            0.85,
+            0.95
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character with long, flowing hair that appears to be light-colored or white, rendered with detailed line work and screen tone shading. The character has their eyes closed in what appears to be a peaceful or serene expression, with a subtle smile. Their hair cascades around their face in dynamic, wind-swept strands with varying line weights - thicker outlines defining the major hair masses and finer lines for individual strands. The character appears to be wearing what looks like a collared garment or uniform with visible buttons or fasteners at the bottom of the frame. The art style employs classic manga techniques with clean lineart, strategic use of screen tones for shading the hair, and white highlights that create depth and dimension. The composition focuses tightly on the upper portion of the character, creating an intimate, portrait-like framing that emphasizes the peaceful facial expression and the flowing movement of the hair.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

@@ -166,7 +166,26 @@ async def _call_gemini(prompt: str, system: str) -> str:
     return resp.text
 
 
+async def _call_llama(prompt: str, system: str) -> str:
+    import os
+    from openai import AsyncOpenAI
+    client = AsyncOpenAI(
+        api_key=os.environ.get("LLAMA_API_KEY"),
+        base_url=os.environ.get("LLAMA_BASE_URL", "https://api.together.xyz/v1"),
+    )
+    resp = await client.chat.completions.create(
+        model=os.environ.get("LLAMA_MODEL", "meta-llama/Llama-Vision-Free"),
+        max_tokens=8192,
+        messages=[
+            {"role": "system", "content": system},
+            {"role": "user", "content": prompt},
+        ],
+    )
+    return resp.choices[0].message.content
+
+
 _BACKENDS = {
+    "llama": _call_llama,
     "claude": _call_claude,
     "openai": _call_openai,
     "gemini": _call_gemini,
@@ -180,7 +199,7 @@ _BACKENDS = {
 async def generate_manga(
     plot: str,
     index: MangaIndex,
-    provider: Literal["claude", "openai", "gemini"] = "claude",
+    provider: Literal["llama", "claude", "openai", "gemini"] = "llama",
     num_pages: int = 1,
     top_k: int = 5,
     page_spec: dict | None = None,

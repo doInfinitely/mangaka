@@ -1,0 +1,129 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A two-panel sequence showing a character sitting at what appears to be a control station or desk in a futuristic setting, with the second panel showing the same scene but darker with a sound effect.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.07,
+        0.0,
+        0.95,
+        0.66
+      ],
+      "description": "A character with short hair sits at a futuristic control station or desk with books and equipment visible",
+      "elements": [
+        {
+          "bbox": [
+            0.25,
+            0.15,
+            0.65,
+            0.95
+          ],
+          "type": "character",
+          "description": "A male character shown from behind in a standing pose, wearing a light-colored coat or jacket with a distinctive collar and what appears to be a belt or sash around the waist. The character has messy, spiky hair rendered in typical manga style. The figure is positioned at what looks like a counter or desk surface, with clean line art characteristic of manga illustration. The shading uses screentone patterns for mid-tones, particularly visible on the lower portion of the coat and surrounding surfaces. The art style employs varied line weights - thicker outlines for the character's silhouette and finer lines for clothing details and hair texture. The composition shows the character centered in the frame against an indoor background with geometric elements like rectangular shapes suggesting furniture or architectural features. No visible text appears in this cropped panel element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "The background depicts a detailed interior workspace, likely an office or study room, rendered in clean black and white line art typical of manga style. The scene shows a desk setup with a figure seated in an office chair, viewed from behind. The character has messy, short hair and wears what appears to be a light-colored shirt or jacket. The desk contains stacks of books on the left side and computer equipment including what looks like a monitor or screen on the right. The room has clean architectural lines with windows visible in the upper portion showing a grid pattern. The art style uses precise, thin line weights for structural elements and furniture details, with some subtle screen tones and hatching for shading. The composition creates depth through the layered elements of the desk, chair, and room architecture. There's a sound effect 'SHAN' visible in stylized white text against a darker background panel below, suggesting some kind of movement or action occurring.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.55,
+            0.3,
+            0.75
+          ],
+          "type": "object",
+          "description": "This manga panel element shows a stark geometric composition with high contrast between black and white areas. The dominant feature is a large white rectangular or trapezoidal shape that occupies most of the frame, rendered with a subtle halftone dot pattern typical of manga printing. This white area is bordered by solid black sections - a thick black band along the top edge and what appears to be curved black lines or shapes along the right side. The linework is clean and bold with sharp, defined edges between the contrasting areas. The halftone screening in the white area creates a subtle textural quality characteristic of manga reproduction techniques. The composition suggests this could be part of a larger architectural element, clothing detail, or abstract background element within the manga panel.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.2,
+            0.85,
+            0.6
+          ],
+          "type": "object",
+          "description": "A vertically oriented architectural element showing what appears to be a doorway or entrance area in typical manga line art style. The image features clean, bold black outlines with minimal shading, characteristic of manga backgrounds. The composition shows vertical structural elements like door frames or wall panels rendered with parallel lines. There's a section with crosshatched or dotted shading texture in the upper portion, likely representing a ceiling or overhang area. The lower portion shows geometric shapes suggesting steps, a threshold, or architectural details of an entranceway. The art style uses consistent line weights with stark black and white contrast, no gray tones, creating the clean architectural rendering typical of manga environmental backgrounds. No text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.07,
+        0.68,
+        0.95,
+        1.0
+      ],
+      "description": "The same scene but darker with a sound effect, showing the character in the same position",
+      "elements": [
+        {
+          "bbox": [
+            0.25,
+            0.25,
+            0.65,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown from behind in a three-quarter view, wearing a long coat or cloak with distinctive styling. The garment features a high collar, fitted silhouette, and appears to have decorative elements or fastenings down the front. The character has short, layered hair and is positioned in what appears to be an indoor setting with architectural elements like pillars or doorframes visible in the background. The art style employs clean, confident line work with varied line weights - thicker outlines for the character's form and thinner lines for details. Shading is achieved through screentone/halftone patterns, creating depth and texture throughout the image. The composition places the character centrally, with the background elements providing architectural context. The overall aesthetic is typical of contemporary manga illustration with its precise linework and tonal rendering.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel depicts a futuristic control room or command center viewed from behind a character. The character, shown from the back, has messy dark hair and wears what appears to be a form-fitting uniform or suit. They are seated at or standing before a curved control console with various panels, screens, and technological interfaces. The room features clean, angular sci-fi architecture with geometric wall panels and what appears to be a doorway or opening in the background. There are stacks of books or documents visible on surfaces, suggesting this is a working environment. The art style uses clean line work with halftone dot shading patterns typical of manga, creating depth and texture. A small speech bubble containing \"7%\" is visible in the upper right corner. The overall composition emphasizes the technological setting while maintaining focus on the solitary figure operating the equipment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.4,
+            0.0,
+            0.75,
+            0.4
+          ],
+          "type": "sfx",
+          "description": "This manga panel shows a black and white interior scene with two characters. On the left, there's a figure with dark, messy hair viewed from behind, wearing what appears to be casual clothing. The character is positioned near what looks like a doorway or entrance. On the right side of the panel, there's another character with lighter, longer hair shown in profile. The art style features typical manga lineart with clean, confident strokes and screen tone shading used for backgrounds and shadows. The setting appears to be indoors, possibly a room or hallway, with architectural elements like walls and doorframes clearly defined. The composition uses standard manga panel framing with the characters positioned to create a sense of space and interaction between them. The overall tone and shading suggests this is from a more serious or dramatic manga rather than a comedic one.",
+          "text": "\u30c9\u30a9\u30f3 SHAN"
+        },
+        {
+          "bbox": [
+            0.15,
+            0.7,
+            0.3,
+            0.9
+          ],
+          "type": "object",
+          "description": "This cropped manga element shows a partial view of what appears to be a structural object, likely part of a building or architectural element. The image features clean, precise lineart typical of manga backgrounds, with consistent medium-weight black lines defining the geometric shapes. The upper portion shows horizontal parallel lines creating a textured or patterned surface, possibly representing a ceiling, overhang, or architectural detail. Below this is a solid white/light gray area that could be a wall or surface. There's a diagonal line element visible in the lower right portion, suggesting depth or perspective in the architectural space. The art style employs minimal shading, relying primarily on clean linework and geometric forms to define the structural elements. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.35,
+            0.85,
+            0.75
+          ],
+          "type": "object",
+          "description": "A close-up view of what appears to be an electronic device or control panel, likely a computer terminal or monitoring equipment. The object features a rectangular screen or display panel in the upper portion, rendered with clean black outlines and white interior space. Below the screen are geometric control elements including what appears to be rectangular buttons or input panels. The art style employs typical manga linework with consistent medium-weight black lines defining the forms. The shading is minimal, using simple screentone or dot pattern textures to suggest dimensionality and surface materials. The composition shows the device at a slight angle, creating depth through perspective. The overall rendering style is clean and technical, characteristic of manga's approach to depicting modern electronic equipment. No visible text appears in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "width": 936,
+  "height": 1400,
+  "description": "Dynamic action scene showing a large mechanical creature or mecha with multiple circular elements/wheels attacking or pursuing flying creatures/birds with dramatic speed lines and motion effects",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "description": "Full-page action panel depicting a large mechanical entity with circular wheel-like elements attacking or chasing dark winged creatures with intense speed lines and motion effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel depicts a dramatic action sequence featuring what appears to be a monstrous or mechanical creature rendered in classic black and white manga style. The creature has multiple circular, eye-like openings or mechanical components arranged vertically along its form, each filled with crosshatched shading and dark shadows. The art style employs bold, heavy line weights for the creature's outline contrasted with fine crosshatching and screentone patterns for texture and depth. Dynamic speed lines radiate diagonally across the composition from upper right to lower left, creating intense motion and impact. The creature appears to be caught mid-action or transformation, with flowing, organic curves mixed with mechanical elements. The shading technique combines solid blacks with detailed crosshatching, particularly visible in the circular openings. Small debris or impact effects are scattered around the figure, emphasizing the violent or explosive nature of the scene. The overall composition uses dramatic perspective and foreshortening to enhance the sense of movement and scale.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.5,
+            0.4,
+            0.8,
+            0.7
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a partial view of a character rendered in a dynamic, sketchy art style. The image captures what appears to be flowing hair or fabric with bold, gestural line work. The top portion features angular, sharp strokes suggesting spiky or wild hair with dramatic movement lines radiating outward. Below this is a large area of white space, followed by a darker, more densely hatched section at the bottom that appears to be another portion of hair or clothing rendered with crosshatching and heavy black ink. The line work varies in weight from thin, delicate strokes to bold, confident marks. The overall composition suggests motion and energy, with the stark contrast between the white negative space and the black inked areas creating dramatic visual impact. The sketchy, loose drawing style is characteristic of action sequences or emotional moments in manga, emphasizing movement and intensity over precise detail.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.75,
+            0.9,
+            0.95
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows the lower portion of a character rendered in stark black and white with dramatic, expressive linework. The image captures what appears to be flowing, disheveled black hair or possibly torn fabric rendered with bold, jagged strokes that create a sense of movement and chaos. The linework is heavily weighted with thick black areas contrasting against pure white negative space. The artistic technique employs rough, sketchy hatching and cross-hatching that gives texture and volume to the dark mass. The composition suggests this character element is positioned in the upper portion of the original panel, with the flowing dark elements appearing to cascade or fall downward. The art style is characteristic of dramatic manga illustration with high contrast and energetic, loose brushwork that conveys motion and emotional intensity. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "A dramatic manga effect panel featuring multiple flying creatures rendered in bold black ink. The composition shows several bird-like or bat-like creatures with outstretched wings positioned at different depths in the frame, creating a sense of swooping movement. The creatures are drawn with heavy black fills and sharp, angular wing shapes that emphasize their predatory nature. Dynamic speed lines radiate throughout the composition, creating intense motion blur effects that suggest rapid descent or attack. The linework varies from thick, bold strokes for the creatures' silhouettes to fine, precise speed lines that fill the background. On the left side, there are several circular shapes that appear to be sound effects or impact symbols, drawn with detailed cross-hatching and heavy outlines. The overall composition uses high contrast between the stark white background and the intense black elements, creating a powerful sense of urgency and movement typical of action manga sequences.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.05,
+            0.45,
+            0.8
+          ],
+          "type": "sfx",
+          "description": "This manga sound effect (SFX) depicts a dramatic vertical cascade of repeated circular or ring-like elements, creating an intense visual impact. The composition flows diagonally from upper left to lower right, with multiple overlapping circular forms that appear to be tumbling or falling with great force. The art style employs bold, heavy black lines contrasted against white space, with varied line weights creating depth and movement. Some circles are rendered as solid black silhouettes while others are outlined rings with crosshatched or screentoned interiors. Dynamic speed lines and motion streaks surround the falling objects, emphasizing rapid movement and impact. The overall effect suggests a violent collision, explosion, or cascading destruction, typical of action manga sequences. The stark black and white contrast and aggressive linework amplify the sense of chaos and kinetic energy in this dramatic visual effect.",
+          "text": "\u30b4\u30b4\u30b4\u30b4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A manga page showing a confrontation between characters, with dialogue about pending matters and a dramatic transformation or attack sequence",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.46
+      ],
+      "description": "Wide panel showing three characters in conversation with speech bubbles",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.12,
+            0.35,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "A large, rounded speech bubble with thick black outlines containing Spanish text that reads 'ES SOLO QUE TENGO UNA CUENTA PENDIENTE QUE SALDAR CON ESTOS BASTARDOS' (It's just that I have a pending score to settle with these bastards). The bubble has a classic manga style with clean, bold borders and a white interior. Below the speech bubble, there's a partial view of a manga character showing spiky hair rendered with typical manga line work and screen tones. The composition uses high contrast black and white with halftone shading patterns typical of manga artwork. The speech bubble's tail points downward toward the character, indicating they are the speaker.",
+          "text": "ES SOLO QUE TENGO UNA CUENTA PENDIENTE QUE SALDAR CON ESTOS BASTARDOS"
+        },
+        {
+          "bbox": [
+            0.42,
+            0.25,
+            0.58,
+            0.75
+          ],
+          "type": "character",
+          "description": "A manga character shown from behind in a dramatic pose, featuring spiky, voluminous hair rendered with bold, angular linework. The character appears to be wearing a light-colored garment or coat with dark trim or belt details around the waist. The art style employs clean, confident black lines with minimal shading, typical of manga illustration. The character's posture suggests movement or tension, with the spiky hair creating dynamic visual energy. The composition shows the figure from roughly mid-torso up, cropped at what appears to be panel boundaries indicated by stark black geometric shapes at the edges. No visible text is present in this cropped section. The lineart is crisp and well-defined, with selective use of solid black areas to create contrast and depth.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.65,
+            0.05,
+            1.0,
+            0.85
+          ],
+          "type": "character",
+          "description": "A manga character shown in two panels with a distinctive art style. The character has messy, light-colored hair and appears to be wearing dark clothing with light-colored accents or trim. In the upper panel, they are shown in profile/three-quarter view with what appears to be a somewhat mischievous or knowing expression. There is a speech bubble containing Spanish text 'NO TE APRESURES A SACAR CONCLUSIONES.' The lower panel shows a closer view focusing on the character's face and upper body. The art employs typical manga lineart with varying line weights - bold outlines for the main character forms and finer lines for details. Shading is achieved through screentone/halftone patterns rather than solid blacks, creating gray tonal areas. The character design has an angular, stylized quality typical of manga illustration, with sharp features and expressive eyes. The composition creates a sense of intimacy and focus on the character's expression and dialogue.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.7,
+            0.15,
+            0.95,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A manga speech bubble containing Spanish text 'NO TE APRESURES A SACAR CONCLUSIONES.' positioned in the upper right portion of the panel. The bubble has a clean, rounded rectangular shape with a small tail pointing toward a partially visible character. The character shown is drawn in typical manga style with clean, confident line work. Only the lower portion of their face and upper torso are visible, showing them wearing what appears to be a light-colored garment with cross-hatched shading on the collar or upper chest area. The character's expression appears calm or serious based on the visible mouth area. The art style features clean black lineart with selective use of screentone/hatching for shading, characteristic of traditional manga illustration techniques.",
+          "text": "NO TE APRESURES A SACAR CONCLUSIONES."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.46,
+        0.55,
+        0.78
+      ],
+      "description": "Panel showing close-up of a character's face in profile",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.05,
+            0.9,
+            0.95
+          ],
+          "type": "character",
+          "description": "This manga panel shows a dynamic action scene with a character positioned in the lower portion of the frame. The character appears to be wearing ornate armor or clothing with intricate detailing, rendered with fine cross-hatching and screentone patterns typical of manga art. Above the character is a large sound effect 'FU' followed by multiple circular symbols (oooooo), creating a dramatic onomatopoeia that suggests a powerful whooshing or explosive sound. The composition uses strong diagonal lines and motion lines radiating outward, creating a sense of intense movement and impact. The art style employs heavy contrast between black and white areas, with detailed line work and shading techniques including parallel hatching and cross-hatching to create depth and texture. The overall layout suggests this is capturing a moment of high-energy action or transformation, with the character positioned as the focal point beneath the dramatic sound effect text.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.55,
+        0.46,
+        1.0,
+        0.78
+      ],
+      "description": "Panel showing two characters, one speaking",
+      "elements": [
+        {
+          "bbox": [
+            0.05,
+            0.1,
+            0.6,
+            0.9
+          ],
+          "type": "character",
+          "description": "A close-up manga panel showing a character's face and upper body in a dramatic moment. The character has light-colored, spiky hair with dynamic, windswept strands. Their expression appears intense or strained, with visible tension in their facial features. The art style employs bold, confident line work with varied line weights - thicker outlines defining the main forms and finer lines for hair details. Heavy black shading and crosshatching create strong contrast, particularly in the hair and shadowed areas. Speed lines and motion effects radiate from behind the character, suggesting movement or impact. There's text visible that appears to read 'NAD' in the upper right portion. The composition is tightly cropped, focusing on the emotional intensity of the moment with dramatic lighting that creates stark black and white contrasts typical of manga art style.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.2,
+            0.95,
+            0.8
+          ],
+          "type": "character",
+          "description": "A close-up profile view of a manga character with dark, spiky hair rendered in bold black strokes. The character appears to be speaking, with speech bubbles containing the text '...EH?' and 'QUE?' visible in the frame. The art style features clean, confident line work with solid black areas for the hair contrasting against white space. The character's hair is drawn with dynamic, jagged strokes that create texture and movement. Only a partial view of the character's face is visible, showing primarily the hair and suggesting they are turned to the side. The composition is framed by panel borders, and there's additional partial text 'ADA.' visible in the upper left area. The overall style is typical of modern manga with high contrast between black and white elements and expressive linework.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.25,
+            0.4,
+            0.5,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a manga speech bubble, showing only the angular pointed tail or connector that extends from the main bubble body toward a speaker. The tail is rendered with clean, bold black lines in typical manga style, creating a sharp triangular or arrow-like projection. The background shows vertical black bars or panels, likely panel borders or architectural elements. The line work is crisp and uses solid black fills rather than halftone screening, consistent with standard manga production techniques. The composition suggests this is positioned at the edge of a panel, with the speech bubble tail pointing toward a character who would be speaking, though the main bubble content is not visible in this cropped section.",
+          "text": "HA, LO S\u00c9..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.78,
+        0.72,
+        1.0
+      ],
+      "description": "Large action panel showing a dramatic scene with sound effects",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.02,
+            0.6,
+            0.25
+          ],
+          "type": "sfx",
+          "description": "This manga SFX element features dramatic diagonal motion lines and explosive visual effects rendered in black ink. The composition shows dynamic speed lines radiating outward, creating a sense of intense movement or impact. The linework varies from thick, bold strokes to fine hatching details, with areas of solid black contrast against white negative space. The visual style employs traditional manga screen tones and cross-hatching techniques to suggest explosive force or rapid motion. The diagonal composition creates visual tension, with the effects appearing to burst or streak across the frame from multiple angles, typical of action sequence sound effects in manga storytelling.",
+          "text": "FIUUUUUUUUU"
+        },
+        {
+          "bbox": [
+            0.2,
+            0.3,
+            0.8,
+            0.95
+          ],
+          "type": "background",
+          "description": "A dramatic manga background depicting a mountainous or rocky terrain rendered in stark black and white. The composition features jagged, angular rock formations or cliff faces created with bold, heavy black ink strokes against white space. The linework employs dense cross-hatching and parallel line techniques to create depth and texture, with varying line weights from thick, bold outlines to finer detail work. Dark shadowed areas contrast sharply with bright white highlights, creating a sense of dramatic lighting. The overall style is characteristic of action manga with its dynamic, energetic line quality and high contrast values. Small debris or rock fragments appear to be scattered throughout the scene, suggesting movement or destruction. No text is visible in this background element.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.35,
+            0.85,
+            0.55,
+            0.98
+          ],
+          "type": "character",
+          "description": "This appears to be a silhouetted or heavily shadowed character element rendered in solid black against a white background. The figure shows an irregular, organic outline with jagged edges that suggest either hair, clothing, or possibly movement lines. The silhouette has a rough, textural quality with small protruding elements along the top edge that could indicate spiky hair or fabric details. The art style uses pure black fill with no internal line work or shading variations visible, creating a stark contrast typical of manga dramatic moments or action sequences. The composition shows only the upper portion or profile of what appears to be a character, with the black mass taking up most of the frame space. No text is visible in this cropped element.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.72,
+        0.78,
+        0.86,
+        1.0
+      ],
+      "description": "Narrow vertical panel with character and speech",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.7
+          ],
+          "type": "character",
+          "description": "A cropped view of a character shown from approximately chest level down, featuring a figure wearing what appears to be a white garment or shirt. The character is positioned in a three-quarter view angle. The art style employs clean, confident black line work with varying line weights - thicker outlines defining the main forms and thinner lines for interior details. Shading is achieved through crosshatching and screen tone patterns, particularly visible in the darker areas of the clothing and background elements. There is partial text visible that reads 'COTA', likely part of a larger word or name. The composition shows strong contrast between the white clothing and darker shaded areas, creating visual depth and dimension typical of manga illustration techniques.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.15,
+            0.25,
+            0.85,
+            0.5
+          ],
+          "type": "speech_bubble",
+          "description": "A triangular black speech bubble with a sharp, angular design typical of manga. The bubble has a solid black fill with clean, bold outlines. It features a pointed tail or connector extending from one corner, likely pointing toward the speaker. The geometric, stark appearance suggests this may be used for dramatic emphasis, internal monologue, or a particular character's distinct speech pattern. The bubble's sharp edges and high contrast black coloring create a striking visual element against what appears to be a lighter background. The angular design differs from typical rounded speech bubbles, giving it a more intense or serious tone.",
+          "text": "NADA."
+        },
+        {
+          "bbox": [
+            0.05,
+            0.75,
+            0.95,
+            0.95
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with a clean, curved outline typical of manga dialogue balloons. The bubble appears to be empty or contains very faint text that is not clearly visible in this cropped section. The speech bubble has a smooth, rounded rectangular shape with a subtle tail or pointer extending from one edge, indicating the direction of the speaker. The line weight of the bubble's border is consistent and medium thickness, creating a clear boundary against what appears to be a white or very light background. The overall style is minimalist and clean, following standard manga conventions for dialogue presentation.",
+          "text": "IDIOTA."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.86,
+        0.78,
+        1.0,
+        1.0
+      ],
+      "description": "Narrow vertical panel showing character's face",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing a partial view of a character in black and white. The image shows what appears to be a person's torso and arm area, with bold black shapes that likely represent dark clothing or shadows. The art style uses clean, confident line work with solid black fills rather than detailed shading or hatching. The composition is minimalist, with strong contrast between the black shapes and white background. The linework appears smooth and decisive, typical of professional manga illustration. The cropped nature of the image makes it difficult to determine specific details about the character's expression or full pose, but the bold use of black suggests dramatic lighting or clothing elements. No text is visible in this particular crop.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.15,
+            0.8,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble element showing the curved black outline border typical of manga dialogue bubbles. The visible portion displays clean, consistent line weight forming the characteristic rounded edge of a speech bubble. The interior appears to be white/blank, suggesting this is either an empty speech bubble or the text content is not visible in this cropped section. The line art follows standard manga conventions with solid black borders and no additional shading or hatching effects on the bubble itself.",
+          "text": "...EH? QUE?"
+        }
+      ]
+    }
+  ]
+}

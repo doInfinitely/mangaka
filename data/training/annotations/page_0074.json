@@ -1,0 +1,195 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A dynamic action sequence showing a battle between characters, with one character appearing to be defeated or falling, and another character wielding weapons in an aggressive stance.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.42
+      ],
+      "description": "Wide panel showing multiple characters in battle poses with weapons",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.4,
+            1.0
+          ],
+          "type": "character",
+          "description": "A dramatic manga panel showing a monstrous or beast-like character with an open, roaring mouth displaying prominent fangs. The creature has wild, flowing hair or mane rendered in bold black ink with dynamic motion lines. The art style employs heavy black shadows and contrast, with thick, confident line work typical of action manga. Cross-hatching and speed lines create a sense of movement and intensity. The composition shows the beast in an aggressive, lunging pose with clawed hands visible. Below this main image is a smaller panel fragment showing diagonal speed lines and what appears to be part of another character or object in the corner. The overall aesthetic is high-contrast black and white with dramatic shading techniques that emphasize the threatening nature of the creature.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.2,
+            0.7,
+            0.9
+          ],
+          "type": "character",
+          "description": "A dramatic manga character depicted in a dynamic pose with large, feathered wings spread wide. The character has spiky, light-colored hair and appears to be wearing dark clothing with light accents. The art style features bold, confident line work with varying line weights - thicker outlines for the character's silhouette and finer lines for details like feathers and facial features. Heavy cross-hatching and screentone shading create dramatic shadows and depth, particularly in the background and on the character's clothing. The wings are rendered with detailed feather textures using fine linework. The composition shows the character from a low angle, emphasizing their imposing presence. In the lower portion, there are manga panel borders visible, and the text 'UUH...' appears in one of the panels, suggesting this is part of a larger page layout. The overall style is typical of action manga with high contrast black and white artwork and dynamic visual storytelling.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel shows two scenes of what appears to be the same character in dramatic poses. In the top panel, the character is shown from a low angle in a dynamic action pose, with flowing clothing and cape-like garments rendered in clean, bold line work. The character appears to be in motion or preparing for action. The bottom panel shows the character in a more frontal view with arms outstretched in a triumphant or commanding gesture. The art style features typical manga characteristics with strong contrast between black and white areas, clean line work of varying weights, and dramatic use of speed lines and background elements. The shading utilizes screentone patterns and solid blacks to create depth and atmosphere. The character design includes flowing garments and what appears to be ornate or decorative clothing elements. The composition emphasizes the character's dynamic movement and imposing presence through the use of dramatic angles and bold silhouettes.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.42,
+        0.35,
+        0.85
+      ],
+      "description": "Vertical panel showing motion lines and character movement",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect element depicts motion lines and speed indicators showing rapid movement or impact. The image features diagonal motion lines created with varying line weights - some thick, bold strokes and others thinner, creating a sense of directional force moving from upper left to lower right. There are crosshatched shading areas and screen tones used to add depth and emphasis to the motion effect. The composition includes what appears to be part of a character or object in motion, with white negative space contrasting against the heavy black linework. On the right edge, there's a partial view of what looks like a panel border with some text characters visible, including 'AH' and other Japanese characters. The overall effect conveys high-speed movement or a powerful impact moment typical of action manga sequences.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.35,
+        0.42,
+        0.65,
+        0.72
+      ],
+      "description": "Small panel with character reaction and sound effect",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This manga panel shows a character in dramatic motion, captured in a dynamic action sequence. The character appears to be lunging or striking forward with intense movement lines radiating outward to emphasize the speed and force of the action. The art style uses bold, confident line work with varied line weights - thicker lines define the main forms while thinner lines create the motion effects. Heavy black ink fills create strong contrast areas, particularly visible in the lower portion of the panel. The composition uses diagonal movement lines and speed lines that emanate from the character, creating a sense of explosive energy. There appears to be some sound effect text 'URGH' visible in the lower right area of the panel. The overall visual treatment emphasizes impact and movement through the use of radiating lines, dramatic angles, and high contrast black and white areas typical of action manga sequences.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.5,
+            0.1,
+            0.9,
+            0.4
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows dynamic action lines and sound effect elements typical of manga sfx. The composition features bold, angular geometric lines creating a sense of movement and impact. The linework varies in weight, with thick black strokes contrasting against thinner detail lines. There appears to be cross-hatching and speed lines radiating outward, suggesting explosive motion or impact. The geometric patterns include sharp angular shapes that create visual tension. The overall style is characteristic of action manga, with high contrast black and white areas and dramatic directional lines that guide the eye through the composition. The sfx elements blend seamlessly with architectural or structural line work, creating a sense of environmental interaction or destruction.",
+          "text": "UUH..."
+        },
+        {
+          "bbox": [
+            0.1,
+            0.4,
+            0.5,
+            0.8
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows Japanese sound effect text (sfx) rendered in bold, angular black strokes. The text appears to be katakana characters drawn with thick, dynamic line weights that create a sense of impact or sudden movement. The characters are positioned in the upper portion of the cropped area with stark black fills against the white background. Below the text, there are simple curved black lines that suggest abstract shapes or motion lines, typical of manga's visual language for conveying action or emphasis. The overall composition uses high contrast between the solid black elements and white negative space, creating a dramatic visual impact characteristic of manga sound effects.",
+          "text": "AH..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.35,
+        0.72,
+        0.65,
+        1.0
+      ],
+      "description": "Panel showing close-up of character with menacing expression",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga character shown in a close-up view with distinctive spiky black hair that falls over their face in jagged strands. The character has a mischievous or sly expression with visible eyes peering through the hair, and what appears to be a slight smile or smirk. They are wearing what looks like a light-colored collared shirt or uniform top. The art style features bold, heavy black ink work with solid black areas for the hair contrasting against white space. There are some Japanese sound effects or onomatopoeia visible as '\u30c9' and '\u30ac\u30c3' characters in the lower left portion. The composition shows the character positioned within what appears to be a panel border, with strong contrast between the dark hair and lighter clothing/background areas. The line work is clean and confident, typical of manga illustration style with minimal shading but effective use of black and white contrast.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.5,
+            0.1,
+            0.9,
+            0.4
+          ],
+          "type": "sfx",
+          "description": "A dramatic sound effect rendered in bold, angular black lettering against a white background. The text appears to be stylized katakana or onomatopoeia typical of manga sound effects, with sharp, jagged strokes that convey intensity or impact. The letters are filled in solid black with clean, decisive line work. The composition shows the text positioned in the upper portion of the panel space, creating a sense of dramatic emphasis. The stark black-and-white contrast and bold typography are characteristic of traditional manga visual language for conveying sudden, forceful sounds or actions.",
+          "text": "URGH..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.65,
+        0.42,
+        1.0,
+        1.0
+      ],
+      "description": "Large vertical panel showing character with weapon in action pose",
+      "elements": [
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            0.8,
+            0.6
+          ],
+          "type": "character",
+          "description": "This manga panel depicts a dramatic scene with a character in dark clothing positioned in the upper portion of the frame. The character appears to be wearing what looks like a dark coat or jacket and has light-colored hair. The most striking visual element is the extensive use of vertical speed lines that dominate the composition, creating a sense of rapid downward movement or falling. These speed lines are rendered with varying line weights - some thick and bold, others thin and delicate - creating a dynamic sense of motion. The shading employs high contrast between pure white and solid black areas, with minimal gray tones. In the lower right corner, there appears to be another character or figure rendered in white/light tones, creating a stark contrast against the predominantly dark upper section. The overall composition uses dramatic vertical emphasis through both the speed lines and the positioning of elements, suggesting intense action or a pivotal moment in the narrative.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.6,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character rendered in black ink with distinctive cross-hatching and line work. The figure appears to be in motion or falling, with flowing clothing or fabric that creates dramatic movement lines. The character's form is partially obscured, showing what appears to be a leg or limb in the lower portion and flowing garments or hair rendered with vertical hatching strokes. The art style employs varied line weights - bold, confident strokes for the main contours contrasted with finer cross-hatching for shading and texture. The composition suggests dynamic movement, with the figure positioned at an angle that creates visual tension. The background features vertical line work that could represent rain, motion blur, or atmospheric effects. The overall technique is characteristic of traditional manga illustration with its emphasis on expressive line quality and dramatic contrast between light and shadow areas.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect depicts an intense downward motion with dramatic vertical speed lines dominating the composition. The lines are rendered in bold black strokes of varying thickness, creating a sense of rapid descent or falling. In the upper portion, there appear to be dark silhouetted forms or fragments, possibly debris or broken objects, rendered with solid black fills and sharp angular edges. The speed lines extend from top to bottom in parallel vertical strokes, with some slight variations in weight and spacing to enhance the dynamic movement. The overall composition uses high contrast between the stark black elements and white background, typical of manga's dramatic effect rendering. The style employs clean, confident linework with no visible hatching or tone screening, focusing purely on the impact of the motion effect through bold graphic elements.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

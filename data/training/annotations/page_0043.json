@@ -1,0 +1,184 @@
+{
+  "width": 941,
+  "height": 1400,
+  "description": "A manga page showing a tense scene with an anime character, followed by interior shots of what appears to be a command center or facility with characters discussing a crisis situation.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.088,
+        0.0,
+        0.85,
+        0.334
+      ],
+      "description": "Top panel showing an anime character with light hair in a plugsuit standing in what appears to be a corridor or facility",
+      "elements": [
+        {
+          "bbox": [
+            0.541,
+            0.125,
+            0.602,
+            0.219
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a portion of a speech bubble or text balloon from a manga panel, showing only the curved edge or border of the bubble. The visible element consists of bold, black curved lines that form part of the speech bubble's outline. The lines have a consistent weight and appear to be drawn with confident strokes typical of manga artwork. The interior of the bubble appears to be white or very light, creating strong contrast with the black border lines. There are some diagonal hatching lines visible that may be part of background shading or speed lines commonly used in manga to convey movement or emphasis. No text is clearly visible in this cropped portion of the speech bubble.",
+          "text": "AAAAAH ..."
+        },
+        {
+          "bbox": [
+            0.693,
+            0.048,
+            0.978,
+            0.938
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view, featuring spiky, messy hair rendered with bold black lines and white highlights. The character appears to be wearing a light-colored garment with dark trim or accents around the collar/shoulder area. The art style employs clean, confident line work with minimal shading, primarily using screentone (halftone dots) for gray values on the clothing. The character's pose suggests they are looking downward or to the side, with their head tilted slightly. The composition shows the character from roughly chest-up, positioned in the right portion of the panel. There are diagonal speed lines or motion lines visible in the upper left corner of the frame, created with parallel hatching strokes. The overall aesthetic is typical of shounen or seinen manga, with sharp, dynamic lineart and high contrast between black and white areas.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.693,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element features a dramatic architectural composition with stark geometric forms. The upper panel shows angular structural elements - what appears to be concrete or stone surfaces with distinct textural treatments. The left side displays fine dotted screentone (halftone pattern), while the center features a darker cross-hatched pattern, creating tonal variation. A solid black triangular void dominates the upper portion, creating strong negative space. Clean white architectural forms with sharp linear details frame the right side. The text 'AAAAAH...' appears in the upper right corner in standard manga lettering. The lower panel shows a more simplified composition with bold white geometric shapes against graduated gray tones, suggesting depth and atmospheric perspective. The line work is clean and precise with varying weights, typical of professional manga background art. The overall composition emphasizes dramatic contrast between light and dark areas, creating a sense of architectural monumentality or underground/industrial setting.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.088,
+        0.358,
+        0.85,
+        0.651
+      ],
+      "description": "Middle panel showing a close-up of a character's face with spiky light-colored hair",
+      "elements": [
+        {
+          "bbox": [
+            0.143,
+            0.444,
+            0.224,
+            0.547
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a manga speech bubble, showing only a small curved section of the bubble's border. The visible portion displays the characteristic thin, clean black line work typical of manga speech bubbles, with what appears to be a subtle curve suggesting the rounded or oval shape common to dialogue bubbles. The line weight is consistent and precise, drawn with the standard manga pen technique. The interior appears to be white/blank, which is standard for speech bubbles. Due to the cropped nature of this element, no text is visible, and the full shape and any potential tail or pointer cannot be determined. The style is consistent with traditional manga panel layout conventions.",
+          "text": "AAAAAA"
+        },
+        {
+          "bbox": [
+            0.486,
+            0.205,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A partial view of a manga character showing only the lower portion of their face and neck area. The character appears to be wearing dark clothing with clean, bold lineart typical of manga style. The art uses minimal shading with some screentone/halftone patterns visible in the background. The character's mouth and chin are visible, drawn with simple but precise lines. The composition places this character element in the lower right portion of the panel, with mechanical or architectural elements visible in the background including what appears to be doorways or panels with rivets or bolts. The overall art style is clean and typical of modern manga with consistent line weights and minimal detail in the character's facial features that are visible.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.486,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element depicts an industrial or institutional interior space with stark, geometric architecture. The scene shows concrete or metal walls with a dotted/halftone screening pattern for shading. The upper portion features angular wall structures with clean line work and minimal detail. The lower section shows what appears to be a corridor or room with regular circular fixtures or bolts arranged in rows along the walls, suggesting an industrial setting like a ship, bunker, or facility. The art style uses typical manga techniques including screentone patterns for gray shading, clean black outlines of varying weight, and minimal environmental detail to focus attention. Text elements visible include 'AAAAAA' in the upper area and partial dialogue text on the right side reading 'UN SY PU BI ABL MI CU'. The word 'Strangeness' appears in stylized text at the bottom, integrated into the scene composition. The overall aesthetic is minimalist and somewhat sterile, creating an atmosphere of institutional coldness or confinement.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.088,
+        0.675,
+        0.85,
+        1.0
+      ],
+      "description": "Large bottom panel showing a command center interior with multiple characters and equipment",
+      "elements": [
+        {
+          "bbox": [
+            0.401,
+            0.092,
+            0.514,
+            0.292
+          ],
+          "type": "speech_bubble",
+          "description": "A minimalist speech bubble rendered in typical manga style with clean, thin black outlines. The bubble appears to be empty or contains very faint text that is not clearly visible in this cropped section. The speech bubble has a classic oval/rounded rectangular shape with a small tail or pointer extending from one side, indicating the speaker's direction. The line work is consistent with standard manga conventions, using simple black ink lines of uniform weight. The interior of the bubble is white/blank, and the overall composition suggests this is part of a larger dialogue sequence. The bubble's placement and cropping suggests it's positioned in the upper portion of a manga panel.",
+          "text": "UNIT 01'S SYNCHRO RATE IS BARELY ABOVE THE MINIMUM CUTLINE!"
+        },
+        {
+          "bbox": [
+            0.694,
+            0.338,
+            0.789,
+            0.446
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a blank or empty speech bubble with a white/light gray fill. The bubble has clean, smooth curved borders typical of manga speech bubbles, with what looks like a small tail or pointer extending from one edge to indicate the speaker's direction. The interior is completely empty with no visible text or dialogue. The art style shows crisp, clean linework with consistent line weight for the bubble's outline. There are no shading effects, halftones, or screentones visible within the bubble itself, maintaining the typical clean, minimalist appearance of standard manga speech bubbles when they contain no text.",
+          "text": "WHERE'S THE COVER FIRE? WHAT THE HELL IS GOING ON?!"
+        },
+        {
+          "bbox": [
+            0.028,
+            0.631,
+            0.125,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a partial view of a speech bubble or dialogue balloon from a manga panel. The image shows curved lines that form part of the bubble's border, rendered with clean, consistent line weight typical of manga artwork. The interior contains diagonal hatching or speed lines, creating a textured background pattern commonly used in manga to convey emotion, emphasis, or sound effects. The hatching consists of parallel diagonal lines drawn at roughly 45-degree angles, creating a dynamic visual texture. The overall composition suggests this is likely part of a larger speech bubble that extends beyond the cropped frame, with the curved border lines indicating the characteristic rounded or oval shape of manga dialogue balloons.",
+          "text": "IT'S NO USE! THE SITUATION CONTINUES AS IT IS NOW...!!"
+        },
+        {
+          "bbox": [
+            0.241,
+            0.169,
+            0.333,
+            0.631
+          ],
+          "type": "character",
+          "description": "This cropped manga panel shows a partial view of a character rendered in typical manga style with clean, confident line work. The visible portion appears to show part of a character's torso or upper body area with geometric, angular clothing or armor details. The art style features bold, varied line weights with thicker outlines defining the main forms and thinner lines for internal details. There is minimal shading, relying primarily on clean lineart rather than heavy tonal work. Some halftone/screentone patterns are visible in the background. Partial text is visible on the left side of the crop, appearing to show fragments of dialogue or sound effects in what looks like English lettering, though the text is cut off and not fully legible. The overall composition suggests this is from an action or dramatic scene given the angular, dynamic nature of the visible elements.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.486,
+            0.415,
+            0.541,
+            0.6
+          ],
+          "type": "character",
+          "description": "A cropped manga panel showing part of a character's face and upper body in profile view. The character appears to be looking downward or to the side with a contemplative or melancholic expression. The art style features clean, precise linework with moderate line weight typical of manga illustration. The shading is minimal and subtle, using light gray tones rather than heavy black shadows. The character's hair is rendered with flowing, natural lines that suggest movement or a gentle breeze. The clothing appears to be casual, possibly a shirt or jacket, drawn with simple, uncluttered lines. The composition focuses on the character's emotional state through the positioning and angle of the head. The background is predominantly white or very light, creating strong contrast with the linework. No visible text appears in this cropped section. The overall style is characteristic of contemporary manga with its emphasis on emotional expression through subtle visual cues.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.625,
+            0.431,
+            0.694,
+            0.554
+          ],
+          "type": "character",
+          "description": "This cropped manga element shows a close-up partial view of a character, featuring what appears to be part of their clothing or body rendered in typical manga style. The image shows clean, precise linework with consistent line weight characteristic of professional manga art. The area is filled with fine cross-hatching or screentone patterns that create subtle texture and shading. The hatching consists of delicate diagonal lines arranged in a regular pattern, providing tonal variation typical of black and white manga artwork. The composition shows only a small section, making it difficult to determine the exact pose or expression, but the careful attention to detail in the screentone application suggests this is from a professionally produced manga. No text is visible in this particular cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background depicts a medical facility or hospital room rendered in detailed black and white line art. The scene shows a tiled floor with geometric patterns and various medical equipment scattered throughout the space. In the background, there's a figure in medical attire (likely a nurse or doctor) sitting on what appears to be a bench or chair. The room contains medical apparatus including what looks like monitoring equipment with screens and cables on the right side. The art style uses clean line work with minimal shading, relying on hatching and cross-hatching techniques for depth and texture. The perspective creates a sense of depth showing the institutional, clinical environment. There's text reading 'Dad' visible on the floor tiles, and dialogue text appears in the upper left stating 'IT'S NO USE! IF THE SITUATION CONTINUES AS IT IS NOW...!!' The composition emphasizes the sterile, medical setting through careful attention to architectural details and equipment placement.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

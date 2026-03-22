@@ -1,0 +1,195 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A dramatic manga page showing a conversation between characters, with one character operating some kind of mechanical device and another character shown in close-up. The page ends with a darker scene featuring dialogue about someone named Ritsuko.",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.06,
+        0.09,
+        0.44,
+        0.41
+      ],
+      "description": "Panel showing a character operating what appears to be a mechanical device or control panel",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga background element shows a detailed mechanical or industrial setting with clean, precise linework. The upper portion features what appears to be part of a large machine or vehicle with white/light colored paneling and various mechanical components including pipes, joints, and circular elements that could be gauges or fittings. The art style employs fine hatching and cross-hatching techniques for shading, particularly visible in the darker areas and shadows. The lower portion shows draped fabric or clothing rendered with flowing lines and subtle shading. There is dialogue text that reads 'IT'S BETTER NOT TO DO THINGS THAT YOU CAN'T HIDE...' positioned in the upper left area. The composition uses strong contrast between the detailed mechanical elements and the softer fabric textures, with careful attention to depth and dimensional relationships between the various components.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.45,
+            0.35,
+            0.92
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble containing the text 'DO THINGS THAT YOU CAN'T HIDE ...' in bold, capitalized letters. The bubble has a typical manga-style rounded rectangular shape with a tail pointing downward toward the speaker. Below the speech bubble, there's a section with dense screentone/halftone pattern typical of manga printing, creating a textured gray area. The overall composition shows clean line work characteristic of manga art style, with the speech bubble positioned in the upper portion and the screentoned area occupying the lower section of the cropped panel.",
+          "text": "IT'S BETTER NOT TO DO THINGS THAT YOU CAN'T HIDE ..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.44,
+        0.0,
+        1.0,
+        0.41
+      ],
+      "description": "Panel showing a close-up of a character's face in profile",
+      "elements": [
+        {
+          "bbox": [
+            0.55,
+            0.15,
+            1.0,
+            0.95
+          ],
+          "type": "character",
+          "description": "A manga character shown in profile view, facing left with their head tilted downward in a contemplative or melancholic pose. The character has spiky, messy hair rendered with bold, angular strokes. Their eye is partially visible, appearing closed or nearly closed, suggesting a pensive or sad expression. The character is wearing what appears to be a high-collared jacket or uniform with clean geometric lines. The art style features confident, bold linework with minimal shading, using hatching techniques sparingly for depth. The composition is intimate, focusing on the upper body and face in a close-up view. There is visible text reading 'I FEEL' in the lower portion of the panel, positioned near the character. The overall tone is subdued and introspective, typical of emotional manga scenes.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.2,
+            0.45,
+            0.75
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with a clean, curved outline typical of manga style. The bubble has a smooth, oval shape with a small tail pointing downward and to the right, indicating the speaker is positioned below and to the right of the bubble. The text inside reads 'I DIDN'T KNOW THAT YOU BELIEVED IN THAT SORT OF THING.' in simple, uppercase black lettering typical of manga dialogue. The bubble has a white fill with thin black outlines. The background shows part of what appears to be a manga panel border on the left side, with characteristic black lines and dot patterns used in manga printing. The overall art style uses clean line work with minimal shading, consistent with contemporary manga aesthetics.",
+          "text": "I DIDN'T KNOW THAT YOU BELIEVED IN THAT SORT OF THING."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.06,
+        0.45,
+        1.0,
+        0.89
+      ],
+      "description": "Large panel showing a character with closed eyes and light hair",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.05,
+            0.9,
+            0.95
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a young male manga character with tousled, light-colored hair that falls partially over his face. He has a gentle, contemplative expression with downcast eyes and a slight, subtle smile. The character is wearing what appears to be a dark-colored collar or high-necked garment. The art style features clean, flowing linework with minimal but effective shading using screentones and hatching techniques. The composition focuses on the upper portion of the character's face and shoulders, creating an intimate, emotional moment. There is dialogue text reading 'FOLLOWING IN YOUR FATHER'S FOOTSTEPS NOW...' in the upper right, and 'IT'S THANKS TO YOU.' and 'RITSUKO.' in speech bubbles in the lower portion. The overall tone is soft and melancholic, rendered in typical black and white manga style with delicate line weights that emphasize the character's youthful features.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.02,
+            0.35,
+            0.25,
+            0.65
+          ],
+          "type": "speech_bubble",
+          "description": "This is a speech bubble element with a clean, minimalist design typical of manga. The bubble has a white background with thin black outline borders. The upper portion shows simple line art depicting what appears to be parts of a character's body or clothing rendered in clean, thin black lines against the white background. Below this is a solid black horizontal bar or section that takes up roughly the bottom third of the element. The art style uses minimal line weight variation and no visible shading or hatching techniques. The composition is simple and geometric, with clear contrast between the white upper area and solid black lower section. No text is visible within this speech bubble element.",
+          "text": "IT'S UNBECOMING OF YOU."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.15,
+            0.98,
+            0.45
+          ],
+          "type": "speech_bubble",
+          "description": "A speech bubble with clean, bold black outlines containing the text 'FOLLOWING IN YOUR FATHER'S FOOTSTEPS NOW...' in uppercase block letters. The bubble has a traditional oval shape with a pointed tail extending toward the bottom right, indicating the speaker's direction. The text is arranged in four lines with consistent spacing and uses a standard manga font style. The background within the bubble is white/clear, and there are minimal shading effects on the bubble itself. Partial character elements are visible at the edges - what appears to be clothing or fabric with simple line work and minimal shading is shown cropped at the borders of the frame. The overall art style is clean and straightforward with moderate line weights typical of manga illustration.",
+          "text": "I FEEL THE SAME."
+        },
+        {
+          "bbox": [
+            0.75,
+            0.55,
+            0.98,
+            0.85
+          ],
+          "type": "speech_bubble",
+          "description": "This manga panel element shows a speech bubble with distinctive manga-style visual characteristics. The bubble appears to be empty or contains minimal text that's not clearly visible in this cropped section. The background features classic manga screentone/halftone dotting patterns creating a gradient effect from light to dark. There are dramatic black silhouettes of what appear to be sharp, spiky plant leaves or foliage (possibly palm fronds or similar vegetation) cutting across the composition diagonally. The contrast between the organic black shapes and the geometric dotted pattern creates visual tension. The art style employs traditional manga techniques with clean, bold black lines for the silhouettes and precise screentone application for atmospheric effects. The composition suggests this is likely part of a dramatic scene, with the dark foliage elements adding visual weight and potentially ominous mood to the panel.",
+          "text": "FOLLOWING IN YOUR FATHER'S FOOTSTEPS NOW..."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.06,
+        0.92,
+        0.44,
+        1.0
+      ],
+      "description": "Dark panel with white speech bubbles",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "A minimalist manga background element featuring stark black and white contrast. The top portion shows a solid black area with clean, bold edges, while the bottom is pure white negative space. There's a subtle curved line or indentation where the black and white areas meet, creating a simple but defined border. The art style is very clean with no hatching, screentones, or texture work - just solid black fill against white. The composition is geometric and sparse, typical of modern manga backgrounds used to focus attention on foreground elements or create dramatic contrast. No text is visible in this cropped section.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.1,
+            0.4,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble visible in the upper portion of the frame, showing clean black outlines with moderate line weight typical of manga style. The bubble appears to be cut off by the crop, showing only its lower curved border against a white or light background. The line work is smooth and consistent, with no visible shading or hatching within the bubble itself. There is a small dark area visible in the upper left corner that appears to be part of another visual element or background. No text is visible within the cropped portion of the speech bubble.",
+          "text": "RITSUKO."
+        },
+        {
+          "bbox": [
+            0.5,
+            0.1,
+            0.95,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "This appears to be a speech bubble or text area with a cream/off-white background. The bubble has a clean, minimal appearance typical of manga speech bubbles. There is a dark border or edge visible at the top of the frame, likely part of a panel border or another manga element. The speech bubble area appears empty of text in this cropped view, showing just the plain background color with subtle texture. The overall composition suggests this is a standard manga dialogue bubble waiting for text placement, with clean line work and typical manga formatting conventions.",
+          "text": "IT'S THANKS TO YOU."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.44,
+        0.92,
+        1.0,
+        1.0
+      ],
+      "description": "Panel showing part of a character's face with glasses",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up cropped view of a character's face showing only the upper portion from approximately the nose up. The character has dark, messy hair rendered with bold black strokes and rough, spiky texturing. One eye is visible, drawn in typical manga style with clean lineart. The character appears to be wearing what looks like a hood or head covering with fur trim, indicated by the thick black furry texture along the edges. The art style uses strong black and white contrast with solid fills rather than screentones. Line weights vary from thin precise lines for facial features to bold, rough strokes for the hair and fur texturing. The composition is tightly cropped, creating an intimate, close-up perspective that emphasizes the character's partially obscured face and the textural contrast between the smooth skin and rough fur/hair elements. No text is visible in this cropped section.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

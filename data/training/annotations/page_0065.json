@@ -1,0 +1,118 @@
+{
+  "width": 938,
+  "height": 1400,
+  "description": "A manga page showing a dramatic battle scene with multiple panels focusing on characters and dialogue about the meaning of battle",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        0.851,
+        0.327
+      ],
+      "description": "Close-up panel of a female character with long hair looking concerned or troubled",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A close-up portrait of a manga character with long, flowing hair that cascades down in detailed strands. The character has large, expressive eyes with a gentle, slightly melancholic expression. Their face is drawn in classic manga style with soft, delicate features including a small nose and subtly curved lips. The character appears to be wearing what looks like a collared garment or uniform. The art style employs clean, precise linework with varying line weights - thicker outlines for the main features and finer lines for hair details and facial contours. Shading is achieved through subtle gradations and some cross-hatching techniques, particularly visible in the hair rendering. The composition shows the character from roughly chest-up in a three-quarter view angle, with their gaze directed slightly off to the side, creating a contemplative mood. The overall aesthetic is characteristic of shoujo or romantic manga art with its emphasis on beautiful, detailed character design and emotional expression.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.327,
+        0.851,
+        0.708
+      ],
+      "description": "Panel showing the back view of a character with light colored hair",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "The image shows a manga character with long, flowing hair rendered in clean lineart style. The character appears to be in profile or three-quarter view, with their hair cascading down in detailed strands that show volume and movement. The art style features precise, confident line weights with minimal shading, typical of manga illustration. The character appears to be wearing what looks like a form-fitting outfit or armor with distinctive design elements. The composition places the character in the lower portion of the panel, with clean white space above. There is visible text reading 'THIS BATTLE' in a speech bubble or text box on the left side of the panel. The overall artistic approach emphasizes clean linework and careful attention to hair detail and character design, characteristic of professional manga artwork.",
+          "text": null
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.708,
+        0.281,
+        1.0
+      ],
+      "description": "Dark panel with white speech bubble containing dialogue",
+      "elements": [
+        {
+          "bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.9
+          ],
+          "type": "speech_bubble",
+          "description": "A white speech bubble with irregular, organic curved edges against a dark textured background. The bubble contains black text reading 'IS NOT WITHOUT MEANING.' in a standard manga font. The speech bubble has a typical tail or pointer extending from the bottom left area, indicating the speaker's direction. The background shows dense cross-hatching or stippling technique creating a dark, heavily textured surface. The contrast between the clean white bubble and the heavily worked dark background is stark, emphasizing the dialogue. The text is positioned in the upper portion of the bubble with appropriate spacing and margins.",
+          "text": "THIS BATTLE\n\nIS NOT WITHOUT MEANING."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.281,
+        0.708,
+        0.851,
+        1.0
+      ],
+      "description": "Action panel showing multiple characters in combat on rocky terrain",
+      "elements": [
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.5,
+            0.8
+          ],
+          "type": "character",
+          "description": "This manga panel element shows a character in profile view, depicted from roughly the chest up. The character appears to be wearing light-colored clothing, possibly a shirt or jacket. The art style employs classic manga techniques with clean, confident line work of moderate weight. The shading is achieved through screentone (dot pattern shading) which creates gray tonal values typical of black and white manga. The character's hair appears to be drawn with flowing, organic lines. The composition shows the figure positioned at an angle, creating dynamic visual interest. There appears to be some sound effect text or onomatopoeia visible in the lower portion of the element, rendered in typical manga style lettering. The overall aesthetic is consistent with professional manga artwork, featuring the characteristic balance of detailed linework and strategic use of screentones for depth and atmosphere.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.4,
+            0.9,
+            0.9
+          ],
+          "type": "character",
+          "description": "This cropped manga panel shows a close-up of two characters in what appears to be an intimate or emotional moment. The figure on the left is wearing light-colored clothing, while the figure on the right is dressed in darker garments with cross-hatched shading patterns typical of manga art. The characters appear to be embracing or in close physical contact, with their bodies positioned facing each other. The art style employs classic manga techniques including screentone patterns for shading on the darker clothing, clean line work of varying weights, and minimal background detail to focus attention on the character interaction. The composition is tightly cropped to emphasize the intimacy of the moment between the two figures. No text is visible in this particular crop of the panel.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "background",
+          "description": "This manga panel shows a dramatic scene with multiple figures in dynamic poses. The composition features characters with flowing hair and clothing rendered in typical manga style with clean black line art on white background. There appears to be some kind of confrontation or intense moment, with one character positioned prominently in the foreground wearing what looks like a school uniform or formal attire with a bow tie. The artwork uses screentone shading (halftone dots) to create gray tones and depth. The line work varies from thin delicate lines for hair and fabric details to bolder strokes for emphasis. The spatial arrangement creates a sense of movement and tension, with overlapping figures and dynamic angles. The overall style is characteristic of shounen or seinen manga with detailed character designs and dramatic staging.",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

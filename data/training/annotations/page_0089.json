@@ -1,0 +1,173 @@
+{
+  "width": 895,
+  "height": 1400,
+  "description": "Action sequence showing a character reloading and preparing to fire a weapon, with dynamic motion lines and sound effects throughout multiple panels",
+  "style": null,
+  "panels": [
+    {
+      "bbox": [
+        0.0,
+        0.0,
+        1.0,
+        0.37
+      ],
+      "description": "Wide panel showing rapid movement with speed lines and sound effects",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            0.2,
+            1.0
+          ],
+          "type": "character",
+          "description": "A manga panel showing a character in casual clothing, likely a jacket or sweater, viewed from a low angle perspective. The character appears to be standing or positioned above the viewer's eye level. The art style employs classic manga techniques with varied line weights - bold outlines for the main forms and finer lines for details. Cross-hatching and dot screen tones are used extensively for shading, creating depth and dimension. The composition emphasizes the upward perspective through the positioning and framing. The lower portion of the panel shows what appears to be architectural elements or interior details rendered with similar cross-hatching techniques. The overall aesthetic is consistent with traditional black and white manga artwork, utilizing high contrast between the screened areas and white spaces to create visual impact.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.2,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "effect",
+          "description": "This manga effect depicts dynamic motion lines and impact emphasis typical of action sequences. The top panel shows bold, curved speed lines radiating outward in a burst pattern, with thick black strokes creating a sense of explosive movement or impact. Large stylized sound effect text in bold katakana characters dominates the center, likely representing a striking or slashing sound. The bottom panel continues the motion with diagonal speed lines and partial character elements visible at the edges. The art style uses heavy line weights for emphasis, with clean black and white contrast typical of manga illustration. The composition creates a sense of rapid movement flowing from top to bottom across the panels, suggesting a powerful attack or collision moment in the action sequence.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.45,
+            0.3,
+            0.65,
+            0.7
+          ],
+          "type": "sfx",
+          "description": "This manga panel element shows dynamic motion lines and speed effects typical of sound effects (SFX) in manga. The image consists of bold, sweeping curved lines that create a sense of rapid movement or impact. The linework uses varying line weights, with thick black strokes that taper and flow in curved trajectories across the frame. The composition suggests explosive or forceful motion, with the lines radiating and swooshing in curved patterns. The art style employs high contrast black ink strokes against white space, creating dramatic visual emphasis. The hatching and line technique is characteristic of traditional manga screentone and speed line effects used to convey action, wind, or explosive force. No readable text is visible in this cropped section, focusing purely on the visual impact of the motion lines themselves.",
+          "text": "\u30ac"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.37,
+        0.52,
+        1.0
+      ],
+      "description": "Panel showing character reloading a weapon",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "A three-panel manga sequence showing a character in combat gear reloading and aiming a weapon. The top panel depicts gloved hands gripping what appears to be a large firearm or rifle with detailed mechanical components, rendered with heavy black ink and screentone shading. Dynamic action lines and sound effects in bold katakana characters emphasize the mechanical action. The middle panel shows the character from a side angle saying 'RELOAD.' with clean linework and minimal shading. The bottom panel features a close-up of the character's face partially obscured by what appears to be tactical gear or a helmet, with dialogue reading 'SWI-TCH.' and 'CENTER THE TARGET.' The art style employs classic manga techniques with varied line weights, screentones for shading, and bold sound effects integrated into the composition.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.3,
+            0.1,
+            0.6,
+            0.4
+          ],
+          "type": "sfx",
+          "description": "A sound effect (sfx) element rendered in typical manga style, appearing as bold, angular katakana characters integrated into the panel composition. The text uses thick, confident black linework characteristic of action manga, with sharp edges and dynamic letterforms that suggest impact or sudden movement. The sfx is positioned within a scene showing mechanical or industrial elements, including what appears to be cylindrical objects with detailed cross-hatching and screentone shading. The sound effect text contrasts against areas of fine dot screentone (halftone pattern), creating visual emphasis. The overall lineart demonstrates clean, precise technical drawing typical of professional manga artwork, with consistent line weights and careful attention to mechanical detail in the background elements.",
+          "text": "\u30ac\u30b4"
+        },
+        {
+          "bbox": [
+            0.1,
+            0.6,
+            0.4,
+            0.8
+          ],
+          "type": "speech_bubble",
+          "description": "This manga element shows a close-up view of what appears to be folded clothing or fabric, likely a shirt or jacket collar area. The artwork features clean, precise line work with varying line weights - thicker outlines defining the main shapes and thinner lines for internal details and folds. The drawing style is typical of manga with minimal shading, relying primarily on line art to convey form and dimension. The fabric shows natural creases and folds rendered with confident, flowing strokes. The composition is cropped tightly, focusing on the textile details without showing the full garment or wearer. The art style appears clean and professional, with no visible hatching or cross-hatching techniques used. No text is visible in this particular cropped section.",
+          "text": "RELOAD."
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.52,
+        0.37,
+        1.0,
+        1.0
+      ],
+      "description": "Large vertical panel showing character in dynamic pose with weapon",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga panel depicts a dramatic action scene featuring a character in an intense, dynamic pose. The figure appears to be lunging or attacking forward with great force, their body stretched and elongated to convey explosive movement. The character's face shows an expression of fierce determination or aggression, with bold, stark contrasts between light and shadow defining their features. The art style employs heavy use of speed lines - numerous parallel diagonal lines that radiate outward from the character, creating a powerful sense of motion and impact. These speed lines dominate the composition, filling most of the frame with their intense directional energy. The linework is bold and confident, with thick black strokes for emphasis and dramatic effect. Screen tones and hatching are used sparingly but effectively to create depth and contrast. The overall composition is highly kinetic, with the character positioned centrally among the radiating motion lines. There appears to be some Japanese sound effect text (onomatopoeia) integrated into the speed lines, rendered in bold katakana characters that blend with the dynamic linework of the scene.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.6,
+            0.4,
+            0.9,
+            0.9
+          ],
+          "type": "sfx",
+          "description": "A dynamic sound effect (SFX) element rendered in bold black ink strokes against a white background. The lines are drawn with varying line weights, creating a sense of motion and impact. The strokes appear to radiate outward in sharp, angular directions, typical of manga action sequences. The linework uses confident, decisive strokes with no cross-hatching or tonal shading, maintaining the stark black-and-white contrast characteristic of manga SFX. The composition suggests explosive or sudden movement, with the lines extending from what appears to be a central point of impact or action. The style is clean and minimalistic, focusing purely on the gestural quality of the brush or pen strokes to convey kinetic energy.",
+          "text": "\u30c9\u30c9\u30c9\u30c9\u30c9"
+        }
+      ]
+    },
+    {
+      "bbox": [
+        0.0,
+        0.63,
+        0.52,
+        1.0
+      ],
+      "description": "Bottom panel showing close-up of character preparing to fire",
+      "elements": [
+        {
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": "character",
+          "description": "This manga element shows two panels featuring what appears to be a mecha or armored character in a cockpit setting. In the top panel, the character is shown from a side angle, wearing what looks like a helmet or mechanical headgear, seated in what appears to be a pilot's seat with various control panels and mechanical details visible around them. The art style uses clean, precise linework typical of mecha manga, with careful attention to mechanical details and angular forms. The bottom panel shows a closer view focusing on the character's face/helmet area, with spiky hair visible beneath or around the headgear. The shading is achieved through screentone application rather than heavy black fills, creating subtle gradations. Speech bubbles contain the text 'RELOAD.' in the top panel and 'SWITCH.' and 'CENTER THE TARGET.' in the bottom panel, suggesting this is during a combat or operational sequence. The composition emphasizes the technical, military atmosphere through the angular panel borders and precise mechanical detailing of the cockpit environment.",
+          "text": null
+        },
+        {
+          "bbox": [
+            0.05,
+            0.1,
+            0.25,
+            0.3
+          ],
+          "type": "speech_bubble",
+          "description": "A partial speech bubble element showing the curved bottom portion of what appears to be a standard manga speech bubble. The bubble has clean, consistent black line weight forming a smooth curved border. The interior is white/blank with no visible text. Only the lower curved section is visible in this cropped view, suggesting this is the tail or bottom portion of a larger speech bubble that extends beyond the frame. The line work is precise and typical of digital manga production, with no shading or hatching effects present on the bubble itself.",
+          "text": "SWI-TCH."
+        },
+        {
+          "bbox": [
+            0.5,
+            0.1,
+            0.9,
+            0.4
+          ],
+          "type": "speech_bubble",
+          "description": "This is a white speech bubble with a curved, organic shape typical of manga dialogue balloons. The bubble has a clean white fill with thin black outlines defining its borders. A small tail or pointer extends from the bubble, indicating the speaker's direction. The bubble appears to be empty of text in this cropped view. The surrounding area shows parts of what appears to be a character rendered in typical manga style with solid black areas and screentone/halftone shading patterns. The line work is clean and precise with varying line weights, characteristic of professional manga artwork. The composition places the speech bubble prominently in the frame, suggesting it contains important dialogue within the narrative context.",
+          "text": "CENTER THE TARGET."
+        }
+      ]
+    }
+  ]
+}
