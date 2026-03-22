@@ -1,14 +1,15 @@
 """
-MangaDetectorNet — Hierarchical manga detector with GPT-2 description head.
+MangaDetectorNet — Hierarchical manga detector with LM description head.
 
 Adapts nissl's RetinaInfillNet architecture:
   Shared ResNet encoder → multi-scale features (f1..f4)
   ├─ Detection head : pool(f4) + prev_bbox → bbox regression + type classification
-  └─ Description head: ROI-pooled features → GPT-2 visual prefix → text tokens
+  └─ Description head: ROI-pooled features → visual prefix → text tokens
 
 The detection head predicts WHAT type of element and WHERE (autoregressive,
-teacher-forced). The GPT-2 head generates a free-form description conditioned
+teacher-forced). The LM head generates a free-form description conditioned
 on visual features extracted from the predicted bounding box region.
+Supports GPT-2 and Qwen2.5 (configurable: 0.5B, 1.5B, 3B).
 
 Hierarchy: page → panels → elements (2 levels).
 
@@ -24,7 +25,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torchvision.models as models
 from torchvision.ops import roi_align
-from transformers import GPT2LMHeadModel, GPT2Config
+from transformers import AutoModelForCausalLM, AutoConfig
 
 from mangaka.schema import NUM_ELEMENT_TYPES
 from mangaka.utils.bbox import RETINA_SIZE
@@ -44,10 +45,10 @@ _BACKBONE_CONFIGS = {
 
 
 class VisualPrefixProjector(nn.Module):
-    """Project ROI-pooled visual features into GPT-2 embedding space.
+    """Project ROI-pooled visual features into LM embedding space.
 
     Takes (B, visual_dim) features and produces (B, prefix_length, n_embd)
-    prefix tokens that are prepended to the GPT-2 input sequence.
+    prefix tokens that are prepended to the LM input sequence.
     """
 
     def __init__(self, visual_dim: int, n_embd: int, prefix_length: int):
@@ -67,17 +68,18 @@ class VisualPrefixProjector(nn.Module):
 
 
 class DescriptionHead(nn.Module):
-    """GPT-2 based description generator conditioned on visual features.
+    """LM-based description generator conditioned on visual features.
 
     Visual features from ROI pooling are projected into prefix tokens that
-    condition the GPT-2 decoder.  During training, teacher-forced with ground
-    truth description tokens.  During inference, autoregressive generation.
+    condition the causal LM decoder.  During training, teacher-forced with
+    ground truth description tokens.  During inference, autoregressive
+    generation.  Supports GPT-2 and Qwen2.5 model families.
     """
 
     def __init__(
         self,
         visual_dim: int,
-        gpt2_model: str = "gpt2",
+        lm_model: str = "Qwen/Qwen2.5-0.5B",
         prefix_length: int = 8,
         max_length: int = 64,
     ):
@@ -85,10 +87,10 @@ class DescriptionHead(nn.Module):
         self.prefix_length = prefix_length
         self.max_length = max_length
 
-        # Load pretrained GPT-2
-        self.gpt2 = GPT2LMHeadModel.from_pretrained(gpt2_model)
-        config: GPT2Config = self.gpt2.config
-        self.n_embd = config.n_embd
+        # Load pretrained causal LM
+        self.lm = AutoModelForCausalLM.from_pretrained(lm_model)
+        config = AutoConfig.from_pretrained(lm_model)
+        self.n_embd = config.hidden_size
         self.vocab_size = config.vocab_size
 
         # Visual prefix projector
@@ -100,6 +102,14 @@ class DescriptionHead(nn.Module):
 
         # Type embedding (element type conditions the description)
         self.type_embed = nn.Embedding(NUM_TYPE_CLASSES, self.n_embd)
+
+    def _get_embed_tokens(self):
+        """Get the token embedding layer, works for GPT-2 and Qwen."""
+        if hasattr(self.lm, 'transformer'):  # GPT-2 style
+            return self.lm.transformer.wte
+        elif hasattr(self.lm, 'model'):  # Qwen/Llama style
+            return self.lm.model.embed_tokens
+        raise ValueError(f"Unknown model architecture: {type(self.lm)}")
 
     def forward(
         self,
@@ -129,7 +139,8 @@ class DescriptionHead(nn.Module):
         prefix_len = prefix.size(1)
 
         # Embed the text tokens
-        text_emb = self.gpt2.transformer.wte(input_ids)  # (B, S, D)
+        embed_tokens = self._get_embed_tokens()
+        text_emb = embed_tokens(input_ids)  # (B, S, D)
 
         # Concatenate prefix + text embeddings
         inputs_embeds = torch.cat([prefix, text_emb], dim=1)  # (B, P+1+S, D)
@@ -146,8 +157,8 @@ class DescriptionHead(nn.Module):
         seq_len = inputs_embeds.size(1)
         position_ids = torch.arange(seq_len, device=device).unsqueeze(0).expand(B, -1)
 
-        # Forward through GPT-2
-        outputs = self.gpt2(
+        # Forward through LM
+        outputs = self.lm(
             inputs_embeds=inputs_embeds,
             attention_mask=full_mask,
             position_ids=position_ids,
@@ -180,7 +191,7 @@ class DescriptionHead(nn.Module):
         Args:
             visual_features: (B, visual_dim)
             type_ids: (B,)
-            tokenizer: GPT-2 tokenizer
+            tokenizer: tokenizer for the LM
             max_length: max tokens to generate
 
         Returns:
@@ -202,15 +213,16 @@ class DescriptionHead(nn.Module):
 
         generated = [[] for _ in range(B)]
         eos_id = tokenizer.eos_token_id
+        embed_tokens = self._get_embed_tokens()
 
         for step in range(max_length):
-            text_emb = self.gpt2.transformer.wte(cur_ids)
+            text_emb = embed_tokens(cur_ids)
             inputs_embeds = torch.cat([prefix, text_emb], dim=1)
 
             seq_len = inputs_embeds.size(1)
             position_ids = torch.arange(seq_len, device=device).unsqueeze(0).expand(B, -1)
 
-            outputs = self.gpt2(
+            outputs = self.lm(
                 inputs_embeds=inputs_embeds,
                 position_ids=position_ids,
             )
@@ -235,11 +247,11 @@ class DescriptionHead(nn.Module):
 
 
 class MangaDetectorNet(nn.Module):
-    """Hierarchical manga detector with GPT-2 description head.
+    """Hierarchical manga detector with LM description head.
 
     Shared ResNet encoder feeds two heads:
       1. Detection head — predicts next bbox (x1,y1,x2,y2) + type class
-      2. Description head — generates free-form text description via GPT-2
+      2. Description head — generates free-form text description via a causal LM
          conditioned on ROI-pooled visual features from the predicted bbox
 
     Forward signature:
@@ -251,7 +263,7 @@ class MangaDetectorNet(nn.Module):
     def __init__(
         self,
         backbone: str = "resnet50",
-        gpt2_model: str = "gpt2",
+        lm_model: str = "Qwen/Qwen2.5-0.5B",
         prefix_length: int = 8,
         max_description_length: int = 64,
     ):
@@ -317,10 +329,10 @@ class MangaDetectorNet(nn.Module):
             nn.ReLU(),
         )
 
-        # --- Description head (GPT-2) ---
+        # --- Description head (causal LM) ---
         self.description_head = DescriptionHead(
             visual_dim=feat_dim,
-            gpt2_model=gpt2_model,
+            lm_model=lm_model,
             prefix_length=prefix_length,
             max_length=max_description_length,
         )

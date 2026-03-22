@@ -41,7 +41,7 @@ def main():
 
     parser.add_argument("--backbone", default="resnet50",
                         choices=["resnet18", "resnet34", "resnet50"])
-    parser.add_argument("--gpt2-model", default="gpt2")
+    parser.add_argument("--lm-model", default="Qwen/Qwen2.5-0.5B")
     parser.add_argument("--max-detections", type=int, default=50)
     args = parser.parse_args()
 
@@ -53,7 +53,7 @@ def main():
         model_path=args.model_path,
         annotation_dir=args.annotation_dir,
         backbone=args.backbone,
-        gpt2_model=args.gpt2_model,
+        lm_model=args.lm_model,
         max_detections=args.max_detections,
     )
     logger.info("Dataset built: %d pages", index["total_pages"])

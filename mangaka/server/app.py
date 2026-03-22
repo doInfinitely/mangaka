@@ -29,6 +29,8 @@ from mangaka.server.models import (
     ErrorResponse,
     GenerateRequest,
     HealthResponse,
+    PrepareStyleRequest,
+    PrepareStyleResponse,
 )
 
 logger = logging.getLogger(__name__)
@@ -66,10 +68,18 @@ class _AppState:
             ).exists():
                 from mangaka.inference.invoke import LocalInvoker
 
+                style_bank_dir = str(Path("data/style_bank"))
+                style_gen_path = str(self.model_dir / "style" / "generator_best.pt")
                 self._invoker = LocalInvoker(
                     infiller_dir=str(self.model_dir),
                     detector_path=str(self.model_dir / "detector.safetensors")
                     if (self.model_dir / "detector.safetensors").exists()
+                    else None,
+                    style_bank_dir=style_bank_dir
+                    if Path(style_bank_dir).exists()
+                    else None,
+                    style_generator_path=style_gen_path
+                    if Path(style_gen_path).exists()
                     else None,
                 )
                 logger.info("Using LocalInvoker")
@@ -91,7 +101,7 @@ class _AppState:
         if self.detector is None:
             import torch
             from safetensors.torch import load_file
-            from transformers import GPT2Tokenizer
+            from transformers import AutoTokenizer
 
             from mangaka.detector.model import MangaDetectorNet
 
@@ -102,7 +112,7 @@ class _AppState:
                 model.load_state_dict(load_file(str(ckpt)), strict=False)
             model.to(device).eval()
             self.detector = model
-            self.tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+            self.tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-0.5B")
             logger.info("Detector loaded on %s", device)
         return self.detector, self.tokenizer
 
@@ -281,6 +291,7 @@ async def decode(req: DecodeRequest):
         style_override=req.style_override,
         negative_prompt=req.negative_prompt,
         seed=req.seed,
+        artist_names=req.artist_names,
     )
     try:
         result: DecodeResult = await asyncio.to_thread(invoker.decode, ctx)
@@ -288,6 +299,41 @@ async def decode(req: DecodeRequest):
         logger.exception("Decode failed")
         raise HTTPException(status_code=500, detail=str(exc))
     return Response(content=result.image_bytes, media_type="image/png")
+
+
+# ---------------------------------------------------------------------------
+# Prepare style
+# ---------------------------------------------------------------------------
+
+
+@app.post("/prepare-style", response_model=PrepareStyleResponse)
+async def prepare_style(req: PrepareStyleRequest):
+    """Fetch galleries and encode style embeddings for requested artists.
+
+    When MANGAKA_USE_MODAL is set, dispatches the work to a Modal GPU
+    container (VGG19 encoding needs CUDA). Otherwise runs locally.
+    """
+    try:
+        if os.environ.get("MANGAKA_USE_MODAL"):
+            import modal
+
+            fn = modal.Function.from_name("mangaka", "prepare_artist_style")
+            status = await asyncio.to_thread(
+                fn.remote, req.artists,
+            )
+        else:
+            from mangaka.style.prepare import prepare_artist_styles
+
+            status = await asyncio.to_thread(
+                prepare_artist_styles,
+                req.artists,
+                cache_dir=req.cache_dir or "data/gallery_cache",
+                max_galleries_per_artist=req.max_galleries,
+            )
+    except Exception as exc:
+        logger.exception("Style preparation failed")
+        raise HTTPException(status_code=500, detail=str(exc))
+    return PrepareStyleResponse(status=status)
 
 
 # ---------------------------------------------------------------------------

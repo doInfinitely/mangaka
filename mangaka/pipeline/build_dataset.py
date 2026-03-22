@@ -37,7 +37,7 @@ def build_dataset(
     model_path: str | None = None,
     annotation_dir: str | None = None,
     backbone: str = "resnet50",
-    gpt2_model: str = "gpt2",
+    lm_model: str = "Qwen/Qwen2.5-0.5B",
     max_detections: int = 50,
 ) -> dict:
     """Build a JSON manga dataset from images.
@@ -51,7 +51,7 @@ def build_dataset(
         model_path: path to trained detector (required if no annotation_dir)
         annotation_dir: path to existing annotations (skips detection)
         backbone: detector backbone architecture
-        gpt2_model: GPT-2 model variant
+        lm_model: causal LM variant for description generation
         max_detections: max detections per hierarchy level
 
     Returns:
@@ -79,7 +79,7 @@ def build_dataset(
         # Generate annotations with detector
         _build_from_detector(
             image_dir, pages_dir, model_path, backbone,
-            gpt2_model, max_detections, stats,
+            lm_model, max_detections, stats,
         )
     else:
         raise ValueError("Either annotation_dir or model_path must be provided")
@@ -141,25 +141,25 @@ def _build_from_annotations(annotation_dir: str, pages_dir: Path, stats: dict):
 
 def _build_from_detector(
     image_dir: Path, pages_dir: Path, model_path: str,
-    backbone: str, gpt2_model: str, max_detections: int, stats: dict,
+    backbone: str, lm_model: str, max_detections: int, stats: dict,
 ):
     """Generate annotations using the trained detector."""
     import torch
     import numpy as np
     from PIL import Image
     from safetensors.torch import load_file as safetensors_load
-    from transformers import GPT2Tokenizer
+    from transformers import AutoTokenizer
     from mangaka.detector.model import MangaDetectorNet
     from mangaka.pipeline.encode import encode_page
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    model = MangaDetectorNet(backbone=backbone, gpt2_model=gpt2_model).to(device)
+    model = MangaDetectorNet(backbone=backbone, lm_model=lm_model).to(device)
     state = safetensors_load(model_path, device=str(device))
     model.load_state_dict(state)
     model.eval()
 
-    tokenizer = GPT2Tokenizer.from_pretrained(gpt2_model)
+    tokenizer = AutoTokenizer.from_pretrained(lm_model)
 
     image_paths = sorted(
         p for p in image_dir.rglob("*")

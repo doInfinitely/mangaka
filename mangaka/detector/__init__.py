@@ -1,1 +1,1 @@
-"""Hierarchical manga detector with GPT-2 description head."""
+"""Hierarchical manga detector with LM description head."""

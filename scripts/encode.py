@@ -30,7 +30,7 @@ def main():
                         help="Directory to save JSON annotations")
     parser.add_argument("--backbone", default="resnet50",
                         choices=["resnet18", "resnet34", "resnet50"])
-    parser.add_argument("--gpt2-model", default="gpt2")
+    parser.add_argument("--lm-model", default="Qwen/Qwen2.5-0.5B")
     parser.add_argument("--max-detections", type=int, default=50)
     args = parser.parse_args()
 
@@ -41,7 +41,7 @@ def main():
         output_dir=args.output_dir,
         model_path=args.model_path,
         backbone=args.backbone,
-        gpt2_model=args.gpt2_model,
+        lm_model=args.lm_model,
         max_detections=args.max_detections,
     )
     logger.info("Encoded %d pages", len(paths))

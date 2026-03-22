@@ -4,7 +4,7 @@ Encode pipeline: manga image → MangaPage JSON using the trained detector.
 Runs hierarchical detection:
   1. Detect panels on the full page
   2. For each panel, crop and detect elements
-  3. Generate descriptions via GPT-2 head
+  3. Generate descriptions via LM head
   4. Assemble into MangaPage JSON
 """
 
@@ -16,7 +16,7 @@ from pathlib import Path
 import numpy as np
 import torch
 from PIL import Image
-from transformers import GPT2Tokenizer
+from transformers import AutoTokenizer, PreTrainedTokenizerBase
 
 from mangaka.schema import MangaPage, Panel, MangaElement, ID_TO_ELEMENT_TYPE
 from mangaka.detector.model import (
@@ -38,7 +38,7 @@ IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".bmp", ".tiff"}
 def encode_page(
     image: Image.Image,
     model: MangaDetectorNet,
-    tokenizer: GPT2Tokenizer,
+    tokenizer: PreTrainedTokenizerBase,
     device: torch.device,
     max_detections: int = 50,
 ) -> MangaPage:
@@ -47,7 +47,7 @@ def encode_page(
     Args:
         image: PIL Image of the manga page
         model: trained MangaDetectorNet
-        tokenizer: GPT-2 tokenizer for description generation
+        tokenizer: tokenizer for description generation
         device: torch device
         max_detections: max detections per level
 
@@ -145,7 +145,7 @@ def encode_page(
 def _detect_level(
     image: Image.Image,
     model: MangaDetectorNet,
-    tokenizer: GPT2Tokenizer,
+    tokenizer: PreTrainedTokenizerBase,
     device: torch.device,
     expected_type: int | None = None,
     max_detections: int = 50,
@@ -200,7 +200,7 @@ def encode_directory(
     output_dir: str,
     model_path: str,
     backbone: str = "resnet50",
-    gpt2_model: str = "gpt2",
+    lm_model: str = "Qwen/Qwen2.5-0.5B",
     max_detections: int = 50,
 ) -> list[Path]:
     """Encode all manga images in a directory to JSON.
@@ -216,12 +216,12 @@ def encode_directory(
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # Load model
-    model = MangaDetectorNet(backbone=backbone, gpt2_model=gpt2_model).to(device)
+    model = MangaDetectorNet(backbone=backbone, lm_model=lm_model).to(device)
     state = safetensors_load(model_path, device=str(device))
     model.load_state_dict(state)
     model.eval()
 
-    tokenizer = GPT2Tokenizer.from_pretrained(gpt2_model)
+    tokenizer = AutoTokenizer.from_pretrained(lm_model)
 
     # Find images
     image_paths = sorted(

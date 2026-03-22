@@ -62,7 +62,7 @@ def main():
 
     # Defaults
     cfg.setdefault("backbone", "resnet50")
-    cfg.setdefault("gpt2_model", "gpt2")
+    cfg.setdefault("lm_model", "Qwen/Qwen2.5-0.5B")
     cfg.setdefault("prefix_length", 8)
     cfg.setdefault("max_description_length", 64)
     cfg.setdefault("epochs", 50)
@@ -83,7 +83,7 @@ def main():
     cfg.setdefault("num_workers", 4)
     cfg.setdefault("seed", 42)
     cfg.setdefault("save_path", "checkpoints/detector.safetensors")
-    cfg.setdefault("freeze_gpt2_epochs", 5)
+    cfg.setdefault("freeze_lm_epochs", 5)
 
     # Seed
     random.seed(cfg["seed"])
@@ -117,7 +117,7 @@ def main():
     # Model
     model = MangaDetectorNet(
         backbone=cfg["backbone"],
-        gpt2_model=cfg["gpt2_model"],
+        lm_model=cfg["lm_model"],
         prefix_length=cfg["prefix_length"],
         max_description_length=cfg["max_description_length"],
     ).to(device)

@@ -73,7 +73,7 @@ async def distill_round(
     detector_path: str,
     unlabelled_dir: str,
     annotation_dir: str,
-    provider: str = "claude",
+    provider: str = "llama",
     sample_fraction: float = 0.2,
     max_concurrency: int = 10,
     cfg: dict | None = None,
@@ -100,7 +100,7 @@ async def distill_round(
         output_dir=str(ann_dir / "candidates"),
         model_path=detector_path,
         backbone=cfg.get("backbone", "resnet50"),
-        gpt2_model=cfg.get("gpt2_model", "gpt2"),
+        lm_model=cfg.get("lm_model", "Qwen/Qwen2.5-0.5B"),
     )
     console.print(f"  Self-labelled {len(candidates)} pages")
 
@@ -111,11 +111,12 @@ async def distill_round(
     console.print(f"  Verifying {len(to_verify)} samples with cloud LLM...")
 
     # Step 3: Verify with cloud LLM
-    from mangaka.annotator import ClaudeAnnotator, OpenAIAnnotator, GeminiAnnotator
+    from mangaka.annotator import ClaudeAnnotator, OpenAIAnnotator, GeminiAnnotator, LlamaAnnotator
     from mangaka.annotator.base import load_image
     from mangaka.annotator.prompt import _extract_json
 
     annotator_cls = {
+        "llama": LlamaAnnotator,
         "claude": ClaudeAnnotator,
         "openai": OpenAIAnnotator,
         "gemini": GeminiAnnotator,
@@ -249,7 +250,7 @@ async def run_distillation(cfg: dict):
             detector_path=detector_path,
             unlabelled_dir=unlabelled_dir,
             annotation_dir=annotation_dir,
-            provider=cfg.get("provider", "claude"),
+            provider=cfg.get("provider", "llama"),
             sample_fraction=cfg.get("verification_sample", 0.2),
             max_concurrency=cfg.get("max_concurrency", 10),
             cfg=cfg,

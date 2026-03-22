@@ -1,9 +1,9 @@
 """
-Training logic for MangaDetectorNet — hierarchical detection + GPT-2 description.
+Training logic for MangaDetectorNet — hierarchical detection + LM description.
 
 Trains three heads in parallel:
   - Detection head: SmoothL1 bbox loss + CrossEntropy type loss
-  - Description head: CrossEntropy language modelling loss (GPT-2)
+  - Description head: CrossEntropy language modelling loss
 
 Two-phase training:
   Phase 1: Panel-only pretraining (learn coarse layout detection)
@@ -65,7 +65,7 @@ class DetectorLoss(nn.Module):
       - type: CrossEntropy with optional label smoothing
 
     Description:
-      - The GPT-2 head computes its own cross-entropy loss internally.
+      - The LM head computes its own cross-entropy loss internally.
     """
 
     def __init__(
@@ -93,7 +93,7 @@ class DetectorLoss(nn.Module):
         Args:
             bbox_pred: (B, 4) predicted bbox in [0, 1]
             type_pred: (B, NUM_TYPE_CLASSES) type logits
-            desc_loss: scalar GPT-2 language modelling loss, or None
+            desc_loss: scalar LM language modelling loss, or None
             target:    (B, 5) ground truth (x1, y1, x2, y2, type_id) in retina coords
 
         Returns:

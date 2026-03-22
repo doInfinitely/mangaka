@@ -34,7 +34,7 @@ def main():
     parser.add_argument("--detector-path", required=True,
                         help="Path to initial trained detector checkpoint")
     parser.add_argument("--config", default="configs/distill.yaml")
-    parser.add_argument("--provider", choices=["claude", "openai", "gemini"], default=None)
+    parser.add_argument("--provider", choices=["llama", "claude", "openai", "gemini"], default=None)
     parser.add_argument("--max-rounds", type=int, default=None)
     args = parser.parse_args()
 
@@ -56,7 +56,7 @@ def main():
         cfg["max_rounds"] = args.max_rounds
 
     # Defaults
-    cfg.setdefault("provider", "claude")
+    cfg.setdefault("provider", "llama")
     cfg.setdefault("max_rounds", 5)
     cfg.setdefault("verification_sample", 0.2)
     cfg.setdefault("max_concurrency", 10)

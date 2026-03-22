@@ -33,6 +33,7 @@ class DecodeContext:
     style_override: str | None = None
     negative_prompt: str | None = None
     seed: int | None = None
+    artist_names: list[str] | None = None
 
 
 @dataclass(frozen=True)
@@ -78,8 +79,10 @@ class LocalInvoker:
         sd_model_id: str = "runwayml/stable-diffusion-inpainting",
         resolution: int = 512,
         backbone: str = "resnet50",
-        gpt2_model: str = "gpt2",
+        lm_model: str = "Qwen/Qwen2.5-0.5B",
         device: str = "auto",
+        style_bank_dir: str | None = None,
+        style_generator_path: str | None = None,
     ):
         if device == "auto":
             if torch.cuda.is_available():
@@ -94,29 +97,41 @@ class LocalInvoker:
         self.sd_model_id = sd_model_id
         self.resolution = resolution
         self.backbone = backbone
-        self.gpt2_model = gpt2_model
+        self.lm_model = lm_model
 
         self._detector = None
         self._tokenizer = None
         self._infiller = None
+        self._style_applicator = None
 
         if detector_path:
             self._load_detector(detector_path)
         if infiller_dir:
             self._load_infiller(infiller_dir)
+        if style_bank_dir and style_generator_path:
+            self._init_style_applicator(style_bank_dir, style_generator_path)
 
     def _load_detector(self, path: str):
         from safetensors.torch import load_file as safetensors_load
-        from transformers import GPT2Tokenizer
+        from transformers import AutoTokenizer
         from mangaka.detector.model import MangaDetectorNet
 
         self._detector = MangaDetectorNet(
-            backbone=self.backbone, gpt2_model=self.gpt2_model,
+            backbone=self.backbone, lm_model=self.lm_model,
         ).to(self.device)
         state = safetensors_load(path, device=str(self.device))
         self._detector.load_state_dict(state)
         self._detector.eval()
-        self._tokenizer = GPT2Tokenizer.from_pretrained(self.gpt2_model)
+        self._tokenizer = AutoTokenizer.from_pretrained(self.lm_model)
+
+    def _init_style_applicator(self, bank_dir: str, generator_path: str):
+        from mangaka.style.apply import StyleApplicator
+
+        self._style_applicator = StyleApplicator(
+            bank_dir=bank_dir,
+            generator_path=generator_path,
+            device=str(self.device),
+        )
 
     def _load_infiller(self, model_dir: str):
         from pathlib import Path
@@ -158,6 +173,10 @@ class LocalInvoker:
             negative_prompt=ctx.negative_prompt,
             seed=ctx.seed,
         )
+
+        # Apply style transfer if artist_names provided and applicator available
+        if ctx.artist_names and self._style_applicator is not None:
+            image = self._style_applicator.stylize(image, ctx.artist_names)
 
         buf = io.BytesIO()
         image.save(buf, format="PNG")

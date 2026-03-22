@@ -7,7 +7,7 @@ samples for the two-level hierarchy:
   Level 1 — Panels:  (page_retina, prev_panel_bbox, target_panel_bbox + type)
   Level 2 — Elements: (panel_retina, prev_elem_bbox, target_elem_bbox + type)
 
-Each sample also carries tokenised description text for the GPT-2 head.
+Each sample also carries tokenised description text for the LM head.
 
 Data format on disk:
     image_dir/
@@ -29,7 +29,7 @@ import numpy as np
 import torch
 from PIL import Image
 from torch.utils.data import Dataset
-from transformers import GPT2Tokenizer
+from transformers import AutoTokenizer
 
 from mangaka.schema import (
     MangaPage,
@@ -59,7 +59,7 @@ class MangaDetectorDataset(Dataset):
         self,
         image_dir: str | Path,
         annotation_dir: str | Path,
-        tokenizer: GPT2Tokenizer | None = None,
+        tokenizer: AutoTokenizer | None = None,
         max_desc_len: int = 64,
         retina_size: int = RETINA_SIZE,
     ):
@@ -70,8 +70,9 @@ class MangaDetectorDataset(Dataset):
 
         # Tokeniser for description text
         if tokenizer is None:
-            self.tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
-            self.tokenizer.pad_token = self.tokenizer.eos_token
+            self.tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-0.5B")
+            if self.tokenizer.pad_token is None:
+                self.tokenizer.pad_token = self.tokenizer.eos_token
         else:
             self.tokenizer = tokenizer
 

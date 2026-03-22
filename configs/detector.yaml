@@ -3,10 +3,10 @@
 
 # Model
 backbone: resnet50          # resnet18 | resnet34 | resnet50
-gpt2_model: gpt2            # HuggingFace GPT-2 variant (gpt2, gpt2-medium)
-gpt2_prefix_length: 8       # Number of visual prefix tokens for GPT-2
-max_description_length: 64  # Max tokens per description
-freeze_gpt2_epochs: 5       # Freeze GPT-2 weights for first N epochs
+lm_model: "Qwen/Qwen2.5-0.5B"  # HuggingFace causal LM (Qwen/Qwen2.5-0.5B, 1.5B, 3B)
+prefix_length: 8               # Number of visual prefix tokens for description head
+max_description_length: 64     # Max tokens per description
+freeze_lm_epochs: 5            # Freeze LM weights for first N epochs
 
 # Training
 epochs: 50
